@@ -21,7 +21,7 @@
 title: MAYSL
 email: shaug-maysl@wumpus.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Mountain Area Youth Soccer League (MAYSL) -- Kid Soccer South of Yosemite
+  Mountain Area Youth Soccer League
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maysl.soccer" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -29,10 +29,12 @@ github_username:  oshaughnessy
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
+remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
