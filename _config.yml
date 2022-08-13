@@ -30,6 +30,7 @@ github_username:  oshaughnessy
 # Build settings
 #theme: minima
 theme: jekyll-theme-tactile
+markdown: kramdown
 plugins:
   - jekyll-feed
 
