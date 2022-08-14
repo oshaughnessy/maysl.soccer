@@ -4,8 +4,6 @@ title: Contact MAYSL
 permalink: /contact/
 ---
 
-# Contact Us
-
 ## Mailing Address
 
      MAYSL

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
-
-# About Us
 
 Mountain Area Youth Soccer League (MAYSL) is League 9 of [CYSA District
 7](https://cysadistrict7.org) in central California.
