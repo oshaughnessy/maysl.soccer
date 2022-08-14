@@ -176,6 +176,7 @@ GEM
     jekyll-theme-modernist (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-persephone (0.3.3)
     jekyll-theme-primer (0.6.0)
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
@@ -259,7 +260,7 @@ DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-theme-persephone
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

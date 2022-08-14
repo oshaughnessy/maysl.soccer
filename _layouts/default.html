@@ -1,15 +1,7 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include_relative _layouts/HEAD.html %}
-  </head>
-  <body>
-    {% include_relative _layouts/TITLE.html %}
-    <div class="wrapper">
-      <section>
-        {{ content }}
-      </section>
-    </div>
-    {% include_relative _layouts/FOOTER.html %}
+<!DOCTYPE html>
+<html lang="{{ site.locale | default: 'en' }}">
+  {%- include head.html -%}
+  <body class="body-{{ page.layout }}">
+    {{ content }}
   </body>
 </html>

@@ -14,7 +14,6 @@ permalink: /contact/
 
 ## Staff
 
-League President: [Beth Villaneuva](weespotoftea@gmail.com)
 League Registrar: [Kay Emmert](kayemmert@yahoo.com)
 
 For most questions, please reach out to the area representative
@@ -28,3 +27,6 @@ for the location your child is playing in:
 
 For the latest news, please see our
 [Facebook page](https://www.facebook.com/mountainyouthsoccer/), too.
+
+
+League President: [Beth Villaneuva](weespotoftea@gmail.com)
