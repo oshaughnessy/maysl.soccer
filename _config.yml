@@ -87,4 +87,5 @@ theme_setting:
   nav_pages:
     - about.md
     - contact.md
+    - parents.md
     - coaches.md
