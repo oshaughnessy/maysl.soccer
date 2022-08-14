@@ -18,10 +18,11 @@ For most questions, please reach out to the area representative
 for the location your child is playing in:
 
 * Ahwahnee: [O'Shaughnessy Evans](shaug-maysl@wumpus.org)
-* Bass Lake:
-* North Fork:
-* Oakhurst:
-* Yosemite Lakes Park:
+* Coarsegold: [Collette Haggard-Ship](martacollette@gmail.com)
+* Rivergold: [Joel Greathouse](joelgreathouse@gmail.com)
+* Oakhurst: [Karen Wood](karenjwood55@gmail.com)
+* North Fork/Spring Valley: [Kelley Lozano](kelleyswright@gmail.com)
+
 
 For the latest news, please see our
 [Facebook page](https://www.facebook.com/mountainyouthsoccer/), too.

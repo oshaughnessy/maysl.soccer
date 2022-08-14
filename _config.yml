@@ -25,7 +25,7 @@ email: shaug-maysl@wumpus.org
 # Default is your site title.
 description: >-
   Mountain Area Youth Soccer League
-author: O'Shaughnessy Evans
+#author: O'Shaughnessy Evans
 # the subpath of your site, e.g. /blog
 baseurl: ""
 # base hostname & protocol for your site, e.g. http://example.com
@@ -87,3 +87,4 @@ theme_setting:
   nav_pages:
     - about.md
     - contact.md
+    - coaches.md

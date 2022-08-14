@@ -6,3 +6,9 @@ layout: home
 ---
 
 # Mountain Area Youth Soccer League
+
+
+Please see the following pages for more info:
+
+* [For coaches](/coaches/)
+* [For parents](/parents/)
