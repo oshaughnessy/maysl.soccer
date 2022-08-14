@@ -15,3 +15,6 @@ serve:
 
 theme:
 	@echo "$(THEME): $(THEME_PATH)"
+
+lint:
+	yamllint _config.yml
