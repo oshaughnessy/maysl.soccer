@@ -1,4 +1,4 @@
-THEME := $(shell awk -F': ' '$$1=="theme" { print $$2 }' _config.yml |sed 's,^jekyll-theme-,,')
+THEME := $(shell awk -F': ' '$$1=="theme" || $$1=="remote_theme" { print $$2 }' _config.yml |sed 's,^.*jekyll-theme-,,')
 THEME_PATH := $(shell bundle info --path $(THEME))
 
 install:
