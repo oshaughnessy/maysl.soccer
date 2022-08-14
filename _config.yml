@@ -31,8 +31,9 @@ github_username:  oshaughnessy
 # Build settings
 #theme: minima
 #theme: jekyll-theme-tactile
-theme: jekyll-theme-persephone
+#theme: jekyll-theme-persephone
 #remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: erlzhang/jekyll-theme-persephone
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -81,7 +82,7 @@ plugins:
 theme_setting:
 #   # The slides count in the slides layout. Default is 4.
 #   slides_count: 5
-#   # The â† back URL on the top of your post page. Default is your site's home page.
+#   # The â back URL on the top of your post page. Default is your site's home page.
 #   blog_page: "blog/index.md"
 #   # The URL on your name on the bottom of your post and page. Default is your site's home page.
   about_page: "about.md"
@@ -100,14 +101,14 @@ theme_setting:
 #   #  Locales of this theme.
 #   lang:
 #     category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
-#     blog_title: Blog # The text of â† back url on the top of the post layout.  Default is 'Home'.
+#     blog_title: Blog # The text of â back url on the top of the post layout.  Default is 'Home'.
 #     # The locales of the comment controls.
 #     comment:
-#       user: "æ˜µç§°"
-#       email: "é‚®ç®±"
-#       url: "é“¾æ¥"
-#       message: "è¯´ç‚¹ä»€ä¹ˆå§..."
-#       reply: "å›å¤"
+#       user: "æµç§°"
+#       email: "é®ç®±"
+#       url: "é¾æ¥"
+#       message: "è¯´ç¹ä»ä¹å§..."
+#       reply: "åå¤"
 
 # head_code: |
 #   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
