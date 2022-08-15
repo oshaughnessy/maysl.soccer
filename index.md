@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+nav_title: Home
+title: Mountain Area Youth Soccer League
+layout: page
+permalink: /
 ---
-
-# Mountain Area Youth Soccer League
-
 
 Please see the following pages for more info:
 
-* [For coaches](/coaches/)
 * [For parents](/parents/)
+* [For coaches](/coaches/)

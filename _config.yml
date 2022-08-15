@@ -86,6 +86,7 @@ logo: /files/yhs-field-1.png
 theme_setting:
   about_page: about.md
   nav_pages:
+    - index.md
     - about.md
     - contact.md
     - parents.md
