@@ -18,11 +18,11 @@ League Registrar: [Kay Emmert](kayemmert@yahoo.com)
 For most questions, please reach out to the area representative
 for the location your child is playing in:
 
-* Ahwahnee: [O'Shaughnessy Evans](shaug-maysl@wumpus.org)
-* Coarsegold: [Collette Haggard-Ship](martacollette@gmail.com)
-* Rivergold: [Joel Greathouse](joelgreathouse@gmail.com)
-* Oakhurst: [Karen Wood](karenjwood55@gmail.com)
-* North Fork/Spring Valley: [Kelley Lozano](kelleyswright@gmail.com)
+* Ahwahnee: [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org)
+* Coarsegold: [Collette Haggard-Ship](mailto:martacollette@gmail.com)
+* Rivergold: [Joel Greathouse](mailto:joelgreathouse@gmail.com)
+* Oakhurst: [Karen Wood](mailto:karenjwood55@gmail.com)
+* North Fork/Spring Valley: [Kelley Lozano](mailto:kelleyswright@gmail.com)
 
 
 For the latest news, please see our
