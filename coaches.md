@@ -4,6 +4,8 @@ title: Coaches
 permalink: /coaches/
 ---
 
+## Registration
+
 If you'd like to coach a team, please take the following steps:
 
 1. **Register** as a coach at [GotSport](https://system.gotsport.com/programs/4K7316426?reg_role=coach
@@ -34,3 +36,14 @@ to connect your information to our soccer registration system if they all have t
 and the Live Scan application runs through the California Department of Justice, where it will
 need to match your registered legal name.
 
+
+## Coaching
+
+[Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
+the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
+are used.
+
+
+## Further Reading
+
+For more information, see the [CYSA District VII Coaching Page](https://cysadistrict7.org/for-coaches/).

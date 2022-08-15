@@ -92,6 +92,7 @@ theme_setting:
     - contact.md
     - parents.md
     - coaches.md
+    - rules.md
 
 head_code: |
   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
