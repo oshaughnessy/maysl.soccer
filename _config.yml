@@ -88,11 +88,11 @@ theme_setting:
   about_page: about.md
   nav_pages:
     - index.md
-    - about.md
-    - contact.md
     - parents.md
     - coaches.md
     - rules.md
+    - contact.md
+    - about.md
 
 head_code: |
   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
