@@ -30,6 +30,7 @@ description: >-
 baseurl: ""
 # base hostname & protocol for your site, e.g. http://example.com
 url: https://maysl.soccer
+source_url: https://github.com/oshaughnessy/maysl.soccer/
 
 # Build settings
 # theme: minima
