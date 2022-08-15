@@ -94,5 +94,5 @@ theme_setting:
 head_code: |
   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
   <style>
-    .logo img+h1 { left: auto; right: calc(30px - 1rem); }
+    .logo img+h1 { text-align: center; }
   </style>
