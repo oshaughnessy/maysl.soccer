@@ -47,3 +47,5 @@ are used.
 ## Further Reading
 
 For more information, see the [CYSA District VII Coaching Page](https://cysadistrict7.org/for-coaches/).
+
+We also have various [resources](/resources/) available on our site.

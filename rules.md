@@ -87,3 +87,9 @@ field. A coach can choose a secret word so that players are prepared
 for the situation or sub in a player who can pass on the instructions
 to teammates. We are a recreational league and our priorities are
 fun, skill development, and encouragement for ALL players.
+
+
+## Further Reading
+
+We also have various [resources](/resources/) available on our site,
+including a copy of the FIFA Laws of the Game.

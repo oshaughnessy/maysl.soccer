@@ -42,3 +42,5 @@ If you'd like to sign up your kids:
 ## Further Reading
 
 For more information, see the [CYSA District VII Parents Page](https://cysadistrict7.org/for-parents/).
+
+We also have various [resources](/resources/) available on our site.
