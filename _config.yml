@@ -75,7 +75,8 @@ social:
 # # Theme Settings
 
 # # Your site's logo. Will be shown on the left top of your page.
-# logo: /img/logo.svg
+#logo: /files/crazy-cleats-logo.png
+logo: /files/yhs-field-1.png
 # If the images of our blog are stored in an external cloud,
 # you can use the jekyll-img-prefix plugin and set your image's base URL here.
 # img_prefix: https://your-img-cdn.com
@@ -89,3 +90,9 @@ theme_setting:
     - contact.md
     - parents.md
     - coaches.md
+
+head_code: |
+  <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
+  <style>
+    .logo img+h1 { left: auto; right: calc(30px - 1rem); }
+  </style>
