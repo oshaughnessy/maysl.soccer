@@ -62,11 +62,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+exclude:
+  - .persephone
 
 # # Your social accounts.
 social:
-  github: oshaughnessy
+  github: oshaughnessy/maysl.soccer
   facebook: mountainyouthsoccer
 #  twitter: ohshaughnessy
 #  instagram: instagram_username
@@ -94,9 +95,21 @@ theme_setting:
     - rules.md
     - contact.md
     - about.md
+  footer_links:
+    - parents.md
+    - coaches.md
+    - rules.md
+    - resources.md
+    - contact.md
+    - about.md
 
 head_code: |
   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
   <style>
     .logo img+h1 { text-align: center; }
+    nav.bottom-nav {
+      padding-left: .3rem;
+      padding-right: .3rem;
+      font-size: .75rem;
+    }
   </style>

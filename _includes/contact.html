@@ -1,7 +1,28 @@
 <aside class="post__contact">
   {%- assign about_page_path = site.theme_setting.about_page | default: "index.md" %}
   {%- assign about_page = site.pages | where: "path", about_page_path | first -%}
-  <h4><a href="{{ about_page.url | relative_url }}">{{ site.author | default: site.title }}</a></h4>
+  <h4><a href="{{ about_page.url | relative_url }}">{{ site.author | default: site.title }}</a>:
   {{ site.description | markdownify }}
+  </h4>
+
+  {% comment %}
+  <p>
+  {%- if site.theme_setting.footer_links -%}
+  <nav class="bottom-nav">
+  {% for page_path in site.theme_setting.footer_links %}
+  {%- if page_path.url -%}
+  {%- assign my_page = page_path -%}
+  {%- else -%}
+  {%- assign my_page = site.pages | where: "path", page_path | first -%}
+  {%- endif -%}
+  {% if my_page.title %}
+  / <a href="{{ my_page.url | relative_url}}" class="bottom-nav {% if page.url == my_page.url %}active{% endif %}">{{ my_page.nav_title | default: my_page.title }}</a>
+  {% endif %}
+  {% endfor %}
+  </nav>
+  {%- endif -%}
+  </p>
+  {% endcomment %}
+
   {%- include icons.html -%}
 </aside>
