@@ -163,21 +163,29 @@ a:visited {
     line-height: 30px
 }
 
-@media screen and (min-width:100px) {
+.logo img+h1 {
+    margin: 0;
+    transform: translateX(-20px);
+    opacity: 0;
+    position: absolute;
+    left: calc(30px + 1rem);
+    top: 0;
+    width: 40px;
+}
+
+.logo:hover img+h1 {
+    opacity: 1;
+    transform: none;
+    transition: transform .3s, opacity .3s;
+}
+
+@media screen and (min-width:600px) {
     .logo img+h1 {
         margin: 0;
         transform: translateX(-20px);
-        opacity: 0;
-        position: absolute;
         left: calc(30px + 1rem);
         top: 0;
-        width: 100px
-    }
-
-    .logo:hover img+h1 {
-        opacity: 1;
-        transform: none;
-        transition: transform .3s, opacity .3s
+        width: 100px;
     }
 }
 
