@@ -43,9 +43,26 @@ need to match your registered legal name.
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
 are used.
 
+Note that the "U" in each division ("U5", "U10", etc), means "that age and under".
+"U13" includes 13-year-olds, "U10" includes 10-year-olds, etc.
+
+### Rule Highlights
+
+Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
+**Player Development**:
+
+_4:04:01_ Each player must participate a minimum of 50% of every game. Applies to all
+age groups and teams.
+
+_4:04:02_ For U8 and U10 teams, each player must play each field position
+at least once during the season.
+
+See [rules](/rules/) for more.
+
 
 ## Further Reading
 
-For more information, see the [CYSA District VII Coaching Page](https://cysadistrict7.org/for-coaches/).
+For more information, see the [CYSA District VII Coaching Page](
+https://cysadistrict7.org/for-coaches/).
 
 We also have various [resources](/resources/) available on our site.
