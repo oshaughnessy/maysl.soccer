@@ -68,17 +68,18 @@ exclude:
   - .persephone
 
 # # Your social accounts.
-social:
-  github: oshaughnessy/maysl.soccer
-  facebook: mountainyouthsoccer
+#social:
+#  github: oshaughnessy/maysl.soccer
 #  twitter: ohshaughnessy
 #  instagram: instagram_username
 #  linkedin: linkedin_username
 #  weibo: weibo_username
 
-# # Theme Settings
+# Theme Settings
 
-# # Your site's logo. Will be shown on the left top of your page.
+# See also: https://mmistakes.github.io/minimal-mistakes/docs/configuration
+
+# Your site's logo. Will be shown on the left top of your page.
 #logo: /files/crazy-cleats.svg
 #logo: /files/yhs-field-1.png
 #logo: /files/maysl-logo-sidebar.png
@@ -87,6 +88,35 @@ social:
 # img_prefix: https://your-img-cdn.com
 # # The RSS link of your blog.
 # rss: "/feed.xml"
+
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
+twitter:
+  username: ohshaughnessy
+facebook:
+  username: mountainyouthsoccer
+og_image: /files/maysl-logo-sidebar.png
+social:
+  type: Organization # Person or Organization (defaults to Person)
+  name: Mountain Area Youth Soccer League # If the user or organization name differs from the site's name
+  links:
+    - https://www.facebook.com/mountainyouthsoccer
+    #- https://twitter.com/yourTwitter
+    #- https://instagram.com/yourProfile
+    #- https://www.linkedin.com/in/yourprofile
+footer:
+  links:
+    #- label: Twitter
+    #  icon: fab fa-fw fa-twitter-square
+    #  url: https://twitter.com/mmistakes
+    #- label: Instagram
+    #  icon: fab fa-fw fa-instagram
+    #  url: https://instagram.com/mmistakes
+    - label: Facebook
+      icon: fab fa-fw fa-facebook
+      url: https://facebook.com/mountainyouthsoccer
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/oshaughnessy/maysl.soccer
 
 defaults:
   # _pages
