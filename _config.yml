@@ -97,7 +97,7 @@ twitter:
   username: ohshaughnessy
 facebook:
   username: mountainyouthsoccer
-og_image: /files/maysl-logo-sidebar.png
+og_image: /files/maysl-logo-small.png
 social:
   type: Organization # Person or Organization (defaults to Person)
   name: Mountain Area Youth Soccer League # If the user or organization name differs from the site's name
@@ -130,7 +130,7 @@ defaults:
       layout: single
       sidebar:
         - title: 
-          image: /files/maysl-logo-sidebar.png
+          image: /files/maysl-logo.png
           image_alt: Mountain Area Youth Soccer Logo
   # _posts
   - scope:
