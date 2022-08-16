@@ -1,7 +1,7 @@
 ---
 main:
 - title: Home
-  url: /index/
+  url: /
 - title: Parents
   url: /parents/
 - title: Coaches
