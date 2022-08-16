@@ -96,9 +96,9 @@ defaults:
     values:
       layout: single
       sidebar:
-        - title: ""
+        - title: 
           image: /files/maysl-logo-sidebar.png
-          image_alt: ""
+          image_alt: Mountain Area Youth Soccer Logo
   # _posts
   - scope:
       path: ""
