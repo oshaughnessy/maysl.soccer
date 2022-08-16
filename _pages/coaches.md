@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Coaches
 permalink: /coaches/
 toc: true

@@ -88,14 +88,22 @@ social:
 # # The RSS link of your blog.
 # rss: "/feed.xml"
 
-include: ["_pages"]
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
-theme_setting:
-  about_page: about.md
-  footer_links:
-    - parents.md
-    - coaches.md
-    - rules.md
-    - resources.md
-    - contact.md
-    - about.md
+include: ["_pages"]
