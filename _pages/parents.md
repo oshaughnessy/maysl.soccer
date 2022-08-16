@@ -11,16 +11,7 @@ You can find out your players' age for league placement at the
 [CYSA Division 7 League Age Chart](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/)
 or the 
 [CalNorth Age Calculator](https://www.calnorth.org/soccer-age).
-
-The age formula goes like this:
-
-1. Our current season ends in 2023
-2. Subtract your child's birth year
-3. The result is their league age
-4. The division they're in must be at or below their league age
-
-E.g. U13 is for kids 13 and under. If your child was born in 2010, they'd be in U13 because
-2023-2010 is 13.
+([See below for more details](#how-do-i-know-my-kids-league-age).)
 
 
 ## Register
@@ -37,6 +28,19 @@ If you'd like to sign up your kids:
 3. The **first games** for local (non-travel) teams will be on Saturday, Sept 10.
 
 4. The **last games** of the season will be on ... _TBD_.
+
+
+## How do I know my kids' league age?
+
+The US Youth Soccer age formula goes like this:
+
+1. Our current season ends in 2023
+2. Subtract your child's birth year
+3. The result is their league age
+4. The division they're in must be at or below their league age
+
+For example, U13 is for kids 13 and under. If your child was born in 2010,
+they'd be in U13 because 2023-2010 is 13.
 
 
 ## Further Reading
