@@ -38,7 +38,7 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 # theme: jekyll-theme-persephone
 # remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: erlzhang/jekyll-theme-persephone
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -65,6 +65,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
+  - .minimal-mistakes
   - .persephone
 
 # # Your social accounts.
@@ -88,6 +89,8 @@ exclude:
 # img_prefix: https://your-img-cdn.com
 # # The RSS link of your blog.
 # rss: "/feed.xml"
+
+minimal_mistakes_skin: maysl
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
 twitter:
