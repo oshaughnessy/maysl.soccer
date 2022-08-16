@@ -38,7 +38,7 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 # theme: jekyll-theme-persephone
 # remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: erlzhang/jekyll-theme-persephone
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
 plugins:
   - jekyll-feed
