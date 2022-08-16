@@ -34,3 +34,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
+
+# see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"

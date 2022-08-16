@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 nav_title: Rules
 title: MAYSL Modified Laws & Guidelines
 permalink: /rules/

@@ -37,11 +37,13 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-persephone
 # remote_theme: pages-themes/midnight@v0.2.0
-remote_theme: erlzhang/jekyll-theme-persephone
+#remote_theme: erlzhang/jekyll-theme-persephone
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -86,15 +88,10 @@ social:
 # # The RSS link of your blog.
 # rss: "/feed.xml"
 
+include: ["_pages"]
+
 theme_setting:
   about_page: about.md
-  nav_pages:
-    - index.md
-    - parents.md
-    - coaches.md
-    - rules.md
-    - contact.md
-    - about.md
   footer_links:
     - parents.md
     - coaches.md
@@ -102,14 +99,3 @@ theme_setting:
     - resources.md
     - contact.md
     - about.md
-
-head_code: |
-  <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
-  <style>
-    .logo img+h1 { text-align: center; }
-    nav.bottom-nav {
-      padding-left: .3rem;
-      padding-right: .3rem;
-      font-size: .75rem;
-    }
-  </style>

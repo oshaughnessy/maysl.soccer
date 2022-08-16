@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Parents
 permalink: /parents/
+toc: true
 ---
 
 ## Eligibility

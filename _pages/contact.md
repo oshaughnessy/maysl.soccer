@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 nav_title: Contact
 title: Contact MAYSL
 permalink: /contact/

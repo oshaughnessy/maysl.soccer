@@ -1,0 +1,24 @@
+---
+main:
+- title: Home
+  url: /index/
+- title: Parents
+  url: /parents/
+- title: Coaches
+  url: /coaches/
+- title: Rules
+  url: /rules/
+- title: Contact
+  url: /contact/
+- title: About
+  url: /about/
+
+coaching:
+- title: Registration
+  url: /coaches/#registration
+- title: Coaching
+  url: /coaches/#coaching
+- title: Resources
+  url: /resources/
+- title: CYSA District VII Coaching Page
+  url: https://cysadistrict7.org/for-coaches/

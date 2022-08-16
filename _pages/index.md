@@ -4,7 +4,7 @@
 
 nav_title: Home
 title: Mountain Area Youth Soccer League
-layout: page
+layout: single
 permalink: /
 ---
 
