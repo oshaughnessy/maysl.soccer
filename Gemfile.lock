@@ -210,6 +210,13 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    minimal-mistakes-jekyll (4.24.0)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.3)
     minitest (5.16.2)
     nokogiri (1.13.8-arm64-darwin)
       racc (~> 1.4)
@@ -259,6 +266,7 @@ DEPENDENCIES
   github-pages (~> 227)
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  minimal-mistakes-jekyll
   webrick (~> 1.7)
 
 BUNDLED WITH
