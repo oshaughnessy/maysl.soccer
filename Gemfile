@@ -14,6 +14,7 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "github-pages", "~> 227"
+  # see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   gem "jekyll-include-cache"
 end
 
@@ -22,5 +23,3 @@ end
 #gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
-
-# see https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

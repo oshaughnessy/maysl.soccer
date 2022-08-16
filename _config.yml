@@ -95,6 +95,10 @@ defaults:
       type: pages
     values:
       layout: single
+      sidebar:
+        - title: ""
+          image: /files/maysl-logo-sidebar.png
+          image_alt: ""
   # _posts
   - scope:
       path: ""

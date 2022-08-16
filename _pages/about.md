@@ -10,5 +10,3 @@ Mountain Area Youth Soccer League (MAYSL) is League 9 of [CYSA District
 We run soccer for youth ages 3-18 in the central Sierra region of California,
 just south of Yosemite National Park. Our areas of coverage include Ahwahnee,
 Bass Lake, North Fork, Oakhurst, and Yosemite Lakes Park.
-
-<img src="/files/maysl-logo-sidebar.png" align=right>
