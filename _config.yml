@@ -84,6 +84,7 @@ exclude:
 #logo: /files/crazy-cleats.svg
 #logo: /files/yhs-field-1.png
 #logo: /files/maysl-logo-sidebar.png
+logo: /files/maysl-logo.png
 # If the images of our blog are stored in an external cloud,
 # you can use the jekyll-img-prefix plugin and set your image's base URL here.
 # img_prefix: https://your-img-cdn.com
@@ -128,10 +129,10 @@ defaults:
       type: pages
     values:
       layout: single
-      sidebar:
-        - title: 
-          image: /files/maysl-logo.png
-          image_alt: Mountain Area Youth Soccer Logo
+    #  sidebar:
+    #    - title: 
+    #      image: /files/maysl-logo.png
+    #      image_alt: Mountain Area Youth Soccer Logo
   # _posts
   - scope:
       path: ""
