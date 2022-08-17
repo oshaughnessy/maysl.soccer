@@ -12,6 +12,8 @@ permalink: /contact/
 
 ## Staff
 
+![image-right](/files/maysl-logo.png){: .align-right}
+
 League Registrar: [Kay Emmert](mailto:kayemmert@yahoo.com)
 
 For most questions, please reach out to the area representative

@@ -12,3 +12,5 @@ just south of Yosemite National Park. Our areas of coverage include Ahwahnee,
 Bass Lake, Coarsegold, North Fork, and Oakhurst.
 
 [MAYSL Constitution and By-Laws](/files/maysl-by-laws.pdf)
+
+![image-right](/files/maysl-logo.png){: .align-right}
