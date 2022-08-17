@@ -5,7 +5,7 @@ install:
 	bundle install
 
 edit:
-	vim *.md
+	vim _pages/*.md
 
 build:
 	bundle exec jekyll build

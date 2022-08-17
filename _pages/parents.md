@@ -18,7 +18,7 @@ or the
 
 If you'd like to sign up your kids:
 
-1. **Register** players at [GotSport](https://system.gotsport.com/prorams/88407263X?reg_role=player)
+1. **Register** players at [GotSport](https://system.gotsport.com/programs/88407263X?reg_role=player)
     * Registration for travel teams ends on July 10, 2022.
     * Registration for local teams ends on Aug 15, 2022.
 
