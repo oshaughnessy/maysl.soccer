@@ -5,6 +5,7 @@
 nav_title: Home
 title: Mountain Area Youth Soccer League
 permalink: /
+layout: home
 ---
 
 Welcome to the 2022-2023 fall season!

@@ -2,6 +2,8 @@
 main:
 - title: Home
   url: /
+- title: Updates
+  url: /updates/
 - title: Parents
   url: /parents/
 - title: Coaches

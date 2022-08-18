@@ -67,6 +67,7 @@ plugins:
 exclude:
   - .minimal-mistakes
   - .persephone
+  - '**/Makefile'
 
 # # Your social accounts.
 #social:
@@ -139,9 +140,12 @@ defaults:
       type: posts
     values:
       layout: single
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
 
 include: ["_pages"]
+
+#paginate: 5  # amount of posts to show
+#paginate_path: /updates/page:num
