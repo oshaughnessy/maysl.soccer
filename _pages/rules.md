@@ -95,13 +95,13 @@ to never more than five goals.
 Examples of actions that could be taken include:
 
 * Switching players' positions around to enable those who haven't
-scored goals the opportunity to do so.
+  scored goals the opportunity to do so.
 * Imposing restrictions on players, including:
 ** shooting with "weaker" foot only
-** requiring five (or higher number) consecutive passes (without an opponent touching
-the ball) before a shot can be taken
+** requiring five (or higher number) consecutive passes (without an opponent
+   touching the ball) before a shot can be taken
 ** requiring that these passes are completed in team's own defensive half
-or any combination of these.
+   or any combination of these.
 
 Examples of actions that are NOT acceptable include:
 
@@ -115,6 +115,50 @@ field. A coach can choose a secret word so that players are prepared
 for the situation or sub in a player who can pass on the instructions
 to teammates. **We are a recreational league and our priorities are
 fun, skill development, and encouragement for ALL players.**
+
+
+## Heading
+
+Taken from https://cysadistrict7.org:
+
+> California Youth Soccer Association Heading Policy
+> 
+> (Approved by Board of Directors, August 4, 2019)
+> 
+> ### PLAYING POLICY:
+> 
+> * Heading is prohibited in 12U and younger small-sided games.
+> 
+> * All players age eleven (11) years old and younger, who are playing
+>   up in 13U and older games, are prohibited from heading, and must
+>   clearly be identifiable to match official. (i.e. armband)
+> 
+> * When a player, who is eleven (11) years old and younger, deliberately
+>   heads the ball in a game, an indirect free kick should be awarded
+>   to the opposing team from the spot of the offense. If a deliberate
+>   header occurs within the goal area, the indirect free kick should
+>   be taken on the goal area line parallel to the goal line at the
+>   point nearest to where the infringement occurred. If a player does
+>   not deliberately head the ball, then play should continue.
+> 
+> * All players age eleven (11) years old and younger, who participate
+>   in a non-CYSA sanctioned event with their CYSA player pass, must
+>   adhere to the CYSA heading policy and are prohibited from heading.
+> 
+> ### PRACTICE POLICY:
+> 
+> * All players age eleven (11) years old and younger are prohibited from heading.
+> 
+> * It is strongly recommended for players between the ages of twelve
+>   (12) and seventeen (17) years old, heading in practice must be
+>   limited to a maximum of thirty (30) minutes per week, with no more
+>   than fifteen (15) to twenty (20) headers, per player, per week.
+> 
+> * In addition, CYSA recommends that standard coaching methods to
+>   instruct on how to properly head the ball be instituted by all
+>   Affiliates. CYSA will assist Affiliates, as needed, in teaching
+>   coaches the proper heading techniques as such to reduce the risk
+>   of possible concussion.
 
 
 ## Further Reading
