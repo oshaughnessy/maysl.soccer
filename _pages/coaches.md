@@ -21,7 +21,7 @@ If you'd like to coach a team, please take the following steps:
 3. Register a **Live Scan**. This only needs to be done once by each league coach --
    you don't need to do it annually -- but a Live Scan for another sport or league
    cannot be used by MAYSL.
-   1. Fill out the [MAYSL Live Scan form](/files/maysl-livescan-2022.pdf).
+   1. Fill out the [MAYSL Live Scan form](/files/calnorth-livescan-2022.pdf).
       Use your full legal name, as found on your driver's license or California ID.
    2. Make an appointment with the Oakhurst Sheriff's office to submit your form.
    3. Bring your form and [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
