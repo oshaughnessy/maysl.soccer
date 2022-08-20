@@ -63,12 +63,17 @@ at ussoccer.com for an explanation of the change when it was rolled out in 2017.
 
 ### Player Safety
 
+Learn about **concussion** symptoms and out to deal with potential head injuries.
 Print out a copy of the [Concussion Recognition Tool](/files/concussion-field-guide.pdf)
 that was provided as part of the US Soccer safety coarse. Familiarize yourself with it
 and keep it with your field bag or clipboard. You'll have it available if one of your
 players has any sign of a head injury.
 
-### Rule Highlights
+Heat-related ilness is a real risk here in central California. Take a look at the
+[Recognize to Recover Heat Guidelines](/files/recognize-to-recover-heat-guidlines.pdf).
+
+
+## Rule Highlights
 
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)

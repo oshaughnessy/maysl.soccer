@@ -30,7 +30,7 @@ If you'd like to sign up your kids:
 4. The **last games** of the season will be on the weekend before Thanksgiving.
 
 
-## How do I know my kids' league age?
+### How do I know my kids' league age?
 
 At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12 or U13,
 U14 or U15, and U18.
@@ -47,6 +47,15 @@ https://www.ussoccer.com/stories/2017/08/us-soccer-player-development-initiative
 
 For example, U13 is for kids 13 and under. If your child was born in 2010,
 they'd be in U13 because 2023-2010 is 13.
+
+
+## Player Safety
+
+US Soccer places a lot of value on player safety. If your child has any special
+health conditions, like the need for an EpiPen or an inhaler, please talk to your
+coaches about it. Make sure they know how to recognize signs of problems and how
+to deal with them. They'll want to be prepared in case there's an emergency,
+and they should be able to recognize changes in your childrens' normal behavior.
 
 
 ## Further Reading
