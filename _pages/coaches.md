@@ -46,6 +46,12 @@ are used.
 Note that the "U" in each division ("U5", "U10", etc), means "that age and under".
 "U13" includes 13-year-olds, "U10" includes 10-year-olds, etc.
 
+Print out a copy of the [Concussion Recognition Tool](/files/concussion-field-guide.pdf)
+that was provided as part of the US Soccer safety course. Familiarize yourself with it
+and keep it with your field bag or clipboard. You'll have it available if one of your
+players has any sign of a head injury.
+
+
 ### Rule Highlights
 
 Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
