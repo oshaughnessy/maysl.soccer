@@ -27,7 +27,7 @@ If you'd like to sign up your kids:
 
 3. The **first games** for local (non-travel) teams will be on Saturday, Sept 10.
 
-4. The **last games** of the season will be on ... _TBD_.
+4. The **last games** of the season will be on the weekend before Thanksgiving.
 
 
 ## How do I know my kids' league age?
