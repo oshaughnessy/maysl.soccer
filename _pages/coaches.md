@@ -37,8 +37,6 @@ and the Live Scan application runs through the California Department of Justice,
 need to match your registered legal name.
 
 
-## Coaching
-
 ### Player Age
 
 [According to the CYSA](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/),
@@ -61,6 +59,8 @@ https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-re
 at ussoccer.com for an explanation of the change when it was rolled out in 2017.
 
 
+## Coaching
+
 ### Player Safety
 
 Learn about **concussion** symptoms and out to deal with potential head injuries.
@@ -73,7 +73,7 @@ Heat-related ilness is a real risk here in central California. Take a look at th
 [Recognize to Recover Heat Guidelines](/files/recognize-to-recover-heat-guidlines.pdf).
 
 
-## Rule Highlights
+### Rule Highlights
 
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
