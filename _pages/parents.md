@@ -32,15 +32,25 @@ If you'd like to sign up your kids:
 
 ## How do I know my kids' league age?
 
-The US Youth Soccer age formula goes like this:
+At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12 or U13,
+U14 or U15, and U18.
 
-1. Our current season ends in 2023
-2. Subtract your child's birth year
-3. The result is their league age
-4. The division they're in must be at or below their league age
+Here's the easiest way to think about it:
 
-For example, U13 is for kids 13 and under. If your child was born in 2010,
-they'd be in U13 because 2023-2010 is 13.
+1. Take the fall season's start year
+2. Subtract your child's birth year (exact birthday doesn't matter)
+3. Now you have their league age.
+3. They'll be in the "under" division for the next age up.
+
+For example, if our season starts in 2022 and your child was born in 2010,
+she'll be 12 sometime in 2022 and be on the U13 girls' team.
+
+(Technically, U13 is for [kids 13 and under](
+https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/):
+the math uses the end-of-season year and seasons end in the spring.
+Also see [Five Things to Know About Birth Year Registration](
+https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-registration)
+for an explanation from when the rule was changed.)
 
 
 ## Further Reading

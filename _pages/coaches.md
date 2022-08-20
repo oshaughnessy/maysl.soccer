@@ -39,21 +39,40 @@ need to match your registered legal name.
 
 ## Coaching
 
-[Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
-the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
-are used.
+### Player Age
 
-Note that the "U" in each division ("U5", "U10", etc), means "that age and under".
-"U13" includes 13-year-olds, "U10" includes 10-year-olds, etc.
+[According to the CYSA](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/),
+the "U" in each division (_U5_, _U10_, etc) means "that age and under": _U13_
+includes 13-year-olds, _U10_ includes 10-year-olds, etc. But that applies to
+their age at the end of _the year the league's season ends_.
+
+In the mountain area, MAYSL just plays soccer in the fall, but the CalNorth
+league's season starts then and ends the next spring. So a season that starts
+in August 2022 is technically the 2022-2023 season. When their site says _UX_
+means "age _X_ and under", they're talking about the end-of-season year,
+and each player's age by the end of that year is their league age.
+
+For MAYSL, it's easier to think of _U10_ as "under 10", and the player's age at
+the start of the season tells you what division they're in. _U10_ is for kids
+under 10, etc.
+
+See [Five Things to Know About Birth Year Registration](
+https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-registration)
+at ussoccer.com for an explanation of the change when it was rolled out in 2017.
+
+
+### Player Safety
 
 Print out a copy of the [Concussion Recognition Tool](/files/concussion-field-guide.pdf)
-that was provided as part of the US Soccer safety course. Familiarize yourself with it
+that was provided as part of the US Soccer safety coarse. Familiarize yourself with it
 and keep it with your field bag or clipboard. You'll have it available if one of your
 players has any sign of a head injury.
 
-
 ### Rule Highlights
 
+[Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
+the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
+are used.
 Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
 **Player Development**:
 
