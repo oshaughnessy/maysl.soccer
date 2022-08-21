@@ -38,18 +38,36 @@ need to match your registered legal name.
 
 ## Coaching Classes
 
-The league needs to see proof that you've finished your coaching classes. You can upload
-a screenshot from your [US Soccer account profile](https://learning.ussoccer.com/coach)
-and upload it to your [Got Sport profile](https://system.gotsport.com/), where our admins
-will be able to see it.
+Once you've registered as a coach, you should see a table called "Requirements"
+in your Got Sport account dashboard. The league needs to see proof that you've
+finished your coaching classes, and this is where you can record all of that.
+The way to provide proof varies by course.
+
+
+### Intro to Health and Saftey
+
+You can upload a screenshot from your [US Soccer account profile](
+https://learning.ussoccer.com/coach) and upload it to your
+[Got Sport profile](https://system.gotsport.com/), where our admins will be able to see it.
 
 ![image-right](/files/coach-class-screenshot.jpg){: .align-right}
 
-After you complete your courses, go to your US Soccer profile page. You can find a link to
+After you complete the class, go to your US Soccer profile page. You can find a link to
 it after clicking on your name in the upper right corner of the site. Somewhere near the
 bottom of your profile, on the right side, you'll see a box called "Safety Certifications"
 showing the dates that you completed them. Please take a screenshot of that and upload it
 into your Got Sport profile.
+
+### SafeSport
+
+The SafeSport course provides you with a certificate that you can download. When you
+view the cert or save it, you should see a long ID number. That's the certification ID,
+and you can tell the site to search the records for it.
+
+![image-center](/files/safesport-record-check.jpg){: .align-center}
+
+If the record is found, that will be enough for the Got Sport system. If it's not found,
+just certificate file instead.
 
 
 ## Coaching
