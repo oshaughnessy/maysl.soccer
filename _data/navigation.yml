@@ -14,6 +14,8 @@ main:
   url: /contact/
 - title: About
   url: /about/
+- title: GotSport
+  url: https://system.gotsport.com/
 
 coaching:
 - title: Registration
@@ -24,3 +26,12 @@ coaching:
   url: /resources/
 - title: CYSA District VII Coaching Page
   url: https://cysadistrict7.org/for-coaches/
+
+sidebar:
+- title: MAYSL
+  url: /
+- title: GotSport
+  url: https://system.gotsport.com
+#- title: 
+#  image: /files/maysl-logo.png
+#  image_alt: Mountain Area Youth Soccer Logo

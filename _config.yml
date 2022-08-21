@@ -38,7 +38,7 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 # theme: jekyll-theme-persephone
 # remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: erlzhang/jekyll-theme-persephone
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -67,7 +67,10 @@ plugins:
 exclude:
   - .minimal-mistakes
   - .persephone
+  - Makefile
   - '**/Makefile'
+  - '.*.swp'
+  - '.*.swo'
 
 # # Your social accounts.
 #social:
@@ -130,10 +133,8 @@ defaults:
       type: pages
     values:
       layout: single
-    #  sidebar:
-    #    - title: 
-    #      image: /files/maysl-logo.png
-    #      image_alt: Mountain Area Youth Soccer Logo
+      #sidebar: 
+      #  nav: sidebar
   # _posts
   - scope:
       path: ""
