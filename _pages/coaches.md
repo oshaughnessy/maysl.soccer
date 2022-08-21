@@ -11,14 +11,17 @@ If you'd like to coach a team, please take the following steps:
 1. **Register** as a coach at [GotSport](https://system.gotsport.com/programs/4K7316426?reg_role=coach
 )
 
-2. Complete **coaching classes**. All coaches must complete these classes every year.
-   Please find them at the end of the [CalNorth Coaching Education](
-   https://www.calnorth.org/coachingeducation) page, under "Additional Coaching Education".
-   You'll need to complete and submit each of the required lessons listed there,
-   "Introduction to Safe and Healthy Playing Environments" and "Safe Sport Training".
-   Be sure to use your full legal name when you register for the courses.
+Once you've registered at GotSport, you should see a list of things to do in your
+account dashboard. Links for each class or form are right there in the list, under
+the _Details_ column. Please be sure to use your full legal name for all of the forms.
 
-3. Register a **Live Scan**. This only needs to be done once by each league coach --
+2. Complete **coaching classes**. You'll need to complete and submit each of the lessons
+   listed there, "Introduction to Safe and Healthy Playing Environments" and "Safe Sport
+   Training". Each one takes 15-30 minutes.
+
+3. You'll also need to submit a form for a **background check**.
+
+4. Register a **Live Scan**. This only needs to be done once by each league coach --
    you don't need to do it annually -- but a Live Scan for another sport or league
    cannot be used by MAYSL.
    1. Fill out the [MAYSL Live Scan form](/files/calnorth-livescan-2022.pdf).
@@ -50,7 +53,7 @@ classes, and this is where you can record all of that.  The way to
 provide proof varies by course.
 
 
-### Intro to Health and Saftey
+### Intro to Health and Safety
 
 You can upload a screenshot from your [US Soccer account profile](
 https://learning.ussoccer.com/coach) and upload it to your
@@ -75,7 +78,7 @@ and you can tell the site to search the records for it.
 If the record is found, that will be enough for the Got Sport system. If it's not found,
 just certificate file instead.
 
-### Background Checkes
+### Background Checks
 
 In the requirements table, you'll see a line for background checks. This is a simple one
 to do. Fill out all the form information, check the disclosure boxes, and sign it. Submit
