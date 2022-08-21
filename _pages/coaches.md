@@ -11,9 +11,10 @@ If you'd like to coach a team, please take the following steps:
 1. **Register** as a coach at [GotSport](https://system.gotsport.com/programs/4K7316426?reg_role=coach
 )
 
-Once you've registered at GotSport, you should see a list of things to do in your
-account dashboard. Links for each class or form are right there in the list, under
-the _Details_ column. Please be sure to use your full legal name for all of the forms.
+    Once you've registered at GotSport, you should see a list of
+    things to do in your account dashboard. Links for each class
+    or form are right there in the list, under the _Details_ column.
+    Please be sure to use your full legal name for all of the forms.
 
 2. Complete **coaching classes**. You'll need to complete and submit each of the lessons
    listed there, "Introduction to Safe and Healthy Playing Environments" and "Safe Sport
