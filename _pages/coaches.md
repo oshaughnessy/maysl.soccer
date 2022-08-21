@@ -36,7 +36,7 @@ to connect your information to our soccer registration system if they all have t
 and the Live Scan application runs through the California Department of Justice, where it will
 need to match your registered legal name.
 
-## Coaching Classes
+## Coaching Requirements
 
 Once you've registered as a coach, you should see a table called "Requirements"
 in your Got Sport account dashboard. If you don't see that section, click on
@@ -74,6 +74,12 @@ and you can tell the site to search the records for it.
 
 If the record is found, that will be enough for the Got Sport system. If it's not found,
 just certificate file instead.
+
+### Background Checkes
+
+In the requirements table, you'll see a line for background checks. This is a simple one
+to do. Fill out all the form information, check the disclosure boxes, and sign it. Submit
+the form and you're done.
 
 
 ## Coaching
