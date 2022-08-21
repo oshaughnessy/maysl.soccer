@@ -25,13 +25,6 @@ If you'd like to coach a team, please take the following steps:
 4. Register a **Live Scan**. This only needs to be done once by each league coach --
    you don't need to do it annually -- but a Live Scan for another sport or league
    cannot be used by MAYSL.
-   1. Fill out the [MAYSL Live Scan form](/files/calnorth-livescan-2022.pdf).
-      Use your full legal name, as found on your driver's license or California ID.
-   2. Make an appointment with the Oakhurst Sheriff's office to submit your form.
-   3. Bring your form and [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
-      to your appointment. You will be fingerprinted and your identity will be verified when
-      they complete your form and submit it.
-   4. Note that the submission is free for MAYSL coaches.
 
 **Please Note**:
 For all registrations and courses, it is essential that you use your full legal name.
@@ -85,6 +78,20 @@ In the requirements table, you'll see a line for background checks. This is a si
 to do. Fill out all the form information, check the disclosure boxes, and sign it. Submit
 the form and you're done. You'll also get an email about this after you register, and you
 can just follow that link to fill it out as well.
+
+### Live Scan
+
+Every coach needs to submit a Live Scan application. You only need to do it once,
+rather than annually like the rest of the certs. Unfortunately, a Live Scan for
+another organization can't be used for MAYSL.
+
+   1. Fill out the [MAYSL Live Scan form](/files/calnorth-livescan-2022.pdf).
+      Use your full legal name, as found on your driver's license or California ID.
+   2. Make an appointment with the Oakhurst Sheriff's office to submit your form.
+   3. Bring your form and [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
+      to your appointment. You will be fingerprinted and your identity will be verified when
+      they complete your form and submit it.
+   4. Note that the submission is free for MAYSL coaches.
 
 
 ## Coaching
