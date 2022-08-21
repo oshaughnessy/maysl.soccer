@@ -133,8 +133,9 @@ defaults:
       type: pages
     values:
       layout: single
-      sidebar: 
-        nav: sidebar
+      #sidebar: 
+      #  nav: sidebar
+      toc_sticky: true
   # _posts
   - scope:
       path: ""

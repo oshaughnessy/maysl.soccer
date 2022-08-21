@@ -1,19 +1,19 @@
 ---
 main:
-#- title: Home
-#  url: /
-#- title: Updates
-#  url: /updates/
+- title: Home
+  url: /
+- title: Updates
+  url: /updates/
 - title: Parents
   url: /parents/
 - title: Coaches
   url: /coaches/
-#- title: Rules
-#  url: /rules/
-#- title: Contact
-#  url: /contact/
-#- title: About
-#  url: /about/
+- title: Rules
+  url: /rules/
+- title: Contact
+  url: /contact/
+- title: About
+  url: /about/
 - title: GotSport
   url: https://system.gotsport.com/
 
