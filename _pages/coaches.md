@@ -39,9 +39,15 @@ need to match your registered legal name.
 ## Coaching Classes
 
 Once you've registered as a coach, you should see a table called "Requirements"
-in your Got Sport account dashboard. The league needs to see proof that you've
-finished your coaching classes, and this is where you can record all of that.
-The way to provide proof varies by course.
+in your Got Sport account dashboard. If you don't see that section, click on
+the big box that says "Mountain Area Youth Soccer League". It will open up and you
+should see the table.
+
+![image-center](/files/coaching-requirements.jpg){: .align-center}
+
+The league needs to see proof that you've finished your coaching
+classes, and this is where you can record all of that.  The way to
+provide proof varies by course.
 
 
 ### Intro to Health and Saftey
