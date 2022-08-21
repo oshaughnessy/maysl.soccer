@@ -119,13 +119,13 @@ fun, skill development, and encouragement for ALL players.**
 
 ## Heading
 
-Taken from https://cysadistrict7.org:
+Taken from <https://cysadistrict7.org>:
 
 > California Youth Soccer Association Heading Policy
 > 
 > (Approved by Board of Directors, August 4, 2019)
 > 
-> ### PLAYING POLICY:
+> ### PLAYING POLICY
 > 
 > * Heading is prohibited in 12U and younger small-sided games.
 > 
@@ -145,7 +145,7 @@ Taken from https://cysadistrict7.org:
 >   in a non-CYSA sanctioned event with their CYSA player pass, must
 >   adhere to the CYSA heading policy and are prohibited from heading.
 > 
-> ### PRACTICE POLICY:
+> ### PRACTICE POLICY
 > 
 > * All players age eleven (11) years old and younger are prohibited from heading.
 > 
