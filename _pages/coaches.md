@@ -36,6 +36,19 @@ to connect your information to our soccer registration system if they all have t
 and the Live Scan application runs through the California Department of Justice, where it will
 need to match your registered legal name.
 
+## Coaching Classes
+
+The league needs to see proof that you've finished your coaching classes. You can upload
+a screenshot from your [US Soccer account profile](https://learning.ussoccer.com/coach)
+and upload it to your [Got Sport profile](https://system.gotsport.com/), where our admins
+will be able to see it.
+
+After you complete your courses, go to your US Soccer profile page. You can find a link to
+it after clicking on your name in the upper right corner of the site. Somewhere near the
+bottom of your profile, on the right side, you'll see a box called "Safety Certifications"
+showing the dates that you completed them. Please take a screenshot of that and upload it
+into your Got Sport profile.
+
 
 ## Coaching
 
