@@ -1,5 +1,36 @@
 ---
-main:
+#main:
+#- title: Home
+#  url: /
+#- title: Updates
+#  url: /updates/
+#- title: Parents
+#  url: /parents/
+#- title: Coaches
+#  url: /coaches/
+#- title: Rules
+#  url: /rules/
+#- title: Contact
+#  url: /contact/
+#- title: About
+#  url: /about/
+#- title: GotSport
+#  url: https://system.gotsport.com/
+
+coaching:
+- title: Registration
+  url: /coaches/#registration
+- title: Coaching
+  url: /coaches/#coaching
+- title: Resources
+  url: /resources/
+- title: CYSA District VII Coaching Page
+  url: https://cysadistrict7.org/for-coaches/
+
+sidebar:
+#- title: 
+#  image: /files/maysl-logo.png
+#  image_alt: Mountain Area Youth Soccer Logo
 - title: Home
   url: /
 - title: Updates
@@ -16,22 +47,3 @@ main:
   url: /about/
 - title: GotSport
   url: https://system.gotsport.com/
-
-coaching:
-- title: Registration
-  url: /coaches/#registration
-- title: Coaching
-  url: /coaches/#coaching
-- title: Resources
-  url: /resources/
-- title: CYSA District VII Coaching Page
-  url: https://cysadistrict7.org/for-coaches/
-
-sidebar:
-- title: MAYSL
-  url: /
-- title: GotSport
-  url: https://system.gotsport.com
-#- title: 
-#  image: /files/maysl-logo.png
-#  image_alt: Mountain Area Youth Soccer Logo
