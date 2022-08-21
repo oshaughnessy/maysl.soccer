@@ -83,7 +83,8 @@ just certificate file instead.
 
 In the requirements table, you'll see a line for background checks. This is a simple one
 to do. Fill out all the form information, check the disclosure boxes, and sign it. Submit
-the form and you're done.
+the form and you're done. You'll also get an email about this after you register, and you
+can just follow that link to fill it out as well.
 
 
 ## Coaching
