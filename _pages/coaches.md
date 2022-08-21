@@ -43,6 +43,8 @@ a screenshot from your [US Soccer account profile](https://learning.ussoccer.com
 and upload it to your [Got Sport profile](https://system.gotsport.com/), where our admins
 will be able to see it.
 
+![image-right](/files/coach-class-screenshot.jpg){: .align-right}
+
 After you complete your courses, go to your US Soccer profile page. You can find a link to
 it after clicking on your name in the upper right corner of the site. Somewhere near the
 bottom of your profile, on the right side, you'll see a box called "Safety Certifications"
