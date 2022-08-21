@@ -1,21 +1,21 @@
 ---
-#main:
+main:
 #- title: Home
 #  url: /
 #- title: Updates
 #  url: /updates/
-#- title: Parents
-#  url: /parents/
-#- title: Coaches
-#  url: /coaches/
+- title: Parents
+  url: /parents/
+- title: Coaches
+  url: /coaches/
 #- title: Rules
 #  url: /rules/
 #- title: Contact
 #  url: /contact/
 #- title: About
 #  url: /about/
-#- title: GotSport
-#  url: https://system.gotsport.com/
+- title: GotSport
+  url: https://system.gotsport.com/
 
 coaching:
 - title: Registration
@@ -31,8 +31,6 @@ sidebar:
 #- title: 
 #  image: /files/maysl-logo.png
 #  image_alt: Mountain Area Youth Soccer Logo
-- title: Home
-  url: /
 - title: Updates
   url: /updates/
 - title: Parents
