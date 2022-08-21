@@ -74,10 +74,17 @@ just certificate file instead.
 
 ### Background Checks
 
-In the requirements table, you'll see a line for background checks. This is a simple one
-to do. Fill out all the form information, check the disclosure boxes, and sign it. Submit
-the form and you're done. You'll also get an email about this after you register, and you
-can just follow that link to fill it out as well.
+In the requirements table, you'll see a line for background checks with a link on the right.
+You'll also get an email about this after you register, and you can just follow that link to
+fill it out as well.
+
+Fill out all the form information, check the disclosure boxes, and sign it.
+
+![image-center](/files/bg-check-screenshot.jpg){: .align-center}
+
+After submitting the form, go back to the dashboard, click on background check's _details_ link
+again. You'll see a "Quick App" link that will let you begin the check process. Please fill
+out that form to get the process underway.
 
 ### Live Scan
 
