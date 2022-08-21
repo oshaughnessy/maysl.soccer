@@ -37,7 +37,12 @@ and the Live Scan application runs through the California Department of Justice,
 need to match your registered legal name.
 
 
+## Coaching
+
 ### Player Age
+
+You may get questions from parents when they're signing up their kids, wanting to know
+which team they'll be on. Here's how our age groups work.
 
 [According to the CYSA](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/),
 the "U" in each division (_U5_, _U10_, etc) means "that age and under": _U13_
@@ -58,8 +63,6 @@ See [Five Things to Know About Birth Year Registration](
 https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-registration)
 at ussoccer.com for an explanation of the change when it was rolled out in 2017.
 
-
-## Coaching
 
 ### Player Safety
 
