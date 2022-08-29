@@ -8,6 +8,8 @@ main:
   url: /parents/
 - title: Coaches
   url: /coaches/
+- title: Refs
+  url: /refs/
 - title: Rules
   url: /rules/
 - title: Contact
