@@ -11,12 +11,28 @@ games only for our league.
 
 Facilitator uniforms include:
 
-* gray t-shirt with official badge iron-on
-* black pocket shorts with no white
-* black socks
+* gray t-shirt with the official badge iron-on
+* all-black shorts with pockets
+* all-black socks
+* primarily-black shoes
+
+
+## Referee Uniforms
+
+Every referee must provide and wear a USSF approved uniform whenever they are
+officiating games.
+
+Uniforms for MAYSL games include:
+
+* yellow jersey with black stripes
+* all-black shorts with pockets
+* black socks with 3 white stripes at the top
 * mostly black shoes
 
-Facilitators should bring to every game:
+
+## Equipment
+
+Officials should bring to every game:
 
 * pen
 * whistle
@@ -25,12 +41,10 @@ Facilitators should bring to every game:
 * stopwatch
 * ref flags
 
-Arrive at games 30 minutes early to meet up with the game officials.
+Arrive at games 30 minutes early to meet up with the other officials.
 
 
-## Official Referees
-
-### Eligibility
+## Eligibility
 
 According to California North Referee Association (CNRA), "there are no minimum
 age requirements to become a referee. However, many local leagues may require a
@@ -38,36 +52,30 @@ referee to be older than the players that they are officiating. Parents are
 advised to assess the maturity level of their child prior to permitting them to
 take one of the Entry Level Referee Courses."
 
-As a league, MAYSL will require that a referee is 1-2 years older than the age
-of the players they are officiating.
+As a league, MAYSL will require that a referee or facilitator is 1-2 years older
+than the age of the players they are officiating.
 
 
-### Uniforms and Equipment
-
-Every referee must provide and wear a USSF approved uniform whenever they are
-reffing games. The colors change from year to year but the basic uniform is a
-yellow jersey with black stripes, black shorts with pockets and black socks with
-three white stripes at the top. Other approved jerseys include: red, black, and
-blue but we stick with the standard yellow because all refs in a game are
-supposed to match. You will also need a whistle, watch, coin and pen for all
-games. As an adult you will need red and yellow cards and flags.
-
-* Soccer Express, 6751 N Blackstone@Herndon, Fresno / 559-432-7511
-
-	Tell them you are a MAYSL referee & receive a 15% discount.
-	They have gear packages for referees, as well as individual items.
- 
-* Pro Soccer, 6929 N Willow@Herndon, Clovis / 559-299-5363
-
-	They have ref gear packages. They will give MAYSL refs a discount
-    on individual gear items.
+## Purchasing Uniforms and Equipment
  
 You may buy the gear online through any soccer store or through many sporting
 goods stores or other soccer stores in the Fresno Area.  They do not need to be
 any specific brand.
 
+Local options:
 
-### Scheduling
+* Soccer Express, 6751 N Blackstone @ Herndon in Fresno / 559-432-7511
+
+	Tell them you are a MAYSL referee & receive a 15% discount.
+	They have gear packages for referees, as well as individual items.
+ 
+* Pro Soccer, 6929 N Willow @ Herndon in Clovis / 559-299-5363
+
+	They have ref gear packages. They will give MAYSL refs a discount
+    on individual gear items.
+
+
+## Schedules
 
 Schedules are managed by the league reffing coordinator, sgsultana@gmail.com
 
@@ -86,23 +94,25 @@ have had to make last minute changes on the fields due to postponements so refs
 must be flexible.
 
 
-### Pay
+## Pay
 
-We use the game cards to keep a record of the games and also to pay the refs so
-it is very important that all game cards are turned in and legible. All refs
-need to print their name on the cards and make sure it is filled out properly
-with the date and age group.
+Game cards are used not only to keep a record of the games, but also to track
+time for paying referees. On each game card, every participating referee or
+facilitator should print their name. Ensure that the date and age group are
+included as well.
 
-* U5-U8: $10/game, using one or two youth refs as centers
-* U10: $20/game for the center, $10/game for assistants
-* U12-U15: $25/game for the center, $15/game for assistants
-* Travel games: paid for by District 7, according to their payscale
+Rates:
+
+* _U5-U8:_ $10/game, using one or two youth refs as centers
+* _U10:_ $20/game for the center, $10/game for assistants
+* _U12-U15:_ $25/game for the center, $15/game for assistants
+* _Travel games:_ paid for by District 7, according to their payscale
 
 In the spring league, scheduling and pay are different. MAYSL pays referees for
 travel games and District 7 reimburses the league.
 
 
-## Things To Be Aware Of
+## Game Day Highlights
 
 ### Player Safety
 
@@ -121,14 +131,12 @@ Heat-related ilness is a real risk here in central California. Take a look at th
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
 are used.
+
 Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
 **Player Development**:
 
-_4:04:01_ Each player must participate a minimum of 50% of every game. Applies to all
+> _4:04:01_ Each player must participate a minimum of 50% of every game. Applies to all
 age groups and teams.
-
-_4:04:02_ For U8 and U10 teams, each player must play each field position
-at least once during the season.
 
 See [rules](/rules/) for more.
 
