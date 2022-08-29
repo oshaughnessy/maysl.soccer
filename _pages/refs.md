@@ -102,7 +102,7 @@ time for paying referees. On each game card, every participating referee or
 facilitator should print their name. Ensure that the date and age group are
 included as well.
 
-Rates:
+Rates as of 2019:
 
 * _U5-U8:_ $10/game, using one or two youth refs as centers
 * _U10:_ $20/game for the center, $10/game for assistants
