@@ -27,7 +27,7 @@ Uniforms for MAYSL games include:
 * yellow jersey with black stripes
 * all-black shorts with pockets
 * black socks with 3 white stripes at the top
-* mostly black shoes
+* primarily-black shoes
 
 
 ## Equipment
