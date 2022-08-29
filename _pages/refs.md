@@ -144,7 +144,7 @@ See [rules](/rules/) for more.
 
 ## Further Reading
 
-For more information, see the [CYSA District VII Coaching Page](
-https://cysadistrict7.org/for-coaches/).
+For more information, see the [CYSA District VII Referee Page](
+https://cysadistrict7.org/for-referees/).
 
 We also have various [resources](/resources/) available on our site.
