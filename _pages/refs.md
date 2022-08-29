@@ -19,8 +19,9 @@ Facilitator uniforms include:
 
 ## Referee Uniforms
 
-Every referee must provide and wear a USSF approved uniform whenever they are
-officiating games.
+Every referee must provide and wear a [USSF approved uniform](
+https://officialsports.com/referee-uniforms/ussf-economy-jerseys/)
+whenever they are officiating games.
 
 Uniforms for MAYSL games include:
 
