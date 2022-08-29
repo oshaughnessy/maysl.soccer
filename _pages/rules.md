@@ -9,6 +9,9 @@ toc: true
 
 FIFA laws of the game are followed at all age groups.
 
+For a friendly overview of the Laws of the Game, see
+[Laws of the Game Made Easy](/files/laws-of-the-game-made-easy-2011.pdf).
+
 ## Game Length
 
 Laws 2, 3 and 7 are modified as shown:
@@ -24,6 +27,10 @@ Laws 2, 3 and 7 are modified as shown:
 ## Offside
 
 Law 11 (offside) is enforced beginning in U9/U10.
+
+For a friendly overview of offside rules, see
+[Offside Made Easy](/files/offside-made-easy.pdf).
+
 
 ## Throw-Ins
 
