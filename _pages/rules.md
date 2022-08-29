@@ -12,7 +12,7 @@ FIFA laws of the game are followed at all age groups.
 For a friendly overview of the Laws of the Game, see
 [Laws of the Game Made Easy](/files/laws-of-the-game-made-easy-2011.pdf).
 
-## Game Length
+## Game Sizes
 
 Laws 2, 3 and 7 are modified as shown:
 
