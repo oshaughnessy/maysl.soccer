@@ -145,11 +145,11 @@ Law 4 is very clear:
 > rubber bands, etc.) are forbidden and must be removed. Using tape to cover
 > jewellery is not permitted.
 
-(Americans, that's "jewelry" to you. :-)
+(Americans, that's "jewelry" to us. :-)
 
 This is an important one to keep in mind well before the season starts. There
 are no exceptions for fresh piercings where the studs or earrings shouldn't
-be removed. If a player won't remove them, they can't play.
+be removed within the first weeks. If a player won't remove them, they can't play.
 
 
 ## Further Reading
