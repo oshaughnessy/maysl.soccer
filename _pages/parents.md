@@ -58,8 +58,104 @@ to deal with them. They'll want to be prepared in case there's an emergency,
 and they should be able to recognize changes in your childrens' normal behavior.
 
 
+## Equipment
+
+What do your kids need to play soccer with MAYSL?
+
+* shoes or cleats
+* shin guards
+* socks
+* shorts
+* sunglasses
+
+The league will provide jerseys and soccer balls for the team.
+
+What can't your kids wear?
+
+* jewelry (earrings, necklaces)
+* watches
+* hard medical devices (e.g. casts, plastic knee braces)
+* hats (goalkeepers may wear baseball-style caps, though)
+
+See [Law 4, The Players' Equipment](
+https://www.theifab.com/laws/latest/the-players-equipment/),
+for the exact rules.
+
+More guidance for how we approach equiment at MAYSL is given below.
+
+### Soccer shoes
+
+_Can you use cleats from another sport?_ You sure can, as long as they're just
+plastic knobs and they don't have a front cleat like baseball and football
+cleats often do.
+
+_Can you use shoes that aren't cleats?_ Yes, but they should be appropriate
+for sports -- think "outdoor athletic shoes" -- with enough traction
+to keep your kids from slipping on the grass, and laces in good enough shape
+that they stay firmly on your kids' feet. Nobody wants to see your kid fall
+and get hurt or lose their shoe during a kick.
+
+Many soccer players will want soccer cleats because they're designed for
+good ball control: they fit the shape of your foot, they keep you nimble for
+quick turns and sprints, they allow for feel in the toe while still allowing
+you to make a solid kick, and they give firm traction in a variety of
+field conditions.
+
+### Socks
+
+Uniform socks should rise to just below the player's knee. They must
+fully cover the player's shin guards.
+
+### Shin guards
+
+Shin guards are required. They must be in good condition with adequate
+coverage of the player's lower leg. What does that mean? All modern
+shin guards will have their intended height range etched into the plastic.
+Your player can wear them if they fit within that range.
+
+Shin guards do not need to have straps or stirrups, but they must be
+fully covered under the player's socks.
+
+### Shorts
+
+Uniform shorts should match across the team. Most teams at MAYSL wear all
+black shorts without any standout piping or lettering. Shorts should be
+loose-fitting. Tights or bicycle-style shorts alone are not allowed, but
+may be worn under shorts if they are the same color.
+
+Goalkeepers may wear tracksuit bottoms instead of shorts.
+
+### Other clothing
+
+A long-sleeve shirt or a sweatshirt without a hood may be worn under the
+game jersey. The sleeves must match the shirt color.
+
+Goalkeepers are allowed to wear a baseball-style cap as long as the brim
+is facing the front.
+
+Sports-oriented sunglasses are allowed, but they should be made to withstand
+the rigors of the game. It's up to the referee at any given game to exercise
+their judgement, but as a general guideline, they should have strong plastic
+lenses (no glass) and durable plastic frames.
+
+### Jewelry
+
+Law 4 is very clear:
+
+> All items of jewellery (necklaces, rings, bracelets, earrings, leather bands,
+> rubber bands, etc.) are forbidden and must be removed. Using tape to cover
+> jewellery is not permitted.
+
+(Americans, that's "jewelry" to you. :-)
+
+This is an important one to keep in mind well before the season starts. There
+are no exceptions for fresh piercings where the studs or earrings shouldn't
+be removed. If a player won't remove them, they can't play.
+
+
 ## Further Reading
 
-For more information, see the [CYSA District VII Parents Page](https://cysadistrict7.org/for-parents/).
+For more information, see the [CYSA District VII Parents Page](
+https://cysadistrict7.org/for-parents/).
 
 We also have various [resources](/resources/) available on our site.
