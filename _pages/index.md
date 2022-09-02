@@ -8,11 +8,9 @@ permalink: /
 layout: home
 ---
 
-Welcome to the 2022-2023 fall season!
+Welcome to the 2022-2023 Fall season!
+We're looking forward to starting games on Saturday, Sept 17.
 
-We're taking sign-ups until August 15, but we're assigning teams now.
-
-Please see the following pages for more info:
-
+Questions about getting started? Take a look here for more info:
 * [For parents](/parents/)
 * [For coaches](/coaches/)
