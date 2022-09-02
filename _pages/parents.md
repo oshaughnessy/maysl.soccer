@@ -71,7 +71,7 @@ The league will provide jerseys and soccer balls for the team.
 
 What can't your kids wear?
 
-* jewelry (earrings, necklaces)
+* jewelry (any kind)
 * watches
 * hard medical devices (e.g. casts, plastic knee braces)
 * hats (goalkeepers may wear baseball-style caps, though)
