@@ -66,7 +66,6 @@ What do your kids need to play soccer with MAYSL?
 * shin guards
 * socks
 * shorts
-* sunglasses
 
 The league will provide jerseys and soccer balls for the team.
 
