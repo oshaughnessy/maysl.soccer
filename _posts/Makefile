@@ -1,5 +1,5 @@
 DATESTAMP=$(shell date +%Y-%m-%d)
 
 %:
-	[ ! -f $(DATESTAMP)-$@ ] && printf -- "---\ntitle: \ntag: \n---\n\n" >> $(DATESTAMP)-$@.md
+	[ ! -f $(DATESTAMP)-$@.md ] && { printf -- "---\ntitle: \ntag: \n---\n\n" >> $(DATESTAMP)-$@.md; } || true
 	vim $(DATESTAMP)-$@.md
