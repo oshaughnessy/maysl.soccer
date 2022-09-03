@@ -145,6 +145,7 @@ Heat-related ilness is a real risk here in central California. Take a look at th
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
 are used.
+
 Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
 **Player Development**:
 
@@ -156,6 +157,17 @@ at least once during the season.
 
 See [rules](/rules/) for more.
 
+
+#### U10 and Higher
+
+We introduce Offside play in the U10 division. This page at US Soccer,
+[Five Things to Know: How Small-Sided Standards Will Change Youth Soccer](
+https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer),
+talks about using build-out lines to introduce the concept at the U9 level
+(but we don't do U9 here, so we start with U10). That new line at the
+1/3 point from either end will mark the offside line for younger players,
+to get them thinking about their field position in a way that makes for fairer
+team play for both the offense and defense.
 
 ## Further Reading
 
