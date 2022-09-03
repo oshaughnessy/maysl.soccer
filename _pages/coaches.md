@@ -164,10 +164,22 @@ We introduce Offside play in the U10 division. This page at US Soccer,
 [Five Things to Know: How Small-Sided Standards Will Change Youth Soccer](
 https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer),
 talks about using build-out lines to introduce the concept at the U9 level
-(but we don't do U9 here, so we start with U10). That new line at the
-1/3 point from either end will mark the offside line for younger players,
-to get them thinking about their field position in a way that makes for fairer
+(but we don't do U9 here, so we start with U10). That new line at about the
+1/3 point from either end will mark the offside line for younger players;
+it gets them thinking about their field position in a way that creates fairer
 team play for both the offense and defense.
+
+> Starting at the U-9 level, games will use build-out lines. A horizontal
+> line drawn from sideline to sideline 14-yards in front of each goal,
+> build-out lines will encourage possession and playing the ball out of the
+> back. When a goalkeeper has the ball in hand or takes a goal kick, the
+> opposing team remains behind the build-out line until the ball is put into
+> play. This line also indicates where offside can be called, as teams cannot
+> be called for offside between the midfield and build-out line. As part of
+> small-sided standards, there will be no offside infraction before the U-9
+> age group. New rules also ban headers as well as punts and drop kicks from
+> the goalkeeper.
+
 
 ## Further Reading
 
