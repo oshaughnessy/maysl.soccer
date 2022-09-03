@@ -117,17 +117,17 @@ fully covered under the player's socks.
 
 ### Shorts
 
-Uniform shorts should match across the team. Most teams at MAYSL wear all
-black shorts without any standout piping or lettering. Shorts should be
-loose-fitting. Tights or bicycle-style shorts alone are not allowed, but
-may be worn under shorts if they are the same color.
+Most teams at MAYSL wear black (or _mostly_ black) shorts. They should be a
+loose-fitting sports style (not cargo shorts, denim, or form-fitting exercise
+shorts, for example). Tights or bicycle-style shorts can be worn _underneath_,
+but they should also be black.
 
 Goalkeepers may wear tracksuit bottoms instead of shorts.
 
 ### Other clothing
 
 A long-sleeve shirt or a sweatshirt without a hood may be worn under the
-game jersey. The sleeves must match the shirt color.
+game jersey.
 
 Goalkeepers are allowed to wear a baseball-style cap as long as the brim
 is facing the front.
