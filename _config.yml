@@ -98,6 +98,12 @@ logo: /files/maysl-logo.png
 minimal_mistakes_skin: maysl
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-3YQ3FTWMRY
+    anonymize_ip: false
+
 twitter:
   username: ohshaughnessy
 facebook:
