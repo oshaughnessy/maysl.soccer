@@ -105,6 +105,9 @@ field conditions.
 Uniform socks should rise to just below the player's knee. They must
 fully cover the player's shin guards.
 
+Sock colors are up to each team's coaches. For travel teams, all players'
+socks must match.
+
 ### Shin guards
 
 Shin guards are required. They must be in good condition with adequate
