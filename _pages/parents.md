@@ -88,7 +88,7 @@ https://yoursoccerhome.com/what-you-can-and-cant-wear-for-soccer/), too.
 ### Soccer shoes
 
 _Can you use cleats from another sport?_ You sure can, as long as they're just
-plastic knobs and they don't have a front cleat like baseball and football
+plastic knobs and they don't have a front stud like baseball and football
 cleats often do.
 
 _Can you use shoes that aren't cleats?_ Yes, but they should be appropriate
