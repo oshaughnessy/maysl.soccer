@@ -181,6 +181,15 @@ team play for both the offense and defense.
 > the goalkeeper.
 
 
+## FAQ
+
+### _What if I can't make all the games?_
+
+Don't let that worry hold you back from signing up as a coach.
+An assistant coach or a team parent can cover practices and games
+if the head coach can't make it.
+
+
 ## Further Reading
 
 For more information, see the [CYSA District VII Coaching Page](
