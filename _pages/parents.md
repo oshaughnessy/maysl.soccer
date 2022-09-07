@@ -82,6 +82,9 @@ for the exact rules.
 
 More guidance for how we approach equiment at MAYSL is given below.
 
+Your Soccer Home has a great page on [What You Can (and Can't) Wear for Soccer](
+https://yoursoccerhome.com/what-you-can-and-cant-wear-for-soccer/), too.
+
 ### Soccer shoes
 
 _Can you use cleats from another sport?_ You sure can, as long as they're just
