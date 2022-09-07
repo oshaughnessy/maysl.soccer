@@ -185,9 +185,9 @@ team play for both the offense and defense.
 
 ### _What if I can't make all the games?_
 
-Don't let that worry hold you back from signing up as a coach.
 An assistant coach or a team parent can cover practices and games
-if the head coach can't make it.
+if the head coach can't make it. Don't let that hold you back from
+signing up as a coach!
 
 
 ## Further Reading
