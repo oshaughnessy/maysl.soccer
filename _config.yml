@@ -160,8 +160,9 @@ include: ["_pages"]
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true
+search_provider: lunr
+search_full_content: true
 lunr:
   search_within_pages: true
-  search_full_content: true
 #google:
 #  search_engine_id: 462070f4ab7ad47f3
