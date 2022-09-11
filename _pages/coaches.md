@@ -79,7 +79,7 @@ and you can tell the site to search the records for it.
 ![image-center](/files/safesport-record-check.jpg){: .align-center}
 
 If the record is found, that will be enough for the Got Sport system. If it's not found,
-just certificate file instead.
+upload the certificate file instead.
 
 Direct link: [Safe Sport Training](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 
