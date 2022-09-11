@@ -157,3 +157,11 @@ include: ["_pages"]
 
 #paginate: 5  # amount of posts to show
 #paginate_path: /updates/page:num
+
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
+search: true
+lunr:
+  search_within_pages: true
+  search_full_content: true
+#google:
+#  search_engine_id: 462070f4ab7ad47f3
