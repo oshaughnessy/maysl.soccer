@@ -16,14 +16,14 @@ If you'd like to coach a team, please take the following steps:
     or form are right there in the list, under the _Details_ column.
     Please be sure to use your full legal name for all of the forms.
 
-2. Complete **coaching classes**. You'll need to complete and submit each of the lessons
+2. [Complete **coaching courses**](#coaching-requirements). You'll need to complete and submit each of the lessons
    listed there, "Introduction to Safe and Healthy Playing Environments" and "Safe Sport
    Training". Each one takes 15-30 minutes.
 
-3. You'll also need to submit a form for a **background check**.
+3. You'll also need to submit a form for a [**background check**](#background-checks).
 
-4. Register a **Live Scan**. This only needs to be done once by each league coach --
-   you don't need to do it annually -- but a Live Scan for another sport or league
+4. [Register a **Live Scan**](#live-scan). This only needs to be done once by each league
+   coach -- you don't need to do it annually -- but a Live Scan for another sport or league
    cannot be used by MAYSL.
 
 **Please Note**:
@@ -46,6 +46,13 @@ The league needs to see proof that you've finished your coaching
 classes, and this is where you can record all of that.  The way to
 provide proof varies by course.
 
+**If you have trouble with GotSport registration, you can still start on your courses.**
+
+The coaching course requirements are listed at the bottom of the [CalNorth Coaching Education
+page](https://www.calnorth.org/coachingeducation):
+   
+   * [Introduction to Safe and Healthy Playing Environments](https://learning.ussoccer.com/coach/courses/available/32/details/6165)
+   * [Safe Sport Training](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 
 ### Intro to Health and Safety
 
@@ -61,6 +68,8 @@ bottom of your profile, on the right side, you'll see a box called "Safety Certi
 showing the dates that you completed them. Please take a screenshot of that and upload it
 into your Got Sport profile.
 
+Direct link: [Introduction to Safe and Healthy Playing Environments](https://learning.ussoccer.com/coach/courses/available/32/details/6165)
+
 ### SafeSport
 
 The SafeSport course provides you with a certificate that you can download. When you
@@ -71,6 +80,8 @@ and you can tell the site to search the records for it.
 
 If the record is found, that will be enough for the Got Sport system. If it's not found,
 just certificate file instead.
+
+Direct link: [Safe Sport Training](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 
 ### Background Checks
 
