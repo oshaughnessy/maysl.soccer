@@ -16,13 +16,13 @@ For a friendly overview of the Laws of the Game, see
 
 Laws 2, 3 and 7 are modified as shown:
 
-| Age Group | # Players | Game Length        | Ball Size
-|-----------|-----------|--------------------|----------
-| U4-U6     | 3v3       | 10-minute quarters | 3
-| U7-U8     | 5v5       | 12-minute quarters | 3
-| U10       | 7v7       | 22-minute halves   | 4
-| U12       | 9v9       | 30-minute halves   | 4
-| U14+      | 11v11     | 35-minute halves   | 5
+| Age Group | # Players | Game Length        | Ball Size | Goal Size
+|-----------|-----------|--------------------|-----------|-----------
+| U4-U6     | 3v3       | 10-minute quarters | 3         | PUG Pop-up goal (width x height)
+| U7-U8     | 5v5       | 12-minute quarters | 3         | 6'x12'
+| U10       | 7v7       | 22-minute halves   | 4         | 6.5'x18'
+| U12-U13   | 9v9       | 30-minute halves   | 4         | 7'x21'
+| U14+      | 11v11     | 35-minute halves   | 5         | 8'x24'
 
 ## Offside
 
