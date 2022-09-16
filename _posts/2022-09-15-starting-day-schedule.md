@@ -73,3 +73,6 @@ September 17, 2022
 ## UNDER 6 CLINIC
 
 10:00 - 11:30
+
+
+[Download](/schedules/2022/maysl-2022-09-17.pdf)
