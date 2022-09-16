@@ -24,6 +24,14 @@ Laws 2, 3 and 7 are modified as shown:
 | U12-U13   | 9v9       | 30-minute halves   | 4         | 7'x21'
 | U14+      | 11v11     | 35-minute halves   | 5         | 8'x24'
 
+## Growing with the Game
+
+Some rules are introduced as players get into older age divisions:
+
+- start offside and throw-ins at U10
+- start drop-kicks at U12
+- start headers at U15
+
 ## Offside
 
 Law 11 (offside) is enforced beginning in U9/U10.
@@ -31,11 +39,23 @@ Law 11 (offside) is enforced beginning in U9/U10.
 For a friendly overview of offside rules, see
 [Offside Made Easy](/files/offside-made-easy.pdf).
 
+## Substitutions
+
+Player substitutions during a game are only allowed when the ball is out
+of play. For example, during a throw-in or penalty kick.
+
+At MAYSL, we don't do single-player sub-ins until U10.
+In U8, a group of players will play for 10 minutes, then the whole group
+will come out and a new group will come in.
 
 ## Throw-Ins
 
 Law 15 (the throw-in) is followed in all age groups but referees
 may allow improper throws to be retaken in U8 and younger age groups.
+
+At MAYSL, we don't do throw-ins at U8 and younger; instead,
+kick from out-of-bounds. Begin teaching and enforcing throw-in rules
+at U10.
 
 ## Team Size
 
@@ -125,6 +145,8 @@ fun, skill development, and encouragement for ALL players.**
 
 
 ## Heading
+
+Heading the ball is not allowed until a player joins a U14/U15 age division.
 
 Taken from <https://cysadistrict7.org>:
 
