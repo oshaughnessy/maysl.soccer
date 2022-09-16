@@ -5,7 +5,7 @@ tag: 2022-season schedule
 
 ## UNDER 8 GIRLS:  4 - 10 MINUTE QUARTERS   
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 9:00  | Rivergold A (Chambers)        | Oakhurst A (Garcia/Airey)
 | 10:00 | Spring Valley A (Ching)       | Wasuma (Garcia)
@@ -15,7 +15,7 @@ tag: 2022-season schedule
 
 ## UNDER 8 BOYS:  4- 10 MUNUTE QUARTERS
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 8:00  | Oakhurst B (Kilgore)          | Rivergold A (Weir)
 | 9:00  | Coarsegold A (Shipp)          | Wasuma A (Baggs)
@@ -27,24 +27,24 @@ tag: 2022-season schedule
 
 ## UNDER 10 GIRLS:  20 MINUTE HALVES
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
-| 8:00  | Wasuma A     EVANS     |  Wasuma B  TOMPKINS
-| 9:15  | Rivergold    FLANAGAN |  Spring Valley   ELROD
-| 11:45 | OAK/CG     SHIPP      |  North Fork  LOZANO
+| 8:00  | Wasuma A (Evans)              | Wasuma B (Tompkins)
+| 9:15  | Rivergold (Flanagan)          | Spring Valley (Elrod)
+| 11:45 | OAK/CG (Shipp)                | North Fork (Lozano)
 
 ## UNDER 10 BOYS:  25 MINUTE HALVES
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
-| 10:30 | Oakhurst B   MESSINGER       |          Spring Valley     DIXON
-| 1:00  | North Fork    PALMER |  Coarsegold   WILDER/DOBSON/ KUHNEL
-| 2:15  | Oakhurst A    BURNS       |  Wasuma      WOOD
-| 3:30  | Rivergold A   QUINTANA  |  Rivergold B   PETERSON/OTERO
+| 10:30 | Oakhurst B (Messinger)        | Spring Valley (Dixon)
+| 1:00  | North Fork (Palmer)           | Coarsegold (Wilder/Dobson/Kuhnel)
+| 2:15  | Oakhurst A (Burns)            | Wasuma (Wood)
+| 3:30  | Rivergold A (Quintana)        | Rivergold B (Peterson/Otero)
 
 ## UNDER 13 GIRLS:  30 MINUTE HALVES
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 8:00  | Oakhurst B (Hill)             | Rivergold (Sloas)
 | 9:30  | Spring Valley (Dixon)         | Wasuma (Wilson/Kreiter)
@@ -52,7 +52,7 @@ tag: 2022-season schedule
 
 ## UNDER 13 BOYS:  30 MINUTE HALVES
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 11:00 | North Fork (Quigley)          | Oakhurst (Hendrickson/Bartlett)
 | 12:30 | Rivergold (Greathouse)        | Wasuma (Wood)
@@ -60,10 +60,14 @@ tag: 2022-season schedule
 
 ## UNDER 16:  30 MINUTE HALVES
 
-| TIME  | Home                          | Visitors
+| Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 8:30  | North Fork                    | Mountain Coed (Hendricks)
 
-## UNDER 5 CLINIC     8:30 - 10:00
+## UNDER 5 CLINIC
 
-## UNDER 6 CLINIC     10:00 - 11:30
+8:30 - 10:00
+
+## UNDER 6 CLINIC
+
+10:00 - 11:30
