@@ -1,7 +1,9 @@
 ---
-title: Schedule for Opening Day 9/17
+title: Schedule for Opening Day
 tag: 2022-season schedule
 ---
+
+September 17, 2022
 
 ## UNDER 8 GIRLS:  4 - 10 MINUTE QUARTERS   
 
