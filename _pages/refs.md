@@ -104,9 +104,9 @@ included as well.
 
 Rates as of 2019:
 
-* _U5-U8:_ $10/game, using one or two youth refs as centers
-* _U10:_ $20/game for the center, $10/game for assistants
-* _U12-U15:_ $25/game for the center, $15/game for assistants
+* _U5-U8:_ $20/game if alone, $15/person if shared
+* _U10:_ $20/person/game
+* _U12-U15:_ $25/person/game
 * _Travel games:_ paid for by District 7, according to their payscale
 
 In the spring league, scheduling and pay are different. MAYSL pays referees for
