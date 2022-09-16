@@ -6,7 +6,15 @@ toc: true
 
 September 17, 2022
 
-## UNDER 8 GIRLS:  4 - 10 MINUTE QUARTERS   
+## Under 5 Clinic
+
+8:30 - 10:00am
+
+## Under 6 Clinic
+
+10:00 - 11:30am
+
+## Under 8 Girls
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -15,8 +23,9 @@ September 17, 2022
 | 11:00 | Rivergold/Coarsegold (Fox/Fox)| Spring Valley B (Ching)
 | BYE   | Oakhurst B (Gillaspy)         |
 
+4-10 minute quarters
 
-## UNDER 8 BOYS:  4- 10 MUNUTE QUARTERS
+## Under 8 Boys
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -27,8 +36,9 @@ September 17, 2022
 | 12:00 | Oakhurst A (Bur)              | Rivergold B (Pritchard)
 | BYE   | Rivergold C (Costa)           |
 
+4-10 minute quarters
 
-## UNDER 10 GIRLS:  20 MINUTE HALVES
+## Under 10 Girls
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -36,7 +46,9 @@ September 17, 2022
 | 9:15  | Rivergold (Flanagan)          | Spring Valley (Elrod)
 | 11:45 | OAK/CG (Shipp)                | North Fork (Lozano)
 
-## UNDER 10 BOYS:  25 MINUTE HALVES
+20 minute halves
+
+## Under 10 Boys
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -45,7 +57,9 @@ September 17, 2022
 | 2:15  | Oakhurst A (Burns)            | Wasuma (Wood)
 | 3:30  | Rivergold A (Quintana)        | Rivergold B (Peterson/Otero)
 
-## UNDER 13 GIRLS:  30 MINUTE HALVES
+25 minute halves
+
+## Under 13 Girls
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -53,7 +67,9 @@ September 17, 2022
 | 9:30  | Spring Valley (Dixon)         | Wasuma (Wilson/Kreiter)
 | BYE   | Oakhurst A (Gillaspy)
 
-## UNDER 13 BOYS:  30 MINUTE HALVES
+30 minute halves
+
+## Under 13 Boys
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
@@ -61,19 +77,14 @@ September 17, 2022
 | 12:30 | Rivergold (Greathouse)        | Wasuma (Wood)
 | 2:00  | Rivergold (Lescoulie)         | Spring Valley (Wulf)
 
-## UNDER 16:  30 MINUTE HALVES
+30 minute halves
+
+## Under 16
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 8:30  | North Fork                    | Mountain Coed (Hendricks)
 
-## UNDER 5 CLINIC
-
-8:30 - 10:00
-
-## UNDER 6 CLINIC
-
-10:00 - 11:30
-
+30 minute halves
 
 [Download](/schedules/2022/maysl-2022-09-17.pdf)
