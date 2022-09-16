@@ -1,5 +1,5 @@
 ---
-title: Schedule for Opening Day, Sept 17, 2022
+title: Schedule for Opening Day 9/17
 tag: 2022-season schedule
 ---
 
