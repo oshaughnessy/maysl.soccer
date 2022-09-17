@@ -110,9 +110,9 @@ Taken from <https://cysadistrict7.org>:
 
 ## Team Size
 
-If teams are short players they can agree to play short with an
+If teams are short players, they can agree to play short with an
 even number of players on the field. Teams may also borrow from
-other teams to get to the minimum but may not borrow additional
+other teams to get to the minimum, but they may not borrow additional
 players for subs.
 
 
@@ -123,32 +123,44 @@ is acceptable for players in younger age groups who play quarters
 to sit out a quarter as long as each player plays at least half the
 total game time.
 
-Games need to start on schedule, so the home team needs to give the
-visiting team the game card at least 20 minutes prior to the start
-of the game. Be ready to check in players at least 15 minutes before
-game time. If games start late playing time will be decreased.
+Games need to start on schedule. The home team needs to give the
+visiting team the game card (see [below](#game-supplies)) at least
+20 minutes prior to the start of the game. Be ready to check in
+players at least 15 minutes before game time. If games start late,
+playing time will be decreased.
 
 
 ## Game Supplies
 
-The first team listed is the home team and is responsible for
-bringing the game card.
+The home team (the 1st team in schedule listings) is responsible for
+providing at each game:
 
-The home team is responsible for bringing 2 game balls.
+- the game card
+- 2 soccer balls
+
+The coach of the home team can get the game card at the field before
+game time, then fill it out with their team roster. Pass it to the
+visiting team coach, who will fill it out then give it to the ref.
 
 
 ## Uniforms
 
 All players must wear shin guards which are completely covered by
 socks (socks may not be worn under the guards and folded down over
-the top.) Sweatpants are not permitted. In cold weather long sleeve
-shirts or non-hooded sweatshirts may be worn under the jersey. No
-jewelry of any kind or metal is allowed to be worn in a game.
+the top.)
+
+Sweatpants are not permitted. In cold weather long sleeve
+shirts or non-hooded sweatshirts may be worn under the jersey.
+
+No jewelry of any kind or metal is allowed to be worn in a game.
+
+For more info, see the [Equipment section](/parents/#equipment)
+on the Parents page.
 
 
 ## Field Care
 
-All teams need to clean up their areas after their games.
+All teams should clean up their areas after their games.
 
 
 ## Sportsmanship
