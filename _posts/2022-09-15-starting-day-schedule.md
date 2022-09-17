@@ -6,13 +6,16 @@ toc: true
 
 September 17, 2022
 
+
 ## Under 5 Clinic
 
 8:30 - 10:00am, various soccer-based games followed by scrimmages
 
+
 ## Under 6 Clinic
 
 10:00 - 11:30am, various soccer-based games followed by scrimmages
+
 
 ## Under 8 Girls
 
@@ -24,6 +27,7 @@ September 17, 2022
 | BYE   | Oakhurst B (Gillaspy)         |
 
 10-minute quarters
+
 
 ## Under 8 Boys
 
@@ -38,6 +42,7 @@ September 17, 2022
 
 10-minute quarters
 
+
 ## Under 10 Girls
 
 | Time  | Home                          | Visitors
@@ -47,6 +52,7 @@ September 17, 2022
 | 11:45 | Oakhurst/Coarsegold (Shipp)   | North Fork (Lozano)
 
 20-minute halves
+
 
 ## Under 10 Boys
 
@@ -59,6 +65,7 @@ September 17, 2022
 
 25-minute halves
 
+
 ## Under 13 Girls
 
 | Time  | Home                          | Visitors
@@ -68,6 +75,7 @@ September 17, 2022
 | BYE   | Oakhurst A (Gillaspy)
 
 30-minute halves
+
 
 ## Under 13 Boys
 
@@ -79,12 +87,14 @@ September 17, 2022
 
 30-minute halves
 
+
 ## Under 16
 
 | Time  | Home                          | Visitors
 |-------|-------------------------------|-----------------------------
 | 8:30  | North Fork                    | Mountain Coed (Hendricks)
 
-30 minute halves
+30-minute halves
+
 
 [Download](/schedules/2022/maysl-2022-09-17.pdf)
