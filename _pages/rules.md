@@ -119,9 +119,9 @@ players for subs.
 ## Play Time
 
 All players should play at least half of each half of a game. It
-is acceptable for players in younger age groups, who play quarters,
-to sit out a quarter; each player should participate in at least half
-of the total game time.
+is acceptable for players in younger age groups, where quarters are
+played, to sit out a quarter; each player should participate in at
+least half of the total game time.
 
 Games need to start on schedule. The home team should give the
 visiting team the game card (see [below](#game-supplies)) at least
