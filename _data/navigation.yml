@@ -4,6 +4,8 @@ main:
   url: /
 - title: Updates
   url: /updates/
+- title: Schedules
+  url: /schedules/
 - title: Parents
   url: /parents/
 - title: Coaches

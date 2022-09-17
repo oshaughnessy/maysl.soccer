@@ -6,6 +6,8 @@ toc: true
 
 September 17, 2022
 
+_Game times for the rest of the season will be released soon._
+
 
 ## Under 5 Clinic
 

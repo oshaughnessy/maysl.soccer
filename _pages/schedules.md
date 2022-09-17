@@ -5,3 +5,5 @@ toc: false
 ---
 
 * [Sept 17, 2022](/schedules/2022/2022-09-17.html)
+
+Game times for the rest of the season will be coming soon.
