@@ -42,7 +42,7 @@ Some rules are introduced as players get into older age divisions:
 [Law 11](https://www.theifab.com/laws/latest/offside/), "Offside", is enforced beginning
 in U9/U10.
 
-For a friendly overview of offside rules, see
+For a friendly, clear explanation of offside rules, see
 [Offside Made Easy](/files/offside-made-easy.pdf).
 
 ### Substitutions
