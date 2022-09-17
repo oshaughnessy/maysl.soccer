@@ -72,7 +72,7 @@ Taken from <https://cysadistrict7.org>:
 > 
 > (Approved by Board of Directors, August 4, 2019)
 > 
-> ### PLAYING POLICY
+> #### Playing Policy
 > 
 > * Heading is prohibited in 12U and younger small-sided games.
 > 
@@ -92,7 +92,7 @@ Taken from <https://cysadistrict7.org>:
 >   in a non-CYSA sanctioned event with their CYSA player pass, must
 >   adhere to the CYSA heading policy and are prohibited from heading.
 > 
-> ### PRACTICE POLICY
+> #### Practice Policy
 > 
 > * All players age eleven (11) years old and younger are prohibited from heading.
 > 
