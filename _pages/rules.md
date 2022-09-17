@@ -12,6 +12,7 @@ FIFA laws of the game are followed at all age groups.
 For a friendly overview of the Laws of the Game, see
 [Laws of the Game Made Easy](/files/laws-of-the-game-made-easy-2011.pdf).
 
+
 ## Game Sizes
 
 Laws [2](https://www.theifab.com/laws/latest/the-ball/ "The Ball"),
@@ -55,7 +56,6 @@ In U8, a group of players will play for 10 minutes, then the whole group
 will come out and a new group will come in.
 
 ### Throw-Ins
-
 
 [Law 15](https://www.theifab.com/laws/latest/the-throw-in/), "The Throw-In",
 is enforced at U10 and above.
@@ -119,11 +119,11 @@ players for subs.
 ## Play Time
 
 All players should play at least half of each half of a game. It
-is acceptable for players in younger age groups who play quarters
-to sit out a quarter as long as each player plays at least half the
-total game time.
+is acceptable for players in younger age groups, who play quarters,
+to sit out a quarter; each player should participate in at least half
+of the total game time.
 
-Games need to start on schedule. The home team needs to give the
+Games need to start on schedule. The home team should give the
 visiting team the game card (see [below](#game-supplies)) at least
 20 minutes prior to the start of the game. Be ready to check in
 players at least 15 minutes before game time. If games start late,
