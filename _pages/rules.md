@@ -141,6 +141,7 @@ providing at each game:
 The coach of the home team can get the game card at the field before
 game time, then fill it out with their team roster. Pass it to the
 visiting team coach, who will fill it out then give it to the ref.
+The ref should have the card by 15 minutes before game time.
 
 
 ## Uniforms
