@@ -8,11 +8,11 @@ September 17, 2022
 
 ## Under 5 Clinic
 
-8:30 - 10:00am
+8:30 - 10:00am, various soccer-based games followed by scrimmages
 
 ## Under 6 Clinic
 
-10:00 - 11:30am
+10:00 - 11:30am, various soccer-based games followed by scrimmages
 
 ## Under 8 Girls
 
@@ -23,7 +23,7 @@ September 17, 2022
 | 11:00 | Rivergold/Coarsegold (Fox/Fox)| Spring Valley B (Ching)
 | BYE   | Oakhurst B (Gillaspy)         |
 
-4-10 minute quarters
+10-minute quarters
 
 ## Under 8 Boys
 
@@ -31,12 +31,12 @@ September 17, 2022
 |-------|-------------------------------|-----------------------------
 | 8:00  | Oakhurst B (Kilgore)          | Rivergold A (Weir)
 | 9:00  | Coarsegold A (Shipp)          | Wasuma A (Baggs)
-| 10:00 | North Fork (Cibulsk)          | Wasuma B (Holcomb)
+| 10:00 | North Fork (Cibulskis)        | Wasuma B (Holcomb)
 | 11:00 | Coarsegold B (Lagow)          | Spring Valley (Vaughn)
 | 12:00 | Oakhurst A (Bur)              | Rivergold B (Pritchard)
 | BYE   | Rivergold C (Costa)           |
 
-4-10 minute quarters
+10-minute quarters
 
 ## Under 10 Girls
 
@@ -44,9 +44,9 @@ September 17, 2022
 |-------|-------------------------------|-----------------------------
 | 8:00  | Wasuma A (Evans)              | Wasuma B (Tompkins)
 | 9:15  | Rivergold (Flanagan)          | Spring Valley (Elrod)
-| 11:45 | OAK/CG (Shipp)                | North Fork (Lozano)
+| 11:45 | Oakhurst/Coarsegold (Shipp)   | North Fork (Lozano)
 
-20 minute halves
+20-minute halves
 
 ## Under 10 Boys
 
@@ -57,7 +57,7 @@ September 17, 2022
 | 2:15  | Oakhurst A (Burns)            | Wasuma (Wood)
 | 3:30  | Rivergold A (Quintana)        | Rivergold B (Peterson/Otero)
 
-25 minute halves
+25-minute halves
 
 ## Under 13 Girls
 
@@ -67,7 +67,7 @@ September 17, 2022
 | 9:30  | Spring Valley (Dixon)         | Wasuma (Wilson/Kreiter)
 | BYE   | Oakhurst A (Gillaspy)
 
-30 minute halves
+30-minute halves
 
 ## Under 13 Boys
 
@@ -77,7 +77,7 @@ September 17, 2022
 | 12:30 | Rivergold (Greathouse)        | Wasuma (Wood)
 | 2:00  | Rivergold (Lescoulie)         | Spring Valley (Wulf)
 
-30 minute halves
+30-minute halves
 
 ## Under 16
 
