@@ -51,16 +51,21 @@ Player substitutions during a game are only allowed when [the ball is out
 of play](https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/).
 For example, during a throw-in or penalty kick.
 
-At MAYSL, we don't do single-player sub-ins until U10.
-In U8, a group of players will play for 10 minutes, then the whole group
-will come out and a new group will come in.
+At MAYSL, we don't do single-player sub-ins until U10. In U8, a group of
+players will play for 10 minutes, then the whole group will come out and
+a new group will come in.
 
 ### Throw-Ins
 
 [Law 15](https://www.theifab.com/laws/latest/the-throw-in/), "The Throw-In",
-is enforced at U10 and above.
+is enforced at U10 and above. For U8 and younger, we just kick from out-of-bounds.
 
-For U8 and younger, we kick from out-of-bounds.
+_Why?_ Kids have trouble learning proper throw-in technique when they're that
+young, and we don't want them to settle into bad habits. We've found that it's
+better to wait until they're a little older and more coordinated. When we have
+tried to enforce good throw-ins for 6 and 7-year-olds, we spend too much time
+on the sidelines. Watch a professional game -- throw-ins should be correct _and
+quick_, so we wait until they're ready to learn that.
 
 ### Heading
 
