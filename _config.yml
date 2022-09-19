@@ -119,6 +119,10 @@ social:
     #- https://www.linkedin.com/in/yourprofile
 footer:
   links:
+    - label: About
+      url: /about/
+    - label: Contact
+      url: /contact/
     #- label: Twitter
     #  icon: fab fa-fw fa-twitter-square
     #  url: https://twitter.com/mmistakes

@@ -8,18 +8,22 @@ main:
   url: /schedules/
 - title: Parents
   url: /parents/
+  description: For parents
 - title: Coaches
   url: /coaches/
+  description: For coaches
 - title: Refs
   url: /refs/
+  description: For referees
 - title: Rules
   url: /rules/
-- title: Contact
-  url: /contact/
-- title: About
-  url: /about/
+#- title: Contact
+#  url: /contact/
+#- title: About
+#  url: /about/
 - title: GotSport
   url: https://system.gotsport.com/
+  description: League registration account
 
 coaching:
 - title: Registration
