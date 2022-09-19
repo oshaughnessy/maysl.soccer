@@ -19,8 +19,9 @@ or the
 If you'd like to sign up your kids:
 
 1. **Register** players at [GotSport](https://system.gotsport.com/programs/88407263X?reg_role=player)
-    * Registration for travel teams ends on July 10, 2022.
-    * Registration for local teams ends on Aug 15, 2022.
+    * Registration for travel teams ends in mid-July.
+    * Registration for local teams ends in mid-August.
+    * See the [News](/updates/) section for specific dates.
 
 2. Your players will be **assigned to teams** starting the week of August 14.
    Coaches will reach out that week or next to discuss practices.
