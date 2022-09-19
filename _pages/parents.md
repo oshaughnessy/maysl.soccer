@@ -7,7 +7,7 @@ toc: true
 ## Eligibility
 
 Kids ages 3-18 can play soccer with the Mountain Area Youth Soccer League.
-You can find out your players' age for league placement at the
+You can find out your player's age for league placement at the
 [CYSA Division 7 League Age Chart](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/)
 or the 
 [CalNorth Age Calculator](https://www.calnorth.org/soccer-age).
