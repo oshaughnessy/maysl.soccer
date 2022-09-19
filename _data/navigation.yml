@@ -2,7 +2,7 @@
 main:
 - title: Home
   url: /
-- title: Updates
+- title: News
   url: /updates/
 - title: Schedules
   url: /schedules/
