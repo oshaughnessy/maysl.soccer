@@ -7,7 +7,8 @@ toc: true
 
 ## Basic Rules
 
-FIFA laws of the game are followed at all age groups.
+FIFA laws of the game are followed, with [minor adjustments](#growing-with-the-game)
+based on age group.
 
 For a friendly overview of the Laws of the Game, see
 [Laws of the Game Made Easy](/files/laws-of-the-game-made-easy-2011.pdf).
