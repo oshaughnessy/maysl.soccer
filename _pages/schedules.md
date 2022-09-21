@@ -13,5 +13,3 @@ toc: false
 * [U10 Girls](/schedules/2022/2022-U10-girls.html)
 * [U8 Boys](/schedules/2022/2022-U8-boys.html)
 * [U8 Girls](/schedules/2022/2022-U8-girls.html)
-
-Game times for the rest of the season will be coming soon.
