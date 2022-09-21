@@ -22,6 +22,9 @@ If you'd like to sign up your kids:
     * Registration for travel teams ends in mid-July.
     * Registration for local teams ends in mid-August.
 
+1b. If you need to upload birth certificates for your players after registration,
+    use [this form](https://system.gotsport.com/forms/97Z119169).
+
 2. Your players will be **assigned to teams** starting the week after school starts.
    Coaches will reach out that week or next to discuss practices.
 
