@@ -12,4 +12,6 @@ toc: false
 * [U10 Girls](/schedules/2022/2022-U10-girls.html)
 * [U8 Boys](/schedules/2022/2022-U8-boys.html)
 * [U8 Girls](/schedules/2022/2022-U8-girls.html)
+* [U6 Coed](/schedules/2022/2022-U6-coed.html)
+* [U5 Coed](/schedules/2022/2022-U5-coed.html)
 * Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
