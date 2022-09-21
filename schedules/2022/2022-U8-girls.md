@@ -1,6 +1,6 @@
 ---
 title: 2022 U8 Girls Schedule
-tag: 2022-season schedule
+tag: 2022-season schedule u8
 ---
 
 Games are played in 10-minute quarters.
