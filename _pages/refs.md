@@ -78,7 +78,8 @@ Local options:
 
 ## Schedules
 
-Schedules are managed by the league reffing coordinator, sgsultana@gmail.com
+Schedules are managed by the league reffing coordinator,
+[Kay Emmert](mailto:kayemmert@yahoo.com).
 
 Schedules are completed on a weekly basis. we try to give everyone who completed
 the clinic an equal opportunity to referee games. We are committed to developing
