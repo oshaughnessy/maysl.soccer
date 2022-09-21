@@ -167,7 +167,15 @@ on the Parents page.
 
 ## Field Care
 
+The first teams of the day should help set up the goals on their
+fields.
+
 All teams should clean up their areas after their games.
+
+The last teams of the day should help move them off the fields.
+
+(The fields are used by Yosemite High School for other sports
+during the week.)
 
 
 ## Sportsmanship
