@@ -6,6 +6,7 @@ toc: false
 
 ## 2022-2023 Season
 
+* [U16 Coed](/schedules/2022/2022-U16-coed.html)
 * [U13 Boys](/schedules/2022/2022-U13-boys.html)
 * [U13 Girls](/schedules/2022/2022-U13-girls.html)
 * [U10 Boys](/schedules/2022/2022-U10-boys.html)
