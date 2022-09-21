@@ -11,10 +11,6 @@ tag: 2022-season schedule
 | **Bye:**  | 2     | 6     | 7     | 3     |  4    | 1     | 5     | 2     | 7
 
 
-
-
-        
-
 | Code  | Team            | Coach                         
 |-------|-----------------|---------------
 | 1     | Oakhurst A      | R Garcia/Airey
@@ -24,3 +20,6 @@ tag: 2022-season schedule
 | 5     | Spring Valley B | Ching
 | 6     | Rivergold B     | Fox
 | 7     | Wasuma          | A Garcia
+
+
+[Download](/schedules/2022/MAYSL-2022-U8-girls.pdf)
