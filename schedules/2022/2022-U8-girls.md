@@ -15,12 +15,12 @@ tag: 2022-season schedule
 
         
 
-| Code  | Team          | Coach                         
-|-------|---------------|---------------
-| 1     | OAKHURST A      | R GARCIA/AIERY
-| 2     | OAKHURST B      | GILLASPY
-| 3     | RIVERGOLD A     | CHAMBERS
-| 4     | SPRING VALLEY A | CHING
-| 5     | SPRING VALLEY B | CHING
-| 6     | RIVERGOLD B     | FOX
-| 7     | WASUMA          | A GARCIA
+| Code  | Team            | Coach                         
+|-------|-----------------|---------------
+| 1     | Oakhurst A      | R Garcia/Airey
+| 2     | Oakhurst B      | Gillaspy
+| 3     | Rivergold A     | Chambers
+| 4     | Spring Valley A | Ching
+| 5     | Spring Valley B | Ching
+| 6     | Rivergold B     | Fox
+| 7     | Wasuma          | A Garcia
