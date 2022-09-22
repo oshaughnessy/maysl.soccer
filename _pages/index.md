@@ -9,8 +9,11 @@ layout: home
 ---
 
 Welcome to the 2022-2023 Fall season!
-We're looking forward to starting games on Saturday, Sept 17.
 
-Questions about getting started? Take a look here for more info:
+We're underway. See our [game schedules](/schedules/) for dates and times.
+
+
+Other questions? Please take a look here for more info:
+
 * [For parents](/parents/)
 * [For coaches](/coaches/)
