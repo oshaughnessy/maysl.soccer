@@ -4,6 +4,9 @@ permalink: /parents/
 toc: true
 ---
 
+Welcome, parents! Please see the information below, where we've tried to answer
+many common questions.
+
 ## Eligibility
 
 Kids ages 3-18 can play soccer with the Mountain Area Youth Soccer League.
@@ -16,6 +19,7 @@ or the
 
 ## Register
 
+MAYSL's primary season is in the fall, from mid-September to mid-November.
 If you'd like to sign up your kids:
 
 1. **Register** players at [GotSport](https://system.gotsport.com/programs/88407263X?reg_role=player)

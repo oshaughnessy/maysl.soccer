@@ -4,6 +4,14 @@ permalink: /schedules/
 toc: false
 ---
 
+MAYSL's primary season is in the fall. We typically play from mid-September to the week
+before Thankgiving, which gives us 9 or 10 weekends for games.
+
+All of the younger teams play on Saturdays at the lower field behind Yosemite High School.
+Older divisions and travel teams may sometimes have Sunday games instead, and they may
+play at other locations.
+
+
 ## 2022-2023 Season
 
 * [U16 Coed](/schedules/2022/2022-U16-coed.html)
