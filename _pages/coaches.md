@@ -5,6 +5,15 @@ toc: true
 toc_icon: bullhorn
 ---
 
+All of our coaches are volunteers. We have many that come back year
+after year to lead our kids, but we will always welcome new coaches
+as well. First-time parent volunters and leaders with experience at
+other organizations will all have something valuable to contribute.
+
+If you're interested, please reach out to the [area rep](/contact/)
+for your school.
+
+
 ## Registration
 
 If you'd like to coach a team, please take the following steps:
