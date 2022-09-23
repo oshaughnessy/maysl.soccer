@@ -2,7 +2,7 @@
 title: Coaches
 permalink: /coaches/
 toc: true
-toc_icon: futbol
+toc_icon: bullhorn
 ---
 
 ## Registration
