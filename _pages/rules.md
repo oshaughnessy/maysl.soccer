@@ -3,6 +3,7 @@ nav_title: Rules
 title: MAYSL Modified Laws & Guidelines
 permalink: /rules/
 toc: true
+toc_icon: balance-scale
 ---
 
 ## Basic Rules

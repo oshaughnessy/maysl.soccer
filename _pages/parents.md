@@ -2,6 +2,7 @@
 title: Parents
 permalink: /parents/
 toc: true
+toc_icon: users
 ---
 
 Welcome, parents! Please see the information below, where we've tried to answer
@@ -37,7 +38,7 @@ If you'd like to sign up your kids:
 
 4. The **last games** of the season will be on the weekend before Thanksgiving.
 
-**See the [News](/updates/) section for specific dates.**
+**See the [News](/news/) section for specific dates.**
 
 ### How do I know my kids' league age?
 

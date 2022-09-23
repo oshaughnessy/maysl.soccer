@@ -3,7 +3,7 @@ main:
 - title: Home
   url: /
 - title: News
-  url: /updates/
+  url: /news/
 - title: Schedules <i class="fa-solid fa-calendar-days"></i>
   url: /schedules/
 - title: Parents
@@ -39,8 +39,8 @@ sidebar:
 #- title: 
 #  image: /files/maysl-logo.png
 #  image_alt: Mountain Area Youth Soccer Logo
-- title: Updates
-  url: /updates/
+- title: News
+  url: /news/
 - title: Parents
   url: /parents/
 - title: Coaches

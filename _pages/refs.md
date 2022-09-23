@@ -2,6 +2,7 @@
 title: Referees
 permalink: /refs/
 toc: true
+toc_icon: futbol
 ---
 
 ## Facilitators
