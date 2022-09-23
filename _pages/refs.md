@@ -8,6 +8,9 @@ toc_icon: futbol
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
+If you have any questions about refereeing, please reach out to
+our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
+
 
 ## Facilitators
 
