@@ -25,9 +25,4 @@ for the location your child is playing in:
 * Oakhurst: [Karen Wood](mailto:karenjwood55@gmail.com)
 * North Fork/Spring Valley: [Kelley Lozano](mailto:kelleyswright@gmail.com)
 
-
-For the latest news, please see our
-[Facebook page](https://www.facebook.com/mountainyouthsoccer/), too.
-
-
 League President: [Beth Villaneuva](mailto:weespotoftea@gmail.com)
