@@ -32,4 +32,27 @@ play at other locations.
 
 ### Yosemite High School
 
-<iframe src="https://www.google.com/maps/d/embed?mid=15DpY24JXKTKon10Baj6W7fcm1qhHobo&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+<style>
+  .google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+  }
+  .google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>
+<div class="google-maps">
+<iframe src="https://www.google.com/maps/d/embed?mid=15DpY24JXKTKon10Baj6W7fcm1qhHobo&hl=en&ehbc=2E312F"
+  width="640"
+  height="480"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy">
+</iframe>
+</div>
