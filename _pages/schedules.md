@@ -25,3 +25,8 @@ play at other locations.
 * [U6 Coed](/schedules/2022/2022-U6-coed.html)
 * [U5 Coed](/schedules/2022/2022-U5-coed.html)
 * Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
+
+
+## Fields
+
+<iframe src="https://www.google.com/maps/d/embed?mid=15DpY24JXKTKon10Baj6W7fcm1qhHobo&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
