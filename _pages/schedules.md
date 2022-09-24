@@ -52,7 +52,7 @@ play at other locations.
   width="640"
   height="480"
   style="border:0;"
-  allowfullscreen=""
+  allowfullscreen
   loading="lazy">
 </iframe>
 </div>
