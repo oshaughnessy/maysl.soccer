@@ -53,3 +53,10 @@ sidebar:
   url: /about/
 - title: GotSport
   url: https://system.gotsport.com/
+
+
+news:
+- title: Recent
+  url: /news/
+- title: Tags
+  url: /tags/
