@@ -8,10 +8,6 @@ MAYSL's primary season is in the fall. We typically play from mid-September to t
 before Thankgiving and skip a weekend in mid-October for the fall school break,
 which gives us 9 or 10 weekends for games.
 
-All of the younger teams play on Saturdays at the lower field behind Yosemite High School.
-Older divisions and travel teams may sometimes have Sunday games instead, and they may
-play at other locations.
-
 
 ## 2022-2023 Season
 
@@ -28,5 +24,12 @@ play at other locations.
 
 
 ## Fields
+
+All of the younger teams play on Saturdays at the lower field behind Yosemite High School.
+Older divisions and travel teams may sometimes have Sunday games instead, and they may
+play at other locations.
+
+
+### Yosemite High School
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15DpY24JXKTKon10Baj6W7fcm1qhHobo&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
