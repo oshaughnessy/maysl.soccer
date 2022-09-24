@@ -1,6 +1,6 @@
 ---
 title: Signups for the 2022-2023 season are open
-tag: coaches players signup 2022-season
+tags: coaches players signup 2022-season
 ---
 
 Welcome to the 2022-2023 fall season!

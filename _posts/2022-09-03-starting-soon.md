@@ -1,6 +1,6 @@
 ---
 title: Starting Soon
-tag: coaches players 2022-season
+tags: coaches players 2022-season
 ---
 
 Hi, soccer parents! This is O'Shaughnessy Evans, representing MAYSL.  I'm sure

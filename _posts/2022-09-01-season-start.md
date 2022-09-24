@@ -1,6 +1,6 @@
 ---
 title: 2022 Fall Season Start
-tag: coaches players 2022-season
+tags: coaches players 2022-season
 ---
 
 The Fall 2022 season start date has been pushed back from Sept 10 to 17.

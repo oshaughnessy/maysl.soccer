@@ -1,6 +1,6 @@
 ---
 title: Birth Verification Required
-tag: 2022-season registration
+tags: 2022-season registration
 ---
 
 Birth documentation for some players is required before they can continue play.
