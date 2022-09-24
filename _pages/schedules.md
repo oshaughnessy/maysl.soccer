@@ -1,5 +1,5 @@
 ---
-title: Schedules
+title: Schedules & Fields
 permalink: /schedules/
 toc: false
 ---
