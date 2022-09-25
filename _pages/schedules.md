@@ -63,7 +63,7 @@ See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
  and Wasuma schools.
 
 <div class="google-maps">
-<iframe src="https://www.google.com/maps/d/embed?mid=1GZ2Z64z1wqQYL9Esx2ZHNORP8_nVAsU&ehbc=2E312F"
+<iframe src="https://www.google.com/maps/d/embed?mid=1oVM1rJL3HV5rjmAHLmw_nFI6uoPBHEw&ehbc=2E312F"
   width="640" height="480" style="border:0;" allowfullscreen loading="lazy">
 </iframe>
 </div>
