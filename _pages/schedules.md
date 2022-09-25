@@ -24,7 +24,7 @@ which gives us 9 or 10 weekends for games.
 * Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
 
 
-## Fields
+## Game Fields
 
 All of the younger teams play on Saturdays at the lower field behind Yosemite High School.
 Older divisions and travel teams may sometimes have Sunday games instead, and they may
@@ -50,10 +50,20 @@ play at other locations.
 </style>
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/d/embed?mid=15DpY24JXKTKon10Baj6W7fcm1qhHobo&hl=en&ehbc=2E312F"
-  width="640"
-  height="480"
-  style="border:0;"
-  allowfullscreen
-  loading="lazy">
+  width="640" height="480" style="border:0;" allowfullscreen loading="lazy">
+</iframe>
+</div>
+
+
+## Practice Fields
+
+MAYSL teams hold practice at school fields in each one of our [area locations](/contact/).
+
+See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
+ and Wasuma schools.
+
+<div class="google-maps">
+<iframe src="https://www.google.com/maps/d/embed?mid=1GZ2Z64z1wqQYL9Esx2ZHNORP8_nVAsU&ehbc=2E312F"
+  width="640" height="480" style="border:0;" allowfullscreen loading="lazy">
 </iframe>
 </div>
