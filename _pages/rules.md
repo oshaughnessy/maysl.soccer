@@ -196,6 +196,14 @@ No coaches, substitute players, or spectators are allowed behind
 either end line of the field.
 
 
+### Lead Limits
+
+The league expects its coaches to teach proper sportsmanship to players.
+Coaches of teams leading by at least 3 goals should make changes to actively
+level the playing field.
+
+Please see the [Coaches section on lead limits](/coaches/#lead-limits) for more on this.
+
 ## Further Reading
 
 We have various [resources](/resources/) available on our site,
