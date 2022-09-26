@@ -203,11 +203,10 @@ team play for both the offense and defense.
 
 #### Lead Limits
 
-The league expects its coaches to teach proper sportsmanship to
-players. Coaches of teams leading by a margin of three goals are
-expected to incorporate changes into the game to better level the
-playing field. All efforts must be made to keep a margin of victory
-to never more than five goals.
+The league expects its coaches to teach proper sportsmanship to players.
+When a team is leading by a margin of 3 goals, the coach should incorporate
+changes into the game to actively level the playing field. All efforts must
+be made to keep a margin of victory to never more than 5 goals.
 
 Examples of actions that could be taken include:
 
