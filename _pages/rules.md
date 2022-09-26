@@ -196,43 +196,6 @@ No coaches, substitute players, or spectators are allowed behind
 either end line of the field.
 
 
-### Lead Limits
-
-The league expects its coaches to teach proper sportsmanship to
-players. Coaches of teams leading by a margin of three goals are
-expected to incorporate changes into the game to better level the
-playing field. All efforts must be made to keep a margin of victory
-to never more than five goals.
-
-Examples of actions that could be taken include:
-
-* Switching players' positions around to enable those who haven't
-  scored goals the opportunity to do so.
-* Imposing restrictions on players, such as:
-    * shooting with "weaker" foot only
-    * requiring 5 (or more?) consecutive passes (without an opponent
-      touching the ball) before a shot can be taken
-    * requiring that those passes are completed in the team's own
-      defensive half
-    * other combinations that keep your own players' challenge level up
-      in a way that doesn't obviously play down to the opposing team
-
-Examples of actions that are *not* acceptable include:
-
-* removing players to play down against a team;
-* removing a goalkeeper or changing the role of the goalkeeper.
-
-Coaches should make every effort to prepare their players for this
-type of a situation _before_ it happens. This will allow a team to
-practice fair play without broadcasting it on the field. A coach
-can choose a secret word so that players are prepared for the
-situation or sub in a player who can pass on the instructions
-to teammates.
-
-**We are a recreational league and our priorities are fun,
-skill development, and encouragement for ALL players.**
-
-
 ## Further Reading
 
 We have various [resources](/resources/) available on our site,
