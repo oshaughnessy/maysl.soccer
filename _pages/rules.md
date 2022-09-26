@@ -209,11 +209,11 @@ Examples of actions that could be taken include:
 * Switching players' positions around to enable those who haven't
   scored goals the opportunity to do so.
 * Imposing restrictions on players, including:
-** shooting with "weaker" foot only
-** requiring five (or higher number) consecutive passes (without an opponent
-   touching the ball) before a shot can be taken
-** requiring that these passes are completed in team's own defensive half
-   or any combination of these.
+    * shooting with "weaker" foot only
+    * requiring five (or higher number) consecutive passes (without an opponent
+      touching the ball) before a shot can be taken
+    * requiring that these passes are completed in team's own defensive half
+      or any combination of these.
 
 Examples of actions that are NOT acceptable include:
 
