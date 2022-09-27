@@ -28,4 +28,4 @@ Games are played in 10-minute quarters.
 
 [Download](/schedules/2022/MAYSL-2022-U8-girls.pdf)
 
-[^1]: Times for the 1st game, on 9/17, were at 9:00, 10:00, and 11:00am.
+[^1]: *Times for the 1st game, on 9/17, were at 9:00, 10:00, and 11:00am.*
