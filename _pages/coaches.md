@@ -179,9 +179,12 @@ at least once during the season.
 See [rules](/rules/) for more.
 
 
-#### U10 and Higher
+#### Offside and the Build-Out Line
 
-We introduce Offside play in the U10 division. This page at US Soccer,
+We enforce offside rules at U10 and above. Build-out lines are used only
+on U10 fields to introduce the concept gracefully.
+
+This page at US Soccer,
 [Five Things to Know: How Small-Sided Standards Will Change Youth Soccer](
 https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer),
 talks about using build-out lines to introduce the concept at the U9 level
