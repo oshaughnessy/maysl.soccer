@@ -30,7 +30,7 @@ are modified as shown:
 | U12-U13   | 9v9       | 30-minute halves   | 4         | 7'x21'
 | U14+      | 11v11     | 35-minute halves   | 5         | 8'x24'
 
-See the [Small-Sided Games chart](/files/small-sided-games-chart.ashx) for details
+See the [Small-Sided Games chart](/files/uss-small-sided-games.png) for details
 from US Soccer's [page on the subject](https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer).
 
 
