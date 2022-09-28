@@ -42,13 +42,13 @@ Some rules are introduced as players get into older age divisions:
 - start drop-kicks at U12
 - start headers at U15
 
-### U8: No Goal-to-Goal Scoring
+### No Goal-to-Goal Scoring in U8
 
 In U8, we don't allow the goalkeeper to make a goal with a direct kick.
 The ball must be touched by another player before a legitimate goal can
 be made.
 
-### U10+: Offside
+### Offside in U10+
 
 [Law 11](https://www.theifab.com/laws/latest/offside/), "Offside", is enforced beginning
 in U9/U10.
@@ -56,7 +56,7 @@ in U9/U10.
 For a friendly, clear explanation of offside rules, see
 [Offside Made Easy](/files/offside-made-easy.pdf).
 
-### U10+: Substitutions
+### Substitutions in U10+
 
 Player substitutions during a game are only allowed when [the ball is out
 of play](https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/).
@@ -66,7 +66,7 @@ At MAYSL, we don't do single-player sub-ins until U10. In U8, a group of
 players will play for 10 minutes, then the whole group will come out and
 a new group will come in.
 
-### U10+: Throw-Ins
+### Throw-Ins in U10+
 
 [Law 15](https://www.theifab.com/laws/latest/the-throw-in/), "The Throw-In",
 is enforced at U10 and above. For U8 and younger, we just kick from out-of-bounds.
@@ -78,7 +78,7 @@ tried to enforce good throw-ins for 6 and 7-year-olds, we spend too much time
 on the sidelines. Watch a professional game -- throw-ins should be correct _and
 quick_, so we wait until they're ready to learn that.
 
-### U15+: Heading
+### Heading in U15+
 
 Heading the ball is not allowed until a player joins a U14/U15 age division.
 
