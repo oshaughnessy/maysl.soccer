@@ -2,7 +2,7 @@
 title: Coaches
 permalink: /coaches/
 toc: true
-toc_icon: bullhorn
+toc_icon: trophy
 ---
 
 All of our coaches are volunteers. We have many that come back year
