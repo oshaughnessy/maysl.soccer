@@ -2,7 +2,7 @@
 title: Schedules & Fields
 permalink: /schedules/
 toc: true
-toc_icon: calendar
+toc_icon: calendar-alt
 ---
 
 MAYSL's primary season is in the fall. We typically play from mid-September to the week
