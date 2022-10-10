@@ -6,6 +6,7 @@
 <style>
 table.schedule-overview {
   font-size: +1em;
+  font-weight: bold;
   width: 100%;
 }
 
@@ -17,17 +18,21 @@ table.schedule-overview td {
 
 table.schedule {
   font-size: +1em;
+  text-align: center;
+  font-weight: bold;
 }
 
 table.schedule th:nth-child({{ schedule_active_column }}) {
-  font-weight: bold;
   background: #1e252a;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
 
+table.schedule td:first-child {
+  text-align: right;
+}
+
 table.schedule td:nth-child({{ schedule_active_column }}) {
-  font-weight: bold;
   background: #000000;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
