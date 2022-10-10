@@ -18,6 +18,7 @@ Games are played in 10-minute quarters.
 | <u>Bye</u>   | 2       | 6     | 7     | 3     |  4    | 1     | 5     | 2     | 7
 {: class="schedule"}
 
+
 | Code  | Team            | Coach                         
 |-------|-----------------|---------------
 | 1     | Oakhurst A      | R Garcia/Airey
@@ -27,6 +28,7 @@ Games are played in 10-minute quarters.
 | 5     | Spring Valley B | Ching
 | 6     | Rivergold B     | Fox
 | 7     | Wasuma          | A Garcia
+{: class="schedule-key"}
 
 
 [Download](/schedules/2022/MAYSL-2022-U8-girls.pdf)
