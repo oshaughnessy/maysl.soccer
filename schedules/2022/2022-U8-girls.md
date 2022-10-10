@@ -1,7 +1,10 @@
 ---
 title: 2022 U8 Girls Schedule
 tag: 2022-season schedule u8
+division: U8
 ---
+
+{% include schedule.html division=page.division %}
 
 All matches are held at the lower fields behind Yosemite High School.
 
@@ -13,7 +16,7 @@ Games are played in 10-minute quarters.
 | <u>11:15</u> | 4v7     | 1v4   | 2v5   | 4v2   | 6v2   | 2v7   | 7v3   | 7v4   | 5v2
 | <u>12:30</u> | 5v6     | 2v3   | 3v4   | 6v7   | 7v1   | 4v5   | 1v2   | 1v3   | 6v1
 | <u>Bye</u>   | 2       | 6     | 7     | 3     |  4    | 1     | 5     | 2     | 7
-
+{: class="schedule"}
 
 | Code  | Team            | Coach                         
 |-------|-----------------|---------------

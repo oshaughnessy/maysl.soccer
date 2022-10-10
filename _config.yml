@@ -172,3 +172,6 @@ lunr:
   search_within_pages: true
 #google:
 #  search_engine_id: 462070f4ab7ad47f3
+
+# what's the date in the current year of our first game?
+first_game: 9/17

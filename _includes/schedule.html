@@ -1,0 +1,21 @@
+{% assign cur_week = site.time | date: "%U" %}
+{% assign first_week = site.first_game | date: "%U" %}
+{% assign season_week = cur_week | minus: first_week | modulo: 52 %}
+{% assign schedule_active_column = season_week | plus: 2 %}
+
+<style>
+table.schedule th:nth-child({{ schedule_active_column }}) {
+  font-weight: bold;
+  background: #1e252a;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+table.schedule td:nth-child({{ schedule_active_column }}) {
+  font-weight: bold;
+  background: #000000;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+</style>
