@@ -4,6 +4,21 @@
 {% assign schedule_active_column = season_week | plus: 2 %}
 
 <style>
+table.schedule-overview {
+  font-size: +1em;
+  width: 100%;
+}
+
+table.schedule-overview th,
+table.schedule-overview td {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+table.schedule {
+  font-size: +1em;
+}
+
 table.schedule th:nth-child({{ schedule_active_column }}) {
   font-weight: bold;
   background: #1e252a;

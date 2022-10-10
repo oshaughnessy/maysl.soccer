@@ -5,6 +5,8 @@ toc: true
 toc_icon: calendar-alt
 ---
 
+{% include schedule.html division=page.division %}
+
 MAYSL's primary season is in the fall. We typically play from mid-September to the week
 before Thankgiving and skip a weekend in mid-October for the fall school break,
 which gives us 9 or 10 weekends for games.
@@ -12,11 +14,12 @@ which gives us 9 or 10 weekends for games.
 
 ## 2022-2023 Season
 
-| Coed ||| Boys      ||| Grrls
-|-||-||-
-| [U16](/schedules/2022/2022-U16-coed.html) ||| [U13](/schedules/2022/2022-U13-boys.html) ||| [U13](/schedules/2022/2022-U13-girls.html)
-| [U6](/schedules/2022/2022-U6-coed.html)   ||| [U10](/schedules/2022/2022-U10-boys.html) ||| [U10](/schedules/2022/2022-U10-girls.html)
-| [U5](/schedules/2022/2022-U5-coed.html)   ||| [U8](/schedules/2022/2022-U8-boys.html)   ||| [U8](/schedules/2022/2022-U8-girls.html)
+| Coed | Boys      | Grrls
+|-|-|-
+| [U16](/schedules/2022/2022-U16-coed.html) | [U13](/schedules/2022/2022-U13-boys.html) | [U13](/schedules/2022/2022-U13-girls.html)
+| [U6](/schedules/2022/2022-U6-coed.html)   | [U10](/schedules/2022/2022-U10-boys.html) | [U10](/schedules/2022/2022-U10-girls.html)
+| [U5](/schedules/2022/2022-U5-coed.html)   | [U8](/schedules/2022/2022-U8-boys.html)   | [U8](/schedules/2022/2022-U8-girls.html)
+{: class="schedule-overview"}
 
 Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
 
