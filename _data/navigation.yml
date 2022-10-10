@@ -83,25 +83,25 @@ schedules:
 schedules-by-division:
 - title: Boys
   children:
-  - title: U8 Boys
+  - title: Under 8
     url: /schedules/2022/2022-U8-boys.html
-  - title: U10 Boys
+  - title: Under 10
     url: /schedules/2022/2022-U10-boys.html
-  - title: U13 Boys
+  - title: Under 13
     url: /schedules/2022/2022-U13-boys.html
 - title: Girls
   children:
-  - title: U8 Girls
+  - title: Under 8
     url: /schedules/2022/2022-U8-girls.html
-  - title: U10 Girls
+  - title: Under 10
     url: /schedules/2022/2022-U10-girls.html
-  - title: U13 Girls
+  - title: Under U13
     url: /schedules/2022/2022-U13-girls.html
 - title: Coed
   children:
-  - title: U5
+  - title: Under 5
     url: /schedules/2022/2022-U5-coed.html
-  - title: U6
+  - title: Under 6
     url: /schedules/2022/2022-U6-coed.html
-  - title: U16
+  - title: Under 16
     url: /schedules/2022/2022-U16-coed.html
