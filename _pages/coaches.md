@@ -107,6 +107,9 @@ After submitting the form, go back to the dashboard, click on background check's
 again. You'll see a "Quick App" link that will let you begin the check process. Please fill
 out that form to get the process underway.
 
+For more information, please see the GotSport [guide for coaches on submitting background checks](
+https://gotsport.zendesk.com/hc/en-us/articles/360051143533-Submitting-a-Background-Check).
+
 ### Live Scan
 
 Every coach needs to submit a Live Scan application. You only need to do it once,
