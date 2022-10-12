@@ -42,7 +42,7 @@ table.schedule {
 
 table.schedule th:nth-child({{ schedule_active_column }}) {
   font-weight: bold;
-  background: #1e252a;
+  background-color: #1e252a;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
@@ -53,7 +53,7 @@ table.schedule td:first-child {
 
 table.schedule td:nth-child({{ schedule_active_column }}) {
   font-weight: bold;
-  background: #000000;
+  background-color: #000000;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
@@ -72,14 +72,24 @@ table.week-schedule td:first-child {
 
 table.week-schedule:nth-of-type({{ schedule_active_week }}) th {
   font-weight: bold;
-  background: #1e252a;
+  background-color: #1e252a;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
 
 table.week-schedule:nth-of-type({{ schedule_active_week }}) td {
   font-weight: bold;
-  background: #000000;
+  background-color: #000000;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+h2.week-schedule:nth-of-type({{ schedule_active_week }})::after {
+    /* content: ' \1F449  '; */ /* finger-pointing-right */
+    content: ' \1F448 '; /* finger-pointing-left */
+}
+
+h2.week-schedule:nth-of-type({{ schedule_active_week }}) {
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
