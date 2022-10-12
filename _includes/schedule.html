@@ -2,6 +2,7 @@
 {% assign first_week = site.first_game | date: "%U" %}
 {% assign season_week = cur_week | minus: first_week | modulo: 52 %}
 {% assign schedule_active_column = season_week | plus: 2 %}
+{% assign schedule_active_week = season_week | plus: 2 %}
 
 <style>
 /* schedule overview */
@@ -51,6 +52,32 @@ table.schedule td:first-child {
 }
 
 table.schedule td:nth-child({{ schedule_active_column }}) {
+  font-weight: bold;
+  background: #000000;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+
+/* single-day schedule */
+
+table.week-schedule {
+  font-size: +1em;
+  text-align: center;
+}
+
+table.week-schedule td:first-child {
+  text-align: right;
+}
+
+table.week-schedule:nth-of-type({{ schedule_active_week }}) th {
+  font-weight: bold;
+  background: #1e252a;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+}
+
+table.week-schedule:nth-of-type({{ schedule_active_week }}) td {
   font-weight: bold;
   background: #000000;
   background-blend-mode: difference;
