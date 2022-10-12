@@ -84,9 +84,14 @@ table.week-schedule:nth-of-type({{ schedule_active_week }}) td {
   mix-blend-mode: luminosity;
 }
 
+h2.week-schedule:nth-of-type({{ schedule_active_week }})::before {
+  padding-right: 1em;
+  content: ' \1F449 ';  /* finger-pointing-right */
+}
+
 h2.week-schedule:nth-of-type({{ schedule_active_week }})::after {
-    /* content: ' \1F449  '; */ /* finger-pointing-right */
-    content: ' \1F448 '; /* finger-pointing-left */
+  padding-left: 0.5em;
+  content: ' \1F448 ';  /* finger-pointing-left */
 }
 
 h2.week-schedule:nth-of-type({{ schedule_active_week }}) {
