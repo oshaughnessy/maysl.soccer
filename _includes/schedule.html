@@ -47,6 +47,13 @@ table.schedule th:nth-child({{ schedule_active_column }}) {
   mix-blend-mode: luminosity;
 }
 
+table.schedule th:nth-child({{ schedule_active_column }})::before {
+  /* content: ' \1F446 ';  /* finger-pointing-up */
+  /* content: ' \1F447 ';  /* finger-pointing-down */
+  content: '\26bd ';  /* soccer ball */
+  padding-right: 0.25em;
+}
+
 table.schedule td:first-child {
   text-align: right;
 }
