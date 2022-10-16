@@ -39,7 +39,7 @@ In the mountain area, MAYSL just plays soccer in the fall, but the CalNorth
 league's season starts then and ends the next spring. So a season that starts
 in August 2022 is technically the 2022-2023 season. When their site says _UX_
 means "age _X_ and under", they're talking about the end-of-season year,
-and each player's age by the end of that year is their league age.
+and each player's age by the end of that 2nd calendar year is their league age.
 
 See [Five Things to Know About Birth Year Registration](
 https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-registration)
