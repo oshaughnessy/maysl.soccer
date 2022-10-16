@@ -260,6 +260,19 @@ An assistant coach or a team parent can cover practices and games
 if the head coach can't make it. Don't let that hold you back from
 signing up as a coach!
 
+### _Are there team pictures?_
+
+The league provides team photos as part of the registration fee.
+They're typically taken in the 2nd half of the season, after the
+October break, and it always happens on a game day at the YHS
+game field. Keep an eye on the [News](/news/) page for an
+announcement each season.
+
+### _When and where can I practice?_
+
+At the start of each season, your [area rep](/contacts/) will coordinate
+fields and times with all of their coaches.
+
 
 ## Further Reading
 
