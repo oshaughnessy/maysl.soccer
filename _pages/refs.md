@@ -25,34 +25,6 @@ Facilitator uniforms include:
 * primarily-black shoes
 
 
-## Referee Uniforms
-
-Every referee must provide and wear a [USSF approved uniform](
-https://officialsports.com/referee-uniforms/ussf-economy-jerseys/)
-whenever they are officiating games.
-
-Uniforms for MAYSL games include:
-
-* yellow jersey with black stripes
-* all-black shorts with pockets
-* black socks with 3 white stripes at the top
-* primarily-black shoes
-
-
-## Equipment
-
-Officials should bring to every game:
-
-* pen
-* whistle
-* large coin
-* clock
-* stopwatch
-* ref flags
-
-Arrive at games 30 minutes early to meet up with the other officials.
-
-
 ## Eligibility
 
 According to California North Referee Association (CNRA), "there are no minimum
@@ -65,7 +37,36 @@ As a league, MAYSL will require that a referee or facilitator is 1-2 years older
 than the age of the players they are officiating.
 
 
-## Purchasing Uniforms and Equipment
+## Equipment
+
+### Game Day
+
+Officials should bring to every game:
+
+* pen
+* whistle
+* large coin
+* clock
+* stopwatch
+* ref flags
+* appropriate uniform
+
+Arrive at games 30 minutes early to meet up with the other officials.
+
+### Referee Uniforms
+
+Every referee must provide and wear a [USSF approved uniform](
+https://officialsports.com/referee-uniforms/ussf-economy-jerseys/)
+whenever they are officiating games.
+
+Uniforms for MAYSL games include:
+
+* yellow jersey with black stripes
+* all-black shorts with pockets
+* black socks with 3 white stripes at the top
+* primarily-black shoes
+
+### Purchasing Uniforms and Equipment
  
 You may buy the gear online through any soccer store or through many sporting
 goods stores or other soccer stores in the Fresno Area.  They do not need to be
