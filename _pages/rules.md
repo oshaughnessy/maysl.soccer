@@ -94,7 +94,7 @@ Taken from <https://cysadistrict7.org>:
 > 
 > * All players age eleven (11) years old and younger, who are playing
 >   up in 13U and older games, are prohibited from heading, and must
->   clearly be identifiable to match official. (i.e. armband)
+>   clearly be identifiable to match official (e.g. an arm or head band).
 > 
 > * When a player, who is eleven (11) years old and younger, deliberately
 >   heads the ball in a game, an indirect free kick should be awarded
