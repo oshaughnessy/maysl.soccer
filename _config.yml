@@ -20,6 +20,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+timezone: America/Los_Angeles
+
 title: MAYSL
 email: shaug-maysl@wumpus.org
 # Default is your site title.
@@ -178,4 +180,4 @@ lunr:
 #  search_engine_id: 462070f4ab7ad47f3
 
 # what's the date in the current year of our first game?
-first_game: 9/17 PST
+first_game: 9/17
