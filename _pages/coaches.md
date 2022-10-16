@@ -20,11 +20,19 @@ below.
 ### Player Age
 
 You may get questions from parents when they're signing up their kids, wanting to know
-which team they'll be on. Here's how our age groups work.
+which team they'll be on.
 
-[According to the CYSA](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/),
+For MAYSL, it's most natural to think of _U-something_ as "under that age"
+and the player's age at the end of fall tells you what division they're in.
+This way, _U10_ is actually for kids under 10 that year.
+
+This isn't _technically_ correct, though. Read on for a more accurate
+breakdown.
+
+[According to the CYSA](
+https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/),
 the "U" in each division (_U5_, _U10_, etc) means "that age and under": _U13_
-includes 13-year-olds, _U10_ includes 10-year-olds, etc. But that applies to
+*includes* 13-year-olds, _U10_ *includes* 10-year-olds, etc. But that applies to
 their age at the end of _the year the league's season ends_.
 
 In the mountain area, MAYSL just plays soccer in the fall, but the CalNorth
@@ -33,13 +41,10 @@ in August 2022 is technically the 2022-2023 season. When their site says _UX_
 means "age _X_ and under", they're talking about the end-of-season year,
 and each player's age by the end of that year is their league age.
 
-For MAYSL, it's easier to think of _U10_ as "under 10", and the player's age at
-the start of the season tells you what division they're in. _U10_ is for kids
-under 10, etc.
-
 See [Five Things to Know About Birth Year Registration](
 https://www.ussoccer.com/stories/2017/08/five-things-to-know-about-birth-year-registration)
-at ussoccer.com for an explanation of the change when it was rolled out in 2017.
+at ussoccer.com for an explanation of the move to birth year divisions
+when it was rolled out in 2017.
 
 
 ### Player Safety
