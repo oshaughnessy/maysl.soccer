@@ -270,7 +270,7 @@ announcement each season.
 
 ### _When and where can I practice?_
 
-At the start of each season, your [area rep](/contacts/) will coordinate
+At the start of each season, your [area rep](/contact/) will coordinate
 fields and times with all of their coaches.
 
 
