@@ -141,15 +141,10 @@ Heat-related ilness is a real risk here in central California. Take a look at th
 
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
-are used.
-
-Section _4:04_ of the [MAYSL Constitution](/files/maysl-by-laws.pdf) talks about
-**Player Development**:
-
-> _4:04:01_ Each player must participate a minimum of 50% of every game. Applies to all
-age groups and teams.
-
-See [rules](/rules/) for more.
+are used, but various accommodations for small-sided games with younger players are
+made to create a journey that encourages age-appropriate fun and skill development.
+See [Growing with the Game](/rules/#growing-with-the-game) on the Rules page for
+specific insights.
 
 
 ## Further Reading
