@@ -145,8 +145,9 @@ defaults:
       type: pages
     values:
       layout: single
-      #sidebar: 
-      #  nav: sidebar
+      sidebar: 
+        title: Schedules
+        nav: schedules-by-division
       toc_sticky: true
   # _posts
   - scope:
