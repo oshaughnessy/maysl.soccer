@@ -156,9 +156,12 @@ defaults:
     values:
       layout: single
       read_time: false
-      comments: true
+      comments: false
       share: true
       related: true
+      sidebar: 
+        title: Schedules
+        nav: schedules-by-division
 
 include: ["_pages"]
 
