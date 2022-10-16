@@ -4,6 +4,8 @@ main:
   url: /
 - title: News
   url: /news/
+- title: Schedules <i class="fa-solid fa-calendar-days"></i>
+  url: /schedules/
 - title: Parents
   url: /parents/
   description: For parents
