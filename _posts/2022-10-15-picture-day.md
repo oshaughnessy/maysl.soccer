@@ -13,3 +13,10 @@ U5 teams, please arrive for photos at 8am.
 
 If any team needs another time, please reach out to
 [Kay](mailto:kayemmert@yahoo.com).
+
+----
+
+UPDATE: If you want individual photos, please fill out [the Island Photography
+order form](/files/pictures-order-form-2022.pdf) and bring it with you on
+picture day. Team photos are included as part of the season's registration
+fees; any additional photos are an arrangement between you and the photographer.
