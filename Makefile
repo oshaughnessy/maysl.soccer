@@ -22,3 +22,9 @@ theme:
 
 lint:
 	yamllint _config.yml
+
+c commit:
+	git commit -av
+
+p push:
+	git push

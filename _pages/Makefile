@@ -1,9 +1,10 @@
+.PHONY: default
 default: commit push
 
-commit:
+.PHONY: c commit
+c commit:
 	git commit -av
 
-push:
+.PHONY: p push
+p push:
 	git push
-
-.PHONY: default commit push
