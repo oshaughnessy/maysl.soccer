@@ -24,14 +24,16 @@ are modified as shown:
 
 | Age Group | # Players | Game Length        | Ball Size | Goal Size                |
 |-----------|-----------|--------------------|-----------|--------------------------|
-| U4-U6     | 3v3       | coed, clinic style | 3         | PUGG pop-up goal         | 
+| U4-U6     | 3v3       | coed, clinic style | 3         | PUGG pop-up goal         |
 | U7-U8     | 5v5       | 10-minute quarters | 3         | 6'x12' (width x height)  |
 | U10       | 7v7       | 25-minute halves   | 4         | 6.5'x18'                 |
 | U12-U13   | 9v9       | 30-minute halves   | 4         | 7'x21'                   |
 | U14+      | 11v11     | 35-minute halves   | 5         | 8'x24'                   |
 
-See the [Small-Sided Games chart](/files/uss-small-sided-games.png) for details
-from US Soccer's [page on the subject](https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer).
+See the [Small-Sided Games chart](/files/uss-small-sided-games.png)
+for details from US Soccer's
+[page on the subject](
+https://www.ussoccer.com/stories/2017/08/five-things-to-know-how-smallsided-standards-will-change-youth-soccer).
 
 
 ## Growing with the Game
@@ -85,17 +87,17 @@ Heading the ball is not allowed until a player joins a U14/U15 age division.
 Taken from <https://cysadistrict7.org>:
 
 > California Youth Soccer Association Heading Policy
-> 
+>
 > (Approved by Board of Directors, August 4, 2019)
-> 
+>
 > #### Playing Policy
-> 
+>
 > * Heading is prohibited in 12U and younger small-sided games.
-> 
+>
 > * All players age eleven (11) years old and younger, who are playing
 >   up in 13U and older games, are prohibited from heading, and must
 >   clearly be identifiable to match official (e.g. an arm or head band).
-> 
+>
 > * When a player, who is eleven (11) years old and younger, deliberately
 >   heads the ball in a game, an indirect free kick should be awarded
 >   to the opposing team from the spot of the offense. If a deliberate
@@ -103,20 +105,20 @@ Taken from <https://cysadistrict7.org>:
 >   be taken on the goal area line parallel to the goal line at the
 >   point nearest to where the infringement occurred. If a player does
 >   not deliberately head the ball, then play should continue.
-> 
+>
 > * All players age eleven (11) years old and younger, who participate
 >   in a non-CYSA sanctioned event with their CYSA player pass, must
 >   adhere to the CYSA heading policy and are prohibited from heading.
-> 
+>
 > #### Practice Policy
-> 
+>
 > * All players age eleven (11) years old and younger are prohibited from heading.
-> 
+>
 > * It is strongly recommended for players between the ages of twelve
 >   (12) and seventeen (17) years old, heading in practice must be
 >   limited to a maximum of thirty (30) minutes per week, with no more
 >   than fifteen (15) to twenty (20) headers, per player, per week.
-> 
+>
 > * In addition, CYSA recommends that standard coaching methods to
 >   instruct on how to properly head the ball be instituted by all
 >   Affiliates. CYSA will assist Affiliates, as needed, in teaching
