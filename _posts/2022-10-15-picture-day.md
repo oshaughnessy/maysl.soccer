@@ -22,3 +22,7 @@ UPDATE: If you want special-order photos, please fill out
 and bring it with you on picture day. Team photos and a few individuals
 are included as part of the season's registration fees; any additional
 photos are extra.
+
+
+![Pictures](/files/picture-day.jpg)
+{: .full}
