@@ -168,6 +168,14 @@ are no exceptions for fresh piercings where the studs or earrings shouldn't
 be removed within the first weeks. If a player won't remove them, they can't play.
 
 
+## Pictures
+
+Near the end of every season, the league has a picture day. Team and individual
+photos are included as part of registration, and the photographer typically
+offers additional packages that players and their families may purchase.
+See [Picture Day](/pictures/) for more details.
+
+
 ## Further Reading
 
 For more information, see the [CYSA District VII Parents Page](

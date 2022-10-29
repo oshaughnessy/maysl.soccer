@@ -25,4 +25,4 @@ photos are extra.
 
 
 ![Pictures](/files/picture-day.jpg)
-{: .full}
+{: .align-center}
