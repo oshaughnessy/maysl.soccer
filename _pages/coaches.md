@@ -273,6 +273,12 @@ announcement each season.
 At the start of each season, your [area rep](/contact/) will coordinate
 fields and times with all of their coaches.
 
+### _Can I borrow players for a game?_
+
+Yes, guest players can be pulled in for both recreational and competitive/travel
+games. CYSA District 7 outlines the essentials in their [Playing Program Handbook](
+https://cysadistrict7.org/for-coaches/playing-program-handbook/). See our
+[rules on guest players](/rules/#guest-players--team-size) on the Rules page for details.
 
 ## Further Reading
 

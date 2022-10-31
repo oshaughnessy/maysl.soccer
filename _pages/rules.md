@@ -22,13 +22,13 @@ Laws [2](https://www.theifab.com/laws/latest/the-ball/ "The Ball"),
 [7](https://www.theifab.com/laws/latest/the-duration-of-the-match/ "The Duration of the Match")
 are modified as shown:
 
-| Age Group | # Players | Min Players | Game Length        | Ball Size | Goal Size                |
-|-----------|-----------|-------------|--------------------|-----------|--------------------------|
-| U4-U6     | 3v3       | -           | coed, clinic style | 3         | PUGG pop-up goal         |
-| U7-U8     | 5v5       | -           | 10-minute quarters | 3         | 6'x12' (width x height)  |
-| U10       | 7v7       | 5           | 25-minute halves   | 4         | 6.5'x18'                 |
-| U12-U13   | 9v9       | 6           | 30-minute halves   | 4         | 7'x21'                   |
-| U14+      | 11v11     | 7           | 35-minute halves   | 5         | 8'x24'                   |
+| Age Group | # Players | Min-Max Players | Game Length        | Ball Size | Goal Size                |
+|-----------|-----------|-----------------|--------------------|-----------|--------------------------|
+| U4-U6     | 3v3       | -               | coed, clinic style | 3         | PUGG pop-up goal         |
+| U7-U8     | 5v5       | -               | 10-minute quarters | 3         | 6'x12' (width x height)  |
+| U10       | 7v7       | 5-14            | 25-minute halves   | 4         | 6.5'x18'                 |
+| U12-U13   | 9v9       | 6-16            | 30-minute halves   | 4         | 7'x21'                   |
+| U14+      | 11v11     | 7-18            | 35-minute halves   | 5         | 8'x24'                   |
 
 See the [Small-Sided Games chart](/files/uss-small-sided-games.png)
 for details from US Soccer's
@@ -126,13 +126,36 @@ Taken from <https://cysadistrict7.org>:
 >   of possible concussion.
 
 
-## Team Size
+## Guest Players & Team Size
 
-If teams are short players, they can agree to play short with an
-even number of players on the field. Teams may also borrow from
-other teams to get to the minimum, but they may not borrow additional
-players for subs.
+Guest players (aka borrowed players) can be pulled in for both recreational and
+competitive/travel games. CYSA District 7 outlines the essentials in their
+[Playing Program Handbook](
+https://cysadistrict7.org/for-coaches/playing-program-handbook/):
+* they must be registered with the same league as the team they're joining
+* they must be listed on the game roster as a guest player ("GP")
+* the roster may not include more than 3 guest players
 
+If teams are short players, they can agree to play short with an even number
+of players on the field. Teams may also borrow from other teams to get to the
+minimum, but they may not borrow additional players for subs.
+
+Boys may play as guests in all-male and coed divisions. National and state guidelines
+prohibit boys from playing as guests on all-female teams.
+
+Girls may play as guests in all-female, all-male, and coed divisions.
+
+Game-time team sizes:
+
+| Age Group | # Players | Min | Max[^nplayers] |
+|-----------|-----------|-----|-----|
+| U4-U6     | 3v3       | N/A | N/A |
+| U7-U8     | 5v5       | N/A | N/A |
+| U10       | 7v7       | 5   | 14  |
+| U12-U13   | 9v9       | 6   | 16  |
+| U14+      | 11v11     | 7   | 18  |
+
+[^nplayers]: *Minimum and maxium # of players in a game roster are taken from the [CYSA District 7 Playing Program Handbook, 2021](https://cysadistrict7.org/for-coaches/playing-program-handbook/)*
 
 ## Play Time
 
