@@ -147,14 +147,13 @@ In addition, we have the following rules and guidelines:
 * Guest players must be approved by both coaches.
 * Guest players should wear a pinny to identify them as such.
 
-If teams are short players, they can agree to play short with an even number
-of players on the field. Teams may also borrow from other teams to get to the
-minimum, but they may not borrow additional players for subs.
-
 Boys may play as guests in all-male and coed divisions. National and state guidelines
 prohibit boys from playing as guests on all-female teams.
 
 Girls may play as guests in all-female, all-male, and coed divisions.
+
+If a team is short players, both can agree to play short and keep an even number
+of players on the field.
 
 Game-time team sizes:
 
