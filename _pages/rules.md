@@ -136,6 +136,17 @@ https://cysadistrict7.org/for-coaches/playing-program-handbook/):
 * they must be listed on the game roster as a guest player ("GP")
 * the roster may not include more than 3 guest players
 
+In addition, we have the following rules and guidelines:
+* Borrow just enough players to fill your field positions, but not enough for
+  substitutes (see the team-size table below).
+* Borrowed players should be in the same age group or one year into the next
+  lower group. For example, in U10, you could borrow 8- and 9-year-olds, who
+  would be from the same division, or borrow a 7-year-old from U8, but never
+  a 6-year-old.
+* Borrow players to support your team, not to add new scoring abilities.
+* Guest players must be approved by both coaches.
+* Guest players should wear a pinny to identify them as such.
+
 If teams are short players, they can agree to play short with an even number
 of players on the field. Teams may also borrow from other teams to get to the
 minimum, but they may not borrow additional players for subs.
