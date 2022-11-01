@@ -136,16 +136,21 @@ https://cysadistrict7.org/for-coaches/playing-program-handbook/):
 * they must be listed on the game roster as a guest player ("GP")
 * the roster may not include more than 3 guest players
 
-In addition, we have the following rules and guidelines:
+In addition, we have the following rules and guidelines.
+
+### When to Borrow Players
 
 * Borrow just enough players to fill your field positions, but not enough for
   substitutes (see the team-size table below).
 * Borrow players to support your team, not to add new scoring abilities.
-* Guest players should wear a pinny to identify them as such.
-* If a team is short players, both can agree to play short and keep an even number
-  of players on the field.
+  Consider adding them as defenders or a goalkeeper rather than offense
+  goal-makers.
+* If a team is short players, both can agree to play short and keep an even
+  number of players on the field.
+* For coed matches, try to keep a balance of girls and boys. Try to keep an
+  even physical match.
 
-On guest eligibility:
+### Guest Eligibility
 
 * Guest players must be registered in the league (see CYSA essentials above).
 * Boys may play as guests in all-male and coed divisions. National and state guidelines
@@ -155,8 +160,9 @@ On guest eligibility:
   lower group. For example, in U10, you could borrow 8- and 9-year-olds, who
   would be from the same division, or borrow a 7-year-old from U8, but never
   a 6-year-old.
+* Borrowed players should wear a pinny to identify them as guests.
 
-On authority:
+### Authority
 
 * Guest players must be approved by both coaches and the game officials.
 * Unless otherwise stated, these are _guidelines_ subject to the judgement
