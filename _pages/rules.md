@@ -145,9 +145,8 @@ In addition, we have the following rules and guidelines:
 * If a team is short players, both can agree to play short and keep an even number
   of players on the field.
 
-### Guest Player Eligibility
+On guest eligibility:
 
-* Guest players must be approved by both coaches.
 * Guest players must be registered in the league (see CYSA essentials above).
 * Boys may play as guests in all-male and coed divisions. National and state guidelines
   prohibit boys from playing as guests on all-female teams.
@@ -156,6 +155,14 @@ In addition, we have the following rules and guidelines:
   lower group. For example, in U10, you could borrow 8- and 9-year-olds, who
   would be from the same division, or borrow a 7-year-old from U8, but never
   a 6-year-old.
+
+On authority:
+
+* Guest players must be approved by both coaches and the game officials.
+* Unless otherwise stated, these are _guidelines_ subject to the judgement
+  of the officials at the event and the MAYSL directors. Exceptions may be made
+  to address conditions not accounted for here (for example, when players involved
+  in a game have limitations due to medical conditions).
 
 ### Game-time Team Sizes
 
