@@ -147,8 +147,8 @@ In addition, we have the following rules and guidelines.
   goal-makers.
 * If a team is short players, both can agree to play short and keep an even
   number of players on the field.
-* For coed matches, try to keep a balance of girls and boys. Try to keep an
-  even physical match.
+* When borrowing for coed matches, try to keep a balance of girls and boys.
+  Seek an even physical match.
 
 ### Guest Eligibility
 
