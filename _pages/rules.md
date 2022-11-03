@@ -140,9 +140,9 @@ In addition, we have the following rules and guidelines.
 
 ### When to Borrow Players
 
-* Borrow just enough players to fill your field positions, but not enough for
-  substitutes (see the team-size table below).
-* Borrow players to support your team, not to add new scoring abilities.
+* Borrow just enough players to fill your field positions, but not enough
+  for substitutes (see the team-size table below).
+* Borrow players to support your team, not to add new scoring prowess.
   Consider adding them as defenders or a goalkeeper rather than offense
   goal-makers.
 * If a team is short players, both can agree to play short and keep an even
@@ -153,9 +153,8 @@ In addition, we have the following rules and guidelines.
 ### Guest Eligibility
 
 * Guest players must be registered in the league (see CYSA essentials above).
-* Boys may play as guests in all-male and coed divisions. National and state guidelines
-  prohibit boys from playing as guests on all-female teams.
-* Girls may play as guests in all-female, all-male, and coed divisions.
+* Girls may play as guests in any division.
+* Boys may only play as guests in all-male and coed divisions.
 * Borrowed players should be in the same age group or one year into the next
   lower group. For example, in U10, you could borrow 8- and 9-year-olds, who
   would be from the same division, or borrow a 7-year-old from U8, but never
