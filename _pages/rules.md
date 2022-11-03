@@ -165,9 +165,9 @@ In addition, we have the following rules and guidelines.
 
 * Guest players must be approved by both coaches and the game officials.
 * Unless otherwise stated, these are _guidelines_ subject to the judgement
-  of the officials at the event and the MAYSL directors. Exceptions may be made
-  to address conditions not accounted for here (for example, when players involved
-  in a game have limitations due to medical conditions).
+  of the officials at the event and MAYSL representatives. Exceptions may be
+  made to address conditions not accounted for here (for example, when players
+  involved in a game have limitations due to medical conditions).
 
 ### Game-time Team Sizes
 
