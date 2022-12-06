@@ -8,12 +8,7 @@ permalink: /
 layout: home
 ---
 
-Welcome to the 2022-2023 Fall season!
+The 2022-2023 Fall season has ended.
 
-We're underway. See our [game schedules](/schedules/) for dates and times.
-
-
-Other questions? Please take a look here for more info:
-
-* [For parents](/parents/)
-* [For coaches](/coaches/)
+Thank you to all the kids who participated, and to the supportive people
+around them for making that wonderful season happen.
