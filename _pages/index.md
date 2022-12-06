@@ -8,7 +8,7 @@ permalink: /
 layout: home
 ---
 
-The 2022-2023 Fall season has ended.
+The 2022-2023 fall season has ended.
 
 Thank you to all the kids who participated, and to the supportive people
 around them for making that wonderful season happen.
