@@ -155,7 +155,8 @@ If you'd like to coach a team, please take the following steps:
 
 2. [Complete **coaching courses**](#coaching-requirements). You'll need to complete and submit each of the lessons
    listed there, "Introduction to Safe and Healthy Playing Environments" and "Safe Sport
-   Training". Each one takes 15-30 minutes.
+   Training". It all takes a few hours the first time you do it, but when you come back
+   next year `:-)`, each one only takes about 30 minutes.
 
 3. You'll also need to submit a form for a [**background check**](#background-checks).
 
@@ -173,9 +174,9 @@ need to match your registered legal name.
 ## Coaching Requirements
 
 Once you've registered as a coach, you should see a table called "Requirements"
-in your Got Sport account dashboard. If you don't see that section, click on
-the big box that says "Mountain Area Youth Soccer League". It will open up and you
-should see the table.
+in your GotSport account dashboard. If you don't see that section, click on
+the big box that says "Mountain Area Youth Soccer League". It will open up and
+you should see the table.
 
 ![image-center](/files/coaching-requirements.jpg){: .align-center}
 
