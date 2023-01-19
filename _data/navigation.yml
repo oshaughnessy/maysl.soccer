@@ -1,7 +1,5 @@
 ---
 main:
-- title: Home
-  url: /
 - title: News
   url: /news/
 - title: Schedules <i class="fa-solid fa-calendar-days"></i>
