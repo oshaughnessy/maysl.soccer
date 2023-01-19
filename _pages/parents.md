@@ -90,7 +90,7 @@ See [Law 4, The Players' Equipment](
 https://www.theifab.com/laws/latest/the-players-equipment/),
 for the exact rules.
 
-More guidance for how we approach equiment at MAYSL is given below.
+More guidance for how we approach equipment at MAYSL is given below.
 
 Your Soccer Home has a great page on [What You Can (and Can't) Wear for Soccer](
 https://yoursoccerhome.com/what-you-can-and-cant-wear-for-soccer/), too.
