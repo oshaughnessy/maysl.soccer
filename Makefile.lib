@@ -1,0 +1,14 @@
+.PHONY: help
+help:
+	@echo try some of these:
+	@echo "* c/commit"
+	@echo "* p/push"
+	@echo "* build"
+
+.PHONY: c commit
+c commit:
+	git commit -av
+
+.PHONY: p push
+p push:
+	git push
