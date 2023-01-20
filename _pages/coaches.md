@@ -49,7 +49,7 @@ when it was rolled out in 2017.
 
 ### Player Safety
 
-Learn about **concussion** symptoms and out to deal with potential head injuries.
+Learn about **concussion** symptoms and how to deal with potential head injuries.
 Print out a copy of the [Concussion Recognition Tool](/files/concussion-field-guide.pdf)
 that was provided as part of the US Soccer safety coarse. Familiarize yourself with it
 and keep it with your field bag or clipboard. You'll have it available if one of your
