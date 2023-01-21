@@ -281,6 +281,23 @@ games. CYSA District 7 outlines the essentials in their [Playing Program Handboo
 https://cysadistrict7.org/for-coaches/playing-program-handbook/). See our
 [rules on guest players](/rules/#guest-players--team-size) on the Rules page for details.
 
+### What should I keep in my coach bag?
+
+Handy items:
+* 2 extra water bottles: 1 to refill player bottles and another for yourself
+* 2 colors of pinnies -- very useful for dividing your team during practice
+  (the ref station will always have some available if needed during a game)
+* brightly colored cones to create exercise areas or courses during practice
+* goalie gloves
+* a ball pump and spare air needles
+* a ballpoint pen to fill out game cards
+* a first aid kit
+
+For the first aid kit, US Youth Soccer has a [suggested list of first aid items
+here](https://www.usyouthsoccer.org/news/the_spectators_first_aid_kit/).
+Consider printing out their [ice or heat?](https://www.usyouthsoccer.org/news/ice_or_heat/)
+page to keep in the bag as well.
+
 ## Further Reading
 
 For more information, see the [CYSA District VII Coaching Page](
