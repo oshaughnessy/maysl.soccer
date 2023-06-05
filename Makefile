@@ -11,6 +11,10 @@ edit:
 build:
 	bundle exec jekyll build
 
+update:
+	@echo "FYI: https://jekyllrb.com/docs/upgrading/"
+	bundle update
+
 local-config: local.yml
 
 local.yml:
