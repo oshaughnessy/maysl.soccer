@@ -8,7 +8,7 @@ permalink: /
 layout: home
 ---
 
-The 2022-2023 fall season has ended.
+Registration for the 2023-2024 season is open!
 
-Thank you to all the kids who participated, and to the supportive people
-around them for making that wonderful season happen.
+Please take a look at the [announcement post]({% post_url 2023-05-17-registration-open %})
+for more information.
