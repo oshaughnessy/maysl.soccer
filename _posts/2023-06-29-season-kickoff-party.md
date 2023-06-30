@@ -13,3 +13,9 @@ The whole community is welcome.
 **Where?** At the YHS soccer fields
 
 **When?** Sat, Aug 19, 11am-2pm
+
+**Why?**
+
+- Introducing our soccer league to people in the community who haven't been involved before
+- Getting players' families involved
+- Fundraising with the YHS clubs that are partnering with MAYSL
