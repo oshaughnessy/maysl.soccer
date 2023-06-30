@@ -5,16 +5,24 @@ tags: 2023-season signup
 
 MAYSL soccer kickoff party for the 2023-2024 season!
 
-**Who?** Everybody who's interested in playing youth soccer or getting involved!
+## Who?
+
+Everybody who's interested in playing youth soccer or getting involved!
 The whole community is welcome.
 
-**What?** We'll have food and drinks, a gear swap, soccer fun and games
+## What?
 
-**Where?** At the YHS soccer fields
+We'll have food and drinks, a gear swap, soccer fun and games
 
-**When?** Sat, Aug 19, 11am-2pm
+## Where?
 
-**Why?**
+At the YHS soccer fields
+
+## When?
+
+Sat, Aug 19, 11am-2pm
+
+## Why?
 
 - Introducing our soccer league to people in the community who haven't been involved before
 - Getting players' families involved
