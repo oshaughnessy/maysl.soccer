@@ -59,13 +59,13 @@ news:
   url: /tags/
 
 signups:
-- title: Player Registration
+- title: Players
   url: https://system.gotsport.com/programs/69874V511?reg_role=player)
-- title: Coach Registration
+- title: Coaches
   url: https://system.gotsport.com/programs/69874V511?reg_role=coach)
-- title: Manager Registration
+- title: Managers
   url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
-- title: Referee Registration
+- title: Referees
   url: https://system.gotsport.com/programs/69874V511?reg_role=referee)
 
 schedules:
