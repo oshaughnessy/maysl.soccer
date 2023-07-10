@@ -58,6 +58,16 @@ news:
 - title: Tags
   url: /tags/
 
+signups:
+- title: Player Registration
+  url: https://system.gotsport.com/programs/69874V511?reg_role=player)
+- title: Coach Registration
+  url: https://system.gotsport.com/programs/69874V511?reg_role=coach)
+- title: Manager Registration
+  url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
+- title: Referee Registration
+  url: https://system.gotsport.com/programs/69874V511?reg_role=referee)
+
 schedules:
 - title: U5
   url: /schedules/2023/2023-U5-coed.html
