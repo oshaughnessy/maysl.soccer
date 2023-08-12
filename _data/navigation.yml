@@ -63,10 +63,10 @@ signups:
   url: https://system.gotsport.com/programs/69874V511?reg_role=player)
 - title: Coaches
   url: https://system.gotsport.com/programs/69874V511?reg_role=coach)
-- title: Managers
-  url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
 - title: Referees
   url: https://system.gotsport.com/programs/69874V511?reg_role=referee)
+- title: Managers
+  url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
 
 schedules:
 - title: U5
