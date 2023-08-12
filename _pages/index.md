@@ -8,10 +8,9 @@ permalink: /
 layout: home
 ---
 
-Registration for the 2023-2024 season is open!
+Registration for the 2023-2024 season is open though August 20!
 
 *[Sign up your players here](https://system.gotsport.com/programs/69874V511?reg_role=player)*
 
-We're always looking for [coaches](https://system.gotsport.com/programs/69874V511?reg_role=coach),
-[managers](https://system.gotsport.com/programs/69874V511?reg_role=manager), and
-[referrees](https://system.gotsport.com/programs/69874V511?reg_role=referee), too!
+We're always looking for [coaches](https://system.gotsport.com/programs/69874V511?reg_role=coach)
+and [referrees](https://system.gotsport.com/programs/69874V511?reg_role=referee), too!
