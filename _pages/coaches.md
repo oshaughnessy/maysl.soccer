@@ -145,8 +145,7 @@ skill development, and encouragement for ALL players.**
 
 If you'd like to coach a team, please take the following steps:
 
-1. **Register** as a coach at [GotSport](https://system.gotsport.com/programs/4K7316426?reg_role=coach
-)
+1. **Register** as a coach at GotSport (see the signup link at the top).
 
     Once you've registered at GotSport, you should see a list of
     things to do in your account dashboard. Links for each class
