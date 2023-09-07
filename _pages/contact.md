@@ -23,6 +23,4 @@ for the location your child is playing in:
 * Coarsegold: [Collette Haggard-Ship](mailto:martacollette@gmail.com)
 * Rivergold: [Joel Greathouse](mailto:joelgreathouse@gmail.com)
 * Oakhurst: [Karen Wood](mailto:karenjwood55@gmail.com)
-* North Fork/Spring Valley: [Kelley Lozano](mailto:kelleyswright@gmail.com)
-
-League President: [Beth Villaneuva](mailto:weespotoftea@gmail.com)
+* North Fork/Spring Valley: [Kim Dixon](mailto:kimraedixon@gmail.com)
