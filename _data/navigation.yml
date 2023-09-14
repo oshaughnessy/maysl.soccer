@@ -95,7 +95,7 @@ schedules-by-division:
     url: /schedules/2023/2023-U8-boys.html
   - title: Under 10
     url: /schedules/2023/2023-U10-boys.html
-  - title: Under 13
+  - title: Under 12
     url: /schedules/2023/2023-U12-boys.html
 - title: Girls
   children:
@@ -103,7 +103,7 @@ schedules-by-division:
     url: /schedules/2023/2023-U8-girls.html
   - title: Under 10
     url: /schedules/2023/2023-U10-girls.html
-  - title: Under 13
+  - title: Under 12
     url: /schedules/2023/2023-U12-girls.html
 - title: Coed
   children:

@@ -148,8 +148,8 @@ defaults:
     values:
       layout: single
       sidebar: 
-        #title: Schedules
-        #nav: schedules-by-division
+        title: Schedules
+        nav: schedules-by-division
         title: 2023 Signups
         nav: signups
       toc_sticky: true

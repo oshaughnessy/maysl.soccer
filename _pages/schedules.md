@@ -14,7 +14,15 @@ which gives us 9 or 10 weekends for games.
 
 ## 2023-2024 Season
 
-Coming in September
+Opening Day is Sept 16, 2023.
+
+| Coed | Boys      | Grrls
+|-|-|-
+| [U16](/schedules/2023/2023-U16-coed.html) | [U12](/schedules/2023/2023-U12-boys.html) | [U12](/schedules/2023/2023-U12-girls.html)
+| [U6](/schedules/2023/2023-U6-coed.html)   | [U10](/schedules/2023/2023-U10-boys.html) | [U10](/schedules/2023/2023-U10-girls.html)
+| [U5](/schedules/2023/2023-U5-coed.html)   | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
+{: class="schedule-overview"}
+
 
 
 ## 2022-2023 Season
