@@ -81,10 +81,10 @@ schedules:
   url: /schedules/2023/2023-U10-boys.html
 - title: U10 Girls
   url: /schedules/2023/2023-U10-girls.html
-- title: U13 Boys
-  url: /schedules/2023/2023-U13-boys.html
-- title: U13 Girls
-  url: /schedules/2023/2023-U13-girls.html
+- title: U12 Boys
+  url: /schedules/2023/2023-U12-boys.html
+- title: U12 Girls
+  url: /schedules/2023/2023-U12-girls.html
 - title: U16
   url: /schedules/2023/2023-U16-coed.html
 
@@ -96,7 +96,7 @@ schedules-by-division:
   - title: Under 10
     url: /schedules/2023/2023-U10-boys.html
   - title: Under 13
-    url: /schedules/2023/2023-U13-boys.html
+    url: /schedules/2023/2023-U12-boys.html
 - title: Girls
   children:
   - title: Under 8
@@ -104,7 +104,7 @@ schedules-by-division:
   - title: Under 10
     url: /schedules/2023/2023-U10-girls.html
   - title: Under 13
-    url: /schedules/2023/2023-U13-girls.html
+    url: /schedules/2023/2023-U12-girls.html
 - title: Coed
   children:
   - title: Under 5
