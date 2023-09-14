@@ -23,20 +23,6 @@ Opening Day is Sept 16, 2023.
 | [U4-U6](/schedules/2023/2023-U6-coed.html) | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
 {: class="schedule-overview"}
 
-
-
-## 2022-2023 Season
-
-| Coed | Boys      | Grrls
-|-|-|-
-| [U16](/schedules/2022/2022-U16-coed.html) | [U13](/schedules/2022/2022-U13-boys.html) | [U13](/schedules/2022/2022-U13-girls.html)
-| [U6](/schedules/2022/2022-U6-coed.html)   | [U10](/schedules/2022/2022-U10-boys.html) | [U10](/schedules/2022/2022-U10-girls.html)
-| [U5](/schedules/2022/2022-U5-coed.html)   | [U8](/schedules/2022/2022-U8-boys.html)   | [U8](/schedules/2022/2022-U8-girls.html)
-{: class="schedule-overview"}
-
-Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
-
-
 ## Game Fields
 
 All of the younger teams play on Saturdays at the lower field behind Yosemite High School.
@@ -80,3 +66,19 @@ See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
   width="640" height="480" style="border:0;" allowfullscreen loading="lazy">
 </iframe>
 </div>
+
+
+## Past Schedules
+
+### 2022-2023 Season
+
+| Coed | Boys      | Grrls
+|-|-|-
+| [U16](/schedules/2022/2022-U16-coed.html) | [U13](/schedules/2022/2022-U13-boys.html) | [U13](/schedules/2022/2022-U13-girls.html)
+| [U6](/schedules/2022/2022-U6-coed.html)   | [U10](/schedules/2022/2022-U10-boys.html) | [U10](/schedules/2022/2022-U10-girls.html)
+| [U5](/schedules/2022/2022-U5-coed.html)   | [U8](/schedules/2022/2022-U8-boys.html)   | [U8](/schedules/2022/2022-U8-girls.html)
+{: class="schedule-overview"}
+
+Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
+
+
