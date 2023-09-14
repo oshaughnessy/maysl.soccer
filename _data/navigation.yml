@@ -69,9 +69,7 @@ signups:
   url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
 
 schedules:
-- title: U5
-  url: /schedules/2023/2023-U5-coed.html
-- title: U6
+- title: U4-U6
   url: /schedules/2023/2023-U6-coed.html
 - title: U8 Boys
   url: /schedules/2023/2023-U8-boys.html
@@ -107,9 +105,7 @@ schedules-by-division:
     url: /schedules/2023/2023-U12-girls.html
 - title: Coed
   children:
-  - title: Under 5
-    url: /schedules/2023/2023-U5-coed.html
-  - title: Under 6
+  - title: Under 4, 5, & 6
     url: /schedules/2023/2023-U6-coed.html
   - title: Under 16
     url: /schedules/2023/2023-U16-coed.html

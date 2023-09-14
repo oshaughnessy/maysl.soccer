@@ -18,9 +18,9 @@ Opening Day is Sept 16, 2023.
 
 | Coed | Boys      | Grrls
 |-|-|-
-| [U16](/schedules/2023/2023-U16-coed.html) | [U12](/schedules/2023/2023-U12-boys.html) | [U12](/schedules/2023/2023-U12-girls.html)
-| [U6](/schedules/2023/2023-U6-coed.html)   | [U10](/schedules/2023/2023-U10-boys.html) | [U10](/schedules/2023/2023-U10-girls.html)
-| [U5](/schedules/2023/2023-U5-coed.html)   | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
+| [U16](/schedules/2023/2023-U16-coed.html)  | [U12](/schedules/2023/2023-U12-boys.html) | [U12](/schedules/2023/2023-U12-girls.html)
+|                                            | [U10](/schedules/2023/2023-U10-boys.html) | [U10](/schedules/2023/2023-U10-girls.html)
+| [U4-U6](/schedules/2023/2023-U6-coed.html) | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
 {: class="schedule-overview"}
 
 

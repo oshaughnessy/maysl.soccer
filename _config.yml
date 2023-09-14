@@ -150,8 +150,8 @@ defaults:
       sidebar: 
         title: Schedules
         nav: schedules-by-division
-        title: 2023 Signups
-        nav: signups
+        #title: 2023 Signups
+        #nav: signups
       toc_sticky: true
   # _posts
   - scope:
@@ -164,10 +164,10 @@ defaults:
       share: true
       related: true
       sidebar: 
-        #title: schedules
-        #nav: schedules-by-division
-        title: 2023 Signups
-        nav: signups
+        title: schedules
+        nav: schedules-by-division
+        #title: 2023 Signups
+        #nav: signups
 
 include: ["_pages"]
 
