@@ -143,32 +143,15 @@ skill development, and encouragement for ALL players.**
 
 ## Registration
 
-If you'd like to coach a team, please take the following steps:
+If you'd like to coach a team, please do the following:
 
-1. **Register** as a coach at GotSport (see the signup link at the top).
+1. **Register** as a coach in GotSport (see the signup link at the top)
+2. Submit a **background check** via your GotSport Dashboard
+3. Complete the **coaching courses** list in your GotSport Dashboard
+4. Get fingerprinted through a **Live Scan**
 
-    Once you've registered at GotSport, you should see a list of
-    things to do in your account dashboard. Links for each class
-    or form are right there in the list, under the _Details_ column.
-    Please be sure to use your full legal name for all of the forms.
-
-2. [Complete **coaching courses**](#coaching-requirements). You'll need to complete and submit each of the lessons
-   listed there, "Introduction to Safe and Healthy Playing Environments" and "Safe Sport
-   Training". It all takes a few hours the first time you do it, but when you come back
-   next year `:-)`, each one only takes about 30 minutes.
-
-3. You'll also need to submit a form for a [**background check**](#background-checks).
-
-4. [Register a **Live Scan**](#live-scan). This only needs to be done once by each league
-   coach -- you don't need to do it annually -- but a Live Scan for another sport or league
-   cannot be used by MAYSL.
-
-**Please Note**:
-For all registrations and courses, it is essential that you use your full legal name.
-The systems that match your course completions and Live Scan application will only be able
-to connect your information to our soccer registration system if they all have the same name,
-and the Live Scan application runs through the California Department of Justice, where it will
-need to match your registered legal name.
+See [Registration]({% link _pages/registration.md %}) for a complete overview,
+including screenshots.
 
 ## Coaching Requirements
 
