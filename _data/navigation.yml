@@ -15,6 +15,8 @@ main:
   description: For referees
 - title: Rules
   url: /rules/
+- title: Registration
+  url: /registration/
 #- title: Contact
 #  url: /contact/
 #- title: About

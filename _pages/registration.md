@@ -29,9 +29,9 @@ following steps. If you have more questions, details can be found further down.
    Environments" and "Safe Sport Training". It all takes a few hours the first time
    you do it, but when you come back next year `:-)`, each one only takes about 30 minutes.
 
-3. You'll also need to submit the form for a [**background check**](#background-checks).
+3. Submit the form for a [**background check**](#background-checks).
 
-4. [Register a **Live Scan fingerprint**](#live-scan). This only needs to be done once by each league
+4. [Get fingerprinted through a **Live Scan**](#live-scan). This only needs to be done once by each league
    coach -- you don't need to do it annually -- but a Live Scan for another sport or league
    cannot be used by MAYSL.
 
@@ -126,53 +126,8 @@ another organization can't be used for MAYSL.
 
 ## FAQ
 
-### _What if I can't make all the games?_
+### _What if I'm worried about something that might come up in my background check?_
 
-An assistant coach or a team parent can cover practices and games
-if the head coach can't make it. Don't let that hold you back from
-signing up as a coach!
-
-### _Are there team pictures?_
-
-The league provides team photos as part of the registration fee.
-They're typically taken in the 2nd half of the season, after the
-October break, and it always happens on a game day at the YHS
-game field. Keep an eye on the [News](/news/) page for an
-announcement each season.
-
-### _When and where can I practice?_
-
-At the start of each season, your [area rep](/contact/) will coordinate
-fields and times with all of their coaches.
-
-### _Can I borrow players for a game?_
-
-Yes, guest players can be pulled in for both recreational and competitive/travel
-games. CYSA District 7 outlines the essentials in their [Playing Program Handbook](
-https://cysadistrict7.org/for-coaches/playing-program-handbook/). See our
-[rules on guest players](/rules/#guest-players--team-size) on the Rules page for details.
-
-### What should I keep in my coach bag?
-
-Handy items:
-* 2 extra water bottles: 1 to refill player bottles and another for yourself
-* 2 colors of pinnies -- very useful for dividing your team during practice
-  (the ref station will always have some available if needed during a game)
-* brightly colored cones to create exercise areas or courses during practice
-* goalie gloves
-* a ball pump and spare air needles
-* a ballpoint pen to fill out game cards
-* a first aid kit
-
-For the first aid kit, US Youth Soccer has a [suggested list of first aid items
-here](https://www.usyouthsoccer.org/news/the_spectators_first_aid_kit/).
-Consider printing out their [ice or heat?](https://www.usyouthsoccer.org/news/ice_or_heat/)
-page to keep in the bag as well.
-
-## Further Reading
-
-For more information, see the [CYSA District VII Coaching Page](
-https://cysadistrict7.org/for-coaches/).
-
-We also have various [resources](/resources/) available on our site.
-
+Write anything you're worried about on your bg check form.  The people that review it
+will take your explanations into account when they approve or deny.  Denied checks can
+be appealed, too, but it does slow down the process.
