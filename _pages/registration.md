@@ -3,6 +3,9 @@ title: Registration
 permalink: /registration/
 toc: true
 toc_icon: trophy
+sidebar:
+  title: 2023 Signups
+  nav: signups
 ---
 
 Anyone who spends significant time with our players must register.
