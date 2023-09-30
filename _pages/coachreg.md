@@ -1,5 +1,5 @@
 ---
-title: Coach Reg
+title: Coach Registration Guide
 permalink: /coachreg/
 toc: true
 toc_icon: trophy

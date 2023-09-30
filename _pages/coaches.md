@@ -145,13 +145,13 @@ skill development, and encouragement for ALL players.**
 
 If you'd like to coach a team, please do the following:
 
-1. **Register** as a coach in GotSport (see the signup link at the top)
+1. **Register** as a coach in GotSport (use the link at [Registration]({% link _pages/registration.md %}) 
 2. Submit a **background check** via your GotSport Dashboard
 3. Complete the **coaching courses** list in your GotSport Dashboard
 4. Get fingerprinted through a **Live Scan**
 
-See [Registration]({% link _pages/coachreg.md %}) for a complete overview,
-including screenshots.
+See the [Coach Registration Guide]({% link _pages/coachreg.md %}) for
+a complete overview, including screenshots.
 
 ## Coaching Requirements
 
