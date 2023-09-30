@@ -201,6 +201,9 @@ page to keep in the bag as well.
 
 ## Further Reading
 
+See our [Coach Registration Guide]({% link _pages/coachreg.md %}) for details on
+the steps to take after signing up to coach.
+
 For more information, see the [CYSA District VII Coaching Page](
 https://cysadistrict7.org/for-coaches/).
 
