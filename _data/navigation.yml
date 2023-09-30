@@ -62,13 +62,13 @@ news:
 
 signups:
 - title: Players
-  url: https://system.gotsport.com/programs/69874V511?reg_role=player)
+  url: https://system.gotsport.com/programs/69874V511?reg_role=player
 - title: Coaches
-  url: https://system.gotsport.com/programs/69874V511?reg_role=coach)
+  url: https://system.gotsport.com/programs/69874V511?reg_role=coach
 - title: Referees
-  url: https://system.gotsport.com/programs/69874V511?reg_role=referee)
+  url: https://system.gotsport.com/programs/69874V511?reg_role=referee
 - title: Managers
-  url: https://system.gotsport.com/programs/69874V511?reg_role=manager)
+  url: https://system.gotsport.com/programs/69874V511?reg_role=manager
 
 schedules:
 - title: U4-U6
