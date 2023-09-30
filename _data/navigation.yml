@@ -67,8 +67,6 @@ signups:
   url: https://system.gotsport.com/programs/69874V511?reg_role=coach
 - title: Referees
   url: https://system.gotsport.com/programs/69874V511?reg_role=referee
-- title: Managers
-  url: https://system.gotsport.com/programs/69874V511?reg_role=manager
 
 schedules:
 - title: U4-U6
