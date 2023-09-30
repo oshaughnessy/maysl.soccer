@@ -150,7 +150,7 @@ If you'd like to coach a team, please do the following:
 3. Complete the **coaching courses** list in your GotSport Dashboard
 4. Get fingerprinted through a **Live Scan**
 
-See [Registration]({% link _pages/registration.md %}) for a complete overview,
+See [Registration]({% link _pages/coachreg.md %}) for a complete overview,
 including screenshots.
 
 ## Coaching Requirements

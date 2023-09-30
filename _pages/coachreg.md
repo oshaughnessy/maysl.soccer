@@ -1,6 +1,6 @@
 ---
-title: Registration
-permalink: /registration/
+title: Coach Reg
+permalink: /coachreg/
 toc: true
 toc_icon: trophy
 sidebar:
