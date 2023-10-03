@@ -1,7 +1,7 @@
 {% assign cur_week = site.time | date: "%W %Z" %}
 {% assign first_week = site.first_game | date: "%W %Z" %}
 {% assign season_week = cur_week | minus: first_week | modulo: 52 %}
-{% assign schedule_active_column = season_week | plus: 1 %}
+{% assign schedule_active_column = season_week | plus: 2 %}
 {% assign schedule_active_week = season_week | plus: 2 %}
 
 <!--
