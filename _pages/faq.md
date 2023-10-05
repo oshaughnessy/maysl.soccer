@@ -56,10 +56,12 @@ announcement each season.
 
 ## _Can my child play after they get hurt?_
 
-If a player is injured, during a soccer activity or outside of the league,
-and they see a doctor (or other medical professional), they can't return
-to play until they're cleared by a doctor to return. This includes playing
-at practice or games. We certainly encourage injured players to join their
-teams on the sidelines, though, and cheer on their teammates. Help your
-coaches out -- parents should bring a note from the doctor to their
-coach, detailing what activities are allowed and what aren't.
+If a player is injured and sees a doctor during the season (whether it happens
+during soccer or outside of the league), they can't return to play until they're
+cleared by a doctor to return. This includes participating in practice or games.
+
+We want our players to participate as much as possible and cheer on their teammates,
+but part of learning to be a good athlete is taking good care of your body. We
+certainly encourage injured players to join their teams on the sidelines until they
+can return to play. You can help your coaches guide your kids by bringing them a note
+from the doctor, detailing what activities are allowed and what aren't.
