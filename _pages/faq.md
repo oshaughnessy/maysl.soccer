@@ -17,6 +17,8 @@ Practices are mid-week. Many of the U4-U6 teams only practice at the beginning
 of the season. U8 often practice one day a week, and U10+ typically practice
 2 times a week.
 
+See [Schedules]({% link _pages/schedules.md %}) for seasonal details.
+
 
 ## _Where do you play?_
 
@@ -24,7 +26,17 @@ We have games at the lower field behind Yosemite High School,
 near the tennis courts and softball fields.
 
 We practice at the fields of our area elementary and secondary
-schools in Ahwahnee, Oakhurst, North Fork and YLP.
+schools in Ahwahnee, Oakhurst, North Fork, Spring Valley, and YLP.
+
+See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for details.
+
+
+## _What gear do I need?_
+
+Not much! Athletic shoes or cleats, tall socks, shin guards, and shorts are
+the bare minimum.
+
+See [Parents/Equipment]({% link _pages/parents.md %}/#equipment) for more info.
 
 
 ## _What if my kids can't make all the games?_
