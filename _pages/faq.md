@@ -63,5 +63,5 @@ cleared by a doctor to return. This includes participating in practice or games.
 We want our players to play as much as possible and cheer on their teammates,
 but part of learning to be a good athlete is taking good care of your body. We
 certainly encourage injured players to join their teams on the sidelines until they
-can return to play. You can help your coaches guide your kids by bringing them a note
+can get back to it. You can help your coaches guide your kids by bringing them a note
 from the doctor, detailing what activities are allowed and what aren't.
