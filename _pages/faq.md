@@ -7,6 +7,17 @@ permalink: /faq/
 MAYSL Frequently Asked Questions
 
 
+## _When do you play?_
+
+Games are on Saturdays. The season is 9 games. It usually runs from the 2nd
+Saturday after Labor Day until the 1st week of November, and we skip the last
+weekend of Fall Break.
+
+Practices are mid-week. Many of the U4-U6 teams only practice at the beginning
+of the season. U8 often practice one day a week, and U10+ typically practice
+2 times a week.
+
+
 ## _Where do you play?_
 
 We have games at the lower field behind Yosemite High School,
