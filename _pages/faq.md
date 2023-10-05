@@ -15,7 +15,7 @@ weekend of Fall Break.
 
 Practices are mid-week. Many of the U4-U6 teams only practice at the beginning
 of the season. U8 often practice one day a week, and U10+ typically practice
-2 times a week.
+2 times a week. Each coach decides his or her team's practice times and locations.
 
 See [Schedules]({% link _pages/schedules.md %}) for seasonal details.
 
