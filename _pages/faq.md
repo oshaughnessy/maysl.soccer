@@ -33,7 +33,7 @@ See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for details.
 
 ## _What gear do I need?_
 
-Not much! Athletic shoes or cleats, tall socks, shin guards, and shorts are
+Not much! Cleats (or athletic shoes), tall socks, shin guards, and shorts are
 the bare minimum.
 
 See [Parents/Equipment]({% link _pages/parents.md %}/#equipment) for more info.
