@@ -55,19 +55,16 @@ table.schedule th {
   vertical-align: bottom;
 }
 
+table.schedule td {
+}
+
 table.schedule th:first-child,
-table.schedule td:first-child{
+table.schedule td:first-child {
   position: sticky;
   left: 0;
   opacity: 1;
   background-color: #003433;
-}
-
-table.schedule :nth-child({{ schedule_active_column }} of th) {
-  font-weight: bold;
-  background-color: #1e252a;
-  background-blend-mode: difference;
-  mix-blend-mode: luminosity;
+  text-align: right;
 }
 
 table.schedule :nth-child({{ schedule_active_column }} of th)::before {
@@ -77,8 +74,12 @@ table.schedule :nth-child({{ schedule_active_column }} of th)::before {
   padding-right: 0.25em;
 }
 
-table.schedule td:first-child {
-  text-align: right;
+table.schedule :nth-child({{ schedule_active_column }} of th) {
+  font-weight: bold;
+  background-color: #1e252a;
+  background-blend-mode: difference;
+  mix-blend-mode: luminosity;
+  scroll-snap-align: end;
 }
 
 table.schedule :nth-child({{ schedule_active_column }} of td) {
@@ -86,6 +87,7 @@ table.schedule :nth-child({{ schedule_active_column }} of td) {
   background-color: #000000;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
+  scroll-snap-align: end;
 }
 
 table.schedule tbody tr:last-child {
