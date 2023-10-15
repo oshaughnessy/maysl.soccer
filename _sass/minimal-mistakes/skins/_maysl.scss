@@ -3,9 +3,9 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #1e252a !default;
+$background-color: #053f4e !default; /* #014d65 */
 $text-color: #e0e0e0 !default;
-$primary-color: #008f00 !default; /* grass green */
+$primary-color: #5fe5e1 !default; /* light teal */
 $border-color: mix($primary-color, $background-color, 75%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
