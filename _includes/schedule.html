@@ -50,6 +50,10 @@ table.schedule {
   text-align: center;
 }
 
+table.schedule th {
+  vertical-align: bottom;
+}
+
 table.schedule :nth-child({{ schedule_active_column }} of th) {
   font-weight: bold;
   background-color: #1e252a;
@@ -73,6 +77,11 @@ table.schedule :nth-child({{ schedule_active_column }} of td) {
   background-color: #000000;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
+}
+
+table.schedule tbody tr:last-child {
+  font-weight: bold;
+  background-color: #003433;
 }
 
 
