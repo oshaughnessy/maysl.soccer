@@ -42,6 +42,9 @@ sidebar:
 #- title: 
 #  image: /files/maysl-logo.png
 #  image_alt: Mountain Area Youth Soccer Logo
+- title: FAQ
+  url: /faq/
+  description: Frequently Asked Questions
 - title: News
   url: /news/
 - title: Parents
