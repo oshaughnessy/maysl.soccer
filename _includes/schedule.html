@@ -2,6 +2,8 @@
 {% assign cur_week = site.time | date: "%U %Z" %}
 {% assign first_week = site.first_game | date: "%U %Z" %}
 {% assign season_week = cur_week | minus: first_week | modulo: 52 %}
+<!-- nth-child matches later need to account for tr element,
+     so they're 1 higher than otherwise expected. -->
 {% assign schedule_active_column = season_week | plus: 3 %}
 {% assign schedule_active_week = season_week | plus: 2 %}
 
@@ -48,14 +50,14 @@ table.schedule {
   text-align: center;
 }
 
-table.schedule th:nth-child({{ schedule_active_column }}) {
+table.schedule :nth-child({{ schedule_active_column }} of th) {
   font-weight: bold;
   background-color: #1e252a;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
 
-table.schedule th:nth-child({{ schedule_active_column }})::before {
+table.schedule :nth-child({{ schedule_active_column }} of th)::before {
   /* content: '\1F446';  /* finger-pointing-up */
   /* content: '\1F447';  /* finger-pointing-down */
   content: '\26bd';  /* soccer ball */
@@ -66,7 +68,7 @@ table.schedule td:first-child {
   text-align: right;
 }
 
-table.schedule td:nth-child({{ schedule_active_column }}) {
+table.schedule :nth-child({{ schedule_active_column }} of td) {
   font-weight: bold;
   background-color: #000000;
   background-blend-mode: difference;
