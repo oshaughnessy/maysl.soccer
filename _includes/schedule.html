@@ -1,7 +1,8 @@
-{% assign cur_week = site.time | date: "%W %Z" %}
-{% assign first_week = site.first_game | date: "%W %Z" %}
+<!-- %U to move forward on Sundays, %W to shift on Mondays -->
+{% assign cur_week = site.time | date: "%U %Z" %}
+{% assign first_week = site.first_game | date: "%U %Z" %}
 {% assign season_week = cur_week | minus: first_week | modulo: 52 %}
-{% assign schedule_active_column = season_week | plus: 2 %}
+{% assign schedule_active_column = season_week | plus: 3 %}
 {% assign schedule_active_week = season_week | plus: 2 %}
 
 <!--
