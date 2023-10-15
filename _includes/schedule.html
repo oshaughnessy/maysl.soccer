@@ -48,10 +48,19 @@ table.schedule-key td {
 table.schedule {
   font-size: +1em;
   text-align: center;
+  scroll-snap-type: x proximity;
 }
 
 table.schedule th {
   vertical-align: bottom;
+}
+
+table.schedule th:first-child,
+table.schedule td:first-child{
+  position: sticky;
+  left: 0;
+  opacity: 1;
+  background-color: #003433;
 }
 
 table.schedule :nth-child({{ schedule_active_column }} of th) {
@@ -59,7 +68,6 @@ table.schedule :nth-child({{ schedule_active_column }} of th) {
   background-color: #1e252a;
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
-  scroll-snap-align: center;
 }
 
 table.schedule :nth-child({{ schedule_active_column }} of th)::before {
