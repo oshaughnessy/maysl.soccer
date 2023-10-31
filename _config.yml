@@ -183,5 +183,5 @@ lunr:
 #google:
 #  search_engine_id: 462070f4ab7ad47f3
 
-# what's the date, in the current year, of our first game?
-first_game: 9/16
+# what's the date of our first game?
+first_game: 9/16/2023 -0700
