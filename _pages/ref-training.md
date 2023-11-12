@@ -8,8 +8,8 @@ sidebar:
   nav: rules
 ---
 
-This page highlights the rules we apply at each age division and when we either
-introduce them as teaching steps or really begin to enforce them.
+This page highlights the rules we apply at each age division, and discusses when
+we just introduce them as teaching steps or really begin to enforce them.
 For more details, please see [Rules]({% link _pages/rules.md %}#growing-with-the-game).
 
 To summarize the progression of teaching and enforcing rules:
