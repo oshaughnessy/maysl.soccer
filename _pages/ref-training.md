@@ -47,6 +47,16 @@ No goals may be scored on direct kick from a goalkeeper.
 
 No drop-kicks are allowed by the goalkeeper.
 
+When any of these happen, simply have the goalie kick or throw from the original position again.
+
+### Handball
+
+Handball offenses should be enforced with discretion. Players are still learning to
+suppress the instinct to bring hands up to protect themselves. For details, see
+["Handling the ball" in section 1 of Law 12](https://www.theifab.com/laws/latest/fouls-and-misconduct/#direct-free-kick).
+
+The penalty for a handball is a direct free kick from the location of the offense.
+
 ### Heading
 
 Heading is never allowed in this division.
@@ -103,11 +113,17 @@ Goals _may be_ scored on direct kick from a goalkeeper.
 
 No drop-kicks are allowed by the goalkeeper.
 
+If a goalie drop-kicks, simply have them repeat the play with a new kick off the
+ground or a throw from the original position.
+
+
 ### Handball
 
 Handball offenses should be enforced with discretion. Players are still learning to
 suppress the instinct to bring hands up to protect themselves. For details, see
 ["Handling the ball" in section 1 of Law 12](https://www.theifab.com/laws/latest/fouls-and-misconduct/#direct-free-kick).
+
+The penalty for a handball is a direct free kick from the location of the offense.
 
 ### Heading
 
@@ -124,6 +140,9 @@ Allow subs only when the ball is out of play.
 ### Throw-ins
 
 Enforce proper throw-in technique.
+
+A throw-in offense results in turning the ball over to the opposing team
+and throwing in from the same position.
 
 
 ## U12
@@ -145,9 +164,9 @@ near their target goal.
 No heading of the ball is allowed. According to CYSA District 7 rules, heading is
 only allowed beginning in U15.
 
-An offense results in an _indirect free kick_ to the opposing
-team at the place of the header. If it happens inside the penalty
-area, move the ball outside the penalty box first.
+An offense results in an _indirect free kick_ to the opposing team at the
+place of the header. If it happens inside the penalty area, move the ball
+outside the penalty box first.
 
 ### Offside
 
