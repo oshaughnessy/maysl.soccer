@@ -185,3 +185,25 @@ Offsides lead to an _indirect free kick_ where the offense occurred.
   1. offside
   2. use of hands & arms causes a penalty kick
   3. use of hands by goalkeepers on a touch from their own teammates causes a penalty kick
+
+
+## Direct vs Indirect Kicks
+
+A direct kick is one that can result in an immediate goal.
+
+An indirect kick must be touched by another player after the initial kick.
+
+### Common Direct Kick Offenses
+
+The following offenses lead to a direct kick by the opposing team:
+- handball
+- holding
+- careless, reckless, excessive-force contact against an opponent
+
+### Common Indirect Kick Offenses
+
+The following lead to an indirect kick by the opposing team:
+- heading
+- offside
+- dangerous play
+- abusing or offensive language
