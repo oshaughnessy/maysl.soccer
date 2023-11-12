@@ -28,3 +28,9 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+/* notices */
+$toc-active-color: mix($primary-color, $background-color, 50%) !default;
+p.notice--info { background-color: mix($background-color, $toc-active-color, 66%); }
+p.notice.direct { background-color: mix(#FF0000, $background-color, 33%); }
+p.notice.indirect { background-color: mix(#FFFF00, $background-color, 33%); }

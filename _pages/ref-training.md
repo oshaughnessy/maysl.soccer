@@ -48,6 +48,7 @@ No goals may be scored on direct kick from a goalkeeper.
 No drop-kicks are allowed by the goalkeeper.
 
 When any of these happen, simply have the goalie kick or throw from the original position again.
+{: .notice .info }
 
 ### Handball
 
@@ -56,6 +57,7 @@ suppress the instinct to bring hands up to protect themselves. For details, see
 ["Handling the ball" in section 1 of Law 12](https://www.theifab.com/laws/latest/fouls-and-misconduct/#direct-free-kick).
 
 The penalty for a handball is a direct free kick from the location of the offense.
+{: .notice .direct }
 
 ### Heading
 
@@ -64,6 +66,7 @@ Heading is never allowed in this division.
 A heading offense results in an _indirect free kick_ to the opposing
 team at the place of the header. If it happens inside the penalty
 area, move the ball outside the penalty box first.
+{: .notice .indirect }
 
 ### Offside
 
@@ -84,6 +87,7 @@ Players should kick in from the point where the ball went outside
 the field of play.
 
 _Why?_ See [Throw-Ins in U10]({% link _pages/rules.md %}#throw-ins-in-u10) for more info.
+{: .notice--info }
 
 
 ## U10
@@ -115,6 +119,7 @@ No drop-kicks are allowed by the goalkeeper.
 
 If a goalie drop-kicks, simply have them repeat the play with a new kick off the
 ground or a throw from the original position.
+{: .notice--info }
 
 
 ### Handball
@@ -124,6 +129,7 @@ suppress the instinct to bring hands up to protect themselves. For details, see
 ["Handling the ball" in section 1 of Law 12](https://www.theifab.com/laws/latest/fouls-and-misconduct/#direct-free-kick).
 
 The penalty for a handball is a direct free kick from the location of the offense.
+{: .notice .direct }
 
 ### Heading
 
@@ -132,6 +138,7 @@ Heading is never allowed in this division.
 A heading offense results in an _indirect free kick_ to the opposing
 team at the place of the header. If it happens inside the penalty
 area, move the ball outside the penalty box first.
+{: .notice .indirect }
 
 ### Substitutions
 
@@ -143,6 +150,7 @@ Enforce proper throw-in technique.
 
 A throw-in offense results in turning the ball over to the opposing team
 and throwing in from the same position.
+{: .notice--warning }
 
 
 ## U12
@@ -155,9 +163,21 @@ from the goalkeeper.
 
 Drop-kicks are allowed by the goalkeeper beginning in U12.
 
-Teach that goalies cannot use hands when passed the ball from their own players,
-but limit enforcement to avoid creating severe advantages to the opposing team
-near their target goal.
+Teach goalies that they cannot use their hands when receiving the ball from their
+own players, but limit enforcement to avoid creating severe advantages to the opposing
+team near their target goal.
+
+{% capture goalkeeper-handball %}
+If a goalkeeper commits a handball offense inside their own penalty box, the penalty
+is an _indirect_ free kick by the opposing team. Such offenses include:
+- holding the ball for more than 6 seconds
+- touching, releasing, then touching the ball again
+- receiving it directly from a throw-in
+- receiving it from a deliberate pass by a teammate
+
+See [Rules 12.2 -- Indirect Free Kick](https://www.theifab.com/laws/latest/fouls-and-misconduct/#indirect-free-kick) for more info.
+{% endcapture %}
+<div class="notice indirect">{{ goalkeeper-handball | markdownify }}</div>
 
 ### Heading
 
@@ -167,6 +187,7 @@ only allowed beginning in U15.
 An offense results in an _indirect free kick_ to the opposing team at the
 place of the header. If it happens inside the penalty area, move the ball
 outside the penalty box first.
+{: .notice .indirect }
 
 ### Offside
 
@@ -176,6 +197,7 @@ Players are not offside if they interact with a ball received directly
 from a corner kick, a goal kick, or a throw-in.
 
 Offsides lead to an _indirect free kick_ where the offense occurred.
+{: .notice .indirect }
 
 
 ## U15+
