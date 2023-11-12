@@ -185,3 +185,7 @@ lunr:
 
 # what's the date of our first game?
 first_game: 2023-09-16 PDT
+
+breadcrumbs: true
+breadcrumb_home_label : Home
+breadcrumb_separator  : /

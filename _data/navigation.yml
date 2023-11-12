@@ -13,9 +13,6 @@ main:
 - title: Coaches
   url: /coaches/
   description: For coaches
-- title: Refs
-  url: /refs/
-  description: For referees
 - title: Rules
   url: /rules/
 - title: Registration
@@ -37,6 +34,15 @@ coaching:
   url: /resources/
 - title: CYSA District VII Coaching Page
   url: https://cysadistrict7.org/for-coaches/
+
+rules:
+- title: Referees
+  url: /refs/
+  description: For referees
+- title: Ref Training
+  url: /refs/training/
+- title: Rule Highlights
+  url: /rules/
 
 sidebar:
 #- title: 

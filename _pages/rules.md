@@ -4,6 +4,9 @@ title: MAYSL Modified Laws & Guidelines
 permalink: /rules/
 toc: true
 toc_icon: balance-scale
+sidebar:
+  title: Related
+  nav: rules
 ---
 
 ## Basic Rules
@@ -14,6 +17,8 @@ based on age group.
 For a friendly overview of the Laws of the Game, see
 [Laws of the Game Made Easy](/files/laws-of-the-game-made-easy-2011.pdf).
 
+Please see [Ref Training]({% link _pages/ref-training.md %}) for information on
+how our refs are taught to enforce rules in each MAYSL age division.
 
 ## Game Sizes
 
@@ -55,8 +60,22 @@ be made.
 [Law 11](https://www.theifab.com/laws/latest/offside/), "Offside", is enforced beginning
 in U9/U10.
 
+In U10, offside may only be applied when opposing players are beyond the build-out
+line. In MAYSL, offside is rarely enforced in U10 and is primarily taught and enforced
+beginning in U12.
+
 For a friendly, clear explanation of offside rules, see
 [Offside Made Easy](/files/offside-made-easy.pdf).
+
+{% capture no-offside %}
+**Note [Law 11.3](https://www.theifab.com/laws/latest/offside/#no-offence) -- No Offside Offense**
+
+There is no offside offense if a player receives the ball directly from:
+* a goal kick
+* a throw-in
+* a corner kick
+{% endcapture %}
+<div class="notice--info">{{ no-offside | markdownify }}</div>
 
 ### Substitutions in U10+
 

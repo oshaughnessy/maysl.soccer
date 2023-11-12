@@ -3,6 +3,9 @@ title: Referees
 permalink: /refs/
 toc: true
 toc_icon: futbol
+sidebar:
+  title: Related
+  nav: rules
 ---
 
 Our referees range from experienced adults to youth players who are
@@ -10,6 +13,9 @@ facilitating games for younger age groups.
 
 If you have any questions about refereeing, please reach out to
 our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
+
+For details on how to be a ref in each MAYSL age division, please see
+[Ref Training]({% link _pages/ref-training.md %}).
 
 
 ## Facilitators
@@ -147,6 +153,8 @@ made to create a journey that encourages age-appropriate fun and skill developme
 See [Growing with the Game](/rules/#growing-with-the-game) on the Rules page for
 specific insights.
 
+Please see [Ref Training]({% link _pages/ref-training.md %}) for guidance on how to
+apply rules in each MAYSL age division.
 
 ## Further Reading
 
