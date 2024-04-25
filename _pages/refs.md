@@ -8,6 +8,10 @@ sidebar:
   nav: rules
 ---
 
+[2024-2025 Training]({% link files/ref-clinic-2024.pdf %}) is coming this summer!
+
+----
+
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
