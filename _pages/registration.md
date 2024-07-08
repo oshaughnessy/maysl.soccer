@@ -10,9 +10,9 @@ sidebar:
 
 2024-2025 GotSport links:
 
-- [Global signup](https://system.gotsport.com/programs/21355R050)
-<!-- - [Player signup](https://system.gotsport.com/programs/21355R050?reg_role=player) -->
+- [Player signup](https://system.gotsport.com/programs/21355R050?reg_role=player)
 - [Coach signup](https://system.gotsport.com/programs/21355R050?reg_role=coach)
 - [Referee signup](https://system.gotsport.com/programs/21355R050?reg_role=referee)
+- [All signups](https://system.gotsport.com/programs/21355R050)
 
 [Coach Registration Guide]({% link _pages/coachreg.md %})
