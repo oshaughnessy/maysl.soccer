@@ -1,6 +1,6 @@
 ---
 title: 2023-24 Registration is Open
-tags: 
+tags: 2023-season signup
 ---
 
 Registration for the 2023-2024 season is open!
