@@ -8,7 +8,7 @@ sidebar:
   nav: signups
 ---
 
-2024-2025 GotSport links:
+2024-2025 signup links:
 
 - [Player signup](https://system.gotsport.com/programs/21355R050?reg_role=player)
 - [Coach signup](https://system.gotsport.com/programs/21355R050?reg_role=coach)
