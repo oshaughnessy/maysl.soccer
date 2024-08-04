@@ -1,5 +1,5 @@
 ---
-title: 2023-24 Registration is Open
+title: 2024-25 Registration is Open
 tags: 2024-season signup
 sidebar:
   title: 2024 Signups
