@@ -23,7 +23,7 @@ or the
 MAYSL's primary season is in the fall, from mid-September to mid-November.
 If you'd like to sign up your kids:
 
-1. **Register** players at [GotSport](https://system.gotsport.com/programs/88407263X?reg_role=player)
+1. **Register** players at [GotSport]({% link _pages/registration.md %})
     * Registration for travel teams ends in mid-July.
     * Registration for local teams ends in mid-August.
 
