@@ -172,6 +172,7 @@ defaults:
 
 include: ["_pages"]
 
+home_articles: 2  # amount of posts to show
 paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
 
