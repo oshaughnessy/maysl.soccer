@@ -172,7 +172,7 @@ defaults:
 
 include: ["_pages"]
 
-#paginate: 5  # amount of posts to show
+paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search

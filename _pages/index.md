@@ -14,4 +14,4 @@ _1st games are on Sat, Sept 14._
 
 *[Sign up your players here](https://system.gotsport.com/programs/21355R050?reg_role=player)*
 
-We're always looking for [coaches & referrees]({% link _pages/registration.md %}), too!
+We're always looking for [coaches & referees]({% link _pages/registration.md %}), too!
