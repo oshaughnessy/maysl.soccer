@@ -12,6 +12,13 @@ before Thankgiving and skip a weekend in mid-October for the fall school break,
 which gives us 9 or 10 weekends for games.
 
 
+## 2024-2025 Season
+
+Opening Day is Sept 14, 2024.
+
+Game times will be posted the week before opening day.
+
+
 ## 2023-2024 Season
 
 Opening Day is Sept 16, 2023.

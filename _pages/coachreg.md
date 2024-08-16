@@ -4,7 +4,7 @@ permalink: /coachreg/
 toc: true
 toc_icon: trophy
 sidebar:
-  title: 2023 Signups
+  title: Signups
   nav: signups
 ---
 

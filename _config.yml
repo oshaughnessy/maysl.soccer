@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -148,10 +149,10 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: Schedules
-        nav: schedules-by-division
-        #title: 2023 Signups
-        #nav: signups
+        #title: Schedules
+        #nav: schedules-by-division
+        title: 2024 Signups
+        nav: signups
       toc_sticky: true
   # _posts
   - scope:

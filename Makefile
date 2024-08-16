@@ -17,10 +17,12 @@ update:
 
 local-config: local.yml
 
-local.yml:
+local.yml: _config.yml
 	@echo "Generating local config from _config.yml"
 	@sed '/^remote_theme:/d' _config.yml > $@
 	@echo "theme: minimal-mistakes-jekyll" >> $@
+
+.PHONY: _config.yml
 
 serve: local.yml
 	bundle exec jekyll serve --livereload --config local.yml
