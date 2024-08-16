@@ -6,6 +6,8 @@ toc_icon: trophy
 sidebar:
   title: 2024 Signups
   nav: signups
+redirect_from:
+  - /register/
 ---
 
 2024-2025 signup links:
