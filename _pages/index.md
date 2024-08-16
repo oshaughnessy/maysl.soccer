@@ -8,7 +8,9 @@ permalink: /
 layout: home
 ---
 
-Registration for the 2024-2025 season is open though mid August!
+Registration for the 2024-2025 season is open though August!
+
+_1st games are on Sat, Sept 14._
 
 *[Sign up your players here](https://system.gotsport.com/programs/21355R050?reg_role=player)*
 
