@@ -175,6 +175,7 @@ include: ["_pages"]
 home_articles: 2  # amount of posts to show
 paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
+season_tag: 2024-season
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true
