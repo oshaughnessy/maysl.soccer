@@ -43,7 +43,7 @@ following steps. If you have more questions, details can be found further down.
     sport or league cannot be used by MAYSL.
 
 **Please Note**:
-For all registrations and courses, it is essential that you use your full legal name.
+For all registrations and courses, _it is essential that you use your full legal name_.
 The systems that match your course completions and Live Scan application will only be able
 to connect your information to our soccer registration system if they all have the same name,
 and the Live Scan application runs through the California Department of Justice, where it will
