@@ -19,24 +19,28 @@ for your school and follow the registration process below.
 If you'd like to help out with a team in any significant way, please take the
 following steps. If you have more questions, details can be found further down.
 
-1. **Register** as a coach at GotSport (see the signup links at the top of this
-   page on mobile or upper left on a computer).
+1. [**Register**]({% link _pages/registration.md %}).
 
     Once you've registered at GotSport, you should see a list of
     things to do in your account dashboard. Links for each class
     or form are right there in the list, under the _Details_ column.
     Please be sure to use your full legal name for all of the forms.
 
-2. [Complete **coaching courses**](#coaching-requirements). You'll need to complete and
-   submit each of the lessons listed there, "Introduction to Safe and Healthy Playing
-   Environments" and "Safe Sport Training". It all takes a few hours the first time
-   you do it, but when you come back next year `:-)`, each one only takes about 30 minutes.
+2. [Complete **coaching courses**](#coaching-requirements).
 
-3. Submit the form for a [**background check**](#background-checks).
+    You'll need to complete and submit each of the lessons listed
+    there, "Introduction to Safe and Healthy Playing Environments"
+    and "Safe Sport Training". It all takes a few hours the first
+    time you do it, but when you come back next year `:-)`, each
+    one only takes about 30 minutes.
 
-4. [Get fingerprinted through a **Live Scan**](#live-scan). This only needs to be done once by each league
-   coach -- you don't need to do it annually -- but a Live Scan for another sport or league
-   cannot be used by MAYSL.
+3. Request a [**background check**](#background-checks).
+
+4. [Get fingerprinted through a **Live Scan**](#live-scan).
+
+    This only needs to be done once by each league coach -- you
+    don't need to do it annually -- but a Live Scan for another
+    sport or league cannot be used by MAYSL.
 
 **Please Note**:
 For all registrations and courses, it is essential that you use your full legal name.
