@@ -8,10 +8,8 @@ permalink: /
 layout: home
 ---
 
-Registration for the 2024-2025 season is still open!
+Fall 2024 games are starting!
 
-_1st games are on Sat, Sept 14._
+Our rec soccer season will go from Sept 14 to Nov 23.
 
-*[Sign up your players here](https://system.gotsport.com/programs/21355R050?reg_role=player)*
-
-We're still looking for [coaches & referees]({% link _pages/registration.md %}), too!
+If you haven't yet, *[sign up your players here](https://system.gotsport.com/programs/21355R050?reg_role=player)*
