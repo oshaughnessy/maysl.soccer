@@ -7,9 +7,12 @@ toc_icon: calendar-alt
 
 {% include schedule.html division=page.division %}
 
-MAYSL's primary season is in the fall. We typically play from mid-September to the week
-before Thankgiving and skip a weekend in mid-October for the fall school break,
-which gives us 9 or 10 weekends for games.
+MAYSL's primary recreational soccer season is in the fall, from mid-September
+to the week before Thankgiving and skip a weekend in mid-October for the fall
+school break, which gives us 9 or 10 weekends for games.
+
+We have travel teams for various ages that run from August to November and
+March to June every year.
 
 
 ## 2024-2025 Season
