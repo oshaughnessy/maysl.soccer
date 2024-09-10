@@ -16,6 +16,8 @@ which gives us 9 or 10 weekends for games.
 
 Opening Day is Sept 14, 2024.
 
+Last games will be mid-November.
+
 Game times will be posted the week before opening day.
 
 
