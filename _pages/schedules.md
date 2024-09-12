@@ -17,11 +17,11 @@ March to June every year.
 
 ## 2024-2025 Season
 
-Opening Day is Sept 14, 2024.
+[Opening Day is Sept 14, 2024]({% link schedules/2024/2024-09-14.md %}).
 
 Last games will be mid-November.
 
-Game times will be posted the week before opening day.
+Game time for the rest of the season will be posted shortly after opening day.
 
 
 ## 2023-2024 Season
