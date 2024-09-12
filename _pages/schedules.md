@@ -3,6 +3,8 @@ title: Schedules & Fields
 permalink: /schedules/
 toc: true
 toc_icon: calendar-alt
+sidebar:
+  nav: schedules-by-division
 ---
 
 {% include schedule.html division=page.division %}

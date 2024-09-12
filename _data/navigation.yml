@@ -97,8 +97,8 @@ schedules:
   url: /schedules/2024/2024-U12-boys.html
 - title: U12 Girls
   url: /schedules/2024/2024-U12-girls.html
-- title: U16
-  url: /schedules/2024/2024-U16-coed.html
+- title: U15
+  url: /schedules/2024/2024-U15-coed.html
 
 schedules-by-division:
 - title: Boys
