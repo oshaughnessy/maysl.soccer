@@ -81,43 +81,47 @@ signups:
   url: https://system.gotsport.com/programs/21355R050?reg_role=referee
 
 schedules:
-- title: U4-U6
-  url: /schedules/2023/2023-U6-coed.html
+- title: U5
+  url: /schedules/2024/2024-U5-coed.html
+- title: U6
+  url: /schedules/2024/2024-U6-coed.html
 - title: U8 Boys
-  url: /schedules/2023/2023-U8-boys.html
+  url: /schedules/2024/2024-U8-boys.html
 - title: U8 Girls
-  url: /schedules/2023/2023-U8-girls.html
+  url: /schedules/2024/2024-U8-girls.html
 - title: U10 Boys
-  url: /schedules/2023/2023-U10-boys.html
+  url: /schedules/2024/2024-U10-boys.html
 - title: U10 Girls
-  url: /schedules/2023/2023-U10-girls.html
+  url: /schedules/2024/2024-U10-girls.html
 - title: U12 Boys
-  url: /schedules/2023/2023-U12-boys.html
+  url: /schedules/2024/2024-U12-boys.html
 - title: U12 Girls
-  url: /schedules/2023/2023-U12-girls.html
+  url: /schedules/2024/2024-U12-girls.html
 - title: U16
-  url: /schedules/2023/2023-U16-coed.html
+  url: /schedules/2024/2024-U16-coed.html
 
 schedules-by-division:
 - title: Boys
   children:
   - title: Under 8
-    url: /schedules/2023/2023-U8-boys.html
+    url: /schedules/2024/2024-U8-boys.html
   - title: Under 10
-    url: /schedules/2023/2023-U10-boys.html
+    url: /schedules/2024/2024-U10-boys.html
   - title: Under 12
-    url: /schedules/2023/2023-U12-boys.html
+    url: /schedules/2024/2024-U12-boys.html
 - title: Girls
   children:
   - title: Under 8
-    url: /schedules/2023/2023-U8-girls.html
+    url: /schedules/2024/2024-U8-girls.html
   - title: Under 10
-    url: /schedules/2023/2023-U10-girls.html
+    url: /schedules/2024/2024-U10-girls.html
   - title: Under 12
-    url: /schedules/2023/2023-U12-girls.html
+    url: /schedules/2024/2024-U12-girls.html
 - title: Coed
   children:
-  - title: Under 4, 5, & 6
-    url: /schedules/2023/2023-U6-coed.html
+  - title: Under 4 & 5
+    url: /schedules/2024/2024-U5-coed.html
+  - title: Under 6
+    url: /schedules/2024/2024-U6-coed.html
   - title: Under 16
-    url: /schedules/2023/2023-U16-coed.html
+    url: /schedules/2024/2024-U16-coed.html
