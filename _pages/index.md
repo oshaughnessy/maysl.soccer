@@ -8,8 +8,6 @@ permalink: /
 layout: home
 ---
 
-Fall 2024 games are starting!
+Fall 2024 games are starting and [our opening day schedule]({% link schedules/2024/2024-09-14.md %}) is posted.
 
 Our rec soccer season will go from Sept 14 to Nov 23.
-
-If you haven't yet, *[sign up your players here](https://system.gotsport.com/programs/21355R050?reg_role=player)*
