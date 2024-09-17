@@ -34,7 +34,7 @@ Games are played in 10-minute quarters.
 | 4     | Oakhurst B      | Garrett
 | 5     | Spring Valley A | Smith
 | 6     | Spring Valley B | Ching
-| 7     | Wasuma          | Garcia/Ellis
+| 7     | Wasuma          | Ellis
 {: class="schedule-key"}
 
 [Download](/schedules/2024/MAYSL-2024-U8-girls.pdf)
