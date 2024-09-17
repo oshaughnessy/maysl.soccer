@@ -21,21 +21,17 @@ March to June every year.
 
 [Opening Day is Sept 14, 2024]({% link schedules/2024/2024-09-14.md %}).
 
-Last games will be mid-November.
-
 Game time for the rest of the season will be posted shortly after opening day.
-
-
-## 2023-2024 Season
-
-Opening Day is Sept 16, 2023.
 
 | Coed | Boys      | Grrls
 |-|-|-
-| [U16](/schedules/2023/2023-U16-coed.html)  | [U12](/schedules/2023/2023-U12-boys.html) | [U12](/schedules/2023/2023-U12-girls.html)
-|                                            | [U10](/schedules/2023/2023-U10-boys.html) | [U10](/schedules/2023/2023-U10-girls.html)
-| [U4-U6](/schedules/2023/2023-U6-coed.html) | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
+| [U15](/schedules/2024/2024-U15-coed.html)  | [U12](/schedules/2024/2024-U12-boys.html) | [U12](/schedules/2024/2024-U12-girls.html)
+| [U6](/schedules/2024/2024-U6-coed.html)    | [U10](/schedules/2024/2024-U10-boys.html) | [U10](/schedules/2024/2024-U10-girls.html)
+| [U5](/schedules/2024/2024-U5-coed.html)    | [U8](/schedules/2024/2024-U8-boys.html)   | [U8](/schedules/2024/2024-U8-girls.html)
 {: class="schedule-overview"}
+
+Last games will be mid-November.
+
 
 ## Game Fields
 
@@ -84,6 +80,18 @@ See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
 
 ## Past Schedules
 
+### 2023-2024 Season
+
+Opening Day was Sept 16, 2023.
+
+| Coed | Boys      | Grrls
+|-|-|-
+| [U16](/schedules/2023/2023-U16-coed.html)  | [U12](/schedules/2023/2023-U12-boys.html) | [U12](/schedules/2023/2023-U12-girls.html)
+|                                            | [U10](/schedules/2023/2023-U10-boys.html) | [U10](/schedules/2023/2023-U10-girls.html)
+| [U4-U6](/schedules/2023/2023-U6-coed.html) | [U8](/schedules/2023/2023-U8-boys.html)   | [U8](/schedules/2023/2023-U8-girls.html)
+{: class="schedule-overview"}
+
+
 ### 2022-2023 Season
 
 | Coed | Boys      | Grrls
@@ -94,5 +102,3 @@ See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
 {: class="schedule-overview"}
 
 Opening Day, [Sept 17, 2022](/schedules/2022/2022-09-17.html)
-
-
