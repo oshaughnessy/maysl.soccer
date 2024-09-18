@@ -161,7 +161,8 @@ In addition, we have the following rules and guidelines.
 ### When to Borrow Players
 
 * Borrow just enough players to fill your field positions, but not enough
-  for substitutes (see the team-size table below).
+  for substitutes unless heat conditions dictate otherwise
+  (see the team-size table below).
 * Borrow players to support your team, not to add new scoring prowess.
   Consider adding them as defenders or a goalkeeper rather than offense
   goal-makers.
@@ -191,15 +192,16 @@ In addition, we have the following rules and guidelines.
 
 ### Game-time Team Sizes
 
-| Age Group | # Players | Min | Rec Max | Tournament Max[^nplayers] |
-|-----------|-----------|-----|-----|-----|
-| U4-U5     | 3v3       | N/A | N/A | N/A |
-| U6-U8     | 5v5       | 4   | 10  | N/A |
-| U10       | 7v7       | 5   | 11  | 14  |
-| U12-U13   | 9v9       | 6   | 13  | 16  |
-| U14+      | 11v11     | 7   | 15  | 18  |
+| Age Group | # Players | Min |
+|-----------|-----------|-----|
+| U4-U5     | 3v3       | N/A |
+| U6-U8     | 5v5       | 4   |
+| U10       | 7v7       | 5   |
+| U12-U13   | 9v9       | 6   |
+| U14+      | 11v11     | 7   |
 
-[^nplayers]: *Minimum and maxium # of players in a travel or tournament game roster are taken from the [CYSA District 7 Playing Program Handbook, 2021](https://cysadistrict7.org/for-coaches/playing-program-handbook/). Note that we recommend fewer for recreational games where coaches have to borrow players, suggesting a full field with 4 subs max, or 10 total for a complete field swap in U6 and U8.*
+For interleague game limits, see _Maximum \"Game Day Roster\" Size_ in the [CYSA District 7 Playing Program Handbook](https://cysadistrict7.org/for-coaches/playing-program-handbook/). 
+{: .notice--info }
 
 ## Play Time
 
