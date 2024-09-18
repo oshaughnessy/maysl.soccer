@@ -194,12 +194,12 @@ In addition, we have the following rules and guidelines.
 | Age Group | # Players | Min | Rec Max | Tournament Max[^nplayers] |
 |-----------|-----------|-----|-----|-----|
 | U4-U5     | 3v3       | N/A | N/A | N/A |
-| U6-U8     | 5v5       | N/A | N/A | N/A |
+| U6-U8     | 5v5       | 4   | 10  | N/A |
 | U10       | 7v7       | 5   | 11  | 14  |
 | U12-U13   | 9v9       | 6   | 13  | 16  |
 | U14+      | 11v11     | 7   | 15  | 18  |
 
-[^nplayers]: *Minimum and maxium # of players in a travel or tournament game roster are taken from the [CYSA District 7 Playing Program Handbook, 2021](https://cysadistrict7.org/for-coaches/playing-program-handbook/). Note that we recommend fewer for recreational games where coaches have to borrow players, suggesting a full field with 4 subs max.*
+[^nplayers]: *Minimum and maxium # of players in a travel or tournament game roster are taken from the [CYSA District 7 Playing Program Handbook, 2021](https://cysadistrict7.org/for-coaches/playing-program-handbook/). Note that we recommend fewer for recreational games where coaches have to borrow players, suggesting a full field with 4 subs max, or 10 total for a complete field swap in U6 and U8.*
 
 ## Play Time
 
