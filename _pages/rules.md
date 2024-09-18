@@ -193,8 +193,8 @@ In addition, we have the following rules and guidelines.
 
 | Age Group | # Players | Min | Max[^nplayers] |
 |-----------|-----------|-----|-----|
-| U4-U6     | 3v3       | N/A | N/A |
-| U7-U8     | 5v5       | N/A | N/A |
+| U4-U5     | 3v3       | N/A | N/A |
+| U6-U8     | 5v5       | N/A | N/A |
 | U10       | 7v7       | 5   | 14  |
 | U12-U13   | 9v9       | 6   | 16  |
 | U14+      | 11v11     | 7   | 18  |
