@@ -33,7 +33,7 @@ are modified as shown:
 | U6        | 5v5       | -               | 10-minute quarters | 3         | 6'x12' (width x height)  |
 | U8        | 5v5       | -               | 10-minute quarters | 3         | 6'x12' (width x height)  |
 | U10       | 7v7       | 5-14            | 25-minute halves   | 4         | 6.5'x18'                 |
-| U12-U13   | 9v9       | 6-16            | 30-minute halves   | 4         | 7'x21'                   |
+| U12       | 9v9       | 6-16            | 25-minute halves   | 4         | 7'x21'                   |
 | U14+      | 11v11     | 7-18            | 35-minute halves   | 5         | 8'x24'                   |
 
 See the [Small-Sided Games chart](/files/uss-small-sided-games.png)
