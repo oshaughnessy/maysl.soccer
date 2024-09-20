@@ -6,8 +6,6 @@ sidebar:
   nav: schedules-by-division
 ---
 
-## << << << 2024 GAME TIMES COMING SOON >> >> >>
-
 {% include schedule.html division=page.division %}
 
 All matches are held at the lower fields behind Yosemite High School.
