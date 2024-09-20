@@ -12,4 +12,4 @@ layout: home
 
 Fall 2024 games are starting and [our opening day schedule]({% link schedules/2024/2024-09-14.md %}) is posted.
 
-Our rec soccer season will go from Sept 14 to Nov 23.
+Our rec soccer season will go from Sept 14 to Nov 16.
