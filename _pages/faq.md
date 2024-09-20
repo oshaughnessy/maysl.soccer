@@ -2,6 +2,8 @@
 layout: single
 title: FAQ
 permalink: /faq/
+toc: true
+toc_icon: circle-question
 ---
 
 MAYSL Frequently Asked Questions

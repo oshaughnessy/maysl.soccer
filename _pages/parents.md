@@ -2,7 +2,7 @@
 title: Parents
 permalink: /parents/
 toc: true
-toc_icon: users
+toc_icon: family
 ---
 
 Welcome, parents! Please see the information below, where we've tried to answer
