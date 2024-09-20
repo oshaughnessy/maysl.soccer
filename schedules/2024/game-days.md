@@ -6,7 +6,8 @@ sidebar:
   nav: schedules-by-division
 ---
 
-* [September 14, 2024](/schedules/2024/MAYSL-2024-09-14.pdf).
-* [September 21, 2024](/schedules/2024/MAYSL-2024-09-21.pdf).
+* [September 14, 2024](/schedules/2024/MAYSL-2024-09-14.pdf)
+* [September 21, 2024](/schedules/2024/MAYSL-2024-09-21.pdf)
+* [September 28, 2024](/schedules/2024/MAYSL-2024-09-28.pdf)
 
 See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for specific locations.
