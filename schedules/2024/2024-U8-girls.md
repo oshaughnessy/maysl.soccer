@@ -14,6 +14,7 @@ All matches are held at the lower fields behind Yosemite High School.
 
 Games are played in 10-minute quarters.
 
+{% comment %}
 | Time      | 9/14  | 9/21  | 9/28  | 10/5  | 10/12 | 10/26 | 11/2  | 11/9 | 11/16
 |------------|-------|-------|-------|-------|-------|-------|-------|-------|-------
 | <u>9:00</u> |
@@ -23,19 +24,15 @@ Games are played in 10-minute quarters.
 |-----------|-------|-------|-------|-------|-------|-------|-------|-------|-------
 | GAME      | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9
 {: class="schedule"}
+{% endcomment %}
 
-
-{% comment %}
 | Code  | Team            | Coach                         
 |-------|-----------------|---------------
-| 1     | Coarsegold      | Smysor
-| 2     | North Fork      | Cibulskis
-| 3     | Oakhurst A      | Magers
-| 4     | Oakhurst B      | Garrett
-| 5     | Spring Valley A | Smith
-| 6     | Spring Valley B | Ching
-| 7     | Wasuma          | Ellis
+| 1		|	North Fork		|	Angela Cibulskis
+| 2		|	Oakhurst		|	Augustina Sosa
+| 3		|	Rivergold		|	Kevin Mitchell
+| 4		|	Spring Valley	|	Angela Livingston
+| 5		|	Wasuma			|	Bailey Ellis
 {: class="schedule-key"}
 
 [Download](/schedules/2024/MAYSL-2024-U8-girls.pdf)
-{% endcomment %}
