@@ -21,7 +21,8 @@ March to June every year.
 
 [Opening Day is Sept 14, 2024]({% link schedules/2024/2024-09-14.md %}).
 
-Game time for the rest of the season will be posted shortly after opening day.
+See more [schedules for individual game days]({% link schedules/2024/game-days.md %}).
+
 
 | Coed | Boys      | Grrls
 |-|-|-
