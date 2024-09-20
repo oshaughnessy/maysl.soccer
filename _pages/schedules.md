@@ -19,9 +19,9 @@ March to June every year.
 
 ## 2024-2025 Season
 
-[Opening Day is Sept 14, 2024]({% link schedules/2024/2024-09-14.md %}).
+Opening Day was Sept 14, 2024.
 
-See more [schedules for individual game days]({% link schedules/2024/game-days.md %}).
+See [schedules for individual game days]({% link schedules/2024/game-days.md %}).
 
 
 | Coed | Boys      | Grrls
