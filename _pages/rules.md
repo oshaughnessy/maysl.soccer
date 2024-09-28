@@ -78,6 +78,8 @@ There is no offside offense if a player receives the ball directly from:
 {% endcapture %}
 <div class="notice--info">{{ no-offside | markdownify }}</div>
 
+For more details, see our Coaches page on [offside and the build-out line]({% link _pages/coaches.md %}#offside-and-the-build-out-line).
+
 ### Substitutions in U10+
 
 Player substitutions during a game are only allowed when [the ball is out
