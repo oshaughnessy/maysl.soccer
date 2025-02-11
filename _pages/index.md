@@ -8,8 +8,11 @@ permalink: /
 layout: home
 ---
 
-[Player registration is still open](https://system.gotsport.com/programs/21355R050?reg_role=player).
+Spring soccer signups are open now! See our
+[2024/25 spring soccer announcement]({% post_url 2025-02-10-spring-soccer %}).
 
-Fall 2024 games are starting and [our opening day schedule]({% link schedules/2024/2024-09-14.md %}) is posted.
+The season will run March 22nd - May 31st.
 
-Our rec soccer season will go from Sept 14 to Nov 16.
+Teams available:
+- boys: U10, U12
+- girls: U12, U14, U16, U19
