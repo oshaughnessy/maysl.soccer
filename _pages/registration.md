@@ -1,7 +1,7 @@
 ---
 title: Registration & Signups
 permalink: /registration/
-toc: true
+toc: false
 toc_icon: trophy
 sidebar:
   title: 2024 Signups
