@@ -10,11 +10,11 @@ redirect_from:
   - /register/
 ---
 
-2024-2025 signup links:
+2025-2026 signup links:
 
-- [Player signup](https://system.gotsport.com/programs/21355R050?reg_role=player)
-- [Coach signup](https://system.gotsport.com/programs/21355R050?reg_role=coach)
-- [Referee signup](https://system.gotsport.com/programs/21355R050?reg_role=referee)
-- [All signups](https://system.gotsport.com/programs/21355R050)
+- [Player signup](https://system.gotsport.com/programs/66673S215?reg_role=player)
+- [Coach signup](https://system.gotsport.com/programs/66673S215?reg_role=coach)
+- [Referee signup](https://system.gotsport.com/programs/66673S215?reg_role=referee)
+- [All signups](https://system.gotsport.com/programs/66673S215)
 
 [Coach Registration Guide]({% link _pages/coachreg.md %})
