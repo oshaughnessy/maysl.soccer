@@ -1,5 +1,5 @@
 ---
-title: 2025-26 Registratio is Open
+title: 2025-26 Registration is Open
 tags: 2025-season signup
 ---
 
