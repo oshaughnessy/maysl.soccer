@@ -2,8 +2,10 @@
 main:
 - title: News
   url: /news/
-- title: Schedules <i class="fa-solid fa-calendar-days"></i>
-  url: /schedules/
+#- title: Schedules <i class="fa-solid fa-calendar-days"></i>
+#  url: /schedules/
+- title: Registration
+  url: /registration/
 - title: FAQ
   url: /faq/
   description: Frequently Asked Questions
@@ -15,8 +17,6 @@ main:
   description: For coaches
 - title: Rules
   url: /rules/
-- title: Registration
-  url: /registration/
 #- title: Contact
 #  url: /contact/
 #- title: About
@@ -74,11 +74,11 @@ news:
 
 signups:
 - title: Players
-  url: https://system.gotsport.com/programs/21355R050?reg_role=player
+  url: https://system.gotsport.com/programs/66673S215?reg_role=player
 - title: Coaches
-  url: https://system.gotsport.com/programs/21355R050?reg_role=coach
+  url: https://system.gotsport.com/programs/66673S215?reg_role=coach
 - title: Referees
-  url: https://system.gotsport.com/programs/21355R050?reg_role=referee
+  url: https://system.gotsport.com/programs/66673S215?reg_role=referee
 
 schedules:
 - title: U5
