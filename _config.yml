@@ -149,10 +149,10 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: Schedules
-        nav: schedules-by-division
-        #title: 2024 Signups
-        #nav: signups
+        #title: Schedules
+        #nav: schedules-by-division
+        title: 2025 Signups
+        nav: signups
       toc_sticky: true
   # _posts
   - scope:
@@ -165,17 +165,17 @@ defaults:
       share: true
       related: true
       sidebar: 
-        title: schedules
-        nav: schedules-by-division
-        #title: 2023 Signups
-        #nav: signups
+        #title: schedules
+        #nav: schedules-by-division
+        title: 2025 Signups
+        nav: signups
 
 include: ["_pages"]
 
 home_articles: 2  # amount of posts to show
 paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
-season_tag: 2024-season
+season_tag: 2025-season
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true
