@@ -8,11 +8,8 @@ permalink: /
 layout: home
 ---
 
-Spring soccer signups are open now! See our
-[2024/25 spring soccer announcement]({% post_url 2025-02-10-spring-soccer %}).
+Fall soccer signups are open now, ages 3-18!
 
-The season will run March 22nd - May 31st.
+See our [2025 fall soccer announcement]({% post_url 2025-07-02-registration-open %}).
 
-Teams available:
-- boys: U10, U12
-- girls: U12, U14, U16, U19
+The season will run from August to Nov 2025.
