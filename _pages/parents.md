@@ -42,7 +42,7 @@ If you'd like to sign up your kids:
 
 ### How do I know my kids' league age?
 
-At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12 or U13,
+At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12,
 U14 or U15, and U18.
 
 [ussoccer.com says](
@@ -50,13 +50,13 @@ https://www.ussoccer.com/stories/2017/08/us-soccer-player-development-initiative
 ),
 "an age group can be determined by subtracting the birth year from the year the season ends."
 
-1. Our current season ends in 2025
+1. Our current season ends in 2026
 2. Subtract your child's birth year
 3. The result is their league age
 4. The division they're in must be at or below their league age
 
-For example, U10 is for kids 10 and under. If your child was born in 2015,
-they'd be in U10 because 2025-2015 is 10.
+For example, U10 is for kids 10 and under. If your child was born in 2016,
+they'd be in U10 because 2026-2016 is 10.
 
 
 ## Player Safety
