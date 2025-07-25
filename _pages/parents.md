@@ -43,7 +43,7 @@ If you'd like to sign up your kids:
 ### How do I know my kids' league age?
 
 At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12,
-U14 or U15, and U18.
+U14, U16, and U19.
 
 [ussoccer.com says](
 https://www.ussoccer.com/stories/2017/08/us-soccer-player-development-initiatives-officially-roll-out
