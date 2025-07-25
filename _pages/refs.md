@@ -8,7 +8,8 @@ sidebar:
   nav: rules
 ---
 
-[2024-2025 Training]({% link files/ref-clinic-2024.pdf %}) is coming this summer!
+[2025-2026 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20007378)
+is happening Aug 9!
 
 ----
 
