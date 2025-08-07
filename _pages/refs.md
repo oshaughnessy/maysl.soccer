@@ -30,7 +30,7 @@ games only for our league.
 
 Facilitator uniforms include:
 
-* gray t-shirt with the official badge iron-on
+* yellow t-shirt or collared shirt with the official badge iron-on
 * all-black shorts with pockets
 * all-black socks
 * primarily-black shoes
