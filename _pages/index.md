@@ -11,14 +11,11 @@ layout: home
 ## Signups
 
 Fall soccer signups are open now, ages 3-18!
-
 See our [2025 fall soccer announcement]({% post_url 2025-07-02-registration-open %}).
 
-Teams will be assigned in August.
-
-Travel games will start on Sat 9/6, Rec on 9/13.
-
-The season will end in November.
+- Teams will be assigned in August.
+- Travel games will start on Sat 9/6, Rec on 9/13.
+- The season will end in November.
 
 
 ## Coaches Needed Everywhere
