@@ -77,6 +77,8 @@ signups:
   url: https://system.gotsport.com/programs/66673S215?reg_role=player
 - title: Coaches
   url: https://system.gotsport.com/programs/66673S215?reg_role=coach
+- title: Coach Registration Guide
+  url: https://maysl.soccer/coachreg/
 - title: Referees
   url: https://system.gotsport.com/programs/66673S215?reg_role=referee
 
