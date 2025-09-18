@@ -11,4 +11,3 @@ layout: home
 ## Signups
 
 [Fall soccer schedules are posted!](/schedules/)
-See our [2025 fall soccer announcement]({% post_url 2025-07-02-registration-open %}).
