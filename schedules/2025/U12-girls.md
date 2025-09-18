@@ -10,7 +10,7 @@ sidebar:
 
 All matches are held at the lower fields behind Yosemite High School.
 
-Games are played in 30-minute halves.
+Games are played in 25-minute halves with a 5-minute half-time.
 
 {% comment %}
 | Time      | 9/14  | 9/21  | 9/28  | 10/5  | 10/12 | 10/26 | 11/2  | 11/9 | 11/16
