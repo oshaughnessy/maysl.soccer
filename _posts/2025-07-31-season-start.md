@@ -7,4 +7,4 @@ The fall 2025 season will start soon!
 
 **Travel starts the weekend after Labor Day: Sat, 9/6**
 
-**Rec starts the following Saturday, 9/13**
+**Rec starts on Saturday, 9/20**
