@@ -30,6 +30,7 @@ Games are played in 30-minute halves.
 | 3		| Oakhurst		| Karen Wood
 | 4		| Wasuma		| Ryan Stout, Brent Wilkinson
 {: class="schedule-key"}
+[Download](/schedules/2025/MAYSL-2025-U15-coed.pdf)
 {% endcomment %}
 
-[Download](/schedules/2025/MAYSL-2025-U15-coed.pdf)
+[Download](/schedules/2025/MAYSL-2025-U15-09-20.pdf)
