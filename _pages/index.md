@@ -11,3 +11,5 @@ layout: home
 ## Signups
 
 [Fall soccer schedules are posted!](/schedules/)
+
+**Rec games start on 9/20.**
