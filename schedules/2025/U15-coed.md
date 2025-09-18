@@ -33,4 +33,6 @@ Games are played in 30-minute halves.
 [Download](/schedules/2025/MAYSL-2025-U15-coed.pdf)
 {% endcomment %}
 
-[Download](/schedules/2025/MAYSL-2025-U15-09-20.pdf)
+[Download opening day](/schedules/2025/MAYSL-2025-U15-09-20.pdf)
+
+[Download full season](/schedules/2025/MAYSL-2025-U15-coed.pdf)
