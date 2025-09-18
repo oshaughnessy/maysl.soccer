@@ -2,10 +2,10 @@
 main:
 - title: News
   url: /news/
-#- title: Schedules <i class="fa-solid fa-calendar-days"></i>
-#  url: /schedules/
-- title: Registration
-  url: /registration/
+- title: Schedules <i class="fa-solid fa-calendar-days"></i>
+  url: /schedules/
+#- title: Registration
+#  url: /registration/
 - title: FAQ
   url: /faq/
   description: Frequently Asked Questions
@@ -84,46 +84,46 @@ signups:
 
 schedules:
 - title: U5
-  url: /schedules/2024/2024-U5-coed.html
+  url: /schedules/2025/U5-coed.html
 - title: U6
-  url: /schedules/2024/2024-U6-coed.html
+  url: /schedules/2025/U6-coed.html
 - title: U8 Boys
-  url: /schedules/2024/2024-U8-boys.html
+  url: /schedules/2025/U8-boys.html
 - title: U8 Girls
-  url: /schedules/2024/2024-U8-girls.html
+  url: /schedules/2025/U8-girls.html
 - title: U10 Boys
-  url: /schedules/2024/2024-U10-boys.html
+  url: /schedules/2025/U10-boys.html
 - title: U10 Girls
-  url: /schedules/2024/2024-U10-girls.html
+  url: /schedules/2025/U10-girls.html
 - title: U12 Boys
-  url: /schedules/2024/2024-U12-boys.html
+  url: /schedules/2025/U12-boys.html
 - title: U12 Girls
-  url: /schedules/2024/2024-U12-girls.html
+  url: /schedules/2025/U12-girls.html
 - title: U15
-  url: /schedules/2024/2024-U15-coed.html
+  url: /schedules/2025/U15-coed.html
 
 schedules-by-division:
 - title: Boys
   children:
   - title: Under 8
-    url: /schedules/2024/2024-U8-boys.html
+    url: /schedules/2025/U8-boys.html
   - title: Under 10
-    url: /schedules/2024/2024-U10-boys.html
+    url: /schedules/2025/U10-boys.html
   - title: Under 12
-    url: /schedules/2024/2024-U12-boys.html
+    url: /schedules/2025/U12-boys.html
 - title: Girls
   children:
   - title: Under 8
-    url: /schedules/2024/2024-U8-girls.html
+    url: /schedules/2025/U8-girls.html
   - title: Under 10
-    url: /schedules/2024/2024-U10-girls.html
+    url: /schedules/2025/U10-girls.html
   - title: Under 12
-    url: /schedules/2024/2024-U12-girls.html
+    url: /schedules/2025/U12-girls.html
 - title: Coed
   children:
   - title: Under 4 & 5
-    url: /schedules/2024/2024-U5-coed.html
+    url: /schedules/2025/U5-coed.html
   - title: Under 6
-    url: /schedules/2024/2024-U6-coed.html
+    url: /schedules/2025/U6-coed.html
   - title: Under 15
-    url: /schedules/2024/2024-U15-coed.html
+    url: /schedules/2025/U15-coed.html
