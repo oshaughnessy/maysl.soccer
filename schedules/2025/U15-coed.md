@@ -1,7 +1,6 @@
 ---
 title: 2025 U15 Coed Schedule
 tag: 2025-season schedule u16
-toc: true
 toc_icon: calendar-week
 division: U15
 sidebar:
