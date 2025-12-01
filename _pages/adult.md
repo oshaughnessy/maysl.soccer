@@ -10,10 +10,9 @@ and one hosted by [Mariposa Soccer](https://www.mariposasoccer.com/adult) at Woo
 
 --
 
-The Oakhurst-area league is _not hosted_ by MAYSL, but is run by some of the same _people_.
-
-This is their first year. It is designed to be a casual, recreational off-season league for
-the parents of MAYSL players and their community of soccer-loving friends and fellow athletes.
+The Oakhurst league is designed to be a casual, recreational soccer experience for the parents
+of MAYSL players and their community of soccer-loving friends and fellow athletes. _It is not
+offered by MAYSL, but is created by some of the same people_. 2026 will be its first season.
 
 Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
 7v7, 8v8, or 9v9, depending on availability at game time.
