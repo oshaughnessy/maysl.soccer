@@ -2,10 +2,12 @@
 main:
 - title: News
   url: /news/
-- title: Schedules <i class="fa-solid fa-calendar-days"></i>
-  url: /schedules/
+#- title: Schedules <i class="fa-solid fa-calendar-days"></i>
+#  url: /schedules/
 #- title: Registration
 #  url: /registration/
+- title: Adult
+  url: /adult/
 - title: FAQ
   url: /faq/
   description: Frequently Asked Questions
@@ -53,6 +55,8 @@ sidebar:
   description: Frequently Asked Questions
 - title: News
   url: /news/
+- title: Adult
+  url: /adult/
 - title: Parents
   url: /parents/
 - title: Coaches

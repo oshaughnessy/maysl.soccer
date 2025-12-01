@@ -149,10 +149,12 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: Schedules
-        nav: schedules-by-division
+        #title: Schedules
+        #nav: schedules-by-division
         #title: 2025 Signups
         #nav: signups
+        title: Off-Season
+        nav: off-season
       toc_sticky: true
   # _posts
   - scope:
@@ -165,10 +167,12 @@ defaults:
       share: true
       related: true
       sidebar: 
-        title: schedules
-        nav: schedules-by-division
+        #title: schedules
+        #nav: schedules-by-division
         #title: 2025 Signups
         #nav: signups
+        itle: Off-Season
+        av: off-season
 
 include: ["_pages"]
 
