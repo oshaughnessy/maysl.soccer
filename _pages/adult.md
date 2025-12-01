@@ -14,10 +14,14 @@ The Oakhurst league is designed to be a casual, recreational soccer experience f
 of MAYSL players and their community of soccer-loving friends and fellow athletes. _It is not
 offered by MAYSL, but is created by some of the same people_. 2026 will be its first season.
 
+We will run the season for 8 weeks, from Jan 10 to March 1, with games on Saturdays and Sundays.
+
+Recommended team sizes are 12-20+ players. Teams are coed, 18 and over. During games, teams
+should always keep 2 or more women on the field. Make your teams big enough that players can
+miss a game or two -- this is supposed to be fun and low-commitment.
+
 Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
 7v7, 8v8, or 9v9, depending on availability at game time.
-
-Recommended team sizes are 12-20+ players.
 
 Please note again: the adult league is not created by MAYSL and is not affiliated with
 US Youth Soccer or the California Youth Soccer Association.
