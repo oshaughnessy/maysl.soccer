@@ -4,7 +4,7 @@ title: Adult Soccer
 permalink: /adult/
 ---
 
-2 adult soccer leagues are available to our mountain communities,
+2 adult soccer leagues are offered in our mountain communities,
 one hosted at [Yosemite High School in Oakhurst](http://masl.soccer/),
 and one hosted by [Mariposa Soccer](https://www.mariposasoccer.com/adult) at Woodland Park.
 
