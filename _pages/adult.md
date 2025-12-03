@@ -28,4 +28,3 @@ US Youth Soccer or the California Youth Soccer Association.
 {: .notice .info }
 
 ## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
-

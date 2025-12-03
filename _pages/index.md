@@ -8,8 +8,8 @@ permalink: /
 layout: home
 ---
 
-## Signups
+## Winter Soccer for Adults
 
-[Fall soccer schedules are posted!](/schedules/)
+Games will be at YHS. Jan 10 - Mar 1. [More details here](/adult/).
 
-**Rec games start on 9/20.**
+### >> [Signups open until Dec 14!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
