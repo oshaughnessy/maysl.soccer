@@ -27,6 +27,10 @@ main:
   url: https://system.gotsport.com/
   description: League registration account
 
+off-season:
+- title: Adult Winter League
+  url: /adult/
+
 coaching:
 - title: Registration
   url: /coaches/#registration
