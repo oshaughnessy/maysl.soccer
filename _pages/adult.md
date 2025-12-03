@@ -27,5 +27,5 @@ Please note again: the adult league is not created by MAYSL and is not affiliate
 US Youth Soccer or the California Youth Soccer Association.
 {: .notice .info }
 
-## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6)] <<
+## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
 
