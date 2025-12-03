@@ -5,7 +5,7 @@ permalink: /adult/
 ---
 
 2 adult soccer leagues are offered in our mountain communities,
-one hosted at [Yosemite High School in Oakhurst](http://masl.soccer/),
+one hosted at [Yosemite High School in Oakhurst](https://forms.gle/ZiCswSHpYEN7u9Ey6),
 and one hosted by [Mariposa Soccer](https://www.mariposasoccer.com/adult) at Woodland Park.
 
 --
@@ -26,3 +26,6 @@ Games will be hosted at the YHS field where MAYSL hosts U12 games, and games wil
 Please note again: the adult league is not created by MAYSL and is not affiliated with
 US Youth Soccer or the California Youth Soccer Association.
 {: .notice .info }
+
+## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6)] <<
+
