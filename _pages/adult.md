@@ -1,6 +1,6 @@
 ---
 nav_title: Adult
-title: Adult Soccer
+title: Adult Soccer <i class="fas fa-user-group" aria-hidden="true"></i>
 permalink: /adult/
 ---
 

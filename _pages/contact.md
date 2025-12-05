@@ -1,6 +1,6 @@
 ---
 nav_title: Contact
-title: Contact MAYSL
+title: Contact MAYSL <i class="fas fa-envelope" aria-hidden="true"></i>
 permalink: /contact/
 ---
 

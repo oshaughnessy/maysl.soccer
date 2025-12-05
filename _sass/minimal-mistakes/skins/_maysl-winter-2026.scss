@@ -37,3 +37,315 @@ p.notice--info { background-color: mix($background-color, $toc-active-color, 75%
 p.notice.direct { background-color: mix(#ff89d8, $background-color, 66%); }
 p.notice.indirect { background-color: mix(#d4fb78, $background-color, 66%); }
 
+/* ==========================================================================
+   Typography Enhancements
+   ========================================================================== */
+
+/* Typography Scale */
+$type-size-1: 2.5rem !default;  /* ~40px - Main page titles */
+$type-size-2: 2rem !default;     /* ~32px - Section headings */
+$type-size-3: 1.625rem !default; /* ~26px - Subsection headings */
+$type-size-4: 1.375rem !default; /* ~22px - Sub-subsection headings */
+$type-size-5: 1.125rem !default; /* ~18px - Large body text */
+$type-size-6: 1rem !default;     /* ~16px - Base body text */
+$type-size-7: 0.875rem !default; /* ~14px - Small text */
+
+/* Enhanced Typography Styles */
+.page__content {
+  /* Improved base typography */
+  font-size: $type-size-6;
+  line-height: 1.6; /* More compact line spacing */
+  color: $text-color;
+  
+  /* Better paragraph spacing */
+  p {
+    margin-bottom: 1.5em;
+    line-height: 1.6; /* More compact line spacing */
+  }
+  
+  /* Enhanced heading hierarchy */
+  h1 {
+    font-size: $type-size-1;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    color: $text-color;
+    letter-spacing: -0.02em; /* Tighter for large headings */
+  }
+  
+  h2 {
+    font-size: $type-size-2;
+    font-weight: 650;
+    line-height: 1.3;
+    margin-top: 2em;
+    margin-bottom: 0.875em;
+    color: $text-color;
+    letter-spacing: -0.01em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid mix($secondary-color, $background-color, 20%);
+  }
+  
+  h3 {
+    font-size: $type-size-3;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 1.75em;
+    margin-bottom: 0.75em;
+    color: $text-color;
+  }
+  
+  h4 {
+    font-size: $type-size-4;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 1.5em;
+    margin-bottom: 0.625em;
+    color: mix($primary-color, $text-color, 20%);
+  }
+  
+  h5, h6 {
+    font-size: $type-size-5;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    color: mix($primary-color, $text-color, 15%);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  /* Enhanced list styling */
+  ul, ol {
+    margin-top: 0.4em; /* Reduced spacing above lists */
+    margin-bottom: 1.5em; /* Keep spacing after lists */
+    padding-left: 2em;
+    line-height: 1.6; /* More compact line spacing */
+    
+    li {
+      margin-bottom: 0.75em;
+      line-height: 1.6; /* More compact line spacing */
+    }
+  }
+  
+  ul {
+    list-style-type: disc;
+    
+    li {
+      margin-bottom: 0.4em; /* Reduced spacing for UL items */
+    }
+    
+    li::marker {
+      color: $primary-color;
+    }
+  }
+  
+  ol {
+    list-style-type: decimal;
+    
+    li::marker {
+      color: $primary-color;
+      font-weight: 600;
+    }
+  }
+  
+  /* Better blockquote styling */
+  blockquote {
+    border-left: 4px solid $primary-color;
+    padding-left: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    font-style: italic;
+    color: mix($text-color, $background-color, 80%);
+    background-color: mix($primary-color, $background-color, 5%);
+    padding: 1.25em 1.5em;
+    border-radius: 4px;
+  }
+  
+  /* Enhanced link styling */
+  a {
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      color: $link-color-hover;
+      border-bottom-color: $link-color-hover;
+    }
+    
+    &:visited {
+      color: $link-color-visited;
+    }
+  }
+  
+  /* Better code block styling */
+  code {
+    background-color: $code-background-color;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+    color: mix($primary-color, $text-color, 30%);
+  }
+  
+  pre {
+    background-color: $code-background-color;
+    padding: 1.25em;
+    border-radius: 4px;
+    overflow-x: auto;
+    border-left: 3px solid $primary-color;
+    margin: 1.5em 0;
+  }
+  
+  /* Enhanced table styling */
+  table {
+    margin: 1.5em 0;
+    width: 100%;
+    border-collapse: collapse;
+    
+    th {
+      background-color: mix($primary-color, $background-color, 10%);
+      color: $text-color;
+      font-weight: 600;
+      padding: 0.75em;
+      text-align: left;
+      border-bottom: 2px solid mix($primary-color, $background-color, 20%);
+    }
+    
+    td {
+      padding: 0.75em;
+      border-bottom: 1px solid mix($secondary-color, $background-color, 15%);
+    }
+    
+    tr:hover {
+      background-color: mix($primary-color, $background-color, 3%);
+    }
+  }
+  
+  /* Better horizontal rule */
+  hr {
+    border: none;
+    border-top: 2px solid mix($secondary-color, $background-color, 20%);
+    margin: 2.5em 0;
+  }
+}
+
+/* Page title enhancements */
+.page__title {
+  font-size: $type-size-1;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  color: $text-color;
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  
+  i {
+    color: $primary-color;
+    font-size: 0.9em;
+    opacity: 0.9;
+    flex-shrink: 0;
+  }
+}
+
+/* Archive item typography */
+.archive__item-title {
+  font-size: $type-size-3;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.archive__item-excerpt {
+  line-height: 1.6; /* More compact line spacing */
+  margin-top: 0.5em;
+}
+
+/* ==========================================================================
+   Icon Styling
+   ========================================================================== */
+
+/* Navigation icons */
+.masthead__menu-item a i,
+.sidebar__right .nav__list a i,
+.greedy-nav a i,
+.nav__list a i {
+  margin-right: 0.5em;
+  color: $primary-color;
+  font-size: 0.9em;
+  opacity: 0.8;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.masthead__menu-item a:hover i,
+.sidebar__right .nav__list a:hover i,
+.greedy-nav a:hover i,
+.nav__list a:hover i {
+  opacity: 1;
+  color: $link-color-hover;
+}
+
+/* Section header icons */
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  
+  i {
+    color: $primary-color;
+    font-size: 0.9em;
+    opacity: 0.9;
+    flex-shrink: 0;
+  }
+}
+
+/* Adjust icon size based on heading level */
+h2.section-header i {
+  font-size: 1em;
+}
+
+h3.section-header i {
+  font-size: 0.9em;
+}
+
+h4.section-header i {
+  font-size: 0.85em;
+}
+
+/* General icon styling in content */
+.page__content {
+  /* Icons in headings */
+  h2 i, h3 i, h4 i {
+    color: $primary-color;
+    margin-right: 0.5em;
+    opacity: 0.9;
+  }
+  
+  /* Icons in lists */
+  ul li i,
+  ol li i {
+    color: $primary-color;
+    margin-right: 0.5em;
+    opacity: 0.8;
+  }
+  
+  /* Icons in blockquotes */
+  blockquote i {
+    color: $primary-color;
+    opacity: 0.7;
+  }
+}
+
+/* Footer icons - already styled but ensure consistency */
+.page__footer a i {
+  color: inherit;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.page__footer a:hover i {
+  opacity: 1;
+}
+

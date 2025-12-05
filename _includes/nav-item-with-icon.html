@@ -1,0 +1,19 @@
+{% comment %}
+  Navigation item with icon support
+  
+  This can be used to override Minimal Mistakes navigation rendering
+  if the theme doesn't natively support icons in navigation.yml
+  
+  Usage in custom navigation includes:
+    {% include nav-item-with-icon.html item=nav_item %}
+{% endcomment %}
+
+{% if include.item.icon %}
+  <a href="{{ include.item.url | relative_url }}" class="nav-item-with-icon">
+    <i class="{{ include.item.icon }}" aria-hidden="true"></i>
+    {{ include.item.title }}
+  </a>
+{% else %}
+  <a href="{{ include.item.url | relative_url }}">{{ include.item.title }}</a>
+{% endif %}
+

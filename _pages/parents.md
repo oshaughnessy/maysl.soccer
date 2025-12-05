@@ -1,5 +1,5 @@
 ---
-title: Parents
+title: Parents <i class="fas fa-family" aria-hidden="true"></i>
 permalink: /parents/
 toc: true
 toc_icon: family

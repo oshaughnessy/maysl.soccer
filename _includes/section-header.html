@@ -1,0 +1,33 @@
+{% comment %}
+  Section header with icon
+  
+  Usage:
+    {% include section-header.html icon="fa-check-circle" title="Eligibility" %}
+    {% include section-header.html icon="fa-clipboard-check" title="Register" level=3 %}
+  
+  Parameters:
+    icon - Font Awesome icon class (without 'fas' prefix, e.g., 'fa-check-circle')
+    title - Section title text
+    level - Heading level (2, 3, 4) - defaults to 2
+{% endcomment %}
+
+{% assign header_level = include.level | default: 2 %}
+{% assign icon_class = include.icon | prepend: "fas fa-" %}
+
+{% if header_level == 2 %}
+<h2 class="section-header">
+  <i class="{{ icon_class }}" aria-hidden="true"></i>
+  {{ include.title }}
+</h2>
+{% elsif header_level == 3 %}
+<h3 class="section-header">
+  <i class="{{ icon_class }}" aria-hidden="true"></i>
+  {{ include.title }}
+</h3>
+{% elsif header_level == 4 %}
+<h4 class="section-header">
+  <i class="{{ icon_class }}" aria-hidden="true"></i>
+  {{ include.title }}
+</h4>
+{% endif %}
+

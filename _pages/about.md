@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About Us
+title: About Us <i class="fas fa-info-circle" aria-hidden="true"></i>
 permalink: /about/
 ---
 

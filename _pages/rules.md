@@ -1,6 +1,6 @@
 ---
 nav_title: Rules
-title: MAYSL Modified Laws & Guidelines
+title: MAYSL Modified Laws & Guidelines <i class="fas fa-book" aria-hidden="true"></i>
 permalink: /rules/
 toc: true
 toc_icon: balance-scale

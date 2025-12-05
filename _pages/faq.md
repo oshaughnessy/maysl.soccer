@@ -1,6 +1,6 @@
 ---
 layout: single
-title: FAQ
+title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
 permalink: /faq/
 toc: true
 toc_icon: circle-question

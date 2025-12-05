@@ -1,5 +1,5 @@
 ---
-title: Coaches
+title: Coaches <i class="fas fa-clipboard-user" aria-hidden="true"></i>
 permalink: /coaches/
 toc: true
 toc_icon: trophy

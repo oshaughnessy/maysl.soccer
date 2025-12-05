@@ -1,29 +1,29 @@
 ---
 main:
-- title: News
+- title: News <i class="fas fa-newspaper" aria-hidden="true"></i>
   url: /news/
 #- title: Schedules <i class="fa-solid fa-calendar-days"></i>
 #  url: /schedules/
 #- title: Registration
 #  url: /registration/
-- title: Adult
+- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
   url: /adult/
-- title: FAQ
+- title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
   url: /faq/
   description: Frequently Asked Questions
-- title: Parents
+- title: Parents <i class="fas fa-family" aria-hidden="true"></i>
   url: /parents/
   description: For parents
-- title: Coaches
+- title: Coaches <i class="fas fa-clipboard-user" aria-hidden="true"></i>
   url: /coaches/
   description: For coaches
-- title: Rules
+- title: Rules <i class="fas fa-book" aria-hidden="true"></i>
   url: /rules/
 #- title: Contact
 #  url: /contact/
 #- title: About
 #  url: /about/
-- title: GotSport
+- title: GotSport <i class="fas fa-clipboard-check" aria-hidden="true"></i>
   url: https://system.gotsport.com/
   description: League registration account
 
@@ -54,24 +54,24 @@ sidebar:
 #- title: 
 #  image: /files/maysl-logo.png
 #  image_alt: Mountain Area Youth Soccer Logo
-- title: FAQ
+- title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
   url: /faq/
   description: Frequently Asked Questions
-- title: News
+- title: News <i class="fas fa-newspaper" aria-hidden="true"></i>
   url: /news/
-- title: Adult
+- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
   url: /adult/
-- title: Parents
+- title: Parents <i class="fas fa-family" aria-hidden="true"></i>
   url: /parents/
-- title: Coaches
+- title: Coaches <i class="fas fa-clipboard-user" aria-hidden="true"></i>
   url: /coaches/
-- title: Rules
+- title: Rules <i class="fas fa-book" aria-hidden="true"></i>
   url: /rules/
-- title: Contact
+- title: Contact <i class="fas fa-envelope" aria-hidden="true"></i>
   url: /contact/
-- title: About
+- title: About <i class="fas fa-info-circle" aria-hidden="true"></i>
   url: /about/
-- title: GotSport
+- title: GotSport <i class="fas fa-clipboard-check" aria-hidden="true"></i>
   url: https://system.gotsport.com/
 
 news:

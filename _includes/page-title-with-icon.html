@@ -1,0 +1,27 @@
+{% comment %}
+  Page title with icon support
+  
+  Usage in page front matter:
+    title: Parents
+    icon: family
+  
+  Or use directly in layouts/includes:
+    {% include page-title-with-icon.html icon="family" title="Parents" %}
+  
+  Parameters:
+    icon - Font Awesome icon name (without 'fa-' prefix, e.g., 'family' becomes 'fa-family')
+    title - Page title text (optional, defaults to page.title)
+{% endcomment %}
+
+{% assign page_title = include.title | default: page.title %}
+{% assign icon_name = include.icon | default: page.icon %}
+
+{% if icon_name %}
+  <h1 class="page__title">
+    <i class="fas fa-{{ icon_name }}" aria-hidden="true"></i>
+    {{ page_title }}
+  </h1>
+{% else %}
+  <h1 class="page__title">{{ page_title }}</h1>
+{% endif %}
+
