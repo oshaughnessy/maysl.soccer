@@ -1,0 +1,39 @@
+/* ==========================================================================
+   MAYSL Winter 2026 skin
+   Featuring Pantone 11-4201 "Cloud Dancer" with country winter colors
+   ========================================================================== */
+
+/* Colors */
+$background-color: #F0EEE9 !default; /* Cloud Dancer - Pantone 11-4201 */
+$text-color: #3d2817 !default; /* Dark brown for readability */
+$primary-color: #2d5016 !default; /* Rich evergreen green */
+$secondary-color: #8b6f47 !default; /* Warm country brown */
+$border-color: mix($secondary-color, $background-color, 30%) !default;
+$code-background-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color-dark: mix($secondary-color, $background-color, 15%) !default;
+$form-background-color: mix(#fff, $background-color, 25%) !default;
+$footer-background-color: mix($secondary-color, $background-color, 20%) !default;
+$link-color: $primary-color !default; /* Green for links */
+$link-color-hover: mix($primary-color, #000, 20%) !default; /* Darker green on hover */
+$link-color-visited: mix($secondary-color, $text-color, 50%) !default; /* Brown for visited */
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix($primary-color, $text-color, 40%) !default;
+$navicon-link-color-hover: mix($secondary-color, $background-color, 40%) !default;
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
+
+/* notices */
+$toc-active-color: mix($primary-color, $background-color, 30%) !default;
+p.notice--info { background-color: mix($background-color, $toc-active-color, 75%); }
+p.notice.direct { background-color: mix(#ff89d8, $background-color, 66%); }
+p.notice.indirect { background-color: mix(#d4fb78, $background-color, 66%); }
+
