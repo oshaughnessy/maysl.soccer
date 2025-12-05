@@ -42,9 +42,59 @@ $navicon-link-color-hover: mix($secondary-color, $background-color, 40%) !defaul
 
 /* notices */
 $toc-active-color: mix($primary-color, $background-color, 30%) !default;
-p.notice--info { background-color: mix($background-color, $toc-active-color, 75%); }
-p.notice.direct { background-color: mix(#ff89d8, $background-color, 66%); }
-p.notice.indirect { background-color: mix(#d4fb78, $background-color, 66%); }
+
+/* Enhanced notice styling */
+.notice,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  border-left: 4px solid;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.notice--info,
+.notice.info {
+  background-color: mix($primary-color, $background-color, 10%);
+  border-left-color: $primary-color;
+  color: mix($text-color, $primary-color, 20%);
+}
+
+.notice--warning {
+  background-color: mix($secondary-color, $background-color, 15%);
+  border-left-color: $secondary-color;
+  color: mix($text-color, $secondary-color, 10%);
+}
+
+.notice--success {
+  background-color: mix($primary-color, $background-color, 8%);
+  border-left-color: mix($primary-color, #fff, 30%);
+  color: mix($text-color, $primary-color, 15%);
+}
+
+.notice--danger {
+  background-color: mix(#d32f2f, $background-color, 10%);
+  border-left-color: #d32f2f;
+  color: mix($text-color, #d32f2f, 20%);
+}
+
+p.notice.direct { 
+  /* Direct free kick - warm red tone for seriousness */
+  background-color: mix(#c85a3a, $background-color, 18%);
+  border-left-color: #c85a3a;
+  color: mix($text-color, #c85a3a, 10%);
+}
+
+p.notice.indirect { 
+  /* Indirect free kick - warm yellow tone */
+  background-color: mix(#d4a574, $background-color, 20%);
+  border-left-color: #d4a574;
+  color: mix($text-color, #8b6f47, 20%);
+}
 
 /* ==========================================================================
    Typography Enhancements
@@ -163,19 +213,35 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
     }
   }
   
-  /* Better blockquote styling */
+  /* Enhanced blockquote styling */
   blockquote {
     border-left: 4px solid $primary-color;
-    padding-left: 1.5em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-    font-style: italic;
-    color: mix($text-color, $background-color, 80%);
-    background-color: mix($primary-color, $background-color, 5%);
     padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+    font-style: italic;
+    color: mix($text-color, $background-color, 85%);
+    background-color: mix($primary-color, $background-color, 8%);
     border-radius: 4px;
+    position: relative;
+    
+    &::before {
+      content: '"';
+      font-size: 3em;
+      line-height: 0.1em;
+      color: mix($primary-color, $background-color, 30%);
+      position: absolute;
+      left: 0.5em;
+      top: 0.5em;
+      font-family: Georgia, serif;
+    }
+    
+    p {
+      margin-bottom: 0.5em;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
   
   /* Enhanced link styling */
@@ -238,11 +304,51 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
     }
   }
   
-  /* Better horizontal rule */
+  /* Enhanced horizontal rule / visual separator */
   hr {
     border: none;
     border-top: 2px solid mix($secondary-color, $background-color, 20%);
     margin: 2.5em 0;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      top: -2px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 2px;
+      background-color: $primary-color;
+    }
+  }
+  
+  /* Section backgrounds for visual breaks */
+  .section-background {
+    background-color: mix($primary-color, $background-color, 5%);
+    padding: 2em;
+    margin: 2em -2em;
+    border-radius: 6px;
+    border-left: 3px solid $primary-color;
+  }
+  
+  /* Visual callout boxes */
+  .callout {
+    padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+    border-radius: 6px;
+    border: 1px solid mix($secondary-color, $background-color, 20%);
+    background-color: mix(#fff, $background-color, 40%);
+    
+    &.callout--primary {
+      background-color: mix($primary-color, $background-color, 10%);
+      border-color: $primary-color;
+    }
+    
+    &.callout--secondary {
+      background-color: mix($secondary-color, $background-color, 12%);
+      border-color: $secondary-color;
+    }
   }
 }
 
