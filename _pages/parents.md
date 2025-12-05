@@ -23,12 +23,16 @@ or the
 MAYSL's primary season is in the fall, from mid-September to mid-November.
 If you'd like to sign up your kids:
 
-1. **Register** players at [GotSport]({% link _pages/registration.md %})
-    * Registration for travel teams ends in mid-July.
-    * Registration for local teams ends in mid-August.
+<div class="key-section">
+<p><strong>Registration Timeline:</strong></p>
+<ul>
+<li>Registration for travel teams ends in mid-July.</li>
+<li>Registration for local teams ends in mid-August.</li>
+</ul>
+</div>
 
-1b. If you need to upload birth certificates for your players after registration,
-    use [this form](https://system.gotsport.com/forms/97Z119169).
+1. **Register** players at <a href="{% link _pages/registration.md %}" class="important-link">GotSport</a>
+   - If you need to upload birth certificates after registration, use <a href="https://system.gotsport.com/forms/97Z119169" class="important-link">this form</a>.
 
 2. Your players will be **assigned to teams** starting the week after school starts.
    Coaches will reach out that week or next to discuss practices.
@@ -38,7 +42,7 @@ If you'd like to sign up your kids:
 
 4. The **last games** of the season will be on the weekend before Thanksgiving.
 
-**See the [News](/news/) section for specific dates.**
+<p><strong>See the <a href="/news/">News</a> section for specific dates.</strong></p>
 
 ### How do I know my kids' league age?
 
