@@ -22,7 +22,7 @@ $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix($secondary-color, $background-color, 15%) !default;
 $form-background-color: mix(#fff, $background-color, 25%) !default;
 $footer-background-color: mix($primary-color, $background-color, 15%) !default; /* Light soft green */
-$link-color: $primary-color !default; /* Green for links */
+$link-color: #3a6b1f !default; /* Brighter green for better visibility (5.48:1 contrast) */
 $link-color-hover: mix($primary-color, #000, 20%) !default; /* Darker green on hover */
 $link-color-visited: mix($secondary-color, $text-color, 50%) !default; /* Brown for visited */
 $masthead-link-color: $text-color !default;
@@ -244,20 +244,30 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
     }
   }
   
-  /* Enhanced link styling */
+  /* Enhanced link styling - more visible and distinct */
   a {
     color: $link-color;
     text-decoration: none;
-    border-bottom: 1px solid transparent;
+    font-weight: 500; /* Slightly bolder to stand out from body text */
+    border-bottom: 1.5px solid $link-color; /* Visible underline by default */
     transition: all 0.2s ease;
     
     &:hover {
       color: $link-color-hover;
       border-bottom-color: $link-color-hover;
+      border-bottom-width: 2px; /* Thicker underline on hover */
+      text-decoration: none; /* Ensure no double underline */
     }
     
     &:visited {
       color: $link-color-visited;
+      border-bottom-color: $link-color-visited; /* Brown underline for visited */
+    }
+    
+    &:focus {
+      outline: 2px solid $link-color;
+      outline-offset: 2px;
+      border-radius: 2px;
     }
     
     /* Don't apply link styling to buttons */
@@ -265,6 +275,13 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
     &.btn--primary,
     &.btn--success {
       color: inherit;
+      border-bottom: none;
+      font-weight: inherit; /* Use button's own font-weight */
+    }
+    
+    /* Don't apply to icons */
+    i {
+      font-weight: inherit;
       border-bottom: none;
     }
   }
