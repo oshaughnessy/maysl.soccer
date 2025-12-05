@@ -1,7 +1,13 @@
-<!-- Google Fonts -->
+<!-- Google Fonts - Optimized Loading -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+<!-- 
+  Optimizations:
+  - subset=latin: Only load Latin characters (reduces file size)
+  - display=swap: Show fallback font immediately, swap when custom font loads
+  - Preconnect: Establishes early connection to Google Fonts servers
+-->
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Montserrat:wght@500;600;700&display=swap&subset=latin" rel="stylesheet">
 
 <!-- ref: https://github.com/mmistakes/minimal-mistakes/issues/949 -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/fav/apple-touch-icon.png">
