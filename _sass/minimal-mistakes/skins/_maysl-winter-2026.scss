@@ -67,7 +67,7 @@ $toc-active-color: mix($primary-color, $background-color, 30%) !default;
 .notice--warning {
   background-color: mix($secondary-color, $background-color, 15%);
   border-left-color: $secondary-color;
-  color: mix($text-color, $secondary-color, 10%);
+  color: $text-color; /* Changed from mix for WCAG contrast */
 }
 
 .notice--success {
@@ -86,14 +86,14 @@ p.notice.direct {
   /* Direct free kick - warm red tone for seriousness */
   background-color: mix(#c85a3a, $background-color, 18%);
   border-left-color: #c85a3a;
-  color: mix($text-color, #c85a3a, 10%);
+  color: $text-color; /* Changed from mix for WCAG contrast */
 }
 
 p.notice.indirect { 
   /* Indirect free kick - warm yellow tone */
   background-color: mix(#d4a574, $background-color, 20%);
   border-left-color: #d4a574;
-  color: mix($text-color, #8b6f47, 20%);
+  color: $text-color; /* Changed from mix for WCAG contrast */
 }
 
 /* ==========================================================================
@@ -557,20 +557,20 @@ h4.section-header i {
     background-color: mix($primary-color, #fff, 15%) !important;
     border-color: mix($primary-color, #fff, 15%) !important;
     border-bottom-color: mix($primary-color, #fff, 15%) !important;
-    color: $background-color !important;
+    color: $text-color !important; /* Changed from $background-color for WCAG contrast */
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
 }
 
 .btn--success {
-  background-color: mix($primary-color, $background-color, 60%);
-  color: $text-color;
+  background-color: $primary-color; /* Changed from mix for WCAG contrast */
+  color: #fff; /* Changed from $text-color for WCAG contrast */
   border-color: $primary-color;
   
   &:hover {
-    background-color: $primary-color;
-    color: #fff;
+    background-color: mix($primary-color, #fff, 15%);
+    color: $text-color; /* Dark text on lighter hover for WCAG contrast */
   }
 }
 
