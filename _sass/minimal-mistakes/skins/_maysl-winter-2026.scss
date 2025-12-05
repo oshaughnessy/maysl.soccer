@@ -661,3 +661,177 @@ h4.section-header i {
   }
 }
 
+/* ==========================================================================
+   Responsive Design Improvements
+   ========================================================================== */
+
+/* Mobile-first responsive breakpoints */
+$breakpoint-small: 600px !default;
+$breakpoint-medium: 768px !default;
+$breakpoint-large: 1024px !default;
+
+/* Mobile devices (up to 600px) */
+@media screen and (max-width: $breakpoint-small) {
+  .page__content {
+    /* Improved mobile typography */
+    font-size: 0.95rem; /* Slightly smaller base font */
+    line-height: 1.5;
+    
+    /* Better heading scaling on mobile */
+    h1 {
+      font-size: 1.75rem; /* Reduced from 2rem */
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+    }
+    
+    h2 {
+      font-size: 1.5rem; /* Reduced from 1.75rem */
+      margin-top: 1.5em;
+      margin-bottom: 0.75em;
+      padding-bottom: 0.375em;
+    }
+    
+    h3 {
+      font-size: 1.25rem; /* Reduced from 1.5rem */
+      margin-top: 1.25em;
+      margin-bottom: 0.625em;
+    }
+    
+    h4 {
+      font-size: 1.125rem;
+      margin-top: 1em;
+    }
+    
+    /* Better paragraph spacing on mobile */
+    p {
+      margin-bottom: 1.25em;
+    }
+    
+    /* Improved list spacing */
+    ul, ol {
+      margin-top: 0.5em;
+      margin-bottom: 1.25em;
+      padding-left: 1.5em;
+    }
+    
+    /* Button touch targets - minimum 44x44px for accessibility */
+    .btn {
+      min-height: 44px;
+      min-width: 44px;
+      padding: 0.875em 1.25em;
+      font-size: 1rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    /* Button spacing on mobile */
+    .btn + .btn {
+      margin-top: 0.75em;
+      margin-left: 0;
+    }
+    
+    /* Image alignment adjustments for mobile */
+    img.align-right,
+    img.align-left {
+      float: none;
+      display: block;
+      margin: 1.5em auto;
+      max-width: 100%;
+    }
+    
+    img.align-center {
+      margin: 1.5em auto;
+    }
+    
+    /* Notice padding on mobile */
+    .notice,
+    .notice--info,
+    .notice--warning,
+    .notice--success,
+    .notice--danger {
+      padding: 1em;
+      margin: 1.25em 0;
+      font-size: 0.9rem;
+    }
+    
+    /* Section header adjustments */
+    .section-header {
+      font-size: 1.25rem;
+      margin-top: 1.5em;
+    }
+    
+    /* Key section callouts */
+    .key-section {
+      padding: 1em;
+      margin: 1.25em 0;
+    }
+    
+    /* Feature cards spacing */
+    .feature-card {
+      margin-bottom: 1.5em;
+    }
+  }
+}
+
+/* Tablet devices (601px to 768px) */
+@media screen and (min-width: $breakpoint-small + 1px) and (max-width: $breakpoint-medium) {
+  .page__content {
+    /* Button touch targets still important on tablets */
+    .btn {
+      min-height: 44px;
+      padding: 0.75em 1.5em;
+    }
+    
+    /* Image margins adjusted for tablet */
+    img.align-right {
+      margin-left: 1.5em;
+      max-width: 45%;
+    }
+    
+    img.align-left {
+      margin-right: 1.5em;
+      max-width: 45%;
+    }
+  }
+}
+
+/* Large mobile / Small tablet (up to 768px) - Additional adjustments */
+@media screen and (max-width: $breakpoint-medium) {
+  .page__content {
+    /* Ensure buttons are easily tappable */
+    .btn--primary,
+    .btn--success {
+      min-height: 44px;
+    }
+    
+    /* Better spacing for important links */
+    .important-link {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.5em 1em;
+    }
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  /* Larger touch targets for touch devices */
+  .page__content {
+    .btn {
+      min-height: 48px;
+      padding: 1em 1.5em;
+    }
+    
+    /* Remove hover effects on touch devices */
+    .btn:hover {
+      transform: none;
+    }
+    
+    img:hover {
+      transform: none;
+    }
+  }
+}
+
