@@ -6,6 +6,11 @@ nav_title: Home
 title: Mountain Area Youth Soccer League
 permalink: /
 layout: home
+header:
+  overlay_image: /files/yhs-field-1.jpg
+  overlay_filter: 0.4
+  overlay_color: "#2d5016"
+  caption: "Yosemite High School Soccer Fields"
 ---
 
 ## Winter Soccer for Adults

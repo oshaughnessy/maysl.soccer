@@ -365,3 +365,43 @@ h4.section-header i {
   opacity: 1;
 }
 
+/* ==========================================================================
+   Button Styling
+   ========================================================================== */
+
+.btn {
+  font-family: $heading-font-family;
+  font-weight: 600;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: 2px solid transparent;
+}
+
+.btn--primary {
+  background-color: $primary-color;
+  color: #fff;
+  border-color: $primary-color;
+  
+  &:hover {
+    background-color: mix($primary-color, #000, 20%);
+    border-color: mix($primary-color, #000, 20%);
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.btn--success {
+  background-color: mix($primary-color, $background-color, 60%);
+  color: $text-color;
+  border-color: $primary-color;
+  
+  &:hover {
+    background-color: $primary-color;
+    color: #fff;
+  }
+}
+
