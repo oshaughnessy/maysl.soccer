@@ -574,3 +574,90 @@ h4.section-header i {
   }
 }
 
+/* ==========================================================================
+   Image Styling Improvements
+   ========================================================================== */
+
+.page__content {
+  /* Enhanced image styling */
+  img {
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 100%;
+    height: auto;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+  
+  /* Aligned images with better spacing */
+  img.align-right {
+    margin-left: 2em;
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  img.align-left {
+    margin-right: 2em;
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  img.align-center {
+    display: block;
+    margin: 2em auto;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  /* Image captions */
+  .image-caption,
+  figcaption {
+    font-size: 0.9em;
+    color: mix($text-color, $background-color, 70%);
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+    padding: 0.5em;
+    background-color: mix($primary-color, $background-color, 5%);
+    border-radius: 4px;
+  }
+  
+  /* Figure styling */
+  figure {
+    margin: 2em 0;
+    text-align: center;
+    
+    img {
+      margin-bottom: 0.5em;
+    }
+  }
+  
+  /* Image with border accent */
+  img.bordered {
+    border: 3px solid $primary-color;
+    padding: 0.75em;
+    background-color: mix(#fff, $background-color, 60%);
+  }
+  
+  /* Image with shadow emphasis */
+  img.shadow {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    }
+  }
+}
+

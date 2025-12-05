@@ -1,0 +1,26 @@
+{% comment %}
+  Enhanced image with caption component
+  
+  Usage:
+    {% include image-caption.html 
+       image="/files/example.jpg" 
+       caption="This is a caption"
+       align="center" %}
+  
+  Parameters:
+    image - Path to image file
+    caption - Caption text (optional)
+    align - Alignment: left, right, or center (default: center)
+{% endcomment %}
+
+{% assign image_align = include.align | default: "center" %}
+
+<figure class="image-caption-wrapper">
+  <img src="{{ include.image | relative_url }}" 
+       alt="{{ include.caption | default: 'Image' }}"
+       class="align-{{ image_align }} {% if include.bordered %}bordered{% endif %} {% if include.shadow %}shadow{% endif %}">
+  {% if include.caption %}
+  <figcaption class="image-caption">{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
+
