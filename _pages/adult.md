@@ -13,10 +13,9 @@ permalink: /adult/
      button_text="Sign Up Now <i class=\"fas fa-futbol\" aria-hidden=\"true\"></i>" %}
 </div>
 
-The winter adult league is designed to be a casual, recreational soccer experience for the parents
-of MAYSL players and the greater Oakhurst community of soccer-loving friends and fellow athletes.
-_It is not offered by MAYSL, but is created by some of the same people_. 2026 will be its first
-season.
+The winter adult league is designed to be a casual, recreational soccer experience for the 
+greater Oakhurst community of soccer-loving friends.  _It is not offered by MAYSL, but is created
+by some of the same people_. 2026 will be its first season.
 
 We will run the season for 8 weeks, from Jan 10 to March 1, with games on Saturdays and Sundays.
 
