@@ -9,8 +9,9 @@ permalink: /adult/
      icon="snowflake" 
      title="Winter Soccer in Oakhurst" 
      description="Co-ed adult soccer league, 7v7 or 9v9. 8 weeks, Jan 10 - Mar 1, on weekends. Make a team or join one!"
-     url="https://forms.gle/ZiCswSHpYEN7u9Ey6"
-     button_text="Sign Up Now <i class=\"fas fa-futbol\" aria-hidden=\"true\"></i>" %}
+     card_url="https://forms.gle/ZiCswSHpYEN7u9Ey6"
+     button_text="Sign Up Now <i class=\"fas fa-futbol\" aria-hidden=\"true\"></i>"
+     button_url="https://forms.gle/ZiCswSHpYEN7u9Ey6" %}
 </div>
 
 The winter adult league is designed to be a casual, recreational soccer experience for the 
