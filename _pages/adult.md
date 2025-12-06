@@ -27,6 +27,7 @@ Games will be hosted at the YHS field where MAYSL hosts U12 games, and games wil
 7v7, 8v8, or 9v9, depending on availability at game time.
 
 If you live closer to Mariposa, check out [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
+It's a wonderful program and inspired us to start playing in Oakhurst.
 {: .notice .warn }
 
 _Please note: the adult league is not created by MAYSL and is not affiliated with
