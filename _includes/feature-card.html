@@ -7,17 +7,23 @@
        title="Register Now" 
        description="Sign up for the upcoming season"
        url="/registration/"
-       button_text="Register" %}
+       button_text="Register"
+       details_url="/adult/" %}
   
   Parameters:
     icon - Font Awesome icon name (without 'fa-' prefix)
     title - Card title
     description - Card description text
-    url - Link URL (optional)
+    url - Button link URL (optional)
     button_text - Button text (optional, defaults to "Learn More")
+    details_url - Card link URL - makes entire card clickable (optional)
 {% endcomment %}
 
-<div class="feature-card">
+<div class="feature-card{% if include.details_url %} feature-card--clickable{% endif %}">
+  {% if include.details_url %}
+  <a href="{{ include.details_url | relative_url }}" class="feature-card__link"></a>
+  {% endif %}
+  
   {% if include.icon %}
   <div class="feature-card__icon">
     <i class="fas fa-{{ include.icon }}" aria-hidden="true"></i>

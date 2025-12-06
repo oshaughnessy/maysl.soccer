@@ -179,7 +179,7 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
   }
   
   /* Enhanced link styling */
-  a {
+  a:not(.feature-card--clickable):not(.btn) {
     color: $link-color;
     text-decoration: none;
     border-bottom: 1px solid transparent;
@@ -378,25 +378,61 @@ h4.section-header i {
   display: flex;
   align-items: center;
   gap: 1.5em;
+  position: relative;
+  box-shadow: -4px 4px 12px 4px rgba(100, 150, 200, 0.15);
   
   &:hover {
     transform: translateX(4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: -6px 6px 16px 6px rgba(100, 150, 200, 0.2);
   }
+}
+
+.feature-card--clickable {
+  cursor: pointer;
+}
+
+.feature-card__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  text-decoration: none;
+  border-bottom: none;
+  
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+.feature-card--clickable .feature-card__icon {
+  pointer-events: none;
 }
 
 .feature-card__icon {
   font-size: 2rem;
   color: $primary-color;
   flex-shrink: 0;
+  position: relative;
+  z-index: 1;
   
   i {
     display: block;
   }
 }
 
+.feature-card--clickable .feature-card__content {
+  pointer-events: none;
+}
+
 .feature-card__content {
   flex: 1;
+  position: relative;
+  z-index: 1;
 }
 
 .feature-card__title {
@@ -416,6 +452,9 @@ h4.section-header i {
 
 .feature-card__button {
   margin-top: 0.5em;
+  position: relative;
+  z-index: 2;
+  pointer-events: auto;
 }
 
 .feature-cards {

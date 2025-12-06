@@ -19,29 +19,10 @@ Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the cen
 
 <div class="feature-cards">
   {% include feature-card.html 
-     icon="clipboard-check" 
-     title="Registration" 
-     description="Sign up for the upcoming season. Registration opens in spring for fall season."
-     url="/registration/"
-     button_text="Register Now" %}
-  
-  {% include feature-card.html 
-     icon="calendar-days" 
-     title="Schedules" 
-     description="View game schedules and field locations for all age divisions."
-     url="/schedules/"
-     button_text="View Schedules" %}
-  
-  {% include feature-card.html 
-     icon="newspaper" 
-     title="News & Updates" 
-     description="Stay informed with the latest league news, announcements, and important dates."
-     url="/news/"
-     button_text="Read News" %}
+     icon="snowflake" 
+     title="Winter Soccer for Adults" 
+     description="Games will be at YHS. Jan 10 - Mar 1. Signups open until Dec 14!"
+     url="https://forms.gle/ZiCswSHpYEN7u9Ey6"
+     button_text="Sign Up Now"
+     details_url="/adult/" %}
 </div>
-
-## Winter Soccer for Adults
-
-Games will be at YHS. Jan 10 - Mar 1. [More details here](/adult/).
-
-### >> [Signups open until Dec 14!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
