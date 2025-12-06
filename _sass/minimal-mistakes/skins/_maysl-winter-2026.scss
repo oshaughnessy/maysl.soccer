@@ -245,7 +245,7 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
   }
   
   /* Enhanced link styling - more visible and distinct */
-  a {
+  a:not(.feature-card--clickable):not(.feature-card__link):not(.btn) {
     color: $link-color;
     text-decoration: none;
     font-weight: 500; /* Slightly bolder to stand out from body text */
@@ -550,6 +550,131 @@ h4.section-header i {
 }
 
 /* ==========================================================================
+   Feature Cards
+   ========================================================================== */
+
+.feature-card {
+  background-color: mix(#fff, $background-color, 30%);
+  border: 1px solid mix($secondary-color, $background-color, 15%);
+  border-radius: 8px;
+  padding: 0.75em 1.5em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  position: relative;
+  box-shadow: -4px 4px 12px 4px rgba(100, 150, 200, 0.15);
+  
+  &:hover {
+    transform: translateX(4px);
+    box-shadow: -6px 6px 16px 6px rgba(100, 150, 200, 0.2);
+  }
+}
+
+.feature-card--clickable {
+  cursor: pointer;
+}
+
+.feature-card__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  text-decoration: none;
+  border-bottom: none;
+  
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+.feature-card--clickable .feature-card__icon {
+  pointer-events: none;
+}
+
+.feature-card__icon {
+  font-size: 2rem;
+  color: $primary-color;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+  
+  i {
+    display: block;
+  }
+}
+
+.feature-card--clickable .feature-card__content {
+  pointer-events: none;
+}
+
+.feature-card__content {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-card__title {
+  font-family: $heading-font-family;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  color: $text-color;
+}
+
+.feature-card__description {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: mix($text-color, $background-color, 80%);
+  margin-bottom: 0.75em;
+}
+
+.feature-card__button {
+  margin-top: 0.5em;
+  position: relative;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.feature-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  margin: 2em 0;
+  max-width: 600px;
+}
+
+/* Hero section styling */
+.page__hero {
+  margin-bottom: 3em;
+}
+
+.page__hero-overlay {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 3em 2em;
+  border-radius: 8px;
+}
+
+.page__hero-title {
+  font-family: $heading-font-family;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 0.5em;
+}
+
+.page__hero-excerpt {
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  font-size: 1.125rem;
+}
+
+/* ==========================================================================
+>>>>>>> homepage-enhancements
    Button Styling
    ========================================================================== */
 
@@ -565,6 +690,7 @@ h4.section-header i {
 }
 
 .btn--primary {
+<<<<<<< HEAD
   background-color: $primary-color !important;
   color: $background-color !important;
   border-color: $primary-color !important;

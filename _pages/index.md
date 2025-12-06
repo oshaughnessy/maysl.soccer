@@ -13,8 +13,16 @@ header:
   caption: "Yosemite High School Soccer Fields"
 ---
 
-## Winter Soccer for Adults
+## Welcome to MAYSL
 
-Games will be at YHS. Jan 10 - Mar 1. [More details here](/adult/).
+Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the central Sierra region of California, just south of Yosemite National Park.
 
-### >> [Signups open until Dec 14!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
+<div class="feature-cards">
+  {% include feature-card.html 
+     icon="snowflake" 
+     title="Winter Soccer for Adults" 
+     description="Games will be at YHS. Jan 10 - Mar 1. Signups open until Dec 14!"
+     url="https://forms.gle/ZiCswSHpYEN7u9Ey6"
+     button_text="Sign Up Now"
+     details_url="/adult/" %}
+</div>
