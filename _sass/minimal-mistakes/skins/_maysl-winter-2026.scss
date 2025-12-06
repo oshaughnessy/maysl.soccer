@@ -450,6 +450,11 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
   }
 }
 
+/* Remove top margin from first h2 in main content on index/home page only */
+.layout--home .archive > h2:first-of-type {
+  margin-top: 0 !important;
+}
+
 /* Archive item typography */
 .archive__item-title {
   font-family: $heading-font-family;
@@ -461,6 +466,11 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
 .archive__item-excerpt {
   line-height: 1.6; /* More compact line spacing */
   margin-top: 0.5em;
+}
+
+.entries-list {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 /* ==========================================================================
@@ -654,6 +664,23 @@ h4.section-header i {
   margin-bottom: 3em;
 }
 
+/* Reduce hero margin on home page only */
+.layout--home .page__hero {
+  margin-bottom: 0;
+}
+
+/* Reduce spacing after hero to align with sidebar - home page only */
+.layout--home .page__inner {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.layout--home .page__inner-wrap {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+
 .page__hero-overlay {
   background-color: rgba(0, 0, 0, 0.3);
   padding: 3em 2em;
@@ -690,7 +717,6 @@ h4.section-header i {
 }
 
 .btn--primary {
-<<<<<<< HEAD
   background-color: $primary-color !important;
   color: $background-color !important;
   border-color: $primary-color !important;
