@@ -26,8 +26,7 @@ miss a game or two -- this is supposed to be fun and low-commitment.
 Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
 7v7, 8v8, or 9v9, depending on availability at game time.
 
-If you live closer to Mariposa, check out [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult),
-where they play outdoors games at Woodland Park.
+If you live closer to Mariposa, check out [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
 {: .notice .warn }
 
 _Please note: the adult league is not created by MAYSL and is not affiliated with
