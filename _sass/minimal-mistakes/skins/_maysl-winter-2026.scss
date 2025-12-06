@@ -667,6 +667,7 @@ h4.section-header i {
 /* Reduce hero margin on home page only */
 .layout--home .page__hero {
   margin-bottom: 0;
+  margin-top: -2em; /* Pull hero up to meet the painted line */
 }
 
 /* Reduce spacing after hero to align with sidebar - home page only */
@@ -944,7 +945,7 @@ $breakpoint-large: 1024px !default;
 }
 
 /* Tablet devices (601px to 768px) */
-@media screen and (min-width: $breakpoint-small + 1px) and (max-width: $breakpoint-medium) {
+@media screen and (min-width: 601px) and (max-width: $breakpoint-medium) {
   .page__content {
     /* Button touch targets still important on tablets */
     .btn {
@@ -1000,6 +1001,161 @@ $breakpoint-large: 1024px !default;
     
     img:hover {
       transform: none;
+    }
+  }
+}
+
+/* ==========================================================================
+   Soccer Field Effect - Painted White Line
+   ========================================================================== */
+
+/* Ensure parent containers allow overflow for the painted line */
+.page__inner-wrap,
+.page,
+.page__inner,
+.page__footer {
+  overflow: visible;
+}
+
+/* Realistic painted white line below the top navigation bar */
+.masthead {
+  position: relative;
+  overflow: visible !important; /* Ensure pseudo-element is visible */
+  margin-bottom: 2em; /* Add space below masthead for the line */
+  
+  /* Remove margin on home page to eliminate space between line and hero */
+  .layout--home & {
+    margin-bottom: 0;
+  }
+  
+  /* Painted white line using ::after pseudo-element with horizontal image */
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2em; /* Position below the masthead */
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2em;
+    z-index: 0; /* Behind navigation items */
+    /* Use the horizontal soccer field line image, repeating horizontally */
+    background-image: url('/files/soccer-field-line-horizontal.jpg');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 2em; /* Scale height to 2em, maintain aspect ratio */
+    display: block !important; /* Ensure it's visible */
+    /* Make edges transparent with gradient mask (vertical gradient for horizontal line) */
+    mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0, 0, 0, 0.3) 5%,
+      rgba(0, 0, 0, 1) 15%,
+      rgba(0, 0, 0, 1) 85%,
+      rgba(0, 0, 0, 0.3) 95%,
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0, 0, 0, 0.3) 5%,
+      rgba(0, 0, 0, 1) 15%,
+      rgba(0, 0, 0, 1) 85%,
+      rgba(0, 0, 0, 0.3) 95%,
+      transparent 100%
+    );
+    /* Green shadows on top and bottom edges matching the image edge colors */
+    box-shadow: 
+      /* Top edge green shadow (darker green) */
+      0 -4px 8px rgba(45, 80, 22, 0.4),
+      0 -2px 4px rgba(45, 80, 22, 0.3),
+      /* Bottom edge green shadow (lighter green) */
+      0 4px 8px rgba(61, 107, 31, 0.4),
+      0 2px 4px rgba(61, 107, 31, 0.3);
+    z-index: 10; /* Higher z-index to ensure visibility */
+    pointer-events: none; /* Don't interfere with clicks */
+  }
+}
+
+/* Realistic painted white line across the top of the footer */
+.site-footer,
+.page__footer {
+  position: relative;
+  overflow: visible !important; /* Ensure pseudo-element is visible */
+  
+  /* Painted white line using ::before pseudo-element with horizontal image */
+  &::before {
+    content: '';
+    position: absolute;
+    top: -2em; /* Position above the footer */
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2em;
+    /* Use the horizontal soccer field line image, repeating horizontally */
+    background-image: url('/files/soccer-field-line-horizontal.jpg');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 2em; /* Scale height to 2em, maintain aspect ratio */
+    display: block !important; /* Ensure it's visible */
+    /* Make edges transparent with gradient mask (vertical gradient for horizontal line) */
+    mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0, 0, 0, 0.3) 5%,
+      rgba(0, 0, 0, 1) 15%,
+      rgba(0, 0, 0, 1) 85%,
+      rgba(0, 0, 0, 0.3) 95%,
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0, 0, 0, 0.3) 5%,
+      rgba(0, 0, 0, 1) 15%,
+      rgba(0, 0, 0, 1) 85%,
+      rgba(0, 0, 0, 0.3) 95%,
+      transparent 100%
+    );
+    /* Green shadows on top and bottom edges matching the image edge colors */
+    box-shadow: 
+      /* Top edge green shadow (darker green) */
+      0 -4px 8px rgba(45, 80, 22, 0.4),
+      0 -2px 4px rgba(45, 80, 22, 0.3),
+      /* Bottom edge green shadow (lighter green) */
+      0 4px 8px rgba(61, 107, 31, 0.4),
+      0 2px 4px rgba(61, 107, 31, 0.3);
+    z-index: 10; /* Higher z-index to ensure visibility */
+    pointer-events: none; /* Don't interfere with clicks */
+  }
+}
+
+/* Responsive adjustments for painted line */
+@media screen and (max-width: $breakpoint-medium) {
+  /* On smaller screens, reduce line thickness */
+  .masthead {
+    &::after {
+      height: 1.5em;
+      bottom: -1.5em;
+    }
+  }
+  .site-footer,
+  .page__footer {
+    &::before {
+      height: 1.5em;
+      top: -1.5em;
+    }
+  }
+}
+
+@media screen and (max-width: $breakpoint-small) {
+  /* On mobile, reduce line thickness further */
+  .masthead {
+    &::after {
+      height: 1em;
+      bottom: -1em;
+    }
+  }
+  .site-footer,
+  .page__footer {
+    &::before {
+      height: 1em;
+      top: -1em;
     }
   }
 }
