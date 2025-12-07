@@ -1,6 +1,6 @@
 ---
 title: 2026 Winter - Adult Soccer League
-tags: 2026-season winter adult
+tags: 2025-season 2026-season winter adult
 ---
 
 We're unofficially starting an [adult league]({% link _pages/adult.md %}) this winter.
