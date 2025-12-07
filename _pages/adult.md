@@ -20,10 +20,10 @@ by some of the same people_. 2026 will be its first season.
 
 We will run the season for 8 weeks, from Jan 10 to March 1, with games on Saturdays and Sundays.
 
-Team sizes will be 12-20+ players, coed, 18 and over. During games, teams should always keep
-2 or more women on the field. We'll place you on a team, you can sign up with friends,
-or make your own. Teams should be big enough that players can miss a game or two -- this is
-supposed to be fun and low-commitment.
+We'll place you on a team, you can sign up with friends, or make your own.
+Teams will be 12-20+ players, coed, 18 and over. During games, they should always keep
+2 or more women on the field. Teams should be big enough that players can miss a game or two
+-- this is supposed to be fun and low-commitment.
 
 Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
 7v7, 8v8, or 9v9, depending on availability at game time.
