@@ -11,7 +11,8 @@ MAYSL Frequently Asked Questions
 <div class="faq-item">
 <h2 class="faq-question">When do you play?</h2>
 <div class="faq-answer">
-<p>Games are on Saturdays. The season is 9 games. It usually runs from the 2nd Saturday after Labor Day until the 1st week of November, and we skip the last weekend of Fall Break.</p>
+<p>Recreation-league games are on Saturdays, travel-league games are on Sundays. The seasons are about 9 games.
+The rec league usually runs from the 2nd Saturday after Labor Day until the 1st week of November, and we skip the last weekend of Fall Break. The travel league usually starts and ends a week before the rec league, but starts practicing about a month before the rec league.</p>
 
 <p>Practices are mid-week. Many of the U4-U6 teams only practice at the beginning of the season. U8 often practice one day a week, and U10+ typically practice 2 times a week. Each coach decides his or her team's practice times and locations.</p>
 
