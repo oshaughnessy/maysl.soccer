@@ -286,6 +286,35 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
     }
   }
   
+  /* Use text underline instead of border for links in TOC and sidebar */
+  .sidebar a:not(.btn),
+  .sidebar__right a:not(.btn),
+  .toc a:not(.btn),
+  .toc__menu a:not(.btn),
+  [class*="toc"] a:not(.btn),
+  [class*="sidebar"] a:not(.btn),
+  .nav__list a:not(.btn),
+  .page__inner-wrap .sidebar a:not(.btn),
+  aside a:not(.btn),
+  .page__inner-wrap aside a:not(.btn),
+  .page__sidebar a:not(.btn),
+  .toc__list a:not(.btn),
+  .toc__title + * a:not(.btn) {
+    border-bottom: none !important;
+    text-decoration: underline !important;
+    text-decoration-color: mix($link-color, $background-color, 40%) !important;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+    
+    &:hover {
+      text-decoration-color: mix($link-color-hover, $background-color, 50%) !important;
+    }
+    
+    &:visited {
+      text-decoration-color: mix($link-color-visited, $background-color, 40%) !important;
+    }
+  }
+  
   /* Better code block styling */
   code {
     background-color: $code-background-color;
@@ -378,15 +407,8 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
   
   /* FAQ styling */
   .faq-item {
-    margin-bottom: 2.5em;
-    padding-bottom: 2em;
-    border-bottom: 1px solid mix($secondary-color, $background-color, 15%);
-    
-    &:last-child {
-      border-bottom: none;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
   
   .faq-question {
@@ -400,6 +422,69 @@ $type-size-7: 0.875rem !default; /* ~14px - Small text */
   .faq-answer {
     color: mix($text-color, $background-color, 85%);
     line-height: 1.7;
+    margin-bottom: 1em;
+  }
+  
+  // Add border after the last answer in each FAQ item (only answers followed by a question)
+  // This targets answers that are immediately followed by a question, not another answer
+  .faq-answer + .faq-item {
+    margin-top: 2.5em;
+    padding-top: 2em;
+    border-top: 1px solid mix($secondary-color, $background-color, 10%);
+  }
+  
+  // Remove border from the very last FAQ item (no border after the last question)
+  .faq-answer:last-of-type + .faq-item {
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
+  // Explicitly exclude TOC and sidebar from FAQ styling
+  // Target all possible TOC/sidebar containers
+  .sidebar,
+  .sidebar__right,
+  .toc,
+  .toc__menu,
+  [class*="toc"],
+  [class*="sidebar"],
+  .nav__list,
+  .page__inner-wrap .sidebar,
+  aside,
+  .page__inner-wrap aside {
+    // Remove all FAQ styling from TOC/sidebar
+    .faq-item,
+    .faq-question,
+    .faq-answer,
+    h2.faq-item,
+    h3.faq-item,
+    h4.faq-item,
+    h2.faq-question,
+    h3.faq-question,
+    h4.faq-question {
+      border: none !important;
+      border-top: none !important;
+      border-bottom: none !important;
+      margin-top: inherit !important;
+      margin-bottom: inherit !important;
+      padding-top: inherit !important;
+      padding-bottom: inherit !important;
+      font-size: inherit !important;
+      font-weight: inherit !important;
+      
+      &::before,
+      &::after {
+        display: none !important;
+        content: none !important;
+      }
+    }
+    
+    // Also prevent border on items that follow answers in TOC
+    .faq-answer + .faq-item {
+      border-top: none !important;
+      margin-top: inherit !important;
+      padding-top: inherit !important;
+    }
   }
   
   /* Link as button styling */
