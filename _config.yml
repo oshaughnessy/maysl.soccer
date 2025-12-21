@@ -171,7 +171,7 @@ defaults:
         #nav: schedules-by-division
         #title: 2025 Signups
         #nav: signups
-        itle: Off-Season
+        title: Off-Season
         av: off-season
 
 include: ["_pages"]
