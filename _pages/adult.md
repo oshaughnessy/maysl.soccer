@@ -81,6 +81,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 * _Cleats and shin guards_ are not required, but are recommended. Shoes with a toe cleat
   are strongly discouraged. Metal cleats are not permitted.
 * _Score will be kept_ by the referees and reported to the league admins.
+  This is all for fun, but so are league standings!
 
 
 <small>_Last update: 2025-12-20_</small>
