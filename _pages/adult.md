@@ -50,7 +50,7 @@ This is a **casual co-ed league**. We accept all ages, 18-and-over, so please be
 we will have a wide spectrum of physical abilities and soccer skills on the field.
 
 **Referees** will oversee games whenever possible. If no regular ref is available,
-we'll look for experienced players from the league. This league should be a safe place
+we'll look for experienced players from the league. This should be a safe place
 for aspiring referees to gain experience in a low-stakes environment.
 
 **Practices** are optional. Some teams will do it, some won't -- it's up to each team.
@@ -59,9 +59,9 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 ### Pre-Season
 
-* All players must be registered with the league and sign a liability waiver.
 * Players are encouraged to purchase soccer cleats and shin guards, but neither is required.
 * Team jerseys will be provided by the league.
+* All players must be registered with the league and sign a liability waiver.
 
 ### Pre-Game
 
