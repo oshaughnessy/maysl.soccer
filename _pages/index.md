@@ -21,7 +21,7 @@ Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the cen
      icon="snowflake" 
      title="Winter Soccer for Adults" 
      description="Games will be at YHS. Jan 10 - Mar 1. Signups open until Dec 14!"
-     button_url="https://forms.gle/ZiCswSHpYEN7u9Ey6"
-     button_text="Sign Up Now"
+     button_url="/adult/"
+     button_text="More Info"
      card_url="/adult/" %}
 </div>
