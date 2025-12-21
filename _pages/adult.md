@@ -72,3 +72,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 * _Slide tackling_ is absolutely forbidden.
 * _Cleats and shin guards_ are not required, but are recommended.
 * _Score will be kept_ by the referees and reported to the league admins.
+
+
+<small>_Last update: 2025-12-20_</small>
+{: .small }
