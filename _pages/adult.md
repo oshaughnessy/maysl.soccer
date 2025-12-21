@@ -37,8 +37,8 @@ or we'll be happy to place you on one. Teams should be big enough that players c
 some games -- this is supposed to be fun and low-commitment -- and should have enough women
 that they can keep 2 or more women on the field during games.
 
-Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
-7v7, 8v8, or 9v9, depending on availability at game time.
+Games will be hosted at [the YHS field where MAYSL hosts U12 games]({% link _pages/schedules.md %}/#game-fields),
+and games will be played 7v7, 8v8, or 9v9, depending on availability at game time.
 
 If you live closer to Mariposa, check out
 [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
