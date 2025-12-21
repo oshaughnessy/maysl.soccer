@@ -5,6 +5,10 @@ permalink: /adult/
 toc: true
 ---
 
+Signups are closed for Winter 2026
+<!-- ## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) << -->
+{: .notice .info }
+
 ## So what's this all about?
 
 <!--
@@ -19,6 +23,8 @@ toc: true
 </div>
 -->
 
+
+![image-left](/files/maasl-logo.png){: .align-left .third-width .gimme-space }
 
 The winter adult league is a fundraiser for MAYSL's youth programs, and it's designed to be a casual,
 recreational soccer experience for the greater Oakhurst community of soccer-loving friends.
@@ -38,10 +44,6 @@ If you live closer to Mariposa, check out
 [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
 It's a wonderful program and inspired us to start playing in Oakhurst.
 {: .notice .warn }
-
-Signups are closed for 2026 Winter
-<!-- ## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) << -->
-{: .notice .info }
 
 
 ## Season Guide
