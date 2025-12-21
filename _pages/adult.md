@@ -2,8 +2,11 @@
 nav_title: Adult
 title: Adult Soccer <i class="fas fa-user-group" aria-hidden="true"></i>
 permalink: /adult/
+toc: true
+toc_h_min: 1
 ---
 
+<!--
 <div class="feature-cards">
   {% include feature-card.html 
      icon="snowflake" 
@@ -13,27 +16,59 @@ permalink: /adult/
      button_text="Sign Up Now <i class=\"fas fa-futbol\" aria-hidden=\"true\"></i>"
      button_url="https://forms.gle/ZiCswSHpYEN7u9Ey6" %}
 </div>
+-->
 
-The winter adult league is designed to be a casual, recreational soccer experience for the 
-greater Oakhurst community of soccer-loving friends.  _It is not offered by MAYSL, but is created
-by some of the same people_. 2026 will be its first season.
+## So what's this all about?
 
-We will run the season for 8 weeks, from Jan 10 to March 1, with games on Saturdays and Sundays.
+The winter adult league is a fundraiser for MAYSL's youth programs, and it's designed to be a casual,
+recreational soccer experience for the greater Oakhurst community of soccer-loving friends.
+2026 is its first season.
 
-We'll place you on a team, you can sign up with friends, or make your own.
-Teams will be 12-20+ players, coed, 18 and over. During games, they should always keep
-2 or more women on the field. Teams should be big enough that players can miss a game or two
--- this is supposed to be fun and low-commitment.
+The season runs for 8 weeks, from Jan 10 to March 1, with games on Saturdays.
+
+Teams are 12-20+ players, coed, 18 and over. Sign up with friends, make your own team,
+or we'll be happy to place you on one. Teams should be big enough that players can miss 
+some games -- this is supposed to be fun and low-commitment -- and should have enough women
+that they can keep 2 or more women on the field during games.
 
 Games will be hosted at the YHS field where MAYSL hosts U12 games, and games will be played
 7v7, 8v8, or 9v9, depending on availability at game time.
 
-If you live closer to Mariposa, check out [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
+If you live closer to Mariposa, check out
+[Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).
 It's a wonderful program and inspired us to start playing in Oakhurst.
 {: .notice .warn }
 
-_Please note: the adult league is not created by MAYSL and is not affiliated with
-US Youth Soccer or the California Youth Soccer Association._
+Signups are closed for 2026 Winter
+<!-- ## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) << -->
+{: .notice .info }
 
 
-## >> [Sign up here!](https://forms.gle/ZiCswSHpYEN7u9Ey6) <<
+## Season Guide
+
+This is a **casual co-ed league**. We accept all ages, 18-and-over, so please be mindful that
+we will have a wide spectrum of physical abilities and soccer skills on the field.
+
+**Referees** will oversee games whenever possible. If no regular ref is available,
+we'll look for experienced players from the league. This league should be a safe place
+for aspiring referees to gain experience in a low-stakes environment.
+
+**Practices** are optional. Some teams will do it, some won't -- it's up to each team.
+
+**Participation is _at your own risk_.** All players are required to sign a liability waiver.
+
+
+### Pre-Game Discussions
+
+* Captains should discuss mercy rules
+* Adjust competition size as appropriate for player availability, skill, and fitness:
+  play 7v7, 8v8, or 9v9.
+
+### Rules
+
+* _Substitutions are hockey style:_ exit the game and return as needed,
+  don't wait for the ball to be out of play or the ref to acknowledge.
+* _Coed:_ at least 2 women on the game field at all times.
+* _Slide tackling_ is absolutely forbidden.
+* _Cleats and shin guards_ are not required, but are recommended.
+* _Score will be kept_ by the referees and reported to the league admins.
