@@ -3,8 +3,9 @@ nav_title: Adult
 title: Adult Soccer <i class="fas fa-user-group" aria-hidden="true"></i>
 permalink: /adult/
 toc: true
-toc_h_min: 1
 ---
+
+## So what's this all about?
 
 <!--
 <div class="feature-cards">
@@ -18,7 +19,6 @@ toc_h_min: 1
 </div>
 -->
 
-## So what's this all about?
 
 The winter adult league is a fundraiser for MAYSL's youth programs, and it's designed to be a casual,
 recreational soccer experience for the greater Oakhurst community of soccer-loving friends.
@@ -57,10 +57,18 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 **Participation is _at your own risk_.** All players are required to sign a liability waiver.
 
+### Pre-Season
 
-### Pre-Game Discussions
+* All players must be registered with the league and sign a liability waiver.
+* Players are encouraged to purchase soccer cleats and shin guards, but neither is required.
+* Team jerseys will be provided by the league.
 
-* Captains should discuss mercy rules
+### Pre-Game
+
+* Home team should provide 2 game balls.
+* Captains should verify they have enough women to keep 2 on the field.
+  If it will be a challenge, look for subs from other teams.
+* Captains should discuss mercy rules.
 * Adjust competition size as appropriate for player availability, skill, and fitness:
   play 7v7, 8v8, or 9v9.
 
@@ -70,7 +78,8 @@ for aspiring referees to gain experience in a low-stakes environment.
   don't wait for the ball to be out of play or the ref to acknowledge.
 * _Coed:_ at least 2 women on the game field at all times.
 * _Slide tackling_ is absolutely forbidden.
-* _Cleats and shin guards_ are not required, but are recommended.
+* _Cleats and shin guards_ are not required, but are recommended. Shoes with a toe cleat
+  are strongly discouraged. Metal cleats are not permitted.
 * _Score will be kept_ by the referees and reported to the league admins.
 
 
