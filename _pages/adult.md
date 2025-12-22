@@ -34,8 +34,8 @@ The season runs for 8 weeks, from Jan 10 to March 1, with games on Saturdays.
 
 Teams are 12-20+ players, coed, 18 and over. Sign up with friends, make your own team,
 or we'll be happy to place you on one. Teams should be big enough that players can miss 
-some games -- this is supposed to be fun and low-commitment -- and should have enough women
-that they can keep 2 or more women on the field during games.
+some games -- this is supposed to be fun and low-commitment -- and should have enough
+women that they can keep 2 or more on the field during games.
 
 Games will be hosted at [the YHS field where MAYSL hosts U12 games]({% link _pages/schedules.md %}/#game-fields),
 and games will be played 7v7, 8v8, or 9v9, depending on availability at game time.
@@ -48,8 +48,8 @@ It's a wonderful program and inspired us to start playing in Oakhurst.
 
 ## Season Guide
 
-This is a **casual co-ed league**. We accept all ages, 18-and-over, so please be mindful that
-we will have a wide spectrum of physical abilities and soccer skills on the field.
+This is a **casual co-ed league**. We accept all ages, 18-and-over, so please be mindful
+that we will have a wide spectrum of physical abilities and soccer skills on the field.
 
 **Referees** will oversee games whenever possible. If no regular ref is available,
 we'll look for experienced players from the league. This should be a safe place
