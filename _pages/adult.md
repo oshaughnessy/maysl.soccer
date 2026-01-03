@@ -103,5 +103,7 @@ They should start and end on time so that delays don't pile up and force late st
 >
 </iframe>
 
+[Download the schedule](/schedules/2026/MAASL-2026-adult.pdf)
+
 <small>_Last update: 2026-1-2_</small>
 {: .small }
