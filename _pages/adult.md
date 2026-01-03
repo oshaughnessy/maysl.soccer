@@ -88,15 +88,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 ### Schedule
 
-Games are 60 minutes, with 2 25m halves and a 10 minute halftime.
-
-The 1:15pm slot each week is marked _OPEN_. Each week's open game will be hosted by a different team.
-The hosting team should ensure that enough players are available to compete, and players from any team
-are eligible to join the hosting team that week. We encourage players who would like more play time to
-participate in the open game. Without this open model, one team would have a Bye each week, and we
-wanted to offer more play opportunities for everyone.
-
-They should start and end on time so that delays don't pile up and force late starts for subsequent games.
+Games are 60 minutes, with two 25m halves and a 10m halftime.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=948474186&amp;format=interactive"
  width="640" height="480" style="border:0;" allowfullscreen loading="lazy"
@@ -104,6 +96,25 @@ They should start and end on time so that delays don't pile up and force late st
 </iframe>
 
 [Download the schedule](/schedules/2026/MAASL-2026-adult.pdf)
+
+Please help games start and end on time so that delays don't pile up and force late starts for subsequent games.
+{: .notice .warn }
+
+#### Open Games
+
+The 1:15pm slot each week is marked _OPEN_.
+
+Each week's open game will be hosted by a different team. The hosting
+team should ensure that enough players are available to compete.
+Players from any team are eligible to join the hosting team, and we
+encourage those to would like more play time to reach out to the hosting
+captain, even on the day of play.
+
+Without this open model, one team would have a Bye each week, and we wanted
+to offer more play opportunities for everyone. This should a lot like pickup
+soccer, with just enough coordination to make it all happen. Hosting shouldn't
+be stressful, but it's important to do it so the other team has a real competitor
+instead of that Bye week.
 
 <small>_Last update: 2026-1-2_</small>
 {: .small }
