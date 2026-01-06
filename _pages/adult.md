@@ -67,12 +67,13 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 ### Pre-Game
 
-* Home team should provide 2 game balls.
+* The league will provide game balls.
 * Captains should verify they have enough women to keep 2 on the field.
   If it will be a challenge, look for subs from other teams.
 * Captains should discuss mercy rules.
 * Adjust competition size as appropriate for player availability, skill, and fitness:
   play 7v7, 8v8, or 9v9.
+* Practices are not league events -- practice as you like, or don't. Up to you where, when, and if.
 
 ### Rules
 
