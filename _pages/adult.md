@@ -26,9 +26,9 @@ Signups are closed for Winter 2026
 
 ![image-left](/files/maasl-logo.png){: .align-left .third-width .gimme-space }
 
-The winter adult league is a fundraiser for MAYSL's youth programs, and it's designed to be a casual,
-recreational soccer experience for the greater Oakhurst community of soccer-loving friends.
-2026 is its first season.
+The winter adult league is a fundraiser for MAYSL's youth programs, and it's designed to be a
+casual, recreational soccer experience for the greater Oakhurst community of soccer-loving
+friends.  2026 is its first season.
 
 The season runs for 8 weeks, from Jan 10 to March 1, with games on Saturdays.
 
@@ -61,7 +61,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 ### Pre-Season
 
-* Players are encouraged to purchase soccer cleats and shin guards, but neither is required.
+* Soccer cleats and shin guards are required.
 * Team jerseys will be provided by the league.
 * All players must be registered with the league and sign a liability waiver.
 
@@ -80,8 +80,8 @@ for aspiring referees to gain experience in a low-stakes environment.
   don't wait for the ball to be out of play or the ref to acknowledge.
 * _Coed:_ at least 2 women on the game field at all times.
 * _Slide tackling_ is absolutely forbidden.
-* _Cleats and shin guards_ are not required, but are recommended. Shoes with a toe cleat
-  are strongly discouraged. Metal cleats are not permitted.
+* _Cleats and shin guards_ are required. Shoes with a toe cleat are strongly discouraged.
+  Metal cleats are not permitted.
 * _Score will be kept_ by the referees and reported to the league admins.
   This is all for fun, but so are league standings!
 
