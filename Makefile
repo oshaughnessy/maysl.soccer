@@ -25,7 +25,7 @@ local.yml: _config.yml
 .PHONY: _config.yml
 
 serve: local.yml
-	bundle exec jekyll serve --livereload --config local.yml
+	bundle exec jekyll serve --livereload --config local.yml --port 4000
 
 .PHONY: theme
 theme: THEME := $(shell awk -F': ' '$$1=="theme" || $$1=="remote_theme" { print $$2 }' _config.yml |sed 's,^.*jekyll-theme-,,')

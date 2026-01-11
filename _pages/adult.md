@@ -87,21 +87,12 @@ for aspiring referees to gain experience in a low-stakes environment.
   This is all for fun, but so are league standings!
 
 
-### Schedule
+## Schedule
 
 Games are 60 minutes, with two 25m halves and a 10m halftime.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=948474186&amp;format=interactive"
- width="640" height="480" style="border:0;" allowfullscreen loading="lazy"
->
-</iframe>
-
-[Download the schedule](/schedules/2026/MAASL-2026-adult.pdf)
-
 Please help games start and end on time so that delays don't pile up and force late starts for subsequent games.
 {: .notice .warn }
-
-#### Open Games
 
 The 1:15pm slot each week is marked _OPEN_.
 
@@ -116,6 +107,26 @@ to offer more play opportunities for everyone. This should a lot like pickup
 soccer, with just enough coordination to make it all happen. Hosting shouldn't
 be stressful, but it's important to do it so the other team has a real competitor
 instead of that Bye week.
+
+[Download the schedule](/schedules/2026/MAASL-2026-adult.pdf)
+
+<iframe
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=948474186&amp;format=interactive"
+ width="640" height="480"
+ style="border:0;" allowfullscreen loading="lazy"
+>
+</iframe>
+
+
+## Standings
+
+<iframe
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=311686005&amp;format=interactive"
+ width="640" height="480"
+ style="border:0;" allowfullscreen loading="lazy"
+>
+</iframe>
+
 
 <small>_Last update: 2026-1-2_</small>
 {: .small }
