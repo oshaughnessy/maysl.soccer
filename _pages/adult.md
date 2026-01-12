@@ -3,6 +3,7 @@ nav_title: Adult
 title: Adult Soccer <i class="fas fa-user-group" aria-hidden="true"></i>
 permalink: /adult/
 toc: true
+toc_h_max: 1
 ---
 
 Signups are closed for Winter 2026
@@ -112,27 +113,40 @@ instead of that Bye week.
 
 <iframe
  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=948474186&amp;format=interactive"
- width="640" height="480"
- style="border:0;" allowfullscreen loading="lazy"
+ width="600" height="480"
+ style="border:0; display:block; margin: 0 auto;"
+ scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
+ loading="lazy"
 >
 </iframe>
+{: .align-left .gimme-space }
 
 
 ## Standings
 
+### Scores
+
 <iframe
  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=311686005&amp;format=interactive"
- width="640" height="480"
- style="border:0;" allowfullscreen loading="lazy"
+ width="600" height="480"
+ style="border:0; display:block; margin: 0 auto;"
+ scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
+ loading="lazy"
 >
 </iframe>
+{: .align-left .gimme-space }
+
+### Leaderboard
 
 <iframe
  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubhtml?gid=558534285&amp;single=true&amp;widget=true&amp;headers=false"
- width="640" height="260"
- style="border:0;" allowfullscreen loading="lazy"
+ width="600" height="280"
+ style="border:0; display:block; margin: 0 auto;"
+ scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
+ loading="lazy"
 >
 </iframe>
+{: .align-left .gimme-space }
 
 
 <small>_Last update: 2026-1-11_</small>
