@@ -121,8 +121,15 @@ instead of that Bye week.
 ## Standings
 
 <iframe
- src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXu0lL0uxF8Gap4birnJG6rA2QO-XhSxK2eP8zmiyJ6LTr-64FVzpcqoLrjnb8hbSNpRf6iIlVL2D6/pubchart?oid=1021036649&amp;format=interactive"
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=311686005&amp;format=interactive"
  width="640" height="480"
+ style="border:0;" allowfullscreen loading="lazy"
+>
+</iframe>
+
+<iframe
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubhtml?gid=558534285&amp;single=true&amp;widget=true&amp;headers=false"
+ width="640" height="260"
  style="border:0;" allowfullscreen loading="lazy"
 >
 </iframe>
