@@ -80,7 +80,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 
 * _Substitutions are hockey style:_ exit the game and return as needed,
   don't wait for the ball to be out of play or the ref to acknowledge.
-* _Coed:_ at least 2 women on the game field at all times.
+* _Coed:_ at least 2 women on the game field at all times (not including goalkeepers).
 * _Slide tackling_ is absolutely forbidden.
 * _Cleats and shin guards_ are required. Shoes with a toe cleat are strongly discouraged.
   Metal cleats are not permitted.
