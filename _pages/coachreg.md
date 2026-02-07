@@ -31,8 +31,9 @@ following steps. If you have more questions, details can be found further down.
     You'll need to complete and submit each of the lessons listed
     there, "Introduction to Safe and Healthy Playing Environments"
     and "Safe Sport Training". It all takes a few hours the first
-    time you do it, but when you come back next year `:-)`, each
-    one only takes about 30 minutes.
+    time you do it, but when you come back next year `:-)`, they'll
+    already be done! You don't have to renew for 2 years, and they're
+    shorter the next time around.
 
 3. Request a [**background check**](#background-checks).
 
@@ -128,7 +129,7 @@ another organization can't be used for MAYSL.
    3. Bring your form and [a current, valid photo ID](https://oag.ca.gov/fingerprints/locations)
       to your appointment. You will be fingerprinted and your identity will be verified when
       they complete your form and submit it.
-   4. Note that the submission is free for MAYSL coaches.
+   4. Submission is under $10 for MAYSL coaches, but only at the Oakhurst Sheriff's office.
 
 
 ## FAQ
