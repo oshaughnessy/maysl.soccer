@@ -135,11 +135,13 @@ The results won't count for the season record.
 ### Leaderboard
 
 <iframe
- src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubhtml?gid=558534285&amp;single=true&amp;widget=true&amp;headers=false"
- width="600" height="280"
- style="border:0; display:block; margin: 0 auto;"
- scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubhtml?gid=558534285&headers=false&&chrome=false&widget=false&range=A1:J8"
+ width="600" height="230"
+ style="border:none; display:block; margin:0 auto;"
+ frameborder="no"
+ scrolling="no"
  loading="lazy"
+ webkitAllowFullScreen mozallowfullscreen allowFullScreen
 >
 </iframe>
 {: .align-left .gimme-space }
