@@ -13,7 +13,7 @@ build:
 
 update:
 	@echo "FYI: https://jekyllrb.com/docs/upgrading/"
-	bundle update
+	bundle update --all
 
 local-config: local.yml
 

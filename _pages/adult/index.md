@@ -90,6 +90,14 @@ for aspiring referees to gain experience in a low-stakes environment.
 * _Shin guards_ are recommended but not required.
 * _Score will be kept_ by the referees and reported to the league admins.
   This is all for fun, but so are league standings!
+* _Yellow cards_ will be thrown early for talking back to the referees.
+  We want to keep the vibe fun and family-friendly. Arguing with the refs heats
+  things up fast, and we need to calm it down just as quickly, so we can't tolerate
+  unsportsmanlike treatment of our officials.
+
+	[IFAB Law 12.4](https://www.theifab.com/laws/latest/fouls-and-misconduct/#disciplinary-action):
+	"A player is cautioned if guilty of ...dissent by word or action ...unsporting behaviour"
+	{: .notice .warning }
 
 ### Substitutions
 
