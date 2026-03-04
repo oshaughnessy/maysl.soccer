@@ -128,8 +128,8 @@ The season will last 8 weeks:
     - No subs allowed
     - The new **_Winter Blast_ Coed League Kings and Queens of the Mountain** will reign for a year!
 
-The season will most likely begin on the 2nd weekend of January (1/9/2027)
-and end 8 weeks later, on 2/27.
+The season will most likely begin on the 2nd weekend of January (1/9)
+and end 8 weeks later (2/27).
 
 The end-of-season tournament will consist of 40m games, with two 15m halves
 and a 10m halftime.
@@ -145,7 +145,6 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 24 25 26 27 28 29 30  28                    28 29 30 31
 31
 ```
-
 
 ## Schedule
 
