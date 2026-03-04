@@ -160,47 +160,6 @@ has the scheduled Bye.  Players from any team are eligible to hop
 into this last slot of the day and play against the host.
 The results won't count for the season record.
 
-[Download the schedule](/schedules/2026/MAASL-2026-adult.pdf)
 
-<iframe
- src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=948474186&amp;format=interactive"
- width="600" height="480"
- style="border:0; display:block; margin: 0 auto;"
- scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
- loading="lazy"
->
-</iframe>
-{: .align-left .gimme-space }
-
-
-## Standings
-
-### Scores
-
-<iframe
- src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubchart?oid=311686005&amp;format=interactive"
- width="600" height="480"
- style="border:0; display:block; margin: 0 auto;"
- scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen
- loading="lazy"
->
-</iframe>
-{: .align-left .gimme-space }
-
-### Leaderboard
-
-<iframe
- src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoziGSkCjWWRAi8CT0gBzS5N6a1ByaK12VXo1fA2Ju9r3g_VEzh9fMea51OeZDtKR6z_m7w62GmcBm/pubhtml?gid=558534285&headers=false&&chrome=false&widget=false&range=A1:J8"
- width="600" height="230"
- style="border:none; display:block; margin:0 auto;"
- frameborder="no"
- scrolling="no"
- loading="lazy"
- webkitAllowFullScreen mozallowfullscreen allowFullScreen
->
-</iframe>
-{: .align-left .gimme-space }
-
-
-<small>_Last update: 2026-1-11_</small>
+<small>_Last update: 2026-03-03_</small>
 {: .small }
