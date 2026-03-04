@@ -111,7 +111,7 @@ for aspiring referees to gain experience in a low-stakes environment.
 ### Substitutions
 
 * Registered players may join other teams _only during the regular season_.
-* A team may borrow enough players to have 2 subs for their game.
+* A team may borrow only enough players to have 2 substitutes for their game.
 * When choosing between smaller-sided games (7v7 or 8v8) or 9v9 with borrowed
   players, the league prefers smaller-sided games.
 
