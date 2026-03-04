@@ -148,9 +148,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 
 ## Schedule
 
-2026: Games are 60 minutes, with two 25m halves and a 10m halftime.
-
-2027: Games are 50 minutes, with two 20m halves and a 10m halftime.
+Games are 50 minutes, with two 20m halves and a 10m halftime.
 
 _<< Join the Open Team! >>_
 
