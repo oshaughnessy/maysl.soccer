@@ -101,8 +101,8 @@ for aspiring referees to gain experience in a low-stakes environment.
 	{: .notice .warning }
 
 * _A red card_ issued to a player means that player must leave the field and surrounding area
-  for the remainder of that day, and may not participate in any other league games that day
-  (as a substitute or regular player).
+  for the remainder of that day, and may not participate in any other league games that day,
+  as a substitute or regular player.
 * _2 red cards_ issued to a player across 2 weekends will result in suspension from
   participating in any games the following week.
 * _3 red cards_ issued to a player means that player will be excused from the league and
