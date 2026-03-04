@@ -96,7 +96,8 @@ for aspiring referees to gain experience in a low-stakes environment.
   unsportsmanlike treatment of our officials.
 
 	[IFAB Law 12.4](https://www.theifab.com/laws/latest/fouls-and-misconduct/#disciplinary-action):
-	"A player is cautioned if guilty of ...dissent by word or action ...unsporting behaviour"
+	"The yellow card communicates a caution and the red card communicates a sending-off....
+	A player is cautioned if guilty of: ...dissent by word or action; ...persistent offences; unsporting behaviour"
 	{: .notice .warning }
 
 * _Red card_ issued to a player means that player must leave the field and surrounding area
