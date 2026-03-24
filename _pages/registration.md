@@ -4,7 +4,7 @@ permalink: /registration/
 toc: false
 toc_icon: trophy
 sidebar:
-  title: 2024 Signups
+  title: 2025/26 Signups
   nav: signups
 redirect_from:
   - /register/
