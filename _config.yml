@@ -153,8 +153,8 @@ defaults:
         #nav: schedules-by-division
         #title: 2025 Signups
         #nav: signups
-        title: Off-Season
-        nav: off-season
+        #title: Off-Season
+        #nav: off-season
       toc_sticky: true
   # _posts
   - scope:
@@ -171,8 +171,8 @@ defaults:
         #nav: schedules-by-division
         #title: 2025 Signups
         #nav: signups
-        title: Off-Season
-        av: off-season
+        #title: Off-Season
+        #nav: off-season
 
 include: ["_pages"]
 
