@@ -42,6 +42,9 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 #remote_theme: erlzhang/jekyll-theme-persephone
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -151,8 +154,8 @@ defaults:
       sidebar: 
         #title: Schedules
         #nav: schedules-by-division
-        #title: 2025 Signups
-        #nav: signups
+        title: 2026 Signups
+        nav: signups
         #title: Off-Season
         #nav: off-season
       toc_sticky: true
@@ -169,8 +172,8 @@ defaults:
       sidebar: 
         #title: schedules
         #nav: schedules-by-division
-        #title: 2025 Signups
-        #nav: signups
+        title: 2026 Signups
+        nav: signups
         #title: Off-Season
         #nav: off-season
 
@@ -179,7 +182,7 @@ include: ["_pages"]
 home_articles: 2  # amount of posts to show
 paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
-season_tag: 2025-season
+season_tag: 2026-season
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true

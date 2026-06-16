@@ -81,14 +81,14 @@ news:
   url: /tags/
 
 signups:
-- title: Players
-  url: https://system.gotsport.com/programs/66673S215?reg_role=player
-- title: Coaches
-  url: https://system.gotsport.com/programs/66673S215?reg_role=coach
+#- title: Players
+#  url: https://system.gotsport.com/programs/68354178H?reg_role=player
+#- title: Coaches
+#  url: https://system.gotsport.com/programs/68354178H?reg_role=coach
 - title: Coach Registration Guide
-  url: https://maysl.soccer/coachreg/
-- title: Referees
-  url: https://system.gotsport.com/programs/66673S215?reg_role=referee
+  url: /coachreg/
+#- title: Referees
+#  url: https://system.gotsport.com/programs/66673S215?reg_role=referee
 
 schedules:
 - title: U5
