@@ -4,13 +4,13 @@ permalink: /registration/
 toc: false
 toc_icon: trophy
 sidebar:
-  title: 2025/26 Signups
+  title: 2026/27 Signups
   nav: signups
 redirect_from:
   - /register/
 ---
 
-## 2025-2026 Season Signups
+## 2026-2027 Season Signups
 
 <div class="key-section">
 <p>Ready to join MAYSL? Choose your role below to get started with registration.</p>
