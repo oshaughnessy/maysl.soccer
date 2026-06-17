@@ -45,16 +45,19 @@ If you'd like to sign up your kids:
 
 ### How do I know my kids' league age?
 
+Think of "league age" as an age group we use for making teams and divisions. 
+As of the 2026 season, league ages align with school years, and the cutoff is
+how old they were when the season started on Aug 1.
+
+Our divisions are mostly 2-year brackets, from U4 to U19. "U" means "under",
+so the divisions are for players with a _league age_ under that, e.g. _under 8_ or _under 12_. 
+
 At MAYSL, teams separate into divisions like this:
 
-- coed clinic-style play is for players in U3 and U4
+- coed clinic-style play is for players ages U4-U5
 - recreational boys and girls teams are created for U6, U8, U10, and U12
 - recreational coed teams are created for players in the U13-U15 age bracket
 - competitive travel teams for boys and girls play in divisions for U14, U16, and U19
-
-"U" means "under", so the divisions are for players with a _league age_ under that,
-e.g. _under 8_ or _under 12_. League ages align with school years, and the cutoff is
-how old they were when the season started on Aug 1.
 
 Please see [our league age post]({% post_url 2026-04-28-2026-league-ages %})
 or the [US Soccer League Age Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator)
