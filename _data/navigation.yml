@@ -85,7 +85,7 @@ signups:
 #  url: https://system.gotsport.com/programs/68354178H?reg_role=player
 #- title: Coaches
 #  url: https://system.gotsport.com/programs/68354178H?reg_role=coach
-- title: Coach Registration Guide
+- title: Coach Registration
   url: /coachreg/
 #- title: Referees
 #  url: https://system.gotsport.com/programs/66673S215?reg_role=referee
