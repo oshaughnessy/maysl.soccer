@@ -12,10 +12,10 @@ many common questions.
 ## Eligibility
 
 Kids ages 3-18 can play soccer with the Mountain Area Youth Soccer League.
-You can find out your player's age for league placement at the
-[CYSA Division 7 League Age Chart](https://cysadistrict7.org/forms-policies/birth-year-and-season-matrix/)
+You can find out your player's age for division placement in
+[our league age post]({% post_url 2026-04-28-2026-league-ages %})
 or the 
-[CalNorth Age Calculator](https://www.calnorth.org/soccer-age).
+[US Soccer League Age Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator).
 ([See below for more details](#how-do-i-know-my-kids-league-age).)
 
 
@@ -45,21 +45,20 @@ If you'd like to sign up your kids:
 
 ### How do I know my kids' league age?
 
-At MAYSL, teams usually separate into divisions for U4, U5, U6, U8, U10, U12,
-U14, U16, and U19.
+At MAYSL, teams separate into divisions like this:
 
-[ussoccer.com says](
-https://www.ussoccer.com/stories/2017/08/us-soccer-player-development-initiatives-officially-roll-out
-),
-"an age group can be determined by subtracting the birth year from the year the season ends."
+- coed clinic-style play is for players in U3 and U4
+- recreational boys and girls teams are created for U6, U8, U10, and U12
+- recreational coed teams are created for players in the U13-U15 age bracket
+- competitive travel teams for boys and girls play in divisions for U14, U16, and U19
 
-1. Our current season ends in 2026
-2. Subtract your child's birth year
-3. The result is their league age
-4. The division they're in must be at or below their league age
+"U" means "under", so the divisions are for players with a "league age" under that.
+League ages align with school years, and the cutoff is how old they were when the season
+started on Aug 1.
 
-For example, U10 is for kids 10 and under. If your child was born in 2016,
-they'd be in U10 because 2026-2016 is 10.
+Please see [our league age post]({% post_url 2026-04-28-2026-league-ages %})
+or the [US Soccer League Age Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator)
+for more.
 
 
 ## Player Safety
