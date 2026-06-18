@@ -81,11 +81,11 @@ news:
   url: /tags/
 
 signups:
-#- title: Players
-#  url: https://system.gotsport.com/programs/68354178H?reg_role=player
+- title: Players
+  url: /register/
 #- title: Coaches
 #  url: https://system.gotsport.com/programs/68354178H?reg_role=coach
-- title: Coach Registration
+- title: Coaches
   url: /coachreg/
 #- title: Referees
 #  url: https://system.gotsport.com/programs/66673S215?reg_role=referee

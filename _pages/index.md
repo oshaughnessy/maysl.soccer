@@ -19,6 +19,16 @@ Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the cen
 2026 Fall soccer signups are coming soon!
 {: .notice .info }
 
+<div class="feature-cards">
+  {% include feature-card.html 
+     icon="leaf" 
+     title="Fall Signups!" 
+     description="Registration for fall soccer is open now"
+     button_url="/register/"
+     button_text="More Info"
+     card_url="/register/" %}
+</div>
+
 <!--
 <div class="feature-cards">
   {% include feature-card.html 
