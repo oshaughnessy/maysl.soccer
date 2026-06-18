@@ -13,7 +13,7 @@ redirect_from:
 ## 2026-2027 Season Signups
 
 <div class="key-section">
-<p>Ready to join MAYSL? Choose your role below to get started with registration.</p>
+<p>Ready for fall soccer? Our signups are open now!</p>
 </div>
 
 <a href="https://system.gotsport.com/programs/68354178H" class="btn btn--primary">Register Here</a>
