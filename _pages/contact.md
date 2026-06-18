@@ -19,9 +19,9 @@ League Registrar: [Kay Emmert](mailto:kayemmert@yahoo.com)
 For most questions, please reach out to the area representative
 for the location your child is playing in:
 
-* Ahwahnee: [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org)
-* Coarsegold: [Collette Haggard-Ship](mailto:martacollette@gmail.com)
-* Rivergold: [Joel Greathouse](mailto:joelgreathouse@gmail.com)
+* Ahwahnee: [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org)
+* Coarsegold: Open Position!
+* Rivergold: [Loria Fox](mailto:loriar@gmail.com)
 * Oakhurst: [Karen Wood](mailto:karenjwood55@gmail.com)
-* North Fork : [Kelley Lozano](mailto:kelleyswright@gmail.com)
+* North Fork: [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com)
 * Spring Valley: [Kim Dixon](mailto:kimraedixon@gmail.com)
