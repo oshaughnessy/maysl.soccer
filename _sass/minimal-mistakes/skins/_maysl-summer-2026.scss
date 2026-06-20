@@ -1,0 +1,1213 @@
+/* ==========================================================================
+   MAYSL Summer 2026 skin
+   USA World Cup edition — red, white & blue inspired by the Team USA jersey
+   ========================================================================== */
+
+/* Fonts */
+$base-font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$heading-font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+
+/* Apply base font globally */
+body {
+  font-family: $base-font-family;
+}
+
+/* Colors */
+$background-color: #F8F7F5 !default; /* Clean near-white */
+$text-color: #1a2744 !default; /* Dark navy for readability */
+$primary-color: #002868 !default; /* USA flag navy — Pantone 282 C */
+$secondary-color: #BF0A30 !default; /* USA flag red — Pantone 193 C */
+$border-color: mix($secondary-color, $background-color, 20%) !default;
+$code-background-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color-dark: mix($primary-color, $background-color, 10%) !default;
+$form-background-color: mix(#fff, $background-color, 25%) !default;
+$footer-background-color: mix($primary-color, $background-color, 12%) !default; /* Soft navy tint */
+$link-color: #1952A3 !default; /* Medium blue, ~5:1 WCAG contrast */
+$link-color-hover: mix($primary-color, #000, 20%) !default; /* Darker navy on hover */
+$link-color-visited: mix($secondary-color, $text-color, 40%) !default; /* Muted red-navy for visited */
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix($primary-color, $text-color, 40%) !default;
+$navicon-link-color-hover: mix($primary-color, $background-color, 40%) !default;
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
+
+/* notices */
+$toc-active-color: mix($primary-color, $background-color, 30%) !default;
+
+/* Enhanced notice styling */
+.notice,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  border-left: 4px solid;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.notice--info,
+.notice.info {
+  background-color: mix($primary-color, $background-color, 10%);
+  border-left-color: $primary-color;
+  color: mix($text-color, $primary-color, 20%);
+}
+
+.notice--warning {
+  background-color: mix($secondary-color, $background-color, 15%);
+  border-left-color: $secondary-color;
+  color: $text-color; /* Changed from mix for WCAG contrast */
+}
+
+.notice--success {
+  background-color: mix($primary-color, $background-color, 8%);
+  border-left-color: mix($primary-color, #fff, 30%);
+  color: mix($text-color, $primary-color, 15%);
+}
+
+.notice--danger {
+  background-color: mix(#d32f2f, $background-color, 10%);
+  border-left-color: #d32f2f;
+  color: mix($text-color, #d32f2f, 20%);
+}
+
+p.notice.direct { 
+  /* Direct free kick - warm red tone for seriousness */
+  background-color: mix(#c85a3a, $background-color, 18%);
+  border-left-color: #c85a3a;
+  color: $text-color; /* Changed from mix for WCAG contrast */
+}
+
+p.notice.indirect { 
+  /* Indirect free kick - warm yellow tone */
+  background-color: mix(#d4a574, $background-color, 20%);
+  border-left-color: #d4a574;
+  color: $text-color; /* Changed from mix for WCAG contrast */
+}
+
+/* ==========================================================================
+   Typography Enhancements
+   ========================================================================== */
+
+/* Typography Scale */
+$type-size-1: 2.5rem !default;  /* ~40px - Main page titles */
+$type-size-2: 2rem !default;     /* ~32px - Section headings */
+$type-size-3: 1.625rem !default; /* ~26px - Subsection headings */
+$type-size-4: 1.375rem !default; /* ~22px - Sub-subsection headings */
+$type-size-5: 1.125rem !default; /* ~18px - Large body text */
+$type-size-6: 1rem !default;     /* ~16px - Base body text */
+$type-size-7: 0.875rem !default; /* ~14px - Small text */
+
+/* Enhanced Typography Styles */
+.page__content {
+  /* Improved base typography */
+  font-family: $base-font-family;
+  font-size: $type-size-6;
+  line-height: 1.6; /* More compact line spacing */
+  color: $text-color;
+  
+  /* Better paragraph spacing */
+  p {
+    margin-bottom: 1.5em;
+    line-height: 1.6; /* More compact line spacing */
+  }
+  
+  /* Enhanced heading hierarchy */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+  }
+  
+  h1 {
+    font-size: $type-size-1;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    color: $text-color;
+    letter-spacing: -0.02em; /* Tighter for large headings */
+  }
+  
+  h2 {
+    font-size: $type-size-2;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-top: 2em;
+    margin-bottom: 0.875em;
+    color: $text-color;
+    letter-spacing: -0.01em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid mix($secondary-color, $background-color, 20%);
+  }
+  
+  h3 {
+    font-size: $type-size-3;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 1.75em;
+    margin-bottom: 0.75em;
+    color: $text-color;
+  }
+  
+  h4 {
+    font-size: $type-size-4;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 1.5em;
+    margin-bottom: 0.625em;
+    color: mix($primary-color, $text-color, 20%);
+  }
+  
+  h5, h6 {
+    font-size: $type-size-5;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    color: mix($primary-color, $text-color, 15%);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  /* Enhanced list styling */
+  ul, ol {
+    margin-top: 0.4em; /* Reduced spacing above lists */
+    margin-bottom: 1.5em; /* Keep spacing after lists */
+    padding-left: 2em;
+    line-height: 1.6; /* More compact line spacing */
+    
+    li {
+      margin-bottom: 0.75em;
+      line-height: 1.6; /* More compact line spacing */
+    }
+  }
+  
+  ul {
+    list-style-type: disc;
+    
+    li {
+      margin-bottom: 0.4em; /* Reduced spacing for UL items */
+    }
+    
+    li::marker {
+      color: $primary-color;
+    }
+  }
+  
+  ol {
+    list-style-type: decimal;
+    
+    li::marker {
+      color: $primary-color;
+      font-weight: 600;
+    }
+  }
+  
+  /* Enhanced blockquote styling */
+  blockquote {
+    border-left: 4px solid $primary-color;
+    padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+    font-style: italic;
+    color: mix($text-color, $background-color, 85%);
+    background-color: mix($primary-color, $background-color, 8%);
+    border-radius: 4px;
+    position: relative;
+    
+    &::before {
+      content: '"';
+      font-size: 3em;
+      line-height: 0.1em;
+      color: mix($primary-color, $background-color, 30%);
+      position: absolute;
+      left: 0.5em;
+      top: 0.5em;
+      font-family: Georgia, serif;
+    }
+    
+    p {
+      margin-bottom: 0.5em;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+  
+  /* Enhanced link styling - more visible and distinct */
+  a:not(.feature-card--clickable):not(.feature-card__link):not(.btn) {
+    color: $link-color;
+    text-decoration: none;
+    font-weight: 500; /* Slightly bolder to stand out from body text */
+    border-bottom: 1.5px solid $link-color; /* Visible underline by default */
+    transition: all 0.2s ease;
+    
+    &:hover {
+      color: $link-color-hover;
+      border-bottom-color: $link-color-hover;
+      border-bottom-width: 2px; /* Thicker underline on hover */
+      text-decoration: none; /* Ensure no double underline */
+    }
+    
+    &:visited {
+      color: $link-color-visited;
+      border-bottom-color: $link-color-visited; /* Brown underline for visited */
+    }
+    
+    &:focus {
+      outline: 2px solid $link-color;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+    
+    /* Don't apply link styling to buttons */
+    &.btn,
+    &.btn--primary,
+    &.btn--success {
+      color: inherit;
+      border-bottom: none;
+      font-weight: inherit; /* Use button's own font-weight */
+    }
+    
+    /* Don't apply to icons */
+    i {
+      font-weight: inherit;
+      border-bottom: none;
+    }
+  }
+  
+  /* Use text underline instead of border for links in TOC and sidebar */
+  .sidebar a:not(.btn),
+  .sidebar__right a:not(.btn),
+  .toc a:not(.btn),
+  .toc__menu a:not(.btn),
+  [class*="toc"] a:not(.btn),
+  [class*="sidebar"] a:not(.btn),
+  .nav__list a:not(.btn),
+  .page__inner-wrap .sidebar a:not(.btn),
+  aside a:not(.btn),
+  .page__inner-wrap aside a:not(.btn),
+  .page__sidebar a:not(.btn),
+  .toc__list a:not(.btn),
+  .toc__title + * a:not(.btn) {
+    border-bottom: none !important;
+    text-decoration: underline !important;
+    text-decoration-color: mix($link-color, $background-color, 40%) !important;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+    
+    &:hover {
+      text-decoration-color: mix($link-color-hover, $background-color, 50%) !important;
+    }
+    
+    &:visited {
+      text-decoration-color: mix($link-color-visited, $background-color, 40%) !important;
+    }
+  }
+  
+  /* Better code block styling */
+  code {
+    background-color: $code-background-color;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+    color: mix($primary-color, $text-color, 30%);
+  }
+  
+  pre {
+    background-color: $code-background-color;
+    padding: 1.25em;
+    border-radius: 4px;
+    overflow-x: auto;
+    border-left: 3px solid $primary-color;
+    margin: 1.5em 0;
+  }
+  
+  /* Enhanced table styling */
+  table {
+    margin: 1.5em 0;
+    width: 100%;
+    border-collapse: collapse;
+    
+    th {
+      background-color: mix($primary-color, $background-color, 10%);
+      color: $text-color;
+      font-weight: 600;
+      padding: 0.75em;
+      text-align: left;
+      border-bottom: 2px solid mix($primary-color, $background-color, 20%);
+    }
+    
+    td {
+      padding: 0.75em;
+      border-bottom: 1px solid mix($secondary-color, $background-color, 15%);
+    }
+    
+    tr:hover {
+      background-color: mix($primary-color, $background-color, 3%);
+    }
+  }
+  
+  /* Enhanced horizontal rule / visual separator */
+  hr {
+    border: none;
+    border-top: 2px solid mix($secondary-color, $background-color, 20%);
+    margin: 2.5em 0;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      top: -2px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 2px;
+      background-color: $primary-color;
+    }
+  }
+  
+  /* Section backgrounds for visual breaks */
+  .section-background {
+    background-color: mix($primary-color, $background-color, 5%);
+    padding: 2em;
+    margin: 2em -2em;
+    border-radius: 6px;
+    border-left: 3px solid $primary-color;
+  }
+  
+  /* Visual callout boxes */
+  .callout {
+    padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+    border-radius: 6px;
+    border: 1px solid mix($secondary-color, $background-color, 20%);
+    background-color: mix(#fff, $background-color, 40%);
+    
+    &.callout--primary {
+      background-color: mix($primary-color, $background-color, 10%);
+      border-color: $primary-color;
+    }
+    
+    &.callout--secondary {
+      background-color: mix($secondary-color, $background-color, 12%);
+      border-color: $secondary-color;
+    }
+  }
+  
+  /* FAQ styling */
+  .faq-item {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  .faq-question {
+    font-family: $heading-font-family;
+    font-size: 1.375rem;
+    font-weight: 600;
+    color: $text-color;
+    margin-bottom: 0.75em;
+  }
+  
+  .faq-answer {
+    color: mix($text-color, $background-color, 85%);
+    line-height: 1.7;
+    margin-bottom: 1em;
+  }
+  
+  // Add border after the last answer in each FAQ item (only answers followed by a question)
+  // This targets answers that are immediately followed by a question, not another answer
+  .faq-answer + .faq-item {
+    margin-top: 2.5em;
+    padding-top: 2em;
+    border-top: 1px solid mix($secondary-color, $background-color, 10%);
+  }
+  
+  // Remove border from the very last FAQ item (no border after the last question)
+  .faq-answer:last-of-type + .faq-item {
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
+  // Explicitly exclude TOC and sidebar from FAQ styling
+  // Target all possible TOC/sidebar containers
+  .sidebar,
+  .sidebar__right,
+  .toc,
+  .toc__menu,
+  [class*="toc"],
+  [class*="sidebar"],
+  .nav__list,
+  .page__inner-wrap .sidebar,
+  aside,
+  .page__inner-wrap aside {
+    // Remove all FAQ styling from TOC/sidebar
+    .faq-item,
+    .faq-question,
+    .faq-answer,
+    h2.faq-item,
+    h3.faq-item,
+    h4.faq-item,
+    h2.faq-question,
+    h3.faq-question,
+    h4.faq-question {
+      border: none !important;
+      border-top: none !important;
+      border-bottom: none !important;
+      margin-top: inherit !important;
+      margin-bottom: inherit !important;
+      padding-top: inherit !important;
+      padding-bottom: inherit !important;
+      font-size: inherit !important;
+      font-weight: inherit !important;
+      
+      &::before,
+      &::after {
+        display: none !important;
+        content: none !important;
+      }
+    }
+    
+    // Also prevent border on items that follow answers in TOC
+    .faq-answer + .faq-item {
+      border-top: none !important;
+      margin-top: inherit !important;
+      padding-top: inherit !important;
+    }
+  }
+  
+  /* Link as button styling */
+  a.btn-link {
+    display: inline-block;
+    margin: 0.5em 0.5em 0.5em 0;
+  }
+  
+  /* Important link styling */
+  .important-link {
+    font-weight: 600;
+    color: $primary-color;
+    border-bottom: 2px solid $primary-color;
+    
+    &:hover {
+      color: $link-color-hover;
+      border-bottom-color: $link-color-hover;
+    }
+  }
+  
+  /* Better spacing for key sections */
+  .key-section {
+    margin: 2.5em 0;
+    padding: 1.5em;
+    background-color: mix($primary-color, $background-color, 5%);
+    border-left: 3px solid $primary-color;
+    border-radius: 4px;
+  }
+}
+
+/* Page title enhancements */
+.page__title {
+  font-family: $heading-font-family;
+  font-size: $type-size-1;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  color: $text-color;
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  
+  i {
+    color: $primary-color;
+    font-size: 0.9em;
+    opacity: 0.9;
+    flex-shrink: 0;
+  }
+}
+
+/* Remove top margin from first h2 in main content on index/home page only */
+.layout--home .archive > h2:first-of-type {
+  margin-top: 0 !important;
+}
+
+/* Archive item typography */
+.archive__item-title {
+  font-family: $heading-font-family;
+  font-size: $type-size-3;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.archive__item-excerpt {
+  line-height: 1.6; /* More compact line spacing */
+  margin-top: 0.5em;
+}
+
+.entries-list {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* ==========================================================================
+   Icon Styling
+   ========================================================================== */
+
+/* Navigation icons */
+.masthead__menu-item a i,
+.sidebar__right .nav__list a i,
+.greedy-nav a i,
+.nav__list a i {
+  margin-right: 0.5em;
+  color: $primary-color;
+  font-size: 0.9em;
+  opacity: 0.8;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.masthead__menu-item a:hover i,
+.sidebar__right .nav__list a:hover i,
+.greedy-nav a:hover i,
+.nav__list a:hover i {
+  opacity: 1;
+  color: $link-color-hover;
+}
+
+/* Section header icons */
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  
+  i {
+    color: $primary-color;
+    font-size: 0.9em;
+    opacity: 0.9;
+    flex-shrink: 0;
+  }
+}
+
+/* Adjust icon size based on heading level */
+h2.section-header i {
+  font-size: 1em;
+}
+
+h3.section-header i {
+  font-size: 0.9em;
+}
+
+h4.section-header i {
+  font-size: 0.85em;
+}
+
+/* General icon styling in content */
+.page__content {
+  /* Icons in headings */
+  h2 i, h3 i, h4 i {
+    color: $primary-color;
+    margin-right: 0.5em;
+    opacity: 0.9;
+  }
+  
+  /* Icons in lists */
+  ul li i,
+  ol li i {
+    color: $primary-color;
+    margin-right: 0.5em;
+    opacity: 0.8;
+  }
+  
+  /* Icons in blockquotes */
+  blockquote i {
+    color: $primary-color;
+    opacity: 0.7;
+  }
+}
+
+/* Footer icons - already styled but ensure consistency */
+.page__footer a i {
+  color: inherit;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.page__footer a:hover i {
+  opacity: 1;
+}
+
+/* ==========================================================================
+   Feature Cards
+   ========================================================================== */
+
+.feature-card {
+  background-color: mix(#fff, $background-color, 30%);
+  border: 1px solid mix($secondary-color, $background-color, 15%);
+  border-radius: 8px;
+  padding: 0.75em 1.5em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  position: relative;
+  box-shadow: -4px 4px 12px 4px rgba(100, 150, 200, 0.15);
+  
+  &:hover {
+    transform: translateX(4px);
+    box-shadow: -6px 6px 16px 6px rgba(100, 150, 200, 0.2);
+  }
+}
+
+.feature-card--clickable {
+  cursor: pointer;
+}
+
+.feature-card__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  text-decoration: none;
+  border-bottom: none;
+  
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+.feature-card--clickable .feature-card__icon {
+  pointer-events: none;
+}
+
+.feature-card__icon {
+  font-size: 2rem;
+  color: $primary-color;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+  
+  i {
+    display: block;
+  }
+}
+
+.feature-card--clickable .feature-card__content {
+  pointer-events: none;
+}
+
+.feature-card__content {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-card__title {
+  font-family: $heading-font-family;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  color: $text-color;
+}
+
+.feature-card__description {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: mix($text-color, $background-color, 80%);
+  margin-bottom: 0.75em;
+}
+
+.feature-card__button {
+  margin-top: 0.5em;
+  position: relative;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.feature-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  margin: 2em 0;
+  max-width: 600px;
+}
+
+/* Hero section styling */
+.page__hero {
+  margin-bottom: 3em;
+}
+
+/* Reduce hero margin on home page only */
+.layout--home .page__hero {
+  margin-bottom: 0;
+  margin-top: -2em; /* Pull hero up to meet the painted line */
+}
+
+/* Reduce spacing after hero to align with sidebar - home page only */
+.layout--home .page__inner {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.layout--home .page__inner-wrap {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+
+.page__hero-overlay {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 3em 2em;
+  border-radius: 8px;
+}
+
+.page__hero-title {
+  font-family: $heading-font-family;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 0.5em;
+}
+
+.page__hero-excerpt {
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  font-size: 1.125rem;
+}
+
+/* ==========================================================================
+>>>>>>> homepage-enhancements
+   Button Styling
+   ========================================================================== */
+
+.btn {
+  font-family: $heading-font-family;
+  font-weight: 600;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: 2px solid transparent;
+}
+
+.btn--primary {
+  background-color: $primary-color !important;
+  color: $background-color !important;
+  border-color: $primary-color !important;
+  border-bottom: 2px solid $primary-color !important;
+  
+  &:hover {
+    background-color: mix($primary-color, #fff, 15%) !important;
+    border-color: mix($primary-color, #fff, 15%) !important;
+    border-bottom-color: mix($primary-color, #fff, 15%) !important;
+    color: $text-color !important; /* Changed from $background-color for WCAG contrast */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.btn--success {
+  background-color: $primary-color; /* Changed from mix for WCAG contrast */
+  color: #fff; /* Changed from $text-color for WCAG contrast */
+  border-color: $primary-color;
+  
+  &:hover {
+    background-color: mix($primary-color, #fff, 15%);
+    color: $text-color; /* Dark text on lighter hover for WCAG contrast */
+  }
+}
+
+/* ==========================================================================
+   Image Styling Improvements
+   ========================================================================== */
+
+.page__content {
+  /* Enhanced image styling */
+  img {
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 100%;
+    height: auto;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+  
+  /* Aligned images with better spacing */
+  img.align-right {
+    margin-left: 2em;
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  img.align-left {
+    margin-right: 2em;
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  img.align-center {
+    display: block;
+    margin: 2em auto;
+    border: 2px solid mix($secondary-color, $background-color, 20%);
+    padding: 0.5em;
+    background-color: mix(#fff, $background-color, 50%);
+  }
+  
+  /* Image captions */
+  .image-caption,
+  figcaption {
+    font-size: 0.9em;
+    color: mix($text-color, $background-color, 70%);
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+    padding: 0.5em;
+    background-color: mix($primary-color, $background-color, 5%);
+    border-radius: 4px;
+  }
+  
+  /* Figure styling */
+  figure {
+    margin: 2em 0;
+    text-align: center;
+    
+    img {
+      margin-bottom: 0.5em;
+    }
+  }
+  
+  /* Image with border accent */
+  img.bordered {
+    border: 3px solid $primary-color;
+    padding: 0.75em;
+    background-color: mix(#fff, $background-color, 60%);
+  }
+  
+  /* Image with shadow emphasis */
+  img.shadow {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    }
+  }
+}
+
+/* ==========================================================================
+   Responsive Design Improvements
+   ========================================================================== */
+
+/* Mobile-first responsive breakpoints */
+$breakpoint-small: 600px !default;
+$breakpoint-medium: 768px !default;
+$breakpoint-large: 1024px !default;
+
+/* Mobile devices (up to 600px) */
+@media screen and (max-width: $breakpoint-small) {
+  .page__content {
+    /* Improved mobile typography */
+    font-size: 0.95rem; /* Slightly smaller base font */
+    line-height: 1.5;
+    
+    /* Better heading scaling on mobile */
+    h1 {
+      font-size: 1.75rem; /* Reduced from 2rem */
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+    }
+    
+    h2 {
+      font-size: 1.5rem; /* Reduced from 1.75rem */
+      margin-top: 1.5em;
+      margin-bottom: 0.75em;
+      padding-bottom: 0.375em;
+    }
+    
+    h3 {
+      font-size: 1.25rem; /* Reduced from 1.5rem */
+      margin-top: 1.25em;
+      margin-bottom: 0.625em;
+    }
+    
+    h4 {
+      font-size: 1.125rem;
+      margin-top: 1em;
+    }
+    
+    /* Better paragraph spacing on mobile */
+    p {
+      margin-bottom: 1.25em;
+    }
+    
+    /* Improved list spacing */
+    ul, ol {
+      margin-top: 0.5em;
+      margin-bottom: 1.25em;
+      padding-left: 1.5em;
+    }
+    
+    /* Button touch targets - minimum 44x44px for accessibility */
+    .btn {
+      min-height: 44px;
+      min-width: 44px;
+      padding: 0.875em 1.25em;
+      font-size: 1rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    /* Button spacing on mobile */
+    .btn + .btn {
+      margin-top: 0.75em;
+      margin-left: 0;
+    }
+    
+    /* Image alignment adjustments for mobile */
+    img.align-right,
+    img.align-left {
+      float: none;
+      display: block;
+      margin: 1.5em auto;
+      max-width: 100%;
+    }
+    
+    img.align-center {
+      margin: 1.5em auto;
+    }
+    
+    /* Notice padding on mobile */
+    .notice,
+    .notice--info,
+    .notice--warning,
+    .notice--success,
+    .notice--danger {
+      padding: 1em;
+      margin: 1.25em 0;
+      font-size: 0.9rem;
+    }
+    
+    /* Section header adjustments */
+    .section-header {
+      font-size: 1.25rem;
+      margin-top: 1.5em;
+    }
+    
+    /* Key section callouts */
+    .key-section {
+      padding: 1em;
+      margin: 1.25em 0;
+    }
+    
+    /* Feature cards spacing */
+    .feature-card {
+      margin-bottom: 1.5em;
+    }
+  }
+}
+
+/* Tablet devices (601px to 768px) */
+@media screen and (min-width: 601px) and (max-width: $breakpoint-medium) {
+  .page__content {
+    /* Button touch targets still important on tablets */
+    .btn {
+      min-height: 44px;
+      padding: 0.75em 1.5em;
+    }
+    
+    /* Image margins adjusted for tablet */
+    img.align-right {
+      margin-left: 1.5em;
+      max-width: 45%;
+    }
+    
+    img.align-left {
+      margin-right: 1.5em;
+      max-width: 45%;
+    }
+  }
+}
+
+/* Large mobile / Small tablet (up to 768px) - Additional adjustments */
+@media screen and (max-width: $breakpoint-medium) {
+  .page__content {
+    /* Ensure buttons are easily tappable */
+    .btn--primary,
+    .btn--success {
+      min-height: 44px;
+    }
+    
+    /* Better spacing for important links */
+    .important-link {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.5em 1em;
+    }
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  /* Larger touch targets for touch devices */
+  .page__content {
+    .btn {
+      min-height: 48px;
+      padding: 1em 1.5em;
+    }
+    
+    /* Remove hover effects on touch devices */
+    .btn:hover {
+      transform: none;
+    }
+    
+    img:hover {
+      transform: none;
+    }
+  }
+}
+
+/* ==========================================================================
+   USA Jersey Wave Stripe
+   Three flowing wave bands in navy / white / red, inspired by the
+   Team USA 2026 World Cup jersey's wave design.
+   ========================================================================== */
+
+/* Ensure parent containers allow overflow for the wave stripe */
+.page__inner-wrap,
+.page,
+.page__inner,
+.page__footer {
+  overflow: visible;
+}
+
+/* Navy accent stripe at very top of page, fades downward into the masthead */
+.masthead {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 12px;
+    display: block;
+    background: $primary-color;
+    mask-image: linear-gradient(to bottom, black 30%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to bottom, black 30%, transparent 100%);
+    z-index: 5;
+    pointer-events: none;
+  }
+}
+
+/* Jersey wave stripe across the top of the footer — actual Team USA jersey photo crop */
+.site-footer,
+.page__footer {
+  position: relative;
+  overflow: visible !important;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -6em;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 6em;
+    display: block !important;
+    background-image: url('/files/jersey-wave-stripe.jpg');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100% 6em;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 40%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 40%);
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  /* Navy accent stripe at very bottom of footer, fades upward */
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 12px;
+    display: block;
+    background: $primary-color;
+    mask-image: linear-gradient(to top, black 30%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to top, black 30%, transparent 100%);
+    z-index: 5;
+    pointer-events: none;
+  }
+}
+
+/* Responsive adjustments for wave stripe */
+@media screen and (max-width: $breakpoint-medium) {
+  .site-footer,
+  .page__footer {
+    &::before {
+      height: 3em;
+      top: -3em;
+      background-size: 100% 3em;
+    }
+  }
+}
+
+@media screen and (max-width: $breakpoint-small) {
+  .site-footer,
+  .page__footer {
+    &::before {
+      height: 2em;
+      top: -2em;
+      background-size: 100% 2em;
+    }
+  }
+}
+
+.gimme-space {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.third-width {
+    width: 33%;
+}
+
+.quarter-width {
+    width: 25%;
+}
