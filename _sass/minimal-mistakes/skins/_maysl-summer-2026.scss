@@ -1107,6 +1107,13 @@ $breakpoint-large: 1024px !default;
 /* Navy accent stripe at very top of page, fades downward into the masthead */
 .masthead {
   position: relative;
+  overflow: visible !important;
+  margin-bottom: 2em; /* Space for chalk strip */
+
+  /* Remove margin on home page — strip sits over the hero image */
+  .layout--home & {
+    margin-bottom: 0;
+  }
 
   &::before {
     content: '';
@@ -1121,6 +1128,40 @@ $breakpoint-large: 1024px !default;
     mask-image: linear-gradient(to bottom, black 30%, transparent 100%);
     -webkit-mask-image: linear-gradient(to bottom, black 30%, transparent 100%);
     z-index: 5;
+    pointer-events: none;
+  }
+
+  /* White chalk field line below the masthead, sitting across the hero top */
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2em;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2em;
+    display: block !important;
+    background-image: url('/files/soccer-field-line-horizontal.jpg');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 2em;
+    mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0,0,0,0.3) 5%,
+      black 15%,
+      black 85%,
+      rgba(0,0,0,0.3) 95%,
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0,0,0,0.3) 5%,
+      black 15%,
+      black 85%,
+      rgba(0,0,0,0.3) 95%,
+      transparent 100%
+    );
+    z-index: 10;
     pointer-events: none;
   }
 }
@@ -1168,8 +1209,16 @@ $breakpoint-large: 1024px !default;
   }
 }
 
-/* Responsive adjustments for wave stripe */
+/* Responsive adjustments */
 @media screen and (max-width: $breakpoint-medium) {
+  .masthead {
+    margin-bottom: 1.5em;
+    &::after {
+      height: 1.5em;
+      bottom: -1.5em;
+      background-size: auto 1.5em;
+    }
+  }
   .site-footer,
   .page__footer {
     &::before {
@@ -1181,6 +1230,14 @@ $breakpoint-large: 1024px !default;
 }
 
 @media screen and (max-width: $breakpoint-small) {
+  .masthead {
+    margin-bottom: 1em;
+    &::after {
+      height: 1em;
+      bottom: -1em;
+      background-size: auto 1em;
+    }
+  }
   .site-footer,
   .page__footer {
     &::before {
