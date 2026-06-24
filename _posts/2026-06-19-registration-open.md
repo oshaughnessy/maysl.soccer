@@ -17,8 +17,8 @@ registrations in early.
 
 ## Coaches
 
-The season can't happen without coaches, and it seems like we're always looking for a few right
-before the season starts. If you'd like to coach this fall,
+There's no soccer without our volunteer coaches, and it seems like we're always looking for a
+few right before the season starts. If you'd like to coach a rec team this fall,
 [please register your interest now]({% link _pages/coachreg.md %}).
 
-Questions? Reach out to your area rep or Kay Emmert throuh our [contact page](/contact/).
+Questions? Reach out to your area rep or Kay Emmert through our [contact page](/contact/).
