@@ -9,13 +9,13 @@ Summer's here, the World Cup is on, and it's time to get ready for another socce
 
 [**Sign up now &raquo;**]({% link _pages/registration.md %})
 
-## Travel Players &mdash; Don't Wait!
+## Travel Players
 
 Travel soccer gets going in **July**, and [now is the time to register]({% link _pages/registration.md %}).
 These teams do fill up, and we can't guarantee that all signups can be accepted, so please get your
 registrations in early.
 
-## Coaches
+## Rec Coaches
 
 There's no soccer without our volunteer coaches, and it seems like we're always looking for a
 few right before the season starts. If you'd like to coach a rec team this fall,
