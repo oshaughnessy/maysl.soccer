@@ -12,8 +12,7 @@ Summer's here, the World Cup is on, and it's time to get ready for another socce
 ## Travel Players
 
 Travel soccer gets going in **July**, and [now is the time to register]({% link _pages/registration.md %}).
-These teams do fill up, and we can't guarantee that all signups can be accepted, so please get your
-registrations in early.
+These teams do fill up, and we can't guarantee that all signups can be accepted, so please get in early.
 
 Travel coaches:
 
