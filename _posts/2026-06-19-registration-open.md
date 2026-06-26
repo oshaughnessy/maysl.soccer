@@ -1,5 +1,5 @@
 ---
-title: Fall 2026 Signups Are Open!
+title: Fall 2026 Travel Signups Are Open!
 tags: 2026-season signup coaches players
 ---
 
