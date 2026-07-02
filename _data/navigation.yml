@@ -81,10 +81,8 @@ news:
   url: /tags/
 
 signups:
-- title: Travel Players
+- title: Players
   url: /register/
-#- title: Coaches
-#  url: https://system.gotsport.com/programs/68354178H?reg_role=coach
 - title: Coaches
   url: /coachreg/
 #- title: Referees
