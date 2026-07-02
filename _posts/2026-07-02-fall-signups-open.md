@@ -7,6 +7,11 @@ tags: 2026-season signup coaches players
 
 [**Sign up now &raquo;**]({% link _pages/registration.md %})
 
+**Please note!**
+<br />
+[Age cutoffs have moved to school-year divisions this year]({% post_url 2026-04-28-2026-league-ages %}).
+{: .notice .success }
+
 
 ## Local Players
 
