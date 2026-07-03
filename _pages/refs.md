@@ -16,7 +16,8 @@ is happening Aug 9!
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
-If you would like to sign up to be a referee, please [register here](https://system.gotsport.com/programs/174179D24).
+<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">Register Here</a>
+
 If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
 
 For details on how to be a ref in each MAYSL age division, please see
