@@ -22,4 +22,4 @@ redirect_from:
 
 * **Coaches**: Please see the <a href="{% link _pages/coachreg.md %}">Coach Registration Guide</a> for complete requirements including background checks and training.
 
-* **Referees**: Please see the <a href="{% link _pages/refs.md %}">Referee Guide</a> for information about equipment, training, and schedules.
+* **Referees**: Please see the <a href="{% link _pages/refs.md %}">Referee Guide</a> for information about registration, equipment, training, and schedules.

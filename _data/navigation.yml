@@ -4,8 +4,8 @@ main:
   url: /news/
 #- title: Schedules <i class="fa-solid fa-calendar-days"></i>
 #  url: /schedules/
-#- title: Registration
-#  url: /registration/
+- title: Registration
+  url: /registration/
 - title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
   url: /adult/
 - title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
@@ -85,8 +85,8 @@ signups:
   url: /register/
 - title: Coaches
   url: /coachreg/
-#- title: Referees
-#  url: https://system.gotsport.com/programs/66673S215?reg_role=referee
+- title: Referees
+  url: /refs/
 
 schedules:
 - title: U5
