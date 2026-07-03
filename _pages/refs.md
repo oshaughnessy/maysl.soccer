@@ -16,7 +16,7 @@ is happening Aug 9!
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
-<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">Register Here</a>
+<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">Referees: Register Here</a>
 
 If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
 
