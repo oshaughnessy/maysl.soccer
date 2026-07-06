@@ -124,12 +124,11 @@ time for paying referees. On each game card, every participating referee or
 facilitator should print their name. Ensure that the date and age group are
 included as well.
 
-Rates as of 2019:
+Rates as of 2026 _(work in progress)_:
 
-* _U5-U8:_ $20/game if alone, $15/person if shared
-* _U10:_ $20/person/game
-* _U12-U15:_ $25/person/game
-* _U16:_ $45/person/game if paired, $45 for lead & $30/helper if 2 helpers
+* _U6-U8:_ $20/game if alone, $15/person if shared
+* _U10:_ $25/person/game
+* _U12-U15:_ $45/person/game if paired, $45 for lead & $30/helper if 2 helpers
 * _Travel games:_ paid for by District 7, according to their payscale
 
 In the spring league, scheduling and pay are different. MAYSL pays referees for
