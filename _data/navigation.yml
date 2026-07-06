@@ -6,8 +6,8 @@ main:
 #  url: /schedules/
 - title: Registration
   url: /registration/
-- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
-  url: /adult/
+#- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
+#  url: /adult/
 - title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
   url: /faq/
   description: Frequently Asked Questions
