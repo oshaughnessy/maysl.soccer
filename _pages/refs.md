@@ -8,8 +8,8 @@ sidebar:
   nav: rules
 ---
 
-[2025-2026 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20007378)
-is happening Aug 9!
+[2026-27 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20007378)
+signups will be available soon.
 
 ----
 
@@ -45,8 +45,14 @@ referee to be older than the players that they are officiating. Parents are
 advised to assess the maturity level of their child prior to permitting them to
 take one of the Entry Level Referee Courses."
 
-As a league, MAYSL will require that a referee or facilitator is 1-2 years older
+As a league, MAYSL requires that a referee or facilitator is 1-2 years older
 than the age of the players they are officiating.
+
+We typically hire youth 13 years and older to be officials for the younger divisions,
+and adults and older teenagers for our 12U, 15U coed, and travel matches.
+
+Referees should havve an active certification from US Soccer, and they will need to
+renew it every 2 years.
 
 
 ## Equipment
@@ -79,8 +85,11 @@ Uniforms for MAYSL games include:
 * primarily-black shoes
 
 ### Purchasing Uniforms and Equipment
+
+MAYSL typically provides yellow referee jerseys to our youth officials as part of
+our onboarding & training program.
  
-You may buy the gear online through any soccer store or through many sporting
+You may buy the other gear online through any soccer store or through many sporting
 goods stores or other soccer stores in the Fresno Area.  They do not need to be
 any specific brand.
 
@@ -129,10 +138,14 @@ Rates as of 2026 _(work in progress)_:
 * _U6-U8:_ $20/game if alone, $15/person if shared
 * _U10:_ $25/person/game
 * _U12-U15:_ $45/person/game if paired, $45 for lead & $30/helper if 2 helpers
-* _Travel games:_ paid for by District 7, according to their payscale
+* _Travel games:_ paid for by District 7, according to their pay scale
 
-In the spring league, scheduling and pay are different. MAYSL pays referees for
+In the spring league, all rates are determined by District 7. MAYSL pays referees for
 travel games and District 7 reimburses the league.
+
+_Course fees:_ We typically reimburse our youth referees for taking
+US Soccer's referee certification courses. Costs are reimbursed over the
+course of the season as the individual works more games.
 
 
 ## Game Day Highlights
