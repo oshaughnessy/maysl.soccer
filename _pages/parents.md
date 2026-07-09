@@ -86,7 +86,7 @@ Reading this information and acknowledging it is a requirement of
 California Health and Safety Code § 124235 before a child can be registered to play
 with a youth sport program.
 
-For more, please see the CDC's HEADS UP to Youth Sports [for
+For more, please see the CDC's [HEADS UP to Youth Sports page for
 parents](https://www.cdc.gov/heads-up/training/youth-sports.html).
 
 
