@@ -8,8 +8,8 @@ sidebar:
   nav: rules
 ---
 
-[2026-27 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122)
-signups are open now!
+[2026-27 New Ref Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122)
+is open now!
 
 **Woodland Park, Aug 2, 2026, 9am-12pm.**
 
