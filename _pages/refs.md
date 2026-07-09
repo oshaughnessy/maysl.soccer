@@ -8,8 +8,8 @@ sidebar:
   nav: rules
 ---
 
-[2026-27 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122)
-signups are open now!
+_[2026-27 Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122)_
+ signups are open now!
 
 **Woodland Park, Aug 2, 2026, 9am-12pm.**
 
@@ -18,7 +18,7 @@ signups are open now!
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
-<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">Referees: Register Here</a>
+<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">New Referees: Register Here</a>
 
 If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
 
