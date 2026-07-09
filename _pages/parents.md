@@ -72,6 +72,35 @@ coaches about it. Make sure they know how to recognize signs of problems and how
 to deal with them. They'll want to be prepared in case there's an emergency,
 and they should be able to recognize changes in your childrens' normal behavior.
 
+Player safety also includes vetting our volunteers with in-depth background checks
+and training them to recognize abuse. Please see our [Background
+Checks &amp; Training]({% link _pages/coaches.md %}) page for more information.
+
+
+### Concussion Awareness
+
+All parents of MAYSL's players should read this [concussion information
+sheet]({% link /files/reqs/headsup-parents.pdf %}){:target="_blank"}
+from the CDC.
+Reading this information and acknowledging it is a requirement of
+California Health and Safety Code § 124235 before a child can be registered to play
+with a youth sport program.
+
+For more, please see the CDC's HEADS UP to Youth Sports [for
+parents](https://www.cdc.gov/heads-up/training/youth-sports.html).
+
+
+### Sudden Cardiac Arrest
+
+All parents of MAYLS's players should read this [sudden cardiac arrest information
+sheet]({% link /files/reqs/sca-parents.pdf %}){:target="_blank"}.
+Reading this information and acknowledging it is a requirement of
+California Health and Safety Code § 124235 before a child can be registered to play
+with a youth sport program.
+
+For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
+Prevention Training](https://epsavealife.org/sca-prevention-training/).
+
 
 ## Equipment
 
