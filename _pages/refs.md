@@ -8,17 +8,21 @@ sidebar:
   nav: rules
 ---
 
-[2026-27 New Ref Training](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122)
-is open now!
-
+<a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122"
+ class="btn btn--primary">2026 New Ref Training</a><br />
 **Woodland Park, Aug 2, 2026, 9am-12pm.**
+
+<a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
+ class="btn btn--primary">2027 Referee Recertification - Cal North</a><br />
+**Online**
+(you're still welcome to join us for the Woodland Park hands-on training!)
 
 ----
 
 Our referees range from experienced adults to youth players who are
 facilitating games for younger age groups.
 
-<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">Referees: Register Here</a>
+<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">All Referees: Register with MAYSL Here</a>
 
 If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
 
