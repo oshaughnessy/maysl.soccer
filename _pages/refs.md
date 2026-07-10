@@ -15,7 +15,7 @@ sidebar:
 <a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
  class="btn btn--primary">2027 Referee Recertification - Cal North</a><br />
 **Online**
-(you're still welcome to join us for the Woodland Park hands-on training!)
+(we'll set up a hands-on refresher before the season starts)
 
 ----
 
