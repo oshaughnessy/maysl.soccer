@@ -10,7 +10,7 @@ sidebar:
 
 <a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122"
  class="btn btn--primary">2026 New Ref Training</a><br />
-**Woodland Park, Aug 2, 2026, 9am-12pm.**
+**[Woodland Park](https://maps.app.goo.gl/6kpnw6aSV5yTktNR8), Aug 2, 2026, 9am-12pm.**
 
 <a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
  class="btn btn--primary">2027 Referee Recertification - Cal North</a><br />
