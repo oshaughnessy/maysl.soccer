@@ -8,26 +8,31 @@ sidebar:
   nav: rules
 ---
 
-<a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122"
- class="btn btn--primary">2026 New Ref Training</a><br />
-**[Woodland Park](https://maps.app.goo.gl/6kpnw6aSV5yTktNR8){:target="_blank"}, Aug 2, 2026, 9am-12pm.**
-
-<a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
- class="btn btn--primary">2027 Referee Recertification - Cal North</a><br />
-**Online**
-(we'll set up a hands-on refresher before the season starts)
-
-----
-
-Our referees range from experienced adults to youth players who are
-facilitating games for younger age groups.
-
-<a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">All Referees: Register with MAYSL Here</a>
+Our referees range from experienced adults to youth players who are facilitating games for younger age groups.
 
 If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
 
 For details on how to be a ref in each MAYSL age division, please see
 [Ref Training]({% link _pages/ref-training.md %}).
+
+## Register
+
+If you have a _current_ US Soccer Referee license, just sign up with us.
+_If you're new_, we're partnering with Mariposa Soccer this year to host a course in person.
+_Referees with expired licenses_ can renew online.
+
+1. _Sign Up With MAYSL_ so we have your contact info:<br />
+   * <a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary">All Referees: Register with MAYSL Here</a><br />
+2. _Sign Up With US Soccer_ so you can take the courses.<br />
+    <br />
+    Pick one of these:<br />
+    * <a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122"
+ class="btn btn--primary">2026 New Ref Training</a><br />
+**[Woodland Park](https://maps.app.goo.gl/6kpnw6aSV5yTktNR8){:target="_blank"}, Aug 2, 2026, 9am-12pm.**
+    * <a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
+ class="btn btn--primary">2027 Referee Recertification - Cal North</a><br />
+    **Online**
+    (we'll set up a hands-on refresher before the season starts)
 
 
 ## Facilitators
