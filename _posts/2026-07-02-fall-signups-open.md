@@ -29,9 +29,9 @@ Travel coaches:
 
 - *U14 Girls:* Kelley Lozano @ [559-760-2925](tel:+15597602925) & O'Shaughnessy Evans @ [714-743-5067](tel:+17147435067),
   Brandon Stipe @ [559-260-2191](tel:+15592602191)
-- *U14 Boys:* Luis Deveze @ [310-283-0966](tel:+13102830966)
+- *U14 Boys:* Luis Deveze @ [310-283-0966](tel:+13102830966) & Marcus Leyva @ [559-658-0212](tel:+15596580212)
 - *U16 & U19 Girls:* Andrew Beaumont @ [559-760-7333](tel:+15597607333)
-- *U16 & U19 Boys:* position available, call Kay Emmert @ [559-301-2528](tel:+15593012528)
+- *U16 & U19 Boys:* Arwin Brizo @ [559-479-1066](tel:+15594791066)
 
 
 ## Local Coaches
