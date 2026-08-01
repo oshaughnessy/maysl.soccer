@@ -85,8 +85,8 @@ signups:
   url: /register/
 - title: Coaches
   url: /coachreg/
-- title: Referees
-  url: /refs/
+#- title: Referees
+#  url: /refs/
 
 schedules:
 - title: U5
