@@ -37,23 +37,9 @@ After you sign up, look out for emails about our upcoming season.
 {: .notice .info }
 
 
-## Facilitators
-
-MAYSL has a group of trained referees who are authorized to facilitate
-games only for our league. This means you can ref our local, recreational
-games, but not our travel games.
-
-Facilitator uniforms include:
-
-* yellow t-shirt or collared shirt with the official badge iron-on
-* all-black shorts with pockets
-* all-black socks
-* primarily-black shoes
-
-
 ## Eligibility
 
-According to California North Referee Association (CNRA), "there are no minimum
+According to the California North Referee Association (CNRA), "there are no minimum
 age requirements to become a referee. However, many local leagues may require a
 referee to be older than the players that they are officiating. Parents are
 advised to assess the maturity level of their child prior to permitting them to
@@ -65,8 +51,22 @@ than the age of the players they are officiating.
 We typically hire youth 13 years and older to be officials for the younger divisions,
 and adults and older teenagers for our 12U, 15U coed, and travel matches.
 
-Referees should havve an active certification from US Soccer, and they will need to
+Referees should have an active certification from US Soccer, and they will need to
 renew it every 2 years.
+
+### Facilitators
+
+In situations where licensed referees are not available or required, MAYSL uses trained
+[game day facilitators](https://www.calnorth.org/gdf) who are authorized to oversee games
+_only for our league_. This means you can ref our local, recreational games, but not our travel games.
+
+Facilitator uniforms include:
+
+* yellow t-shirt or collared shirt with the official badge iron-on
+* all-black shorts with pockets
+* all-black socks
+* primarily-black shoes
+
 
 
 ## Equipment
@@ -100,8 +100,8 @@ Uniforms for MAYSL games include:
 
 ### Purchasing Uniforms and Equipment
 
-MAYSL typically provides yellow referee jerseys to our youth officials as part of
-our onboarding & training program.
+MAYSL may, at times, provides yellow referee jerseys to our youth officials as part of
+our onboarding & training program. Ask Kay for more info.
  
 You may buy the other gear online through any soccer store or through many sporting
 goods stores or other soccer stores in the Fresno Area.  They do not need to be
