@@ -1,11 +1,10 @@
 ---
-title: Summer 2026 Referee Training
+title: Make-up Ref Training in Clovis
 tags: referees coaches clinic signup 2026-season
 ---
 
-MAYSL is looking for home game referees! We're hosting a half-day course
-this summer in partnership with Mariposa Soccer. All interested youth or adults
-are very welcome.
+If you missed our [Mariposa course for First Time Referees]({% post_url 2026-07-09-refs %}),
+another course is available in Clovis on 8/15.
 
 See our [referee information page]({% link _pages/refs.md %}) to sign up.
 
@@ -13,15 +12,15 @@ See our [referee information page]({% link _pages/refs.md %}) to sign up.
 
 **Who?** New refs, 13 or older
 
-**Where?** In person at Woodland Park, _[3415 Woodland Dr, Mariposa](https://maps.app.goo.gl/6kpnw6aSV5yTktNR8){:target="_blank"}_
+**Where?** In person at Our Lady of Perpetual Help School, _[929 Harvard Ave, Clovis](https://maps.app.goo.gl/xPweV83Dn5TgwX8t5){:target="_blank"}_
 
-**When?** 9am-12pm, Aug 2, 2026
+**When?** 9am-12pm, Aug 15, 2026
 
 **How Much?** It costs about $75, and refs can earn back the course fee by covering games throughout the season.
 
 **What Else?** Bring a whistle, water, and assistant referee flags.
 
-Get started with the [online training now](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122) and complete it before the field day.
+Get started with the [online training now](https://learning.ussoccer.com/referee/courses/available/10000006/details/20013426) and complete it before the field day.
 {: .notice--success }
 
 Uniform will be a [yellow soccer jersey, black shorts,
@@ -34,5 +33,3 @@ completing the in-person course._
 
 If you are 18 or older, you must complete a background check.
 {: .notice--warning }
-
-**New coaches, this is a great way to learn important rules!**
