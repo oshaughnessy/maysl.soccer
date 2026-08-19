@@ -17,16 +17,11 @@ We have travel teams for various ages that run from August to November and
 March to June every year.
 
 
-## 2025-2026 Season
+## 2026 Fall Season
 
-Opening Day is Sept 20, 2025.
+Opening Day is Sept 12, 2026.
 
-| Coed | Boys      | Grrls
-|-|-|-
-| [U15](/schedules/2025/U15-coed.html)  | [U12](/schedules/2025/U12-boys.html) | [U12](/schedules/2025/U12-girls.html)
-| [U6](/schedules/2025/U6-coed.html)    | [U10](/schedules/2025/U10-boys.html) | [U10](/schedules/2025/U10-girls.html)
-| [U5](/schedules/2025/U5-coed.html)    | [U8](/schedules/2025/U8-boys.html)   | [U8](/schedules/2025/U8-girls.html)
-{: class="schedule-overview"}
+_Schedule coming soon!_
 
 Last games will be mid-November.
 
@@ -78,7 +73,19 @@ See the map below for fields at North Fork, OCI, OES, Rivergold, Spring Valley,
 
 ## Past Schedules
 
-## 2024-2025 Season
+### 2025 Fall
+
+Opening Day is Sept 20, 2025.
+
+| Coed | Boys      | Grrls
+|-|-|-
+| [U15](/schedules/2025/U15-coed.html)  | [U12](/schedules/2025/U12-boys.html) | [U12](/schedules/2025/U12-girls.html)
+| [U6](/schedules/2025/U6-coed.html)    | [U10](/schedules/2025/U10-boys.html) | [U10](/schedules/2025/U10-girls.html)
+| [U5](/schedules/2025/U5-coed.html)    | [U8](/schedules/2025/U8-boys.html)   | [U8](/schedules/2025/U8-girls.html)
+{: class="schedule-overview"}
+
+
+### 2024 Fall
 
 Opening Day was Sept 14, 2024.
 
@@ -90,7 +97,7 @@ Opening Day was Sept 14, 2024.
 {: class="schedule-overview"}
 
 
-### 2023-2024 Season
+### 2023 Fall
 
 Opening Day was Sept 16, 2023.
 
@@ -102,7 +109,7 @@ Opening Day was Sept 16, 2023.
 {: class="schedule-overview"}
 
 
-### 2022-2023 Season
+### 2022 Fall
 
 | Coed | Boys      | Grrls
 |-|-|-
