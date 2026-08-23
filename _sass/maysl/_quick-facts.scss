@@ -4,11 +4,11 @@
    The "answer box" at the top of a role page: the handful of facts a visitor
    arrived for, readable without scrolling.
 
-   Styled as a ruled sheet, not a callout. Every notice in this skin is a
-   tinted block with a left accent, and the answer box is not advisory -- it's
-   the page's factual core -- so it takes a different structural axis: rules
-   along the top and bottom, no fill, no left border. That distinction holds
-   under any skin, because it isn't carried by color.
+   Visually a notice rotated 90 degrees: the same 10% navy fill, 4px accent,
+   and 6px radius, with the accent moved from the left edge to the top.
+   Orientation encodes the role -- a left accent is an aside alongside the
+   content, a top accent is the summary that opens a page -- so the two read
+   as one family without being confusable.
 
    Markup is a headerless kramdown table:
 
@@ -20,20 +20,26 @@
    outweighs the theme's bare `table`/`td` rules in _tables.scss.
    ========================================================================== */
 
-/* Neutral hairline, not $border-color -- that one is mixed from the brand red
-   and reads pink against these rules. */
-$quick-facts-rule: mix($text-color, $background-color, 15%) !default;
+/* Divider between facts. Mixed from $primary-color to stay in key with the
+   accent, and not from $border-color -- that one is mixed from the brand red
+   and would rule the box in faint pink. */
+$quick-facts-rule: mix($primary-color, $background-color, 20%) !default;
 
 .page__content table.quick-facts {
   display: table;
   table-layout: auto;
   width: 100%;
   margin: 0 0 1.75em;
+  padding: 0.35em 1.15em;
   border: 0;
-  border-collapse: collapse;
-  border-top: 2px solid $primary-color;
-  border-bottom: 1px solid $quick-facts-rule;
-  background-color: transparent;
+  /* Not `collapse`: padding is ignored on a table with collapsed borders, so
+     the facts would sit flush against the edge of the fill. `separate` with
+     zero spacing keeps the dividers tight and makes border-radius reliable. */
+  border-collapse: separate;
+  border-spacing: 0;
+  border-top: 4px solid $primary-color;
+  border-radius: 6px;
+  background-color: mix($primary-color, $background-color, 10%);
   font-size: 1em;
   line-height: 1.35;
   overflow-x: visible;
@@ -54,14 +60,14 @@ $quick-facts-rule: mix($text-color, $background-color, 15%) !default;
   }
 
   td {
-    padding: 0.4em 0.75em;
+    padding: 0.3em 0.75em;
     border: 0;
     vertical-align: baseline;
 
     /* label column */
     &:first-child {
       width: 1%; /* shrink to content, keeps values left-aligned together */
-      padding-inline-start: 0; /* align the sheet to the text column */
+      padding-inline-start: 0; /* align the box to the text column */
       padding-inline-end: 1em;
       color: $muted-text-color;
       font-size: 0.75em;
@@ -76,17 +82,19 @@ $quick-facts-rule: mix($text-color, $background-color, 15%) !default;
     }
   }
 
-  /* ruled divider between facts */
+  /* divider between facts */
   tr:not(:last-child) td {
     border-bottom: 1px solid $quick-facts-rule;
   }
 }
 
 /* Narrow screens: stack label above value so long values never get squeezed
-   into a sliver of a column. The dividers move to the row so each fact still
-   reads as one unit. */
+   into a sliver of a column. The divider moves to the value cell so each
+   label/value pair still reads as one unit. */
 @media screen and (max-width: 37.5em) {
   .page__content table.quick-facts {
+    padding: 0.4em 1em;
+
     td {
       display: block;
       padding: 0;
