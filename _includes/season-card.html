@@ -1,0 +1,90 @@
+{% comment %}
+  Home page feature card for the current point in the season.
+
+  Driven by `phase` in _data/season.yml -- change that one value and the
+  front door follows. No parameters.
+
+  Note on the capture blocks below: Jekyll takes *quoted* include params
+  literally and never runs Liquid on them, and nested quotes inside them
+  break its param parser. So each card's text is captured into a variable
+  first and passed unquoted, which Jekyll resolves from context.
+
+  Do not write Liquid tag syntax inside this comment -- Liquid tokenizes
+  tags even within a comment block, so an unmatched one breaks the parse.
+{% endcomment %}
+
+{% assign season = site.data.season %}
+{% assign first_game = season.dates.first_game | date: "%b %-d" %}
+{% assign practices_start = season.dates.practices_start | date: "%b %-d" %}
+
+{% case season.phase %}
+
+{% when "signup" %}
+  {% capture season_card %}&#9917;&nbsp;<b>Season starts {{ first_game }}</b>&nbsp;&#9917;<br />
+<em>Inviting players, coaches, and referees now</em>{% endcapture %}
+  {% include feature-card.html
+     icon="leaf"
+     title="Fall Signups!"
+     description=season_card
+     button_url="/register/"
+     button_text="More Info"
+     card_url="/register/" %}
+
+{% when "preseason" %}
+  {% capture season_card %}<b>Teams are forming now.</b><br />
+Practices start the week of {{ practices_start }}.<br />
+Target date for 1st games is {{ first_game }}.{% if season.registration_open %}<br /><em>Late signups still welcome.</em>{% endif %}{% endcapture %}
+  {% include feature-card.html
+     icon="users"
+     title="Getting Ready for Fall"
+     description=season_card
+     button_url="/parents/"
+     button_text="Parents Guide"
+     card_url="/parents/" %}
+
+{% when "season" %}
+  {% if season.schedules_posted %}
+    {% capture season_card %}&#9917;&nbsp;<b>Games every Saturday</b>&nbsp;&#9917;<br />
+<em>at the lower field behind Yosemite High School</em>{% endcapture %}
+    {% include feature-card.html
+       icon="futbol"
+       title="Find Your Schedule"
+       description=season_card
+       button_url="/schedules/"
+       button_text="Schedules & Fields"
+       card_url="/schedules/" %}
+  {% else %}
+    {% capture season_card %}&#9917;&nbsp;<b>The season is underway!</b>&nbsp;&#9917;<br />
+<em>Division schedules are posted soon &mdash; check back shortly.</em>{% endcapture %}
+    {% include feature-card.html
+       icon="futbol"
+       title="Games Have Started"
+       description=season_card
+       button_url="/schedules/"
+       button_text="Schedules & Fields"
+       card_url="/schedules/" %}
+  {% endif %}
+
+{% when "wrapup" %}
+  {% capture season_card %}<b>That's a wrap on the {{ season.year }} season!</b><br />
+<em>Thank you to our players, coaches, referees, and volunteers.</em>{% endcapture %}
+  {% include feature-card.html
+     icon="trophy"
+     title="Season Wrap-Up"
+     description=season_card
+     button_url="/news/"
+     button_text="League News"
+     card_url="/news/" %}
+
+{% when "offseason" %}
+  {% capture season_card %}<b>Winter soccer for adults</b><br />
+<em>Games at Yosemite High School &mdash; see the adult league page for dates and signups.</em>{% endcapture %}
+  {% include feature-card.html
+     icon="snowflake"
+     title="Off-Season Soccer"
+     description=season_card
+     button_url="/adult/"
+     button_text="More Info"
+     card_url="/adult/" %}
+
+{% endcase %}

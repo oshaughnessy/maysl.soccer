@@ -20,13 +20,21 @@ tag: 2026-season
 #   season    -- games underway                      (Sep-Nov)
 #   wrapup    -- season over, off-season ahead       (Nov-Dec)
 #   offseason -- adult winter league, spring travel  (Dec-May)
-phase: signup
+phase: preseason
+
+# Whether we're still taking late registrations. Shown as a note on the
+# preseason home card; set false once rosters are locked.
+registration_open: true
 
 dates:
   # Keep the "PDT"/"PST" suffix and the quotes: _includes/schedule.html runs
   # this through Liquid's `date` filter, and quoting keeps YAML from casting it
   # to a Date object, which would change how that filter behaves.
   first_game: "2026-09-12 PDT"
+  # Monday of the week rec practices begin -- rendered as "the week of ..."
+  # since exact days depend on school field approval and vary by coach. Rec
+  # practices start 2-3 weeks before first games; travel teams start earlier.
+  practices_start: "2026-08-24 PDT"
   # last_game: TBD -- pages currently say "mid-November" in prose
 
 # GotSport program registration links, one per audience.
