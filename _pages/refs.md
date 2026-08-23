@@ -18,7 +18,7 @@ For details on how to be a ref in each MAYSL age division, please see
 ## Register
 
 1. _Sign Up With MAYSL_ so we have your contact info:
-   * <a href="https://system.gotsport.com/programs/174179D24" class="btn btn--primary" target=_blank>
+   * <a href="{{ site.data.season.register.referees }}" class="btn btn--primary" target=_blank>
      All Referees: Register with MAYSL Here</a>
 2. _Sign Up With US Soccer_ to become a licensed referee.
    Pick one below:

@@ -10,7 +10,7 @@ layout: archive
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = site.posts | where_exp: "item", "item.tags contains site.season_tag" %}
+  {% assign posts = site.posts | where_exp: "item", "item.tags contains site.data.season.tag" %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}

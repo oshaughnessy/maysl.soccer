@@ -17,11 +17,11 @@ We have travel teams for various ages that run from August to November and
 March to June every year.
 
 
-## 2026 Fall Season
+## {{ site.data.season.year }} Fall Season
 
-Opening Day is Sept 12, 2026.
+Opening Day is {{ site.data.season.dates.first_game | date: "%b %-d, %Y" }}.
 
-_Schedule coming soon!_
+{% unless site.data.season.schedules_posted %}_Schedule coming soon!_{% endunless %}
 
 Last games will be mid-November.
 

@@ -182,7 +182,10 @@ include: ["_pages"]
 home_articles: 2  # amount of posts to show
 paginate: 4  # amount of posts to show
 #paginate_path: /updates/page:num
-season_tag: 2026-season
+
+# Season dates, phase, registration links, and the season post tag all live in
+# _data/season.yml -- see the comments there. Kept out of this file so they can
+# be edited without restarting `make serve`.
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-search
 search: true
@@ -192,9 +195,6 @@ lunr:
   search_within_pages: true
 #google:
 #  search_engine_id: 462070f4ab7ad47f3
-
-# what's the date of our first game?
-first_game: 2023-09-16 PDT
 
 breadcrumbs: true
 breadcrumb_home_label : Home

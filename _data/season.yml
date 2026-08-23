@@ -1,0 +1,39 @@
+# Single source of truth for the current season.
+#
+# Lives in _data/ (not _config.yml) on purpose: Jekyll reloads _data on every
+# rebuild, so `make serve` picks up changes here without a restart.
+#
+# At the start of each season, update: year, label, tag, first_game, and the
+# three `register` links. Then flip `phase` as the season progresses.
+
+year:  2026
+label: "2026/27"
+
+# Posts tagged with this show up on the home page. Every current-season post
+# needs `tags: <this value> ...` in its front matter.
+tag: 2026-season
+
+# Which part of the year we're in. Set by hand -- GitHub Pages only rebuilds
+# on push, so a date-computed value would sit stale between commits.
+#   signup    -- registration open, no teams yet     (Jun-Aug)
+#   preseason -- teams assigned, practices starting  (late Aug)
+#   season    -- games underway                      (Sep-Nov)
+#   wrapup    -- season over, off-season ahead       (Nov-Dec)
+#   offseason -- adult winter league, spring travel  (Dec-May)
+phase: signup
+
+dates:
+  # Keep the "PDT"/"PST" suffix and the quotes: _includes/schedule.html runs
+  # this through Liquid's `date` filter, and quoting keeps YAML from casting it
+  # to a Date object, which would change how that filter behaves.
+  first_game: "2026-09-12 PDT"
+  # last_game: TBD -- pages currently say "mid-November" in prose
+
+# GotSport program registration links, one per audience.
+register:
+  players:  https://system.gotsport.com/programs/68354178H
+  coaches:  https://system.gotsport.com/programs/16380S251
+  referees: https://system.gotsport.com/programs/174179D24
+
+# Flip to true once the division schedules are posted under /schedules/<year>/.
+schedules_posted: false
