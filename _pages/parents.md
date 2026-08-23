@@ -6,52 +6,54 @@ toc: true
 toc_icon: family
 ---
 
-Welcome, parents! Please see the information below, where we've tried to answer
-many common questions.
+Welcome, parents! Here's what you need to know to get your kids on the field.
 
-## Eligibility
-
-Kids ages 3-18 can play soccer with the Mountain Area Youth Soccer League.
-You can find out your player's age for division placement in
-[our league age post]({% post_url 2026-04-28-2026-league-ages %})
-or the 
-[US Soccer League Age Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator).
-([See below for more details](#how-do-i-know-my-kids-league-age).)
+| Ages         | 3&ndash;18, in divisions from U4 to U19 |
+| Cost         | ${{ site.data.season.fees.standard }} per player; the U4&ndash;U5 clinic is ${{ site.data.season.fees.clinic }} |
+| Jerseys      | included for clinic players; ${{ site.data.season.fees.jersey }} in other divisions if you need one |
+| Season       | games Saturdays at Yosemite High School, {{ site.data.season.dates.first_game | date: "%b %-d" }} to the weekend before Thanksgiving |
+| Practices    | mid-week, at your area's school field |
+| You provide  | cleats or athletic shoes, shin guards, tall socks, black shorts |
+| No jewelry   | of any kind, including new piercings &mdash; no exceptions |
+| Questions    | your [area rep](/contact/) |
+{: .quick-facts}
 
 
 ## Register
 
-MAYSL's primary season is in the fall, from mid-September to the weekend
-before Thanksgiving.
-If you'd like to sign up your kids:
-
 > **Registration Timeline:**
-> 
-> * Registration for travel teams ends in mid-July.
-> * Registration for local teams ends in mid-August.
+>
+> * Registration for travel teams ends in late July.
+> * Registration for local teams ends in late August.
+>
+> Missed the deadline? We can usually still take late registrations &mdash;
+> ask your [area rep](/contact/).
 {: .key-section}
 
 1. **Register** players at [GotSport]({% link _pages/registration.md %}){: .important-link}
    - If you need to upload birth certificates after registration, use [this form](https://system.gotsport.com/forms/97Z119169){: .important-link}.
+   - As part of registration you'll acknowledge two required information
+     sheets &mdash; see [Player Safety](#player-safety) below.
 
 2. Your players will be **assigned to teams** starting the week after school starts.
    Coaches will reach out that week or next to discuss practices.
 
-3. The **first games** for local (non-travel) teams is generally the 1st or 2nd week
-   of September.
+3. The **first games** for local (non-travel) teams are
+   {{ site.data.season.dates.first_game | date: "%b %-d" }}.
 
 4. The **last games** of the season will be on the weekend before Thanksgiving.
 
 **See the [News](/news/) section for specific dates.**
 
-### How do I know my kids' league age?
+### Which Division Will My Child Play In?
 
-Think of "league age" as an age group we use for making teams and divisions. 
+Think of "league age" as an age group we use for making teams and divisions.
 As of the 2026 season, league ages align with school years, and the cutoff is
 how old they were when the season started on Aug 1.
 
 Our divisions are mostly 2-year brackets, from U4 to U19. "U" means "under",
-so the divisions are for players with a _league age_ under that, e.g. _under 8_ or _under 12_. 
+so the divisions are for players with a _league age_ under that, e.g. _under 8_
+or _under 12_.
 
 At MAYSL, teams separate into divisions like this:
 
@@ -60,47 +62,9 @@ At MAYSL, teams separate into divisions like this:
 - recreational coed teams are created for players in the U13-U15 age bracket
 - competitive travel teams for boys and girls play in divisions for U14, U16, and U19
 
-Please see [our league age post]({% post_url 2026-04-28-2026-league-ages %})
-or the [US Soccer League Age Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator)
-for more.
-
-
-## Player Safety
-
-US Soccer places a lot of value on player safety. If your child has any special
-health conditions, like the need for an EpiPen or an inhaler, please talk to your
-coaches about it. Make sure they know how to recognize signs of problems and how
-to deal with them. They'll want to be prepared in case there's an emergency,
-and they should be able to recognize changes in your childrens' normal behavior.
-
-Player safety also includes vetting our volunteers with in-depth background checks
-and training them to recognize abuse. Please see our [Background
-Checks &amp; Training]({% link _pages/coaches.md %}) page for more information.
-
-
-### Concussion Awareness
-
-All parents of MAYSL's players should read this [concussion information
-sheet]({% link /files/reqs/headsup-parents.pdf %}){:target="_blank"}
-from the CDC.
-Reading this information and acknowledging it is a requirement of
-California Health and Safety Code § 124235 before a child can be registered to play
-with a youth sport program.
-
-For more, please see the CDC's [HEADS UP to Youth Sports page for
-parents](https://www.cdc.gov/heads-up/training/youth-sports.html).
-
-
-### Sudden Cardiac Arrest
-
-All parents of MAYLS's players should read this [sudden cardiac arrest information
-sheet]({% link /files/reqs/sca-parents.pdf %}){:target="_blank"}.
-Reading this information and acknowledging it is a requirement of
-California Health and Safety Code § 124235 before a child can be registered to play
-with a youth sport program.
-
-For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
-Prevention Training](https://epsavealife.org/sca-prevention-training/).
+To find your own player's league age, see [our league age
+post]({% post_url 2026-04-28-2026-league-ages %}) or the [US Soccer League Age
+Calculator](https://www.ussoccer.com/ecosystem-review/player-registration/age-group-calculator).
 
 
 ## Equipment
@@ -112,7 +76,13 @@ What do your kids need to play soccer with MAYSL?
 * socks
 * shorts
 
-The league will provide jerseys and soccer balls for the team.
+The league provides soccer balls for each team to use at practices and games.
+Those stay with the team rather than with individual players.
+
+U4&ndash;U5 clinic players are given a jersey as part of their registration.
+In every other division, players wear the same jersey season after season, which
+helps us keep registration costs down &mdash; if your player needs one, it's an
+extra ${{ site.data.season.fees.jersey }}.
 
 What can't your kids wear?
 
@@ -121,16 +91,24 @@ What can't your kids wear?
 * hard medical devices (e.g. casts, plastic knee braces)
 * hats (goalkeepers may wear baseball-style caps, though)
 
-See [Law 4, The Players' Equipment](
-https://www.theifab.com/laws/latest/the-players-equipment/),
-for the exact rules.
+### Jewelry
 
-More guidance for how we approach equipment at MAYSL is given below.
+Law 4 is very clear:
 
-Your Soccer Home has a great page on [What You Can (and Can't) Wear for Soccer](
-https://yoursoccerhome.com/what-you-can-and-cant-wear-for-soccer/), too.
+> All items of jewellery (necklaces, rings, bracelets, earrings, leather bands,
+> rubber bands, etc.) are forbidden and must be removed. Using tape to cover
+> jewellery is not permitted.
 
-### Soccer shoes
+(Americans, that's "jewelry" to us. :-)
+
+This is an important one to keep in mind well before the season starts. There
+are no exceptions for fresh piercings where the studs or earrings shouldn't
+be removed within the first weeks. If a player won't remove them, they can't play.
+
+### Gear Details
+
+<details markdown="1">
+<summary>Soccer shoes</summary>
 
 _Can you use cleats from another sport?_ You sure can, as long as they're just
 plastic knobs and they don't have a front stud like baseball and football
@@ -148,7 +126,10 @@ quick turns and sprints, they allow for feel in the toe while still allowing
 you to make a solid kick, and they give firm traction in a variety of
 field conditions.
 
-### Socks
+</details>
+
+<details markdown="1">
+<summary>Socks</summary>
 
 Uniform socks should rise to just below the player's knee. They must
 fully cover the player's shin guards.
@@ -156,7 +137,10 @@ fully cover the player's shin guards.
 Sock colors are up to each team's coaches. For travel teams, all players'
 socks must match.
 
-### Shin guards
+</details>
+
+<details markdown="1">
+<summary>Shin guards</summary>
 
 Shin guards are required. They must be in good condition with adequate
 coverage of the player's lower leg. What does that mean? All modern
@@ -166,7 +150,10 @@ Your player can wear them if they fit within that range.
 Shin guards do not need to have straps or stirrups, but they must be
 fully covered under the player's socks.
 
-### Shorts
+</details>
+
+<details markdown="1">
+<summary>Shorts</summary>
 
 Most teams at MAYSL wear black (or _mostly_ black) shorts. They should be a
 loose-fitting sports style (not cargo shorts, denim, or form-fitting exercise
@@ -175,7 +162,10 @@ but they should also be black.
 
 Goalkeepers may wear tracksuit bottoms instead of shorts.
 
-### Other clothing
+</details>
+
+<details markdown="1">
+<summary>Other clothing</summary>
 
 A long-sleeve shirt or a sweatshirt without a hood may be worn under the
 game jersey.
@@ -188,22 +178,52 @@ the rigors of the game. It's up to the referee at any given game to exercise
 their judgement, but as a general guideline, they should have strong plastic
 lenses (no glass) and durable plastic frames.
 
-### Jewelry
+</details>
 
-Law 4 is very clear:
-
-> All items of jewellery (necklaces, rings, bracelets, earrings, leather bands,
-> rubber bands, etc.) are forbidden and must be removed. Using tape to cover
-> jewellery is not permitted.
-
-(Americans, that's "jewelry" to us. :-)
-
-This is an important one to keep in mind well before the season starts. There
-are no exceptions for fresh piercings where the studs or earrings shouldn't
-be removed within the first weeks. If a player won't remove them, they can't play.
+See [Law 4, The Players' Equipment](
+https://www.theifab.com/laws/latest/the-players-equipment/),
+for the exact rules. Your Soccer Home has a great page on [What You Can (and
+Can't) Wear for Soccer](
+https://yoursoccerhome.com/what-you-can-and-cant-wear-for-soccer/), too.
 
 
-## Pictures
+## Player Safety
+
+US Soccer places a lot of value on player safety. If your child has any special
+health conditions, like the need for an EpiPen or an inhaler, please talk to your
+coaches about it. Make sure they know how to recognize signs of problems and how
+to deal with them. They'll want to be prepared in case there's an emergency,
+and they should be able to recognize changes in your children's normal behavior.
+
+Player safety also includes vetting our volunteers with in-depth background checks
+and training them to recognize abuse. Please see our [Background
+Checks &amp; Training]({% link _pages/coaches.md %}) page for more information.
+
+### Concussion Awareness
+
+All parents of MAYSL's players should read this [concussion information
+sheet]({% link /files/reqs/headsup-parents.pdf %}){:target="_blank"}
+from the CDC.
+Reading this information and acknowledging it is a requirement of
+California Health and Safety Code § 124235 before a child can be registered to play
+with a youth sport program.
+
+For more, please see the CDC's [HEADS UP to Youth Sports page for
+parents](https://www.cdc.gov/heads-up/training/youth-sports.html).
+
+### Sudden Cardiac Arrest
+
+All parents of MAYSL's players should read this [sudden cardiac arrest information
+sheet]({% link /files/reqs/sca-parents.pdf %}){:target="_blank"}.
+Reading this information and acknowledging it is a requirement of
+California Health and Safety Code § 124235 before a child can be registered to play
+with a youth sport program.
+
+For more, please see the Eric Paredes Save A Life Foundation's [Free SCA
+Prevention Training](https://epsavealife.org/sca-prevention-training/).
+
+
+## Picture Day
 
 Near the end of every season, the league has a picture day. Team and individual
 photos are included as part of registration, and the photographer typically

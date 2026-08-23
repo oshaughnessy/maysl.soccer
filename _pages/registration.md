@@ -12,13 +12,19 @@ redirect_from:
 
 ## {{ site.data.season.label }} Season Signups
 
-<div class="key-section">
-<p>Ready for fall soccer? Our signups are open now!</p>
-</div>
+Ready for fall soccer? Our signups are open now!
 
 <a href="{{ site.data.season.register.players }}" class="btn btn--primary">Players: Register Here</a>
 
 * **Parents**: Please see the <a href="{% link _pages/parents.md %}#register">Parent Guide</a> for registration details and requirements.
+
+| Player fee   | ${{ site.data.season.fees.standard }} per player, or ${{ site.data.season.fees.clinic }} for the U4&ndash;U5 clinic |
+| Jerseys      | included for clinic players; ${{ site.data.season.fees.jersey }} in other divisions if you need one, since most players reuse theirs year to year |
+| Team balls   | provided by the league for practices and games |
+| Photos       | every player gets a team photo and a few individual pictures |
+| Deadlines    | late July for travel teams, late August for local teams |
+| Late signups | usually still accepted &mdash; ask your [area rep](/contact/) |
+{: .quick-facts}
 
 <a href="{{ site.data.season.register.coaches }}" class="btn btn--primary">Coaches: Register Here</a>
 

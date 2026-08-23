@@ -37,6 +37,13 @@ dates:
   practices_start: "2026-08-24 PDT"
   # last_game: TBD -- pages currently say "mid-November" in prose
 
+# Player registration fees in whole dollars, adjusted annually. Rendered with
+# a "$" by the pages that use them, so keep these as bare numbers.
+fees:
+  clinic: 90     # U4-U5 coed clinic players; includes a jersey
+  standard: 115  # every other division
+  jersey: 20     # only for non-clinic players who need one
+
 # GotSport program registration links, one per audience.
 register:
   players:  https://system.gotsport.com/programs/68354178H
