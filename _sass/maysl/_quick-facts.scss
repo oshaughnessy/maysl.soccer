@@ -1,0 +1,103 @@
+/* ==========================================================================
+   QUICK FACTS
+   --------------------------------------------------------------------------
+   The "answer box" at the top of a role page: the handful of facts a visitor
+   arrived for, readable without scrolling. Reads as a key/value card rather
+   than a data table.
+
+   Markup is a headerless kramdown table:
+
+     | Arrive | 30 minutes before kickoff |
+     | Bring  | whistle, watch, large coin |
+     {: .quick-facts}
+
+   Selector is scoped under .page__content and uses table.quick-facts so it
+   outweighs the theme's bare `table`/`td` rules in _tables.scss.
+   ========================================================================== */
+
+.page__content table.quick-facts {
+  display: table;
+  table-layout: auto;
+  width: 100%;
+  margin: 0 0 1.5em;
+  border: 0;
+  border-collapse: collapse;
+  border-inline-start: 4px solid $primary-color;
+  border-radius: 0 $border-radius $border-radius 0;
+  background-color: mix($primary-color, $background-color, 5%);
+  font-size: 1em;
+  line-height: 1.35;
+  overflow-x: visible;
+
+  /* Minimal Mistakes scales `html` from 16px up to 22px on wide screens. At
+     full size the card matched body prose and ran past the fold, so trim it
+     back from the $medium breakpoint up. Below that, `html` is 16px already
+     and shrinking further would drop this under a comfortable reading size --
+     which matters most here, since two-thirds of our traffic is mobile. */
+  @media screen and (min-width: 48em) {
+    font-size: 0.9em;
+  }
+
+  tbody,
+  tr {
+    border: 0;
+    background-color: transparent;
+  }
+
+  td {
+    padding: 0.35em 1em;
+    border: 0;
+    vertical-align: baseline;
+
+    /* label column */
+    &:first-child {
+      width: 1%; /* shrink to content, keeps values left-aligned together */
+      padding-inline-end: 0.75em;
+      color: $muted-text-color;
+      font-size: 0.75em;
+      font-weight: bold;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+  }
+
+  /* first and last rows get a little breathing room inside the card */
+  tr:first-child td {
+    padding-top: 0.8em;
+  }
+
+  tr:last-child td {
+    padding-bottom: 0.8em;
+  }
+}
+
+/* Narrow screens: stack label above value so long values never get squeezed
+   into a sliver of a column. Two-thirds of this site's traffic is mobile. */
+@media screen and (max-width: 37.5em) {
+  .page__content table.quick-facts {
+    td {
+      display: block;
+      padding: 0 1em;
+
+      &:first-child {
+        width: auto;
+        padding-top: 0.7em;
+        padding-inline-end: 1em;
+        white-space: normal;
+      }
+
+      &:last-child {
+        padding-bottom: 0.2em;
+      }
+    }
+
+    tr:first-child td:first-child {
+      padding-top: 0.9em;
+    }
+
+    tr:last-child td:last-child {
+      padding-bottom: 0.9em;
+    }
+  }
+}
