@@ -2,8 +2,13 @@
    QUICK FACTS
    --------------------------------------------------------------------------
    The "answer box" at the top of a role page: the handful of facts a visitor
-   arrived for, readable without scrolling. Reads as a key/value card rather
-   than a data table.
+   arrived for, readable without scrolling.
+
+   Styled as a ruled sheet, not a callout. Every notice in this skin is a
+   tinted block with a left accent, and the answer box is not advisory -- it's
+   the page's factual core -- so it takes a different structural axis: rules
+   along the top and bottom, no fill, no left border. That distinction holds
+   under any skin, because it isn't carried by color.
 
    Markup is a headerless kramdown table:
 
@@ -11,26 +16,30 @@
      | Bring  | whistle, watch, large coin |
      {: .quick-facts}
 
-   Selector is scoped under .page__content and uses table.quick-facts so it
+   Scoped under .page__content and matched as table.quick-facts so it
    outweighs the theme's bare `table`/`td` rules in _tables.scss.
    ========================================================================== */
+
+/* Neutral hairline, not $border-color -- that one is mixed from the brand red
+   and reads pink against these rules. */
+$quick-facts-rule: mix($text-color, $background-color, 15%) !default;
 
 .page__content table.quick-facts {
   display: table;
   table-layout: auto;
   width: 100%;
-  margin: 0 0 1.5em;
+  margin: 0 0 1.75em;
   border: 0;
   border-collapse: collapse;
-  border-inline-start: 4px solid $primary-color;
-  border-radius: 0 $border-radius $border-radius 0;
-  background-color: mix($primary-color, $background-color, 5%);
+  border-top: 2px solid $primary-color;
+  border-bottom: 1px solid $quick-facts-rule;
+  background-color: transparent;
   font-size: 1em;
   line-height: 1.35;
   overflow-x: visible;
 
   /* Minimal Mistakes scales `html` from 16px up to 22px on wide screens. At
-     full size the card matched body prose and ran past the fold, so trim it
+     full size the box matched body prose and ran past the fold, so trim it
      back from the $medium breakpoint up. Below that, `html` is 16px already
      and shrinking further would drop this under a comfortable reading size --
      which matters most here, since two-thirds of our traffic is mobile. */
@@ -45,14 +54,15 @@
   }
 
   td {
-    padding: 0.35em 1em;
+    padding: 0.4em 0.75em;
     border: 0;
     vertical-align: baseline;
 
     /* label column */
     &:first-child {
       width: 1%; /* shrink to content, keeps values left-aligned together */
-      padding-inline-end: 0.75em;
+      padding-inline-start: 0; /* align the sheet to the text column */
+      padding-inline-end: 1em;
       color: $muted-text-color;
       font-size: 0.75em;
       font-weight: bold;
@@ -60,44 +70,47 @@
       text-transform: uppercase;
       white-space: nowrap;
     }
+
+    &:last-child {
+      padding-inline-end: 0;
+    }
   }
 
-  /* first and last rows get a little breathing room inside the card */
-  tr:first-child td {
-    padding-top: 0.8em;
-  }
-
-  tr:last-child td {
-    padding-bottom: 0.8em;
+  /* ruled divider between facts */
+  tr:not(:last-child) td {
+    border-bottom: 1px solid $quick-facts-rule;
   }
 }
 
 /* Narrow screens: stack label above value so long values never get squeezed
-   into a sliver of a column. Two-thirds of this site's traffic is mobile. */
+   into a sliver of a column. The dividers move to the row so each fact still
+   reads as one unit. */
 @media screen and (max-width: 37.5em) {
   .page__content table.quick-facts {
     td {
       display: block;
-      padding: 0 1em;
+      padding: 0;
+      border-bottom: 0;
 
       &:first-child {
         width: auto;
-        padding-top: 0.7em;
-        padding-inline-end: 1em;
+        padding-top: 0.6em;
+        padding-inline-end: 0;
         white-space: normal;
       }
 
       &:last-child {
-        padding-bottom: 0.2em;
+        padding-bottom: 0.6em;
       }
     }
 
-    tr:first-child td:first-child {
-      padding-top: 0.9em;
+    tr:not(:last-child) td:last-child {
+      border-bottom: 1px solid $quick-facts-rule;
+      padding-bottom: 0.6em;
     }
 
-    tr:last-child td:last-child {
-      padding-bottom: 0.9em;
+    tr:not(:last-child) td:first-child {
+      border-bottom: 0;
     }
   }
 }
