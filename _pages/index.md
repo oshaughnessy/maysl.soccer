@@ -20,7 +20,8 @@ Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the cen
   {% include feature-card.html 
      icon="leaf" 
      title="Fall Signups!" 
-     description="<em>Inviting players, coaches, and referees now</em>"
+     description="&#9917;&nbsp;<b>Season starts Sept 12</b>&nbsp;&#9917;<br />
+                  <em>Inviting players, coaches, and referees now</em>"
      button_url="/register/"
      button_text="More Info"
      card_url="/register/" %}
