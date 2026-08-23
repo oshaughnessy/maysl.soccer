@@ -1,0 +1,80 @@
+/* ==========================================================================
+   DISCLOSURE (details / summary)
+   --------------------------------------------------------------------------
+   Progressive disclosure for reference material that shouldn't compete for
+   the top of the screen. Native <details>, so it needs no JavaScript and
+   still prints and searches.
+
+   Keep headings OUTSIDE a collapsed <details>. A heading inside one still
+   registers in the sticky TOC, so clicking its TOC entry jumps to content
+   the reader can't see.
+   ========================================================================== */
+
+.page__content details {
+  margin: 0 0 0.75em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+
+  > summary {
+    /* Not display:flex -- older Safari mishandles a flex <summary> and can
+       leave it unclickable. Block plus absolute positioning is safe. */
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    /* 44px is the smallest comfortable tap target (Apple HIG; Google says
+       48dp). The default summary line box is ~23px, too small to hit
+       reliably on a phone -- and most of our readers are on phones. */
+    min-height: 44px;
+    padding: 0.7em 2.25em 0.7em 0.85em;
+    cursor: pointer;
+    font-weight: bold;
+    line-height: 1.3;
+    list-style: none;
+
+    /* hide the default disclosure triangle in favor of our own chevron */
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset-inline-end: 1em;
+      top: 50%;
+      width: 0.45em;
+      height: 0.45em;
+      margin-top: -0.3em;
+      border-inline-end: 2px solid currentColor;
+      border-block-end: 2px solid currentColor;
+      transform: rotate(45deg);
+      transition: transform 0.15s ease;
+    }
+
+    &:hover {
+      background-color: mix($primary-color, $background-color, 5%);
+    }
+
+    &:focus-visible {
+      outline: 2px solid $primary-color;
+      outline-offset: -2px;
+    }
+  }
+
+  &[open] {
+    padding-bottom: 0.4em;
+
+    > summary {
+      border-bottom: 1px solid $border-color;
+      margin-bottom: 0.6em;
+
+      &::after {
+        transform: rotate(-135deg);
+      }
+    }
+  }
+
+  /* indent the revealed content to line up with the summary label */
+  > *:not(summary) {
+    margin-inline: 0.85em;
+  }
+}
