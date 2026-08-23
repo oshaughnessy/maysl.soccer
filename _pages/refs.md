@@ -8,57 +8,126 @@ sidebar:
   nav: rules
 ---
 
-Our referees range from experienced adults to youth players who are facilitating games for younger age groups.
+Our referees range from experienced adults to youth players who facilitate games
+for our younger age groups.
 
-If you have any questions, you can reach out to our ref coordinator, [Kay Emmert](mailto:kayemmert@yahoo.com).
+| Arrive      | 30 minutes before kickoff |
+| Bring       | whistle, watch, large coin, red & yellow cards, pen |
+| Wear        | yellow jersey, black shorts, socks & shoes |
+| You'll earn | $20&ndash;$45 per game, by age group |
+| Assignments | emailed weekly &mdash; **Confirm each Thursday** |
+| Minimum age | 13 and up, and older than the players |
+| Questions   | [Kay Emmert](mailto:kayemmert@yahoo.com), ref coordinator |
+{: .quick-facts}
 
-For details on how to be a ref in each MAYSL age division, please see
+For how to apply the rules in each MAYSL age division, see
 [Ref Training]({% link _pages/ref-training.md %}).
+
 
 ## Register
 
-1. _Sign Up With MAYSL_ so we have your contact info:
+1. **Sign up with MAYSL** so we have your contact info:
    * <a href="{{ site.data.season.register.referees }}" class="btn btn--primary" target=_blank>
      All Referees: Register with MAYSL Here</a>
-2. _Sign Up With US Soccer_ to become a licensed referee.
-   Pick one below:
-    * **First Time Refs: online and in-person**
-      * _8/15:_ <a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013426"
- class="btn btn--primary" target=_blank>Clovis - First Time Referee</a>
-      * _8/1:_ <a href="https://learning.ussoccer.com/referee/courses/available/10000006/details/20013122"
- class="btn btn--primary" target=_blank>~~Mariposa - First Time Referee~~</a> (CLOSED)
-      * [see all "first time referee" courses
-         from Cal North](https://learning.ussoccer.com/referee/courses/available/10000006/list){:target="_blank"}
-    * **Returning Refs: online only**
-      <a href="https://learning.ussoccer.com/referee/courses/available/10000007/details/20012706"
-      class="btn btn--primary" target=_blank>2027 Referee Recertification - Cal North</a>
+2. **Get certified by US Soccer.** Certification lasts 2 years.
+    * **First-time referees** &mdash; online and in-person:
+      [see all first-time referee courses from Cal
+      North](https://learning.ussoccer.com/referee/courses/available/10000006/list){:target="_blank"}
+    * **Returning referees** &mdash; online only:
+      [see all recertification courses from Cal
+      North](https://learning.ussoccer.com/referee/courses/available/10000007/list){:target="_blank"}
 
 After you sign up, look out for emails about our upcoming season.
 {: .notice .info }
 
+We typically reimburse our youth referees for the cost of US Soccer's
+certification courses, paid back over the season as you work more games.
 
-## Eligibility
 
-According to the California North Referee Association (CNRA), "there are no minimum
-age requirements to become a referee. However, many local leagues may require a
-referee to be older than the players that they are officiating. Parents are
-advised to assess the maturity level of their child prior to permitting them to
-take one of the Entry Level Referee Courses."
+## Game Day
 
-As a league, MAYSL requires that a referee or facilitator is 1-2 years older
-than the age of the players they are officiating.
+Arrive at games **30 minutes early** to meet up with the other officials.
 
-We typically hire youth 13 years and older to be officials for the younger divisions,
-and adults and older teenagers for our 12U, 15U coed, and travel matches.
+Bring to every game:
 
-Referees should have an active certification from US Soccer, and they will need to
-renew it every 2 years.
+* whistle
+* pen
+* large coin
+* clock or stopwatch
+* red and yellow cards
+* your uniform
+
+The league provides ref flags.
+
+Every referee must provide and wear a [USSF approved uniform](
+https://officialsports.com/referee-uniforms/ussf-economy-jerseys/)
+whenever they are officiating. For MAYSL games that means:
+
+* yellow jersey with black stripes
+* all-black shorts with pockets
+* black socks with 3 white stripes at the top
+* primarily-black shoes
+
+
+## Pay
+
+Rates as of 2026 _(work in progress)_:
+
+| Division    | Rate |
+|-------------|------|
+| U6&ndash;U8   | $20/game alone, $15/person if shared |
+| U10           | $25/person/game |
+| U12&ndash;U15 | $45/person/game if paired; $45 lead & $30/helper if 2 helpers |
+| Travel games  | paid by District 7, according to their pay scale |
+
+Game cards track both the record of the game and the time you're paid for. On
+each game card, every participating referee or facilitator should **print their
+name**, and make sure the date and age group are filled in.
+
+In the spring league, all rates are determined by District 7. MAYSL pays
+referees for travel games and District 7 reimburses the league.
+
+
+## Getting Assigned Games
+
+Schedules are managed by the league reffing coordinator,
+[Kay Emmert](mailto:kayemmert@yahoo.com), and are built weekly.
+
+The coordinator assigns games by email. **Please confirm your games by email**
+&mdash; anything not confirmed by Thursday gets reassigned to someone else. We
+sometimes have cancellations, so we may call on Friday about additional games
+that need covering, and fields occasionally change at the last minute due to
+postponements, so refs need to be flexible.
+
+We try to give everyone who completed the clinic an equal opportunity to
+referee games, and we're committed to developing referees of all ages in the
+Mountain Area. Some of our refs are players with conflicts against their own
+game times, so when they have a weekend off we offer them games first. We also
+try to pair an experienced ref with a new ref for their first few games.
+
+
+## Who Can Ref
+
+MAYSL requires that a referee or facilitator is **1&ndash;2 years older than
+the players they are officiating**. We typically hire youth 13 and older for
+the younger divisions, and adults and older teenagers for our 12U, 15U coed,
+and travel matches.
+
+Referees should hold an active certification from US Soccer, renewed every 2
+years.
+
+According to the California North Referee Association (CNRA), "there are no
+minimum age requirements to become a referee. However, many local leagues may
+require a referee to be older than the players that they are officiating.
+Parents are advised to assess the maturity level of their child prior to
+permitting them to take one of the Entry Level Referee Courses."
 
 ### Facilitators
 
-In situations where licensed referees are not available or required, MAYSL uses trained
-[game day facilitators](https://www.calnorth.org/gdf) who are authorized to oversee games
-_only for our league_. This means you can ref our local, recreational games, but not our travel games.
+Where licensed referees aren't available or required, MAYSL uses trained
+[game day facilitators](https://www.calnorth.org/gdf) who are authorized to
+oversee games _only for our league_ &mdash; our local, recreational games, but
+not our travel games.
 
 Facilitator uniforms include:
 
@@ -68,125 +137,49 @@ Facilitator uniforms include:
 * primarily-black shoes
 
 
+## Buying Gear
 
-## Equipment
+MAYSL sometimes provides yellow referee jerseys to our youth officials as part
+of our onboarding and training program &mdash; ask Kay for more info.
 
-### Game Day
+You can buy the rest online or at any soccer or sporting goods store. No
+particular brand is required.
 
-Officials should bring to every game:
+<details markdown="1">
+<summary>Local shops that give MAYSL referees a discount</summary>
 
-* pen
-* whistle
-* large coin
-* clock
-* stopwatch
-* ref flags
-* appropriate uniform
+* **Soccer Express** &mdash; 6751 N Blackstone @ Herndon, Fresno / 559-432-7511
 
-Arrive at games 30 minutes early to meet up with the other officials.
+    Tell them you are a MAYSL referee and receive a 15% discount. They have
+    gear packages for referees as well as individual items.
 
-### Referee Uniforms
+* **Pro Soccer** &mdash; 6929 N Willow @ Herndon, Clovis / 559-299-5363
 
-Every referee must provide and wear a [USSF approved uniform](
-https://officialsports.com/referee-uniforms/ussf-economy-jerseys/)
-whenever they are officiating games.
+    They have ref gear packages, and will give MAYSL refs a discount on
+    individual gear items.
 
-Uniforms for MAYSL games include:
-
-* yellow jersey with black stripes
-* all-black shorts with pockets
-* black socks with 3 white stripes at the top
-* primarily-black shoes
-
-### Purchasing Uniforms and Equipment
-
-MAYSL may, at times, provides yellow referee jerseys to our youth officials as part of
-our onboarding & training program. Ask Kay for more info.
- 
-You may buy the other gear online through any soccer store or through many sporting
-goods stores or other soccer stores in the Fresno Area.  They do not need to be
-any specific brand.
-
-Local options:
-
-* Soccer Express, 6751 N Blackstone @ Herndon in Fresno / 559-432-7511
-
-	Tell them you are a MAYSL referee & receive a 15% discount.
-	They have gear packages for referees, as well as individual items.
- 
-* Pro Soccer, 6929 N Willow @ Herndon in Clovis / 559-299-5363
-
-	They have ref gear packages. They will give MAYSL refs a discount
-    on individual gear items.
+</details>
 
 
-## Schedules
+## Rules & Safety
 
-Schedules are managed by the league reffing coordinator,
-[Kay Emmert](mailto:kayemmert@yahoo.com).
+Learn about **concussion** symptoms and how to handle potential head injuries.
+Print a copy of the [Concussion Recognition Tool](/files/crt6.pdf) from the US
+Soccer safety course, get familiar with it, and keep it in your field bag or on
+your clipboard so it's there if a player shows any sign of a head injury.
 
-Schedules are completed on a weekly basis. we try to give everyone who completed
-the clinic an equal opportunity to referee games. We are committed to developing
-referees of all ages in the Mountain Area. Some players have schedule conflicts
-with their own games so when they have a weekend off we offer them the games
-first. We also try to put an experienced ref with a new ref for the first few
-games. Availability and assigning is done electronically.
-
-The coordinator will check the schedule and assign games by email.  Please
-confirm your games by email otherwise they will be reassigned to someone else if
-they are not confirmed by Thursday. Sometimes we have cancellations so we will
-call on Friday if we have additional games that we need covered. In the past we
-have had to make last minute changes on the fields due to postponements so refs
-must be flexible.
-
-
-## Pay
-
-Game cards are used not only to keep a record of the games, but also to track
-time for paying referees. On each game card, every participating referee or
-facilitator should print their name. Ensure that the date and age group are
-included as well.
-
-Rates as of 2026 _(work in progress)_:
-
-* _U6-U8:_ $20/game if alone, $15/person if shared
-* _U10:_ $25/person/game
-* _U12-U15:_ $45/person/game if paired, $45 for lead & $30/helper if 2 helpers
-* _Travel games:_ paid for by District 7, according to their pay scale
-
-In the spring league, all rates are determined by District 7. MAYSL pays referees for
-travel games and District 7 reimburses the league.
-
-_Course fees:_ We typically reimburse our youth referees for taking
-US Soccer's referee certification courses. Costs are reimbursed over the
-course of the season as the individual works more games.
-
-
-## Game Day Highlights
-
-### Player Safety
-
-Learn about **concussion** symptoms and how to deal with potential head injuries.
-Print out a copy of the [Concussion Recognition Tool](/files/crt6.pdf)
-that was provided as part of the US Soccer safety course. Familiarize yourself with it
-and keep it with your field bag or clipboard. You'll have it available if one of your
-players has any sign of a head injury.
-
-Heat-related ilness is a real risk here in central California. Take a look at the
-[Recognize to Recover Heat Guidelines](/files/recognize-to-recover-heat-guidlines.pdf).
-
-
-### Rule Highlights
+Heat-related illness is a real risk here in central California. Take a look at
+the [Recognize to Recover Heat
+Guidelines](/files/recognize-to-recover-heat-guidlines.pdf).
 
 [Within US Youth Soccer](https://www.usyouthsoccer.org/referees/rules-of-the-game/),
 the [FIFA Laws of the Game](https://www.ussoccer.com/referee-program/laws-of-the-game)
-are used, but various accommodations for small-sided games with younger players are
-made to create a journey that encourages age-appropriate fun and skill development.
-See [Growing with the Game](/rules/#growing-with-the-game) on the Rules page for
-specific insights.
+are used, with accommodations for small-sided games with younger players that
+encourage age-appropriate fun and skill development. See [Growing with the
+Game](/rules/#growing-with-the-game) on the Rules page for specifics, and
+[Ref Training]({% link _pages/ref-training.md %}) for how to apply rules in
+each division.
 
-Please see [Ref Training]({% link _pages/ref-training.md %}) for guidance on how to
-apply rules in each MAYSL age division.
 
 ## Further Reading
 
