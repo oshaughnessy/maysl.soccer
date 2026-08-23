@@ -1,6 +1,6 @@
 ---
 title: 2025 U12 Boys Schedule
-tag: 2025-season schedule u12
+tags: 2025-season schedule u12
 division: U12
 sidebar:
   nav: schedules-by-division

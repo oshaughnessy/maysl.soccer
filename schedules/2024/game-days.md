@@ -1,6 +1,6 @@
 ---
 title: Schedules for Game Days
-tag: 2024-season schedule
+tags: 2024-season schedule
 toc_icon: calendar-day
 sidebar:
   nav: schedules-by-division

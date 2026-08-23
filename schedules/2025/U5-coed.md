@@ -1,6 +1,6 @@
 ---
 title: 2025 U5 Coed Schedule
-tag: 2025-season schedule u4 u5
+tags: 2025-season schedule u4 u5
 division: U5
 sidebar:
   nav: schedules-by-division

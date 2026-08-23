@@ -1,6 +1,6 @@
 ---
 title: 2023 U8 Girls Schedule
-tag: 2023-season schedule u8
+tags: 2023-season schedule u8
 division: U8
 sidebar:
   nav: schedules-by-division

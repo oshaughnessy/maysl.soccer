@@ -1,6 +1,6 @@
 ---
 title: 2025 U6 Coed Schedule
-tag: 2025-season schedule u6
+tags: 2025-season schedule u6
 division: U6
 sidebar:
   nav: schedules-by-division

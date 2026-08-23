@@ -1,6 +1,6 @@
 ---
 title: 2025 U8 Boys Schedule
-tag: 2025-season schedule u8
+tags: 2025-season schedule u8
 division: U8
 sidebar:
   nav: schedules-by-division

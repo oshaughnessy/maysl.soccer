@@ -1,6 +1,6 @@
 ---
 title: 2025 U10 Boys Schedule
-tag: 2025-season schedule u10
+tags: 2025-season schedule u10
 division: U10
 sidebar:
   nav: schedules-by-division
