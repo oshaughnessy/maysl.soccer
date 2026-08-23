@@ -30,7 +30,7 @@ We have games at the lower field behind Yosemite High School, near the tennis co
 We practice at the fields of our area elementary and secondary schools in Ahwahnee, Oakhurst, North Fork, Spring Valley, and YLP.
 {: .faq-answer}
 
-See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for details.
+See [Game Fields]({% link _pages/schedules.md %}#game-fields) for details.
 {: .faq-answer}
 
 ## What gear do I need?
@@ -39,7 +39,7 @@ See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for details.
 Not much! Cleats (or athletic shoes), tall socks, shin guards, and shorts are the bare minimum.
 {: .faq-answer}
 
-See [Parents/Equipment]({% link _pages/parents.md %}/#equipment) for more info.
+See [Parents/Equipment]({% link _pages/parents.md %}#equipment) for more info.
 {: .faq-answer}
 
 ## What if my kids can't make all the games?

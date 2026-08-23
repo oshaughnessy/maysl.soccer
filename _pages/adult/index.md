@@ -42,7 +42,7 @@ team, or we'll be happy to place you on one. Teams should be big enough that pla
 miss some games -- this is supposed to be fun and low-commitment -- and should have enough
 women that they can keep 2 or more on the field during games.
 
-7v7 games will be hosted at [the YHS field where MAYSL hosts U12 games]({% link _pages/schedules.md %}/#game-fields).
+7v7 games will be hosted at [the YHS field where MAYSL hosts U12 games]({% link _pages/schedules.md %}#game-fields).
 
 If you live closer to Mariposa, check out
 [Mariposa Soccer's Adult League](https://www.mariposasoccer.com/adult).

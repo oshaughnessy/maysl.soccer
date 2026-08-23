@@ -18,7 +18,7 @@ redirect_from:
 
 <a href="https://system.gotsport.com/programs/68354178H" class="btn btn--primary">Players: Register Here</a>
 
-* **Parents**: Please see the <a href="{% link _pages/parents.md %}/#register">Parent Guide</a> for registration details and requirements.
+* **Parents**: Please see the <a href="{% link _pages/parents.md %}#register">Parent Guide</a> for registration details and requirements.
 
 <a href=" https://system.gotsport.com/programs/16380S251" class="btn btn--primary">Coaches: Register Here</a>
 
