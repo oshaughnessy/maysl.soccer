@@ -18,6 +18,14 @@ $text-color: #1a2744 !default; /* Dark navy for readability */
 $primary-color: #002868 !default; /* USA flag navy — Pantone 282 C */
 $secondary-color: #BF0A30 !default; /* USA flag red — Pantone 193 C */
 $border-color: mix($secondary-color, $background-color, 20%) !default;
+
+/* Semantic status colors, deliberately outside the flag palette: navy and red
+   are brand colors and carry no meaning, while these three have to mean
+   go / caution / stop and nothing else. Muted and slightly earthy so they sit
+   beside the flag colors instead of shouting over them. */
+$success-color: #1A6B42 !default; /* pitch green */
+$caution-color: #A87608 !default; /* dry-grass amber */
+$danger-color: #D32F2F !default;  /* stop red */
 $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix($primary-color, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 25%) !default;
@@ -64,22 +72,25 @@ $toc-active-color: mix($primary-color, $background-color, 30%) !default;
   color: mix($text-color, $primary-color, 20%);
 }
 
-.notice--warning {
-  background-color: mix($secondary-color, $background-color, 15%);
-  border-left-color: $secondary-color;
-  color: $text-color; /* Changed from mix for WCAG contrast */
+.notice--success,
+.notice.success {
+  background-color: mix($success-color, $background-color, 18%);
+  border-left-color: $success-color;
+  color: $text-color;
 }
 
-.notice--success {
-  background-color: mix($primary-color, $background-color, 8%);
-  border-left-color: mix($primary-color, #fff, 30%);
-  color: mix($text-color, $primary-color, 15%);
+.notice--warning,
+.notice.warning {
+  background-color: mix($caution-color, $background-color, 18%);
+  border-left-color: $caution-color;
+  color: $text-color;
 }
 
-.notice--danger {
-  background-color: mix(#d32f2f, $background-color, 10%);
-  border-left-color: #d32f2f;
-  color: mix($text-color, #d32f2f, 20%);
+.notice--danger,
+.notice.danger {
+  background-color: mix($danger-color, $background-color, 10%);
+  border-left-color: $danger-color;
+  color: mix($text-color, $danger-color, 20%);
 }
 
 p.notice.direct { 
