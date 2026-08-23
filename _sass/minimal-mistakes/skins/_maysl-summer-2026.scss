@@ -1069,15 +1069,15 @@ $breakpoint-large: 1024px !default;
     .btn--primary,
     .btn--success {
       min-height: 44px;
-    }
-    
-    /* Better spacing for important links */
-    .important-link {
-      min-height: 44px;
       display: inline-flex;
       align-items: center;
-      padding: 0.5em 1em;
     }
+
+    /* No tap-target sizing for .important-link: it sits inside running text,
+       and a 44px inline-flex box centers the text in the box, leaving the
+       underline floating ~12px below it, with padding breaking the sentence
+       spacing. Inline links in a sentence are explicitly exempt from WCAG
+       2.5.8 Target Size (Minimum) for exactly this reason. */
   }
 }
 
