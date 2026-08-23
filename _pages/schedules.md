@@ -10,8 +10,8 @@ sidebar:
 {% include schedule.html division=page.division %}
 
 MAYSL's primary recreational soccer season is in the fall, from mid-September
-to the week before Thankgiving and skip a weekend in mid-October for the fall
-school break, which gives us 9 or 10 weekends for games.
+to the weekend before Thanksgiving. We skip a weekend in mid-October for the
+fall school break, which gives us 9 or 10 weekends for games.
 
 We have travel teams for various ages that run from August to November and
 March to June every year.
@@ -23,7 +23,7 @@ Opening Day is {{ site.data.season.dates.first_game | date: "%b %-d, %Y" }}.
 
 {% unless site.data.season.schedules_posted %}_Schedule coming soon!_{% endunless %}
 
-Last games will be mid-November.
+Last games will be the weekend before Thanksgiving.
 
 
 ## Game Fields

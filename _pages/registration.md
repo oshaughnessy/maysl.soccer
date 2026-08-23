@@ -10,7 +10,7 @@ redirect_from:
   - /register/
 ---
 
-## 2026-2027 Season Signups
+## {{ site.data.season.label }} Season Signups
 
 <div class="key-section">
 <p>Ready for fall soccer? Our signups are open now!</p>

@@ -21,7 +21,8 @@ or the
 
 ## Register
 
-MAYSL's primary season is in the fall, from mid-September to mid-November.
+MAYSL's primary season is in the fall, from mid-September to the weekend
+before Thanksgiving.
 If you'd like to sign up your kids:
 
 > **Registration Timeline:**
