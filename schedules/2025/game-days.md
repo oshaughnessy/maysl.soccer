@@ -6,4 +6,4 @@ sidebar:
   nav: schedules-by-division
 ---
 
-See [Game Fields]({% link _pages/schedules.md %}/#game-fields) for specific locations.
+See [Game Fields]({% link _pages/schedules.md %}#game-fields) for specific locations.
