@@ -50,6 +50,19 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+# The theme's Sass is still written for the old @import-based Dart Sass, so it
+# emits hundreds of deprecation warnings we can't fix from here. quiet_deps
+# hushes warnings originating in dependencies (anything loaded from a load path,
+# i.e. the theme) while still reporting problems in our own _sass/ files.
+sass:
+  quiet_deps: true
+  # Our own main.scss still uses @import, and can't stop: Minimal Mistakes'
+  # skin system relies on @import's global scope -- the skin sets
+  # $primary-color and the theme's partials read it, which breaks under @use's
+  # namespacing. Revisit if the theme ever ships as Sass modules.
+  silence_deprecations:
+    - import
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -194,9 +207,11 @@ defaults:
 
 include: ["_pages"]
 
-home_articles: 2  # amount of posts to show
-paginate: 4  # amount of posts to show
-#paginate_path: /updates/page:num
+# `paginate` and `home_articles` used to live here and did nothing. The old
+# GitHub Pages builder force-loaded jekyll-paginate, but pagination needs an
+# index.html template that this site has never had, so it only ever emitted a
+# warning; `home_articles` was read by nothing at all. _layouts/home.html
+# selects posts by season tag instead -- see `tag` in _data/season.yml.
 
 # Season dates, phase, registration links, and the season post tag all live in
 # _data/season.yml -- see the comments there. Kept out of this file so they can
