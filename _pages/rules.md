@@ -24,18 +24,17 @@ Laws [2](https://www.theifab.com/laws/latest/the-ball/ "The Ball"),
 [7](https://www.theifab.com/laws/latest/the-duration-of-the-match/ "The Duration of the Match")
 are modified as shown.
 
-| Division | Format | Min players | Max roster | Game length | Ball | Goal |
-|----------|--------|-------------|------------|-------------|------|------|
-| U4&ndash;U5 | 3v3   | &mdash; | &mdash; | coed, clinic style | 3 | PUGG pop-up goal |
-| U6          | 5v5   | 4  | &mdash; | 10-minute quarters | 3 | 6'x12' (width x height) |
-| U8          | 5v5   | 4  | &mdash; | 10-minute quarters | 3 | 6'x12' (width x height) |
-| U10         | 7v7   | 5  | 14 | 25-minute halves   | 4 | 6.5'x18' |
-| U12&ndash;U13 | 9v9 | 6  | 16 | 25-minute halves   | 4 | 7'x21' |
-| U14+        | 11v11 | 7  | 18 | 35-minute halves   | 5 | 8'x24' |
+| Division | Format | Min players | Game length | Ball | Goal |
+|----------|--------|-------------|-------------|------|------|
+| U4&ndash;U5 | 3v3   | &mdash; | coed, clinic style | 3 | PUGG pop-up goal |
+| U6          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
+| U8          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
+| U10         | 7v7   | 5 | 25-minute halves   | 4 | 6.5'x18' |
+| U12&ndash;U13 | 9v9 | 6 | 25-minute halves   | 4 | 7'x21' |
+| U14+        | 11v11 | 7 | 35-minute halves   | 5 | 8'x24' |
 
 **Min players** is the fewest you can put on the field &mdash; below that, see
-[guest players](#guest-players--team-size) or agree to play short. **Max roster**
-is how large the registrar builds teams in that division.
+[guest players](#guest-players--team-size) or agree to play short.
 
 For interleague game limits, see _Maximum "Game Day Roster" Size_ in the
 [CYSA District 7 Playing Program
