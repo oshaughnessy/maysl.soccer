@@ -1,0 +1,54 @@
+/* ==========================================================================
+   TABLE OF CONTENTS, NARROW SCREENS
+   --------------------------------------------------------------------------
+   Minimal Mistakes only lifts .sidebar__right out of the flow at $large
+   (1024px). Below that it's an ordinary block, and because the <aside> is the
+   first child of section.page__content, the TOC renders above everything --
+   including the answer box. On a 390x844 phone that measured 494px of nav
+   pushing the answer box to 906px, entirely below the fold, which is the
+   opposite of what the answer box is for. The theme has no setting for this;
+   toc/toc_label/toc_icon/toc_sticky are the only documented options.
+
+   So: reorder the content column, and cap how much room the nav may take.
+
+   Scoped with :has(> .sidebar__right) so it only affects pages that actually
+   render a TOC. That matters -- on /registration/ the answer box sits *after*
+   the register button by design, and that page sets toc: false, so it has no
+   aside and is left alone. The reorder assumes a page whose answer box is
+   meant to lead; if that ever stops being true for a TOC page, scope it
+   further rather than reshuffling that page's source.
+   ========================================================================== */
+
+@media screen and (max-width: 1023px) {
+  .page__content:has(> .sidebar__right) {
+    display: flex;
+    flex-direction: column;
+
+    /* Body content keeps source order at the back of the queue. The three
+       explicit orders below pull the opening of the page into shape. */
+    > * {
+      order: 4;
+    }
+
+    > p:first-of-type {
+      order: 1; /* the one-line intro */
+    }
+
+    > table.quick-facts {
+      order: 2; /* answer box, straight after the intro */
+    }
+
+    > .sidebar__right {
+      order: 3; /* nav, after the facts rather than before them */
+    }
+  }
+
+  /* Cap the link list, not the whole aside, so the "On this page" heading
+     stays visible while the links scroll. */
+  .page__content .sidebar__right .toc__menu {
+    max-height: 7.5em;
+    overflow-y: auto;
+    overscroll-behavior: contain; /* don't chain into the page scroll */
+    -webkit-overflow-scrolling: touch;
+  }
+}
