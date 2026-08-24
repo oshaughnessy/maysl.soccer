@@ -30,7 +30,7 @@ are modified as shown.
 | U6          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
 | U8          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
 | U10         | 7v7   | 5 | 25-minute halves   | 4 | 6.5'x18' |
-| U12&ndash;U13 | 9v9 | 6 | 25-minute halves   | 4 | 7'x21' |
+| U12         | 9v9   | 6 | 25-minute halves   | 4 | 7'x21' |
 | U14+        | 11v11 | 7 | 35-minute halves   | 5 | 8'x24' |
 
 **Min players** is the fewest you can put on the field &mdash; below that, see
