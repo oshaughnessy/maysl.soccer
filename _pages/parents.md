@@ -11,7 +11,7 @@ Welcome, parents! Here's what you need to know to get your kids on the field.
 | Ages         | 3&ndash;18, in divisions from U4 to U19 |
 | Cost         | ${{ site.data.season.fees.standard }} per player; the U4&ndash;U5 clinic is ${{ site.data.season.fees.clinic }} |
 | Jerseys      | included for clinic players; ${{ site.data.season.fees.jersey }} in other divisions if you need one |
-| Season       | games Saturdays at Yosemite High School, {{ site.data.season.dates.first_game | date: "%b %-d" }} to the weekend before Thanksgiving |
+| Season       | games Saturdays at Yosemite High School, {{ site.data.season.game_days | first | date: "%b %-d" }} to the weekend before Thanksgiving |
 | Practices    | mid-week, at your area's school field |
 | You provide  | cleats or athletic shoes, shin guards, tall socks, black shorts |
 | No jewelry   | of any kind, including new piercings &mdash; no exceptions |
@@ -39,7 +39,7 @@ Welcome, parents! Here's what you need to know to get your kids on the field.
    Coaches will reach out that week or next to discuss practices.
 
 3. The **first games** for local (non-travel) teams are
-   {{ site.data.season.dates.first_game | date: "%b %-d" }}.
+   {{ site.data.season.game_days | first | date: "%b %-d" }}.
 
 4. The **last games** of the season will be on the weekend before Thanksgiving.
 

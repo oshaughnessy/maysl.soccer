@@ -1,17 +1,63 @@
-<!-- %U to move forward on Sundays, %W to shift on Mondays -->
-{% assign cur_week = 'now' | date: "%W %z" %}
-{% assign first_week = site.data.season.dates.first_game | date: "%W %z" %}
-{% assign season_week = cur_week | minus: first_week | modulo: 52 | plus: 1 %}
-<!-- nth-child matches later need to account for tr element,
-     so they're 1 higher than otherwise expected. -->
-{% assign schedule_active_column = season_week | plus: 0 %}
-{% assign schedule_active_week = season_week | plus: 2 %}
+{% comment %}
+  Works out which game weekend to mark as "you are here", by position in
+  season.yml's `game_days` list rather than by counting calendar weeks.
+
+  Two gates, both necessary:
+
+  1. Season. The marker comes from one site-wide list, so it must only be drawn
+     on pages belonging to the current season. Schedule pages declare theirs in
+     front matter (`tags: 2026-season schedule u10`), compared against
+     season.yml's tag. Without this, archived pages pick up the current
+     season's column -- and the 2022 and 2023 pages still render live tables,
+     so they'd show a soccer ball on a schedule from years ago.
+
+  2. Date range. Outside the season there is no column to mark. The old
+     arithmetic used `modulo: 52`, which turned "before the season" into a
+     large positive number (column 50 in August) that only failed to highlight
+     anything because no table has that many columns.
+
+  Counting positions in the list also fixes the skipped weekend. Calendar
+  arithmetic assumed an unbroken run of weeks, so from the fall-break skip
+  onward the marker sat one column too far right -- wrong for the back half of
+  every season it ever ran.
+{% endcomment %}
+
+{% assign games = site.data.season.game_days %}
+{% assign now_s = 'now' | date: '%s' | plus: 0 %}
+{% assign season_opens_s = games | first | date: '%s' | plus: 0 %}
+{% assign season_closes_s = games | last | date: '%s' | plus: 86400 %}
+{% comment %} show the marker from the week before opening day {% endcomment %}
+{% assign lead_in_s = season_opens_s | minus: 604800 %}
+
+{% assign is_current_season = false %}
+{% if page.tags contains site.data.season.tag %}
+  {% assign is_current_season = true %}
+{% endif %}
+
+{% assign schedule_active_column = 0 %}
+{% if is_current_season and now_s >= lead_in_s and now_s < season_closes_s %}
+  {% for game in games %}
+    {% assign game_closes_s = game | date: '%s' | plus: 86400 %}
+    {% if schedule_active_column == 0 and now_s < game_closes_s %}
+      {% assign schedule_active_column = forloop.index %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign draw_marker = false %}
+{% if schedule_active_column > 0 %}
+  {% assign draw_marker = true %}
+{% endif %}
+<!-- nth-of-type matches below need to account for the header row,
+     so they're 2 higher than otherwise expected. -->
+{% assign schedule_active_week = schedule_active_column | plus: 2 %}
 
 <!--
-* cur week: {{ cur_week }}
-* first week: {{ first_week }}
-* season week: {{ season_week }}
-* active col: {{ schedule_active_column }}
+* current season: {{ site.data.season.tag }}
+* this page: {{ page.tags | join: " " | default: "(untagged)" }}
+* season: {{ games | first }} .. {{ games | last }} ({{ games | size }} game days)
+* marker drawn: {{ draw_marker }}
+* active game day: {{ schedule_active_column }}
 -->
 
 <style>
@@ -67,6 +113,7 @@ table.schedule td:first-child {
   text-align: right;
 }
 
+{% if draw_marker %}
 table.schedule :nth-child({{ schedule_active_column }} of th)::before {
   /* content: '\1F446';  /* finger-pointing-up */
   /* content: '\1F447';  /* finger-pointing-down */
@@ -89,6 +136,7 @@ table.schedule :nth-child({{ schedule_active_column }} of td) {
   mix-blend-mode: luminosity;
   scroll-snap-align: end;
 }
+{% endif %}
 
 table.schedule tbody tr:last-child {
   font-weight: bold;
@@ -107,6 +155,7 @@ table.week-schedule td:first-child {
   text-align: right;
 }
 
+{% if draw_marker %}
 table.week-schedule:nth-of-type({{ schedule_active_week }}) th {
   font-weight: bold;
   background-color: #1e252a;
@@ -135,5 +184,6 @@ h2.week-schedule:nth-of-type({{ schedule_active_week }}) {
   background-blend-mode: difference;
   mix-blend-mode: luminosity;
 }
+{% endif %}
 
 </style>

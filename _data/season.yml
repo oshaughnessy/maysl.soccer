@@ -3,7 +3,7 @@
 # Lives in _data/ (not _config.yml) on purpose: Jekyll reloads _data on every
 # rebuild, so `make serve` picks up changes here without a restart.
 #
-# At the start of each season, update: year, label, tag, first_game, and the
+# At the start of each season, update: year, label, tag, game_days, and the
 # three `register` links. Then flip `phase` as the season progresses.
 
 year:  2026
@@ -27,15 +27,37 @@ phase: preseason
 registration_open: true
 
 dates:
-  # Keep the "PDT"/"PST" suffix and the quotes: _includes/schedule.html runs
-  # this through Liquid's `date` filter, and quoting keeps YAML from casting it
-  # to a Date object, which would change how that filter behaves.
-  first_game: "2026-09-12 PDT"
   # Monday of the week rec practices begin -- rendered as "the week of ..."
   # since exact days depend on school field approval and vary by coach. Rec
   # practices start 2-3 weeks before first games; travel teams start earlier.
   practices_start: "2026-08-24 PDT"
-  # last_game: TBD -- pages currently say "mid-November" in prose
+
+# Every rec game weekend, in order, earliest first. This is the single source
+# of truth for the season's shape: opening day is the first entry, the last
+# game is the last entry, and _includes/schedule.html marks "you are here" by
+# this list's position rather than by counting calendar weeks.
+#
+# The skipped weekend has to live here. Calendar arithmetic can't infer it, and
+# assuming an unbroken run of weeks put the marker one column too far right for
+# the back half of every season.
+#
+# We play the first weekend of a school break and skip the last. Bass Lake
+# JUESD's 2026-27 fall break is Oct 12-16, so 10/10 is played and 10/17 is not.
+# The season ends the weekend before Thanksgiving (Nov 26 in 2026).
+#
+# Quote the dates so YAML keeps them as strings for Liquid's `date` filter.
+game_days:
+  - "2026-09-12"
+  - "2026-09-19"
+  - "2026-09-26"
+  - "2026-10-03"
+  - "2026-10-10"
+  # 2026-10-17 skipped -- last weekend of fall break
+  - "2026-10-24"
+  - "2026-10-31"
+  - "2026-11-07"
+  - "2026-11-14"
+  - "2026-11-21"
 
 # Player registration fees in whole dollars, adjusted annually. Rendered with
 # a "$" by the pages that use them, so keep these as bare numbers.

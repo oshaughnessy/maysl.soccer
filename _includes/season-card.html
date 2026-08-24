@@ -14,7 +14,7 @@
 {% endcomment %}
 
 {% assign season = site.data.season %}
-{% assign first_game = season.dates.first_game | date: "%b %-d" %}
+{% assign first_game = season.game_days | first | date: "%b %-d" %}
 {% assign practices_start = season.dates.practices_start | date: "%b %-d" %}
 
 {% case season.phase %}
