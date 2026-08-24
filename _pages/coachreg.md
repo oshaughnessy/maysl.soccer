@@ -8,23 +8,31 @@ sidebar:
   nav: signups
 ---
 
-Anyone who spends significant time with our players must register.
-This includes coaches, of course, but team helpers and parents, too.
-If you're interested, please reach out to the [area rep](/contact/)
-for your school and follow the registration process below.
+Anyone who spends significant time with our players must register &mdash; coaches,
+of course, but assistant coaches and regular parent helpers too.
+
+| Who registers | coaches, assistant coaches, and parent helpers |
+| Four steps    | register in GotSport, two online courses, background check, Live Scan |
+| Time          | a few hours the first year; the courses are good for 2 years |
+| Live Scan     | once ever, under $10, at the Oakhurst Sheriff's office only |
+| Important     | use your **full legal name** on every form &mdash; records are matched by name |
+| Questions     | your [area rep](/contact/) |
+{: .quick-facts}
+
+For what the job itself involves once you're registered, see the
+[Coaches page]({% link _pages/coaches.md %}).
 
 
 ## Overview
 
-If you'd like to help out with a team in any significant way, please take the
-following steps. If you have more questions, details can be found further down.
+Reach out to the [area rep](/contact/) for your school, then take these steps.
+Details for each are further down.
 
 1. [**Register**]({% link _pages/registration.md %}).
 
     Once you've registered at GotSport, you should see a list of
     things to do in your account dashboard. Links for each class
     or form are right there in the list, under the _Details_ column.
-    Please be sure to use your full legal name for all of the forms.
 
 2. [Complete **coaching courses**](#coaching-requirements).
 
@@ -49,6 +57,8 @@ The systems that match your course completions and Live Scan application will on
 to connect your information to our soccer registration system if they all have the same name,
 and the Live Scan application runs through the California Department of Justice, where it will
 need to match your registered legal name.
+{: .notice .warning }
+
 
 ## Coaching Requirements
 
@@ -67,7 +77,7 @@ provide proof varies by course.
 
 The coaching course requirements are listed at the bottom of the [CalNorth Coaching Education
 page](https://www.calnorth.org/coachingeducation):
-   
+
    * [Introduction to Safe and Healthy Playing Environments](https://learning.ussoccer.com/coach/courses/available/32/details/6165)
    * [Safe Sport Training](https://learning.ussoccer.com/coach/courses/available/29/details/5606)
 
@@ -117,6 +127,10 @@ out that form to get the process underway.
 For more information, please see the GotSport [guide for coaches on submitting background checks](
 https://gotsport.zendesk.com/hc/en-us/articles/360051143533-Submitting-a-Background-Check).
 
+**Worried about something that might come up?** Write it on the form. The people who
+review it take your explanations into account when they approve or deny. Denied
+checks can be appealed too, though it does slow down the process.
+
 ### Live Scan
 
 Every coach needs to submit a Live Scan application. You only need to do it once,
@@ -130,12 +144,3 @@ another organization can't be used for MAYSL.
       to your appointment. You will be fingerprinted and your identity will be verified when
       they complete your form and submit it.
    4. Submission is under $10 for MAYSL coaches, but only at the Oakhurst Sheriff's office.
-
-
-## FAQ
-
-### _What if I'm worried about something that might come up in my background check?_
-
-Write anything you're worried about on your bg check form.  The people that review it
-will take your explanations into account when they approve or deny.  Denied checks can
-be appealed, too, but it does slow down the process.

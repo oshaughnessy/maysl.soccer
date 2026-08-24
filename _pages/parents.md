@@ -196,8 +196,9 @@ to deal with them. They'll want to be prepared in case there's an emergency,
 and they should be able to recognize changes in your children's normal behavior.
 
 Player safety also includes vetting our volunteers with in-depth background checks
-and training them to recognize abuse. Please see our [Background
-Checks &amp; Training]({% link _pages/coaches.md %}) page for more information.
+and training them to recognize abuse. Our [Coach Registration
+Guide]({% link _pages/coachreg.md %}) spells out what every coach and helper has
+to complete before working with our players.
 
 ### Concussion Awareness
 
