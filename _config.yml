@@ -77,6 +77,13 @@ exclude:
   - '**/Makefile'
   - '.*.swp'
   - '.*.swo'
+  # Developer docs, not site content. These must stay excluded: the
+  # github-pages gem force-loads jekyll-optional-front-matter, which turns
+  # every root .md into a rendered page -- so CLAUDE.md's Liquid examples get
+  # parsed as real tags and fail the build. They'd also be publicly readable.
+  - CLAUDE.md
+  - PHASES.md
+  - .claude
 
 # # Your social accounts.
 #social:
