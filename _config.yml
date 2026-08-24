@@ -40,14 +40,18 @@ source_url: https://github.com/oshaughnessy/maysl.soccer/
 # theme: jekyll-theme-persephone
 # remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: erlzhang/jekyll-theme-persephone
-remote_theme: mmistakes/minimal-mistakes@4.28.1
+# The theme comes from the bundled gem, so Gemfile.lock is the single source of
+# its version. This used to be `remote_theme:` because the old GitHub Pages
+# builder ran its own gemset and couldn't see ours; now that Actions builds with
+# `bundle exec`, both local and CI resolve the theme the same way -- and there's
+# no second copy of the version to drift out of sync.
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-redirect-from
 
