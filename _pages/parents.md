@@ -13,8 +13,8 @@ Welcome, parents! Here's what you need to know to get your kids on the field.
 | Jerseys      | included for clinic players; ${{ site.data.season.fees.jersey }} in other divisions if you need one |
 | Season       | games Saturdays at Yosemite High School, {{ site.data.season.game_days | first | date: "%b %-d" }} to the weekend before Thanksgiving |
 | Practices    | mid-week, at your area's school field |
-| You provide  | cleats or athletic shoes, shin guards, tall socks, black shorts |
-| No jewelry   | of any kind, including new piercings &mdash; no exceptions |
+| You provide  | cleats or athletic shoes, [shin guards](#equipment), tall socks, black shorts |
+| No jewelry   | of any kind, including [new piercings](#jewelry) &mdash; no exceptions |
 | Questions    | your [area rep](/contact/) |
 {: .quick-facts}
 

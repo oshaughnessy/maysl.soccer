@@ -12,8 +12,8 @@ elsewhere both have something valuable to bring.
 | Who can coach | any parent or volunteer &mdash; no experience needed |
 | To sign up    | talk to your [area rep](/contact/), then work through the [Coach Registration Guide]({% link _pages/coachreg.md %}) |
 | Requirements  | a background check, two online courses, and a one-time Live Scan |
-| Play time     | every player plays at least half of every game |
-| Leading big   | at +3 goals, level the playing field; keep the margin under +5 |
+| Play time     | every player plays [at least half of every game](#play-time) |
+| Leading big   | at +3 goals, [level the playing field](#lead-limits); keep the margin under +5 |
 | Practices     | mid-week &mdash; your area rep sets fields and times |
 | Questions     | your [area rep](/contact/) |
 {: .quick-facts}

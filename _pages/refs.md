@@ -14,9 +14,9 @@ for our younger age groups.
 | Arrive      | 30 minutes before kickoff |
 | Bring       | whistle, watch, large coin, red & yellow cards, pen |
 | Wear        | yellow jersey, black shorts, socks & shoes |
-| You'll earn | $20&ndash;$45 per game, by age group |
+| You'll earn | [$20&ndash;$45 per game](#pay), by age group |
 | Assignments | emailed weekly &mdash; **Confirm each Thursday** |
-| Minimum age | 13 and up, and older than the players |
+| Minimum age | [13 and up](#who-can-ref), and older than the players |
 | Questions   | [Kay Emmert](mailto:kayemmert@yahoo.com), ref coordinator |
 {: .quick-facts}
 
