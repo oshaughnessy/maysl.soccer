@@ -7,8 +7,6 @@ permalink: /contact/
 
 ![image-right](/files/maysl-logo.png){: .align-right}
 
-League Registrar: [Kay Emmert](mailto:kayemmert@yahoo.com)
-
 Teams are built around schools, so find your child's school below. Your area
 rep is the best first stop for questions about teams, practices, and fields.
 
@@ -21,8 +19,10 @@ rep is the best first stop for questions about teams, practices, and fields.
 | Rivergold <br>(Coarsegold) | [Loria Fox](mailto:loriar@gmail.com) |
 | Wasuma <br>(Ahwahnee) | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
 
-Home schooling, or at a school that isn't listed?
+Home schooling or at a school that isn't listed?
 Go by the town you live in and your rep will sort it out.
+
+You can also reach out to our league registrar, [Kay Emmert](mailto:kayemmert@yahoo.com)
 
 ## Mailing Address
 
