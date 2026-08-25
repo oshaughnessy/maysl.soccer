@@ -109,6 +109,9 @@ exclude:
   - .claude
   # GA4 snapshots kept for comparison over time -- see analytics/README.md.
   - analytics
+  # Source documents we consult but don't publish -- see reference/README.md.
+  # Files meant to be linked from pages go in files/ instead.
+  - reference
 
 # # Your social accounts.
 #social:

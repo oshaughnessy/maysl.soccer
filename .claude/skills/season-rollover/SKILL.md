@@ -34,9 +34,11 @@ page](https://www.yosemiteusd.com/apps/pages/index.jsp?uREC_ID=4377220&type=d&pR
 YUSD publishes through BoardDocs, which serves a viewer rather than the file, so
 that one usually needs downloading by hand.
 
-The extraction below is for the Bass Lake PDF. WebFetch can't read the Google
-Drive viewer, and `pdftoppm` isn't installed on this machine, so pull the text
-out of the PDF streams directly:
+Save each year's PDF into `reference/calendars/` as
+`<school-year>-<district>.pdf` so it can be re-read later without hunting for
+the link again. `reference/README.md` has the download command and a reader
+that works without a PDF viewer -- use that rather than the copy below, which
+is kept only so this page reads on its own.
 
 ```sh
 curl -sL "https://drive.google.com/uc?export=download&id=<FILE_ID>" -o cal.pdf
