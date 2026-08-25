@@ -12,11 +12,11 @@ rep is the best first stop for questions about teams, practices, and fields.
 
 | School | Rep |
 |--------|-----|
-| Coarsegold | [Jana Smysor](mailto:jsoccer57@yahoo.com) |
+| Coarsegold Elementary      | [Jana Smysor](mailto:jsoccer57@yahoo.com) |
+| Rivergold <br>(Coarsegold) | [Loria Fox](mailto:loriar@gmail.com) |
 | Glacier, Mountain Home, Oak Creek, Oakhurst Elementary <br>(Oakhurst, Bass Lake) | [Karen Wood](mailto:karenjwood55@gmail.com) |
 | Minarets, Spring Valley <br>(O'Neals) | [Kim Dixon](mailto:kimraedixon@gmail.com) |
 | North Fork | [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com) |
-| Rivergold <br>(Coarsegold) | [Loria Fox](mailto:loriar@gmail.com) |
 | Wasuma <br>(Ahwahnee) | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
 
 Home schooling or at a school that isn't listed?
