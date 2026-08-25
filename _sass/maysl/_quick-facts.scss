@@ -16,8 +16,11 @@
      | Bring  | whistle, watch, large coin |
      {: .quick-facts}
 
-   Scoped under .page__content and matched as table.quick-facts so it
-   outweighs the theme's bare `table`/`td` rules in _tables.scss.
+   Matched as `table.quick-facts` with no wrapper prefix. The theme's rules in
+   _tables.scss are bare `table` and `td` selectors, so the class alone already
+   outweighs them -- and not naming a wrapper means this works anywhere a
+   .quick-facts table appears (content pages, the home page's .archive, or
+   wherever it lands next) without editing this file.
    ========================================================================== */
 
 /* Divider between facts. Mixed from $primary-color to stay in key with the
@@ -25,7 +28,7 @@
    and would rule the box in faint pink. */
 $quick-facts-rule: mix($primary-color, $background-color, 20%) !default;
 
-.page__content table.quick-facts {
+table.quick-facts {
   display: table;
   table-layout: auto;
   width: 100%;
@@ -92,7 +95,7 @@ $quick-facts-rule: mix($primary-color, $background-color, 20%) !default;
    into a sliver of a column. The divider moves to the value cell so each
    label/value pair still reads as one unit. */
 @media screen and (max-width: 37.5em) {
-  .page__content table.quick-facts {
+  table.quick-facts {
     padding: 0.4em 1em;
 
     td {

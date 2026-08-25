@@ -1,0 +1,104 @@
+{% comment %}
+  The home page's "what's happening now" block. Renders as a .quick-facts card
+  chosen by `phase` in _data/season.yml, so the front door answers the question
+  that matters at this point in the year without anyone editing it.
+
+  39% of all sessions land on the home page and its traffic is flat year-round,
+  so this is the highest-reach surface on the site.
+
+  The `season` phase derives everything from game_days: which weekend is next,
+  whether it's today, and how far into the season we are. Same walk as
+  _includes/schedule.html.
+
+  No parameters.
+{% endcomment %}
+
+{% assign s = site.data.season %}
+{% assign games = s.game_days %}
+{% assign now_s = 'now' | date: '%s' | plus: 0 %}
+
+{% comment %} Locate the current or next game weekend. {% endcomment %}
+{% assign game_index = 0 %}
+{% assign game_date = '' %}
+{% assign is_today = false %}
+{% for game in games %}
+  {% assign opens_s = game | date: '%s' | plus: 0 %}
+  {% assign closes_s = opens_s | plus: 86400 %}
+  {% if game_index == 0 and now_s < closes_s %}
+    {% assign game_index = forloop.index %}
+    {% assign game_date = game %}
+    {% if now_s >= opens_s %}{% assign is_today = true %}{% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign first_game = games | first %}
+{% assign last_game = games | last %}
+{% assign total_games = games | size %}
+
+{% comment %}
+  Wrap-up doesn't wait for the last whistle. From mid-October on, picture day
+  has passed and parents are between their own sports seasons, so the season
+  block starts promoting the adult league while games are still being played --
+  rather than waiting for a phase flip that would come too late.
+
+  Driven by a date, not a count of remaining games: the fall-break skip means
+  "the last four game days" lands on Oct 31, well past when we want to start.
+{% endcomment %}
+{% assign promo_s = s.adult.promo_starts | date: '%s' | plus: 0 %}
+{% assign adult_signups_s = s.adult.signups_open | date: '%s' | plus: 0 %}
+{% assign is_late_season = false %}
+{% if now_s >= promo_s %}{% assign is_late_season = true %}{% endif %}
+{% assign adult_signups_live = false %}
+{% if now_s >= adult_signups_s %}{% assign adult_signups_live = true %}{% endif %}
+
+<table class="quick-facts">
+<tbody>
+{% case s.phase %}
+
+{% when 'signup' %}
+  <tr><td>Signups</td><td><strong>Open now</strong> for players, coaches, and referees</td></tr>
+  <tr><td>Season</td><td>games start {{ first_game | date: "%b %-d" }}, Saturdays at Yosemite High School</td></tr>
+  <tr><td>Cost</td><td>${{ s.fees.standard }} per player; the U4&ndash;U5 clinic is ${{ s.fees.clinic }}</td></tr>
+  <tr><td>Deadlines</td><td>late July for travel teams, late August for local teams</td></tr>
+
+{% when 'preseason' %}
+  <tr><td>Right now</td><td><strong>Teams are forming.</strong>{% if s.registration_open %} Late signups still welcome.{% endif %}</td></tr>
+  <tr><td>Practices</td><td>start the week of {{ s.dates.practices_start | date: "%b %-d" }} &mdash; your coach will be in touch</td></tr>
+  <tr><td>First games</td><td>{{ first_game | date: "%b %-d" }}, Saturdays at Yosemite High School</td></tr>
+
+{% when 'season' %}
+  {% if game_index > 0 %}
+    <tr><td>{% if is_today %}Games today{% else %}Next games{% endif %}</td>
+        <td><strong>{{ game_date | date: "%A, %b %-d" }}</strong> &mdash; game day {{ game_index }} of {{ total_games }}</td></tr>
+  {% else %}
+    <tr><td>Season</td><td>the {{ s.year }} season has wrapped up &mdash; thanks for a great year!</td></tr>
+  {% endif %}
+  <tr><td>Where</td><td>the lower field behind Yosemite High School</td></tr>
+  <tr><td>Schedules</td>
+      <td>{% if s.schedules_posted %}by division on the <a href="/schedules/">Schedules page</a>{% else %}coming soon &mdash; watch the <a href="/news/">News</a> page{% endif %}</td></tr>
+  {% if is_late_season and game_index > 0 %}
+    <tr><td>Parents next</td>
+        <td>Your turn after this &mdash; <a href="/adult/">winter adult soccer</a>
+            signups open {{ s.adult.signups_open | date: "%b %-d" }}, first games
+            {{ s.adult.first_game | date: "%b %-d" }}</td></tr>
+  {% endif %}
+  <tr><td>Last games</td><td>{{ last_game | date: "%b %-d" }}, the weekend before Thanksgiving</td></tr>
+
+{% when 'wrapup' %}
+  <tr><td>That's a wrap</td><td><strong>The {{ s.year }} season is complete.</strong> Thank you to our players, coaches, referees, and volunteers.</td></tr>
+  <tr><td>Photos</td><td>see <a href="/pictures/">Picture Day</a> for this season's team and player pictures</td></tr>
+  <tr><td>Adult league</td>
+      <td>{% if adult_signups_live %}<strong><a href="/adult/">Signups are open now</a></strong> &mdash; teams form over December, first games {{ s.adult.first_game | date: "%b %-d" }}{% else %}<a href="/adult/">Winter adult soccer</a> signups open {{ s.adult.signups_open | date: "%b %-d" }} &mdash; grab a team over the break{% endif %}</td></tr>
+  <tr><td>Then</td><td>spring travel, March to June &mdash; watch the <a href="/news/">News</a> page</td></tr>
+
+{% when 'offseason' %}
+  <tr><td>Adult league</td>
+      <td><a href="/adult/">Winter adult soccer</a> at Yosemite High School &mdash;
+          {% if now_s >= adult_signups_s %}signups are open, first games {{ s.adult.first_game | date: "%b %-d" }}{% else %}signups open {{ s.adult.signups_open | date: "%b %-d" }}{% endif %}</td></tr>
+  <tr><td>Travel teams</td><td>spring season runs March to June</td></tr>
+  <tr><td>Next fall</td><td>signups open in June &mdash; watch the <a href="/news/">News</a> page</td></tr>
+
+{% endcase %}
+  <tr><td>Questions</td><td>your <a href="/contact/">area rep</a></td></tr>
+</tbody>
+</table>

@@ -16,6 +16,8 @@ header:
 
 Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the central Sierra region of California, just south of Yosemite National Park.
 
+{% include season-status.html %}
+
 <div class="feature-cards">
   {% include season-card.html %}
 </div>

@@ -59,6 +59,16 @@ game_days:
   - "2026-11-14"
   - "2026-11-21"
 
+# Winter adult league. The signup window is tight, so the home page primes
+# people well before it opens: from `promo_starts` (mid-October, while the youth
+# season is still running and parents are between their own sports seasons),
+# through signups the Monday after Thanksgiving, teams forming over December,
+# and first games the second weekend of January.
+adult:
+  promo_starts:  "2026-10-10 PDT"   # start advertising on the home page
+  signups_open:  "2026-11-30 PST"   # Monday after Thanksgiving and Black Friday
+  first_game:    "2027-01-09 PST"   # 2nd weekend of January
+
 # Player registration fees in whole dollars, adjusted annually. Rendered with
 # a "$" by the pages that use them, so keep these as bare numbers.
 fees:

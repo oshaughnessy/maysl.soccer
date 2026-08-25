@@ -745,6 +745,12 @@ h4.section-header i {
   position: relative;
   z-index: 2;
   pointer-events: auto;
+  /* The home page's main call to action, on the page 39% of visitors land on
+     and mostly from phones -- so hold the 44px minimum tap target here rather
+     than only at the mobile breakpoint, where it measured 42px. */
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
 }
 
 .feature-cards {
