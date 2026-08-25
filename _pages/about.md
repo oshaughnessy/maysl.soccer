@@ -11,11 +11,12 @@ We run soccer for youth ages 3-18 in the central Sierra region of California,
 just south of Yosemite National Park.
 
 Our players come from Ahwahnee, Bass Lake, Coarsegold, North Fork, Oakhurst,
-O'Neals, and Spring Valley. That covers the school communities at Wasuma,
-Rivergold, Spring Valley, Oakhurst Elementary, Oak Creek Intermediate, North
-Fork, Yosemite High, and Minarets.
+and O'Neals.
 
-Each area has its own [rep](/contact/) &mdash; they're the best first stop for
+Teams are built around schools rather than towns, and that's where practices
+are held: Wasuma, Coarsegold, Rivergold, Spring Valley, North Fork, Oakhurst
+Elementary, Oak Creek Intermediate, Yosemite High, and Minarets. Each school
+has its own [area rep](/contact/) &mdash; they're the best first stop for
 questions about your player's team, practices, or fields.
 
 [MAYSL Constitution and By-Laws](/files/maysl-by-laws.pdf)

@@ -16,12 +16,14 @@ permalink: /contact/
 
 League Registrar: [Kay Emmert](mailto:kayemmert@yahoo.com)
 
-For most questions, please reach out to the area representative
-for the location your child is playing in:
+Teams are built around schools, so find your child's school below. Your area
+rep is the best first stop for questions about teams, practices, and fields.
 
-* Ahwahnee: [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org)
-* Coarsegold: Jana Smysor
-* Rivergold: [Loria Fox](mailto:loriar@gmail.com)
-* North Fork: [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com)
-* Oakhurst and Bass Lake: [Karen Wood](mailto:karenjwood55@gmail.com)
-* Spring Valley and O'Neals: [Kim Dixon](mailto:kimraedixon@gmail.com)
+| School | Area | Rep |
+|--------|------|-----|
+| Wasuma | Ahwahnee | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
+| Coarsegold | Coarsegold | Jana Smysor |
+| Rivergold | Coarsegold | [Loria Fox](mailto:loriar@gmail.com) |
+| North Fork | North Fork | [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com) |
+| Oakhurst Elementary, Oak Creek | Oakhurst, Bass Lake | [Karen Wood](mailto:karenjwood55@gmail.com) |
+| Spring Valley, Minarets | O'Neals | [Kim Dixon](mailto:kimraedixon@gmail.com) |
