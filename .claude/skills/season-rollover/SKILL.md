@@ -15,10 +15,28 @@ See `PHASES.md` for what each `season.yml` field drives day to day.
 
 The scheduling rule is: **play the first weekend of a break, skip the last.**
 
+MAYSL families span three districts, but only two govern the schedule:
+
+| District | Schools | Governs the schedule? |
+|----------|---------|----------------------|
+| Bass Lake JUESD | Wasuma, Oakhurst Elementary, Oak Creek | **yes** |
+| Yosemite Unified | Coarsegold, Rivergold, Yosemite High | **yes** |
+| Chawanakee Unified | Spring Valley, Minarets, North Fork | no |
+
+BLSD and YUSD usually align on breaks; we schedule to them. Chawanakee often
+differs, and we don't follow it. **If BLSD and YUSD disagree, stop and ask** --
+that's a league decision, not something to infer.
+
 Break dates come from the [Bass Lake JUESD calendar
 page](https://www.basslakeschooldistrict.com/29343_2), which links a Google Drive
-PDF. WebFetch can't read the Drive viewer, and `pdftoppm` isn't installed on this
-machine, so extract the text directly:
+PDF, and the [YUSD calendar
+page](https://www.yosemiteusd.com/apps/pages/index.jsp?uREC_ID=4377220&type=d&pREC_ID=2580568).
+YUSD publishes through BoardDocs, which serves a viewer rather than the file, so
+that one usually needs downloading by hand.
+
+The extraction below is for the Bass Lake PDF. WebFetch can't read the Google
+Drive viewer, and `pdftoppm` isn't installed on this machine, so pull the text
+out of the PDF streams directly:
 
 ```sh
 curl -sL "https://drive.google.com/uc?export=download&id=<FILE_ID>" -o cal.pdf
@@ -82,6 +100,10 @@ schedules_posted: false
 dates:
   practices_start: "2027-08-23 PDT"   # Monday of the week rec practices begin
 game_days: [ ... from step 2 ... ]
+adult:                              # winter league; tight signup window
+  promo_starts:  "2027-10-09 PDT"   # start advertising mid-October, mid-season
+  signups_open:  "2027-11-29 PST"   # Monday after Thanksgiving and Black Friday
+  first_game:    "2028-01-08 PST"   # 1st or 2nd weekend of January
 fees:
   clinic: 90     # U4-U5; includes a jersey
   standard: 115
