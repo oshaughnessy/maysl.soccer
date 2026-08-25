@@ -15,12 +15,55 @@ gcloud auth application-default login \
 Writes two date-stamped TSVs. Old snapshots stay — the point is comparison over
 time, so don't delete them.
 
-| File | Columns |
-|------|---------|
-| `<date>-read-through.tsv` | path, views, reached_90pct, read_through_pct |
-| `<date>-pages-by-month.tsv` | month, path, views |
+| File | Source | Columns |
+|------|--------|---------|
+| `<date>-read-through.tsv` | GA4 | path, views, reached_90pct, read_through_pct |
+| `<date>-pages-by-month.tsv` | GA4 | month, path, views |
+| `<date>-search-queries.tsv` | Search Console | query, clicks, impressions, ctr_pct, avg_position |
+| `<date>-search-pages.tsv` | Search Console | page, clicks, impressions, ctr_pct, avg_position |
 
-Property `330581274`, quota project `maysl-analytics-20260823`.
+GA4 property `330581274`, quota project `maysl-analytics-20260823`, Search
+Console domain property `sc-domain:maysl.soccer`.
+
+## Baseline: search, 2026-08-25
+
+The first Search Console pull, covering Apr 2025 (when the property was
+verified) onward. GA4 can say a visit came from organic search; only this says
+what was typed.
+
+**84% of search clicks are people who already know us** &mdash; 385 of 457 from
+"maysl", "mountain area youth soccer", and variants. Discovery is the other 72.
+
+Shown often, rarely clicked:
+
+| Query | Impressions | CTR | Position |
+|-------|-------------|-----|----------|
+| soccer game length by age | 278 | 0.0% | 6.8 |
+| mountain soccer | 121 | 10.7% | 9.9 |
+| oakhurst soccer | 55 | 7.3% | 6.7 |
+| u11 soccer half length | 41 | 0.0% | 13.0 |
+
+Converting well but barely seen:
+
+| Query | Impressions | CTR | Position |
+|-------|-------------|-----|----------|
+| youth soccer leagues near me | 14 | 92.9% | 3.0 |
+| youth soccer near me | 14 | 71.4% | 2.9 |
+
+Two things worth knowing before acting on this:
+
+`/rules/` draws the most impressions of any page &mdash; 9,756 &mdash; and 20
+clicks. It's ranking for a long tail of generic youth-soccer rule questions from
+everywhere ("9v9 game length", "do u10 play offside", "12u soccer field
+dimensions"), where the biggest single query has 13 impressions. Those searchers
+aren't our constituency and can't be served by a league in Oakhurst, so this is
+mostly a curiosity rather than an opportunity. The division table does answer
+those questions well, if ranking ever improves on its own.
+
+The local queries are the real gap. "oakhurst soccer" sits at 7.3% CTR from
+position 6.7, and the "near me" queries convert at 71&ndash;93% but are shown
+only 14 times. Meta descriptions naming the towns went in on 2026-08-24, so the
+next pull is the first that can show whether that moved anything.
 
 ## Baseline: 2026-08-24
 
