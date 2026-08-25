@@ -30,9 +30,9 @@ email: shaug-maysl@wumpus.org
 # it under ~160 characters or Google truncates it. The town names matter: local
 # searches are for "youth soccer oakhurst", not for the league's name.
 description: >-
-  Youth soccer for ages 3-18 in Oakhurst, Coarsegold, North Fork, and the
-  central Sierra, just south of Yosemite. Fall recreation leagues and travel
-  teams.
+  Youth soccer for ages 3-18 near Oakhurst, Coarsegold and North Fork, just
+  south of Yosemite. Fall recreation and travel teams, plus adult coed winter
+  soccer.
 #author: O'Shaughnessy Evans
 # the subpath of your site, e.g. /blog
 baseurl: ""
@@ -134,6 +134,13 @@ logo: /files/maysl-logo.png
 # rss: "/feed.xml"
 
 minimal_mistakes_skin: maysl-summer-2026
+
+# Google Search Console verification. Paste the token from the "HTML tag"
+# method (just the content value, not the whole tag) and the theme renders the
+# meta tag for us. A DNS TXT record works too and covers the whole domain --
+# either is fine, this one is just easier to keep in version control.
+# Search Console is where search queries live; GA4 doesn't report them.
+google_site_verification:
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#seo-social-sharing-and-analytics-settings
 analytics:

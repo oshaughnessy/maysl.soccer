@@ -1,6 +1,8 @@
 ---
 nav_title: Adult
 title: Adult Soccer <i class="fas fa-user-group" aria-hidden="true"></i>
+description: >-
+  Coed adult soccer for the Oakhurst area, 18 and over. Eight weeks of casual 7v7 to 9v9 on Saturdays at Yosemite High School. Bring a team or join one.
 permalink: /adult/
 toc: true
 toc_h_max: 1
