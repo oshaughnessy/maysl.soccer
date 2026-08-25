@@ -12,14 +12,17 @@ League Registrar: [Kay Emmert](mailto:kayemmert@yahoo.com)
 Teams are built around schools, so find your child's school below. Your area
 rep is the best first stop for questions about teams, practices, and fields.
 
-| School | Area | Rep |
-|--------|------|-----|
-| Coarsegold | Coarsegold | [Jana Smysor](mailto:jsoccer57@yahoo.com) |
-| North Fork | North Fork | [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com) |
-| Oakhurst Elementary, Oak Creek | Oakhurst, Bass Lake | [Karen Wood](mailto:karenjwood55@gmail.com) |
-| Rivergold | Coarsegold | [Loria Fox](mailto:loriar@gmail.com) |
-| Spring Valley, Minarets | O'Neals | [Kim Dixon](mailto:kimraedixon@gmail.com) |
-| Wasuma | Ahwahnee | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
+| School | Rep |
+|--------|-----|
+| Coarsegold | [Jana Smysor](mailto:jsoccer57@yahoo.com) |
+| Glacier, Mountain Home, Oak Creek, Oakhurst Elementary <br>(Oakhurst, Bass Lake) | [Karen Wood](mailto:karenjwood55@gmail.com) |
+| Minarets, Spring Valley <br>(O'Neals) | [Kim Dixon](mailto:kimraedixon@gmail.com) |
+| North Fork | [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com) |
+| Rivergold <br>(Coarsegold) | [Loria Fox](mailto:loriar@gmail.com) |
+| Wasuma <br>(Ahwahnee) | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
+
+Home schooling, or at a school that isn't listed? Go by the town you live in
+&mdash; the areas in parentheses above &mdash; and your rep will sort it out.
 
 ## Mailing Address
 

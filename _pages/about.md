@@ -14,10 +14,13 @@ Our players come from Ahwahnee, Bass Lake, Coarsegold, North Fork, Oakhurst,
 and O'Neals.
 
 Teams are built around schools rather than towns, and that's where practices
-are held: Wasuma, Coarsegold, Rivergold, Spring Valley, North Fork, Oakhurst
-Elementary, Oak Creek Intermediate, Yosemite High, and Minarets. Each school
-has its own [area rep](/contact/) &mdash; they're the best first stop for
-questions about your player's team, practices, or fields.
+are held: Coarsegold, Glacier, Minarets, Mountain Home, North Fork, Oak Creek
+Intermediate, Oakhurst Elementary, Rivergold, Spring Valley, Wasuma, and
+Yosemite High. Home-schooled players are welcome too &mdash; go by the town you
+live in.
+
+Each school has its own [area rep](/contact/), and they're the best first stop
+for questions about your player's team, practices, or fields.
 
 [MAYSL Constitution and By-Laws](/files/maysl-by-laws.pdf)
 
