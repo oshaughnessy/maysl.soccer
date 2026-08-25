@@ -12,7 +12,7 @@ MAYSL Frequently Asked Questions
 {: .faq-question .faq-item}
 
 Recreation-league games are on Saturdays, U14 travel-league games are on Saturdays, U16+ travel is on Sundays. The seasons are typically 9-10 games.
-The rec league usually runs from mid-September until the weekend before Thanksgiving. We play the first weekend of Fall Break and skip the last. The travel league usually starts and ends a week before the rec league, but starts practicing about a month before the rec league.
+The rec league usually runs from mid-September until the weekend before Thanksgiving. We play the first weekend of Fall Break and skip the last. The travel league usually starts and ends games a week before the rec league, but starts practicing about a month prior.
 {: .faq-answer}
 
 Practices are mid-week. Many of the U4-U6 teams only practice at the beginning of the season. U8 often practice one day a week, and U10+ typically practice 2 times a week. Each coach decides his or her team's practice times and locations.
