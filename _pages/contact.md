@@ -20,8 +20,8 @@ For most questions, please reach out to the area representative
 for the location your child is playing in:
 
 * Ahwahnee: [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org)
-* Coarsegold: Open Position!
+* Coarsegold: Jana Smysor
 * Rivergold: [Loria Fox](mailto:loriar@gmail.com)
-* Oakhurst: [Karen Wood](mailto:karenjwood55@gmail.com)
 * North Fork: [Ciara Paquette](mailto:ciaranicolekirkland@gmail.com)
-* Spring Valley: [Kim Dixon](mailto:kimraedixon@gmail.com)
+* Oakhurst and Bass Lake: [Karen Wood](mailto:karenjwood55@gmail.com)
+* Spring Valley and O'Neals: [Kim Dixon](mailto:kimraedixon@gmail.com)
