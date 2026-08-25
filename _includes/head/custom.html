@@ -27,6 +27,13 @@
      is more specific than the plain Organization the theme emits from
      site.social; both can coexist and Google prefers the richer one.
 
+     areaServed is for places our families live, so it lists towns rather than
+     schools -- Rivergold and Wasuma are school names within Coarsegold and
+     Ahwahnee, and YLP is within Coarsegold. Spring Valley is spelled out with
+     the county because the much larger Spring Valley near San Diego would
+     otherwise be the likelier match. Yosemite High School is where games are
+     played, so it belongs in `location`, not areaServed.
+
      Keep this in sync with /about/ and /contact/ if the towns or address
      change. -->
 <script type="application/ld+json">
@@ -53,8 +60,21 @@
     { "@type": "Place", "name": "Coarsegold, California" },
     { "@type": "Place", "name": "North Fork, California" },
     { "@type": "Place", "name": "Ahwahnee, California" },
-    { "@type": "Place", "name": "Bass Lake, California" }
+    { "@type": "Place", "name": "Bass Lake, California" },
+    { "@type": "Place", "name": "Spring Valley, Madera County, California" },
+    { "@type": "AdministrativeArea", "name": "Madera County, California" }
   ],
+  "location": {
+    "@type": "Place",
+    "name": "Yosemite High School",
+    "description": "Lower field behind the high school, where MAYSL games are played.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Oakhurst",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  },
   "sameAs": [
     "https://www.facebook.com/mountainyouthsoccer"
   ],
