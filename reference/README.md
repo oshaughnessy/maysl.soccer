@@ -49,4 +49,15 @@ The dated entries come out near the end &mdash; look for `Fall Break`,
 
 | File | Notes |
 |------|-------|
-| `calendars/2026-27-bass-lake-juesd.pdf` | Board approved 12/10/2025. Fall Break Oct 12&ndash;16, so 10/10 is played and 10/17 is skipped. Thanksgiving Break Nov 23&ndash;27. First day Aug 13. |
+| `calendars/2026-27-bass-lake-juesd.pdf` | Board approved 12/10/2025. Fall Break Oct 12&ndash;16, Thanksgiving Break Nov 23&ndash;27, first day Aug 13. |
+| `calendars/2026-27-yosemite-usd.pdf` | Board approved 6/25/2025. **Identical break weeks**: Fall Break Oct 12&ndash;16, Thanksgiving Nov 23&ndash;27, first day Aug 13, last day June 11. |
+
+For 2026-27 the two governing districts agree, which confirms the fall-break
+skip: **10/10 is played, 10/17 is skipped.** Check this again each year rather
+than assuming &mdash; if BLSD and YUSD ever diverge, that's a league decision.
+
+The two PDFs are built differently, and the reader handles both: Bass Lake emits
+an `x-none` marker between text runs that doubles as a record separator, while
+Yosemite fragments text per glyph for kerning, so there's nothing to split on.
+For that shape the reader joins everything and prints a window around each date
+expression instead.

@@ -34,17 +34,44 @@ for m in re.finditer(rb'stream\r?\n(.*?)endstream', data, re.S):
             pass
 
 blob = b"\n".join(streams).decode('latin-1')
-words = [re.sub(r'\\([()\\])', r'\1', c[1:-1])
-         for c in re.findall(r'\((?:\\.|[^()\\])*\)', blob)]
+runs = [re.sub(r'\\([()\\])', r'\1', c[1:-1])
+        for c in re.findall(r'\((?:\\.|[^()\\])*\)', blob)]
+joined = ''.join(runs)
 
-# 'x-none' is the language marker these calendars emit between text runs, so it
-# doubles as a record separator.
-for line in (l.strip() for l in ''.join(words).replace('x-none', '\n').split('\n')):
+def printable(line):
     # Font-encoding tables trail the real text. Left in, they carry control and
     # high-byte characters, grep then treats the stream as binary, and it prints
     # nothing at all -- even for lines that plainly match.
-    if not re.fullmatch(r'[\x20-\x7e]+', line): continue
-    if not re.search(r'[A-Za-z]', line): continue
-    if re.fullmatch(r'\d{1,2}', line) or line in list('SMTWF'): continue
-    print(line)
+    return (re.fullmatch(r'[\x20-\x7e]+', line)
+            and re.search(r'[A-Za-z]', line)
+            and not re.fullmatch(r'\d{1,2}', line)
+            and line not in list('SMTWF'))
+
+# Two shapes of calendar PDF turn up. Bass Lake emits an 'x-none' language
+# marker between text runs, which doubles as a record separator. Yosemite
+# fragments text per-glyph for kerning, so there's nothing to split on -- for
+# those, join everything and show a window around each date expression.
+if 'x-none' in joined:
+    for line in (l.strip() for l in joined.replace('x-none', '\n').split('\n')):
+        if line and printable(line):
+            print(line)
+else:
+    text = re.sub(r'\s+', ' ', joined)
+    MONTH = r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?'
+    DATE = MONTH + r'\s*\d{1,2}(?:\s*-\s*(?:' + MONTH + r'\s*)?\d{1,2})?'
+    seen = set()
+    for m in re.finditer(DATE, text):
+        # a window either side, since the label sometimes leads and sometimes trails
+        lo, hi = max(0, m.start() - 34), m.end() + 34
+        window = text[lo:hi]
+        # keep only windows that carry a word, not just a run of day numbers
+        words = re.findall(r'[A-Za-z]{3,}', window)
+        if not words:
+            continue
+        key = m.group(0)
+        if key in seen:
+            continue
+        seen.add(key)
+        if printable(window):
+            print(f"{m.group(0):22} ...{window}...")
 PY
