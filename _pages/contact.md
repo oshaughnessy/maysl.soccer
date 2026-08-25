@@ -21,8 +21,8 @@ rep is the best first stop for questions about teams, practices, and fields.
 | Rivergold <br>(Coarsegold) | [Loria Fox](mailto:loriar@gmail.com) |
 | Wasuma <br>(Ahwahnee) | [Shelby Riggs](mailto:shelbyriggs04@gmail.com) & [O'Shaughnessy Evans](mailto:shaug-maysl@wumpus.org) |
 
-Home schooling, or at a school that isn't listed? Go by the town you live in
-&mdash; the areas in parentheses above &mdash; and your rep will sort it out.
+Home schooling, or at a school that isn't listed?
+Go by the town you live in and your rep will sort it out.
 
 ## Mailing Address
 
