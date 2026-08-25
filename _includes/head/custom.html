@@ -28,8 +28,12 @@
      site.social; both can coexist and Google prefers the richer one.
 
      areaServed is for places our families live, so it lists towns rather than
-     schools -- Rivergold and Wasuma are school names within Coarsegold and
-     Ahwahnee, and YLP is within Coarsegold. Spring Valley is spelled out with
+     schools. Those are two different axes: parents identify by school
+     ("my kid's at Rivergold"), but a school name doesn't help a search engine
+     resolve geography, and mixing them weakens the markup. Rivergold, Wasuma
+     and Spring Valley are schools within Coarsegold and Ahwahnee, and YLP is
+     within Coarsegold; O'Neals is its own town, where our Minarets families
+     live. The schools are named in prose on /about/ instead. Spring Valley is spelled out with
      the county because the much larger Spring Valley near San Diego would
      otherwise be the likelier match. Yosemite High School is where games are
      played, so it belongs in `location`, not areaServed.
@@ -62,6 +66,7 @@
     { "@type": "Place", "name": "Ahwahnee, California" },
     { "@type": "Place", "name": "Bass Lake, California" },
     { "@type": "Place", "name": "Spring Valley, Madera County, California" },
+    { "@type": "Place", "name": "O'Neals, California" },
     { "@type": "AdministrativeArea", "name": "Madera County, California" }
   ],
   "location": {
