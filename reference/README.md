@@ -31,29 +31,15 @@ that one has to be saved by hand from the browser.
 
 ### Reading a calendar without a PDF viewer
 
-`pdftoppm` isn't installed here, so pull the text out of the PDF streams:
+```sh
+make calendar CAL=reference/calendars/2026-27-bass-lake-juesd.pdf
+```
+
+or `./bin/read-calendar.sh <pdf>`. Pipe it through grep for the dates you want:
 
 ```sh
-python3 - reference/calendars/2026-27-bass-lake-juesd.pdf <<'PY'
-import re, sys, zlib
-data = open(sys.argv[1], 'rb').read()
-texts = []
-for m in re.finditer(rb'stream\r?\n(.*?)endstream', data, re.S):
-    for args in ((), (-15,)):
-        try: texts.append(zlib.decompress(m.group(1), *args)); break
-        except Exception: pass
-blob = b"\n".join(texts).decode('latin-1')
-words = [re.sub(r'\\([()\\])', r'\1', c[1:-1])
-         for c in re.findall(r'\((?:\\.|[^()\\])*\)', blob)]
-for line in (l.strip() for l in ''.join(words).replace('x-none', '\n').split('\n')):
-    # Drop the font-encoding table that trails the real text. Without this the
-    # output carries control and high-byte characters, grep decides the stream
-    # is binary, and it prints nothing even when there is a match.
-    if not re.fullmatch(r'[\x20-\x7e]+', line): continue
-    if not re.search(r'[A-Za-z]', line): continue
-    if re.fullmatch(r'\d{1,2}', line) or line in list('SMTWF'): continue
-    print(line)
-PY
+make calendar CAL=reference/calendars/2026-27-bass-lake-juesd.pdf \
+  | grep -E 'Break|First Day|Labor Day'
 ```
 
 The dated entries come out near the end &mdash; look for `Fall Break`,

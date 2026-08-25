@@ -9,9 +9,14 @@ Static website for the Mountain Area Youth Soccer League (MAYSL), built with Jek
 ## Commands
 
 ```bash
+make              # list every target
 make install      # bundle install
 make build        # jekyll build
 make serve        # jekyll serve with livereload on port 4000
+make check        # build, then static checks: broken links, anchors, orphans
+make analytics    # snapshot GA4 + Search Console into analytics/
+make phase        # show the season phase; PHASE=season to set it
+make calendar     # read a district calendar PDF; CAL=<path>
 make update       # bundle update --all
 make lint         # yamllint _config.yml
 ```
@@ -94,4 +99,6 @@ The old `remote_theme` + `local.yml` + `make local-config` arrangement existed b
 
 ## Deployment
 
-No CI/CD. Build locally with `make build`, then push to the `main` branch � GitHub Pages deploys automatically.
+`.github/workflows/jekyll.yml` builds with `bundle exec jekyll build` and deploys to Pages on every push to `main`, so CI uses this repo's Gemfile and Jekyll version rather than the legacy `github-pages` gem. Run `make check` before pushing.
+
+The workflow pins `ruby-version: '3.4'` because `Gemfile.lock` records Bundler 4, which needs Ruby >= 3.2. `Gemfile.lock` also has to list `x86_64-linux` alongside `arm64-darwin` or `bundle install` refuses on the runner.

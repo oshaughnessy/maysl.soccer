@@ -6,22 +6,33 @@ so `make serve` picks up edits without a restart.
 
 ## The one line you change most
 
+```sh
+make phase              # show the current phase and the options
+make phase PHASE=season # set it, with a checklist of what else to update
+```
+
+That edits one line in `_data/season.yml`:
+
 ```yaml
 phase: preseason
 ```
 
-`phase` selects which card the home page shows, via
-[`_includes/season-card.html`](_includes/season-card.html). It's set by hand on
-purpose: GitHub Pages only rebuilds on push, so a date-computed value would sit
-stale between commits.
+`phase` drives two things on the home page:
+[`_includes/season-status.html`](_includes/season-status.html), the facts block,
+and [`_includes/season-card.html`](_includes/season-card.html), the call to
+action. It's set by hand on purpose: GitHub Pages only rebuilds on push, so a
+date-computed value would sit stale between commits.
 
-| `phase` | Roughly | Home card | Button goes to |
+| `phase` | Roughly | Status block leads with | Card |
 |---|---|---|---|
-| `signup` | Jun–Aug | "Fall Signups!" | `/register/` |
-| `preseason` | late Aug | "Getting Ready for Fall" | `/parents/` |
-| `season` | Sep–Nov | "Games Have Started" / "Find Your Schedule" | `/schedules/` |
-| `wrapup` | Nov–Dec | "Season Wrap-Up" | `/news/` |
-| `offseason` | Dec–May | "Off-Season Soccer" | `/adult/` |
+| `signup` | Jun–Aug | signups open, cost, deadlines | Sign Up for Fall → `/register/` |
+| `preseason` | late Aug | teams forming, practices, first games | New to MAYSL? → `/parents/` |
+| `season` | Sep–Nov | next game day, where, schedules | Game Schedules → `/schedules/` |
+| `wrapup` | Nov–Dec | season complete, photos, adult league | Season News → `/news/` |
+| `offseason` | Dec–May | adult league, spring travel, next fall | Adult Winter Soccer → `/adult/` |
+
+The facts live in the status block and the card carries none of them &mdash; when
+both stated the same dates they drifted apart within a day.
 
 ## The other switches
 
@@ -34,6 +45,9 @@ stale between commits.
 | `fees` | Rendered on `/parents/` and `/registration/` |
 | `register` | The three GotSport buttons |
 | `practices_start` | Monday of the week rec practices begin; rendered as "the week of …" |
+| `adult.promo_starts` | When the season block starts advertising the winter adult league &mdash; mid-October, while games are still on |
+| `adult.signups_open` | Flips the message to "signups are open now" |
+| `adult.first_game` | Named in both the late-season and wrap-up messages |
 
 ## Through the year
 
@@ -72,25 +86,11 @@ Then move the previous season down to "Past Schedules" on
 
 ## Rolling over to a new season
 
-1. **Look up the school district's fall break.** The rule is: *play the first
-   weekend of a break, skip the last.* The break dates come from the
-   [Bass Lake JUESD calendar](https://www.basslakeschooldistrict.com/29343_2).
-2. **Build `game_days`** — every Saturday from opening day through the Saturday
-   before Thanksgiving, minus the skipped one. This list is the single source of
-   truth for the season's shape; opening day is `game_days | first`.
-   The skip has to be written here. It can't be derived from calendar
-   arithmetic, and assuming an unbroken run of weeks put the marker one column
-   too far right for half of the 2026 season.
-3. **`year`, `label`, `tag`** — e.g. `2027`, `"2027/28"`, `2027-season`.
-4. **New GotSport program links** for players, coaches, and referees.
-5. **`fees`** — adjusted annually.
-6. **Two hardcoded copies of `label`** in
-   [`_config.yml`](_config.yml) (the `defaults` sidebar titles, ~lines 159 and
-   179). Front matter and `_config.yml` can't evaluate Liquid, so these can't
-   read from `season.yml`. **Changing `_config.yml` needs a `make serve`
-   restart.**
-7. **Tag that season's posts** `tags: <year>-season …` so they show on the home
-   page.
+Use the `season-rollover` skill &mdash; it has the full checklist, the district
+calendar sources, and the `game_days` generator. The short version: only Bass
+Lake JUESD and Yosemite Unified govern our schedule (not Chawanakee), we play
+the first weekend of a break and skip the last, and the skipped weekend has to
+be written into `game_days` because no arithmetic can infer it.
 
 ## Checking your work
 
