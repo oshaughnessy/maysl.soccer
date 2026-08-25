@@ -84,6 +84,7 @@ The old `remote_theme` + `local.yml` + `make local-config` arrangement existed b
 | `_config.yml` | Jekyll config: URL, theme, skin, analytics (GA4 G-3YQ3FTWMRY), plugins, defaults |
 | `PHASES.md` | How season phases work; annual rollover checklist |
 | `_data/season.yml` | Season phase, game days, fees, registration links, post tag |
+| `analytics/` | GA4 snapshots + `pull.sh` to refresh; excluded from the build |
 | `_data/navigation.yml` | All navigation menus |
 | `_sass/minimal-mistakes/skins/` | Custom color skins |
 | `_includes/feature-card.html` | Card component used on home page |

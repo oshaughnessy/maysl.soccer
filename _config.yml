@@ -101,6 +101,8 @@ exclude:
   - CLAUDE.md
   - PHASES.md
   - .claude
+  # GA4 snapshots kept for comparison over time -- see analytics/README.md.
+  - analytics
 
 # # Your social accounts.
 #social:
