@@ -193,6 +193,11 @@ defaults:
       type: posts
     values:
       layout: single
+      # Breadcrumbs are built from the URL path, so a dated post at
+      # /2022/07/01/x.html yields crumbs linking /2022, /07 and /01 -- and
+      # there are no date archives behind them, so all three 404. Pages get
+      # sensible crumbs (Home / Parents); posts don't.
+      breadcrumbs: false
       read_time: false
       comments: false
       share: true
@@ -206,6 +211,15 @@ defaults:
         nav: signups
         #title: Off-Season
         #nav: off-season
+
+  # schedules/<year>/ pages
+  - scope:
+      path: "schedules"
+    values:
+      # Same breadcrumb problem as posts: crumbs are built from the URL path
+      # without accumulating it, so /schedules/2022/x.html links its middle
+      # crumb to /2022 rather than /schedules/2022 -- and neither exists.
+      breadcrumbs: false
 
 include: ["_pages"]
 

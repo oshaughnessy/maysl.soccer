@@ -35,3 +35,9 @@ theme:
 .PHONY: lint
 lint:
 	yamllint _config.yml
+
+# Static checks over the built site: unrendered Liquid, the {% link %}
+# trailing-slash bug, broken internal links and anchors, and orphan pages.
+.PHONY: check
+check: build
+	./bin/check-site.sh
