@@ -4,9 +4,9 @@
 #   ./bin/read-calendar.sh reference/calendars/2026-27-bass-lake-juesd.pdf
 #   ./bin/read-calendar.sh <pdf> | grep -E 'Break|First Day'
 #
-# pdftoppm isn't installed here, so this inflates the PDF's own streams and
-# pulls the text-showing operators out of them. Good enough for a one-page
-# district calendar; not a general PDF extractor.
+# Uses `pdftotext -layout` when poppler is installed, which keeps the calendar's
+# column structure intact. Falls back to inflating the PDF's own streams, which
+# works on a bare machine but mangles multi-column layout -- see `make deps`.
 set -euo pipefail
 
 PDF="${1:-}"
@@ -16,6 +16,15 @@ if [ -z "$PDF" ] || [ ! -f "$PDF" ]; then
   ls -1 "$(dirname "$0")/../reference/calendars/"*.pdf 2>/dev/null >&2 || echo "  (none yet)" >&2
   exit 1
 fi
+
+if command -v pdftotext >/dev/null 2>&1; then
+  # -layout keeps columns aligned, which matters: these calendars put the dated
+  # entries in a side column beside the month grids.
+  exec pdftotext -layout "$PDF" -
+fi
+
+echo "note: pdftotext not found, using the built-in reader." >&2
+echo "      'make deps' installs poppler, which handles layout far better." >&2
 
 python3 - "$PDF" <<'PY'
 import re, sys, zlib

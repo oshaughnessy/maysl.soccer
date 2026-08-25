@@ -10,6 +10,7 @@ Static website for the Mountain Area Youth Soccer League (MAYSL), built with Jek
 
 ```bash
 make              # list every target
+make deps         # check the command-line tools the scripts need
 make install      # bundle install
 make build        # jekyll build
 make serve        # jekyll serve with livereload on port 4000

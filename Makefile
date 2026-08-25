@@ -9,6 +9,11 @@ help:
 	  | sed 's/^## //' \
 	  | awk -F': ' '{printf "  %-12s %s\n", $$1, $$2}'
 
+## deps: check the command-line tools the scripts here need
+.PHONY: deps
+deps:
+	@./bin/check-deps.sh
+
 ## install: bundle install
 .PHONY: install
 install:
