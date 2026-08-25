@@ -14,7 +14,7 @@ header:
 
 ## Welcome to MAYSL
 
-Mountain Area Youth Soccer League provides youth soccer for ages 3-18 in the central Sierra region of California, just south of Yosemite National Park.
+Youth soccer for ages 3-18 in the central Sierra region of California, just south of Yosemite National Park.
 {: .site-intro}
 
 {% include season-status.html %}
