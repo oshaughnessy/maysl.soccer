@@ -1,6 +1,8 @@
 ---
 nav_title: Rules
 title: MAYSL Modified Laws & Guidelines <i class="fas fa-book" aria-hidden="true"></i>
+description: >-
+  MAYSL playing rules: division formats, game lengths, ball and goal sizes, when offside and heading start, guest players, and game-day expectations.
 permalink: /rules/
 toc: true
 toc_icon: balance-scale

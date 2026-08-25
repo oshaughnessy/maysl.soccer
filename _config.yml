@@ -25,8 +25,14 @@ timezone: America/Los_Angeles
 title: MAYSL
 email: shaug-maysl@wumpus.org
 # Default is your site title.
+# Google shows this as the search-result snippet, and Facebook shows it when
+# someone shares the site (about 1,000 sessions/year arrive from social). Keep
+# it under ~160 characters or Google truncates it. The town names matter: local
+# searches are for "youth soccer oakhurst", not for the league's name.
 description: >-
-  Mountain Area Youth Soccer League
+  Youth soccer for ages 3-18 in Oakhurst, Coarsegold, North Fork, and the
+  central Sierra, just south of Yosemite. Fall recreation leagues and travel
+  teams.
 #author: O'Shaughnessy Evans
 # the subpath of your site, e.g. /blog
 baseurl: ""

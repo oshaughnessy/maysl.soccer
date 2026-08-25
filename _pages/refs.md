@@ -1,5 +1,7 @@
 ---
 title: Referees
+description: >-
+  Referee for MAYSL youth soccer: pay by age group, gear, uniforms, weekly game assignments, and how to get certified through US Soccer.
 permalink: /refs/
 toc: true
 toc_icon: futbol

@@ -1,5 +1,7 @@
 ---
 title: Registration & Signups
+description: >-
+  Register for MAYSL youth soccer. Player fees, signup deadlines, and links for players, coaches, and referees in the Oakhurst and Coarsegold area.
 permalink: /registration/
 toc: false
 toc_icon: trophy

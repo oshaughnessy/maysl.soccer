@@ -1,5 +1,7 @@
 ---
 title: Coach Registration Guide
+description: >-
+  How to become a registered MAYSL coach: GotSport signup, the two required courses, a background check, and a one-time Live Scan.
 permalink: /coachreg/
 toc: true
 toc_icon: trophy

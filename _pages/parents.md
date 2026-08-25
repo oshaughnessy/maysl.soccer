@@ -1,6 +1,8 @@
 ---
 nav_title: Parents
 title: Parents <i class="fas fa-family" aria-hidden="true"></i>
+description: >-
+  What parents need for MAYSL youth soccer: cost, what to buy, league ages and divisions, game days, and the required player safety information.
 permalink: /parents/
 toc: true
 toc_icon: family

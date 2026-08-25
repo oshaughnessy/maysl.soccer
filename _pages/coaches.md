@@ -1,5 +1,7 @@
 ---
 title: Coaches <i class="fas fa-clipboard-user" aria-hidden="true"></i>
+description: >-
+  Volunteer coaching with MAYSL: what the job involves, play time and lead limits, practices, guest players, and how to get registered.
 permalink: /coaches/
 toc: true
 toc_icon: trophy
