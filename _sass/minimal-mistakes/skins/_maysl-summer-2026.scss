@@ -766,6 +766,51 @@ h4.section-header i {
   margin-bottom: 3em;
 }
 
+/* Home page: a shorter hero and a quieter intro line, so the season status
+   block and its call to action both land above the fold. Measured at 1280x900:
+   the hero's default `padding: 3em 0` plus a full-size intro paragraph pushed
+   the card's button 135px below the fold. */
+.layout--home {
+  .page__hero--overlay {
+    padding: 1.25em 0;
+    /* Centre the title in the shorter hero. The theme relies on symmetric
+       padding, but the title carries a bottom margin of its own, which left it
+       28px from the top and 55px from the bottom. Flex ignores that. */
+    display: flex;
+    align-items: center;
+
+    .wrapper {
+      width: 100%;   /* otherwise the flex child shrinks to its content */
+    }
+
+    .page__title {
+      margin-bottom: 0;
+    }
+  }
+
+  /* The welcome line reads as a parenthetical for first-time visitors rather
+     than competing with the status block. 61% of our traffic is returning
+     visitors who don't need the pitch every time. */
+  /* The first heading sits right under the hero, so it doesn't need the 2em
+     top margin the theme gives every h2. */
+  h2:first-of-type {
+    margin-top: 0.75em;
+  }
+
+  .site-intro {
+    /* max(), not a bare 0.8em: the theme scales the root from 16px on phones
+       to 22px on wide screens, so 0.8em alone computed to 12.8px on mobile --
+       under a comfortable reading size, on two-thirds of our traffic. */
+    font-size: max(0.8em, 15px);
+    line-height: 1.5;
+    /* Not $muted-text-color: the skin is imported before the theme's
+       _variables.scss, so only variables the skin defines itself are in scope
+       here. This is the same mix the theme uses for that variable. */
+    color: mix(#fff, $text-color, 25%);
+    margin-bottom: 1.25em;
+  }
+}
+
 /* Reduce hero margin on home page only */
 .layout--home .page__hero {
   margin-bottom: 0;
@@ -784,11 +829,6 @@ h4.section-header i {
 }
 
 
-.page__hero-overlay {
-  background-color: rgba(0, 0, 0, 0.3);
-  padding: 3em 2em;
-  border-radius: 8px;
-}
 
 .page__hero-title {
   font-family: $heading-font-family;
