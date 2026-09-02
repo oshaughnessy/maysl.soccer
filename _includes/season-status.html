@@ -63,8 +63,8 @@
 
 {% when 'preseason' %}
   <tr><td>Right now</td><td><strong>Teams are forming.</strong>{% if s.registration_open %} Late signups still welcome!{% endif %}</td></tr>
-  <tr><td>Practices</td><td>start the week of {{ s.dates.practices_start | date: "%b %-d" }} &mdash; your coach will be in touch</td></tr>
-  <tr><td>First games</td><td>{{ first_game | date: "%b %-d" }}, Saturdays at Yosemite High School</td></tr>
+  <tr><td>First practices</td><td>Week of {{ s.dates.practices_start | date: "%b %-d" }} &mdash; your coach will be in touch</td></tr>
+  <tr><td>First games</td><td>{{ first_game | date: "%b %-d" }}, then Saturdays at Yosemite High School</td></tr>
 
 {% when 'season' %}
   {% if game_index > 0 %}
