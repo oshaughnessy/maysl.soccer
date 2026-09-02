@@ -14,3 +14,8 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# GotSport roster exports and generated contact cards: player PII
+# (names, parent phones/emails, medical notes). Never commit -- public repo.
+contacts/data/
+contacts/cards/
