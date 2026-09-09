@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-redirect-from'
   gem 'jekyll-remote-theme'
+  gem 'jekyll-pdf-embed'
 end
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem

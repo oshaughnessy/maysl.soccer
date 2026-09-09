@@ -73,6 +73,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-pdf-embed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -187,12 +188,12 @@ defaults:
     values:
       layout: single
       sidebar: 
-        #title: Schedules
-        #nav: schedules-by-division
+        - title: Schedules
+          nav: schedules
         # Hardcoded: front matter and _config.yml can't use Liquid, so this
         # can't read `label` from _data/season.yml. Keep the two in sync.
-        title: 2026/27 Signups
-        nav: signups
+        - title: 2026/27 Signups
+          nav: signups
         #title: Off-Season
         #nav: off-season
       toc_sticky: true
@@ -212,12 +213,12 @@ defaults:
       share: true
       related: true
       sidebar: 
-        #title: schedules
-        #nav: schedules-by-division
+        - title: schedules
+          nav: schedules
         # Hardcoded: front matter and _config.yml can't use Liquid, so this
         # can't read `label` from _data/season.yml. Keep the two in sync.
-        title: 2026/27 Signups
-        nav: signups
+        - title: 2026/27 Signups
+          nav: signups
         #title: Off-Season
         #nav: off-season
 
