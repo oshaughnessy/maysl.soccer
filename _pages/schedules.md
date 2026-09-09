@@ -3,7 +3,7 @@ title: Schedules & Fields
 description: >-
   MAYSL game schedules by age division, plus maps for the Yosemite High School game field and practice fields around Oakhurst and North Fork.
 permalink: /schedules/
-toc: true
+toc: false
 toc_icon: calendar-alt
 sidebar:
   nav: schedules
