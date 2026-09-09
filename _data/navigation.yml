@@ -4,14 +4,14 @@ main:
   url: /news/
 - title: Schedules <i class="fa-solid fa-calendar-days"></i>
   url: /schedules/
-- title: Registration
-  url: /registration/
+#- title: Registration
+#  url: /registration/ <i class="fa-solid fa-pen-to-square"></i>
 #- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>
 #  url: /adult/
 - title: FAQ <i class="fas fa-circle-question" aria-hidden="true"></i>
   url: /faq/
   description: Frequently Asked Questions
-- title: Parents <i class="fas fa-family" aria-hidden="true"></i>
+- title: Parents <i class="fa-solid fa-user" aria-hidden="true"></i>
   url: /parents/
   description: For parents
 - title: Coaches <i class="fas fa-clipboard-user" aria-hidden="true"></i>
