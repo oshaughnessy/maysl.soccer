@@ -2,8 +2,8 @@
 main:
 - title: News <i class="fas fa-newspaper" aria-hidden="true"></i>
   url: /news/
-#- title: Schedules <i class="fa-solid fa-calendar-days"></i>
-#  url: /schedules/
+- title: Schedules <i class="fa-solid fa-calendar-days"></i>
+  url: /schedules/
 - title: Registration
   url: /registration/
 #- title: Adult <i class="fas fa-user-group" aria-hidden="true"></i>

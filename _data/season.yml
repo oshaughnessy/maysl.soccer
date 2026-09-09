@@ -83,4 +83,4 @@ register:
   referees: https://system.gotsport.com/programs/174179D24
 
 # Flip to true once the division schedules are posted under /schedules/<year>/.
-schedules_posted: false
+schedules_posted: true
