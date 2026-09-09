@@ -71,11 +71,11 @@ news:
   url: /tags/
 
 signups:
-- title: Players
+- title: "> Players"
   url: /register/
-- title: Coaches
+- title: "> Coaches"
   url: /coachreg/
-- title: Referees
+- title: "> Referees"
   url: /refs/
 
 schedules:
