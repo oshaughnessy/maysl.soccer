@@ -17,6 +17,8 @@ header:
 Youth soccer for ages 3-18 in the central Sierra region of California, just south of Yosemite National Park.
 {: .site-intro}
 
+_We're still taking late signups! We have spaces to fill on some of our teams._
+
 {% include season-status.html %}
 
 <div class="feature-cards">

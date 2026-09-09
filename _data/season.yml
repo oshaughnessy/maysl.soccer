@@ -20,7 +20,7 @@ tag: 2026-season
 #   season    -- games underway                      (Sep-Nov)
 #   wrapup    -- season over, off-season ahead       (Nov-Dec)
 #   offseason -- adult winter league, spring travel  (Dec-May)
-phase: preseason
+phase: season
 
 # Whether we're still taking late registrations. Shown as a note on the
 # preseason home card; set false once rosters are locked.
