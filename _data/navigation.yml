@@ -71,11 +71,11 @@ news:
   url: /tags/
 
 signups:
-- title: "> Players"
+- title: <i class="fas fa-futbol" aria-hidden="true"></i> Players
   url: /register/
-- title: "> Coaches"
+- title: <i class="fas fa-clipboard-user" aria-hidden="true"></i> Coaches
   url: /coachreg/
-- title: "> Referees"
+- title: <i class="fa-solid fa-flag" aria-hidden="true"></i> Referees
   url: /refs/
 
 schedules:
