@@ -91,6 +91,10 @@ schedules:
   url: /schedules/2026/U12.html
 - title: U15
   url: /schedules/2026/U15.html
+- title: U14 Travel
+  url: /schedules/2026/U14.html
+- title: U19 Travel
+  url: /schedules/2026/U19.html
 
 schedules-by-division:
 - title: Boys
