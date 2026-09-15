@@ -21,6 +21,9 @@ March to June every year.
 
 ## {{ site.data.season.year }} Fall Season
 
+<a href="https://system.gotsport.com/org_event/events/57989" class="btn btn--primary">Public Schedule Page</a>
+
+
 Opening Day is {{ site.data.season.game_days | first | date: "%b %-d, %Y" }}.
 
 {% unless site.data.season.schedules_posted %}_Schedule coming soon!_{% endunless %}
