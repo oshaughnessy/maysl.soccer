@@ -84,3 +84,6 @@ register:
 
 # Flip to true once the division schedules are posted under /schedules/<year>/.
 schedules_posted: true
+
+# Get the "Public Schedule Page" link from GotSport's Event Info page
+public_schedule_link: https://system.gotsport.com/org_event/events/57989
