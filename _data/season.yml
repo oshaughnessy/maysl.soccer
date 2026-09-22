@@ -6,7 +6,7 @@
 # At the start of each season, update: year, label, tag, game_days, and the
 # three `register` links. Then flip `phase` as the season progresses.
 
-year:  2026
+year: 2026
 label: "2026/27"
 
 # Posts tagged with this show up on the home page. Every current-season post
@@ -87,3 +87,6 @@ schedules_posted: true
 
 # Get the "Public Schedule Page" link from GotSport's Event Info page
 public_schedule_link: https://system.gotsport.com/org_event/events/57989
+public_schedules:
+  home: https://system.gotsport.com/org_event/events/57989
+  travel: https://system.gotsport.com/org_event/events/53875

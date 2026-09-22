@@ -52,15 +52,22 @@
      so they're 2 higher than otherwise expected. -->
 {% assign schedule_active_week = schedule_active_column | plus: 2 %}
 
-<!--
+{% assign league = page.league | default: "home" }}
+{% assign public_schedule_link = site.data.season.public_schedules[league] %}
+
+{% comment %}
 * current season: {{ site.data.season.tag }}
 * this page: {{ page.tags | join: " " | default: "(untagged)" }}
 * season: {{ games | first }} .. {{ games | last }} ({{ games | size }} game days)
 * marker drawn: {{ draw_marker }}
 * active game day: {{ schedule_active_column }}
--->
+* league: {{ league }}
+* public schedule link: {{ site.data.season.public_schedules[league] }}
+{% endcomment %}
 
-<a href="{{ site.data.season.public_schedule_link }}" class="btn btn--primary">Public Schedule Page</a>
+{% if site.data.season.public_schedules[league] %}
+<a href="{{ site.data.season.public_schedules[league] }}" class="btn btn--primary">Public Schedule Page</a>
+{% endif %}
 
 
 <style>
