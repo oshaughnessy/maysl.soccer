@@ -26,14 +26,14 @@ Laws [2](https://www.theifab.com/laws/latest/the-ball/ "The Ball"),
 [7](https://www.theifab.com/laws/latest/the-duration-of-the-match/ "The Duration of the Match")
 are modified as shown.
 
-| Division | Format | Min players | Game length | Ball | Goal |
-|----------|--------|-------------|-------------|------|------|
-| U4&ndash;U5 | 3v3   | &mdash; | coed, clinic style | 3 | PUGG pop-up goal |
-| U6          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
-| U8          | 5v5   | 4 | 10-minute quarters | 3 | 6'x12' (width x height) |
-| U10         | 7v7   | 5 | 25-minute halves   | 4 | 6.5'x18' |
-| U12         | 9v9   | 6 | 25-minute halves   | 4 | 7'x21' |
-| U14+        | 11v11 | 7 | 35-minute halves   | 5 | 8'x24' |
+| Division    | Format  | Min players | Game length         | Ball  | Goal                    |
+|-------------|---------|-------------|---------------------|-------|-------------------------|
+| U4&ndash;U5 | 3v3-5v5 | n/a         | varies              | 3     | PUGG pop-up goal        |
+| U6          | 5v5     | 4           | 10-minute quarters  | 3     | 6'x12' (width x height) |
+| U8          | 5v5     | 4           | 10-minute quarters  | 3     | 6'x12' (width x height) |
+| U10         | 7v7     | 5           | 25-minute halves    | 4     | 6.5'x18'                |
+| U12         | 9v9     | 6           | 25-minute halves    | 4     | 7'x21'                  |
+| U14+        | 11v11   | 7           | 30/35-minute halves | 5     | 8'x24'                  |
 
 **Min players** is the fewest you can put on the field &mdash; below that, see
 [guest players](#guest-players--team-size) or agree to play short.
@@ -55,13 +55,30 @@ Rules are introduced as players move up:
 
 | Introduced at | Rules that start applying |
 |---------------|---------------------------|
-| U10 | offside, throw-ins, single-player substitutions |
-| U12 | drop-kicks |
-| U15 | heading |
+| U5            | one coach allowed on the field per team
+| U6            | no coaches on the field
+| U8            | no direct goals from goalkeeper
+| U10           | offside, throw-ins, single-player substitutions
+| U12           | drop-kicks
+| U15           | heading
 
-### No Goal-to-Goal Scoring in U8
+### Clinic Exceptions for U5
 
-In U8, we don't allow the goalkeeper to make a goal with a direct kick.
+Our under-5 division is designed to introduce our youngest players to team experiences,
+build familiarity with the beautiful game, and plant the seeds for a love of soccer.
+
+We recognize that it may be our parents' and coaches' first experiences in their roles,
+too, and we want to create an environment that is safe and fun for the families involved.
+
+To help our little players, we allow one coach from each team to be on the field.
+
+### Only players and officials on the field in U6+
+
+From U6 on up, only players and referees may be on the field during games.
+
+### No Goal-to-Goal Scoring in U6-U8
+
+Up through U8, we don't allow the goalkeeper to make a goal with a direct kick.
 The ball must be touched by another player before a legitimate goal can
 be made.
 
