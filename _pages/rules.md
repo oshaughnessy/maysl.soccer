@@ -28,7 +28,7 @@ are modified as shown.
 
 | Division    | Format  | Min players | Game length         | Ball  | Goal                    |
 |-------------|---------|-------------|---------------------|-------|-------------------------|
-| U4&ndash;U5 | 3v3-5v5 | n/a         | varies              | 3     | PUGG pop-up goal        |
+| U4&ndash;U5 | 3v3-5v5 | n/a         | 7-minute quarters   | 3     | PUGG pop-up goal        |
 | U6          | 5v5     | 4           | 10-minute quarters  | 3     | 6'x12' (width x height) |
 | U8          | 5v5     | 4           | 10-minute quarters  | 3     | 6'x12' (width x height) |
 | U10         | 7v7     | 5           | 25-minute halves    | 4     | 6.5'x18'                |
