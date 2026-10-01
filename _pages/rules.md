@@ -74,7 +74,10 @@ To help our little players, we allow one coach from each team to be on the field
 
 ### Only players and officials on the field in U6+
 
-From U6 on up, only players and referees may be on the field during games.
+[Law 3.7](https://www.theifab.com/laws/latest/the-players/#extra-persons-on-the-field-of-play),
+"Extra persons on the field of play", is enforced beginning with U6.
+
+Only players and referees may be on the field during games.
 
 ### No Goal-to-Goal Scoring in U6-U8
 
