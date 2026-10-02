@@ -70,7 +70,8 @@ build familiarity with the beautiful game, and plant the seeds for a love of soc
 We recognize that it may be our parents' and coaches' first experiences in their roles,
 too, and we want to create an environment that is safe and fun for the families involved.
 
-To help our little players, we allow one coach from each team to be on the field.
+To help our little players, we may allow one coach from each team to be on the field
+at game time. Technically, they're serving as game-day facilitators.
 
 ### Only players and officials on the field in U6+
 
