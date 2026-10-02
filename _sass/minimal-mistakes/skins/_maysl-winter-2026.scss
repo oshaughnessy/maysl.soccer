@@ -1159,6 +1159,15 @@ $breakpoint-large: 1024px !default;
   }
 }
 
+/* The painted line's ::after ties the greedy-nav hamburger dropdown's
+   z-index (both 10) and wins because a pseudo-element paints after its
+   element's regular children, so the open dropdown rendered behind the line.
+   Needs the extra class qualifier to out-specificity the theme's own
+   `.masthead__inner-wrap nav { z-index: 10 }`. */
+.masthead__inner-wrap .greedy-nav {
+  z-index: 15;
+}
+
 /* Realistic painted white line across the top of the footer */
 .site-footer,
 .page__footer {
