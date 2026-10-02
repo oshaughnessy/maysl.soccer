@@ -71,7 +71,7 @@ We recognize that it may be our parents' and coaches' first experiences in their
 too, and we want to create an environment that is safe and fun for the families involved.
 
 To help our little players, we may allow one coach from each team to be on the field
-at game time. Technically, they're serving as game-day facilitators.
+at game time. (Technically, they're serving as game-day facilitators.)
 
 ### Only players and officials on the field in U6+
 
