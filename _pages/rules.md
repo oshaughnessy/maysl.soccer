@@ -110,6 +110,9 @@ There is no offside offense if a player receives the ball directly from:
 
 For more details, see our Coaches page on [offside and the build-out line]({% link _pages/coaches.md %}#offside-and-the-build-out-line).
 
+You can also take this free referee's course, [Offside Rule](https://nfhslearn.com/courses/officiating-soccer-offside-rule),
+from the NFHS Learning Center. It's short and gives a nice overview of the offside rule will be enforced.
+
 ### Substitutions in U10+
 
 Player substitutions during a game are only allowed when [the ball is out
