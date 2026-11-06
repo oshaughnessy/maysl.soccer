@@ -14,9 +14,8 @@ Signups are closed for Winter 2026
 
 ## So what's this all about?
 
-Out [2026 _Winter Blast_ Adult League]({% link _pages/adult/2026.md %}) is done!
-
-Look for us to come back with 2027 signups next November!
+[2026]({% link _pages/adult/2026.md %}) was a huge succes!
+Our [2027 _Winter Blast_ Adult League]({% link _pages/adult/2026.md %}) is coming!
 
 <!--
 <div class="feature-cards">
